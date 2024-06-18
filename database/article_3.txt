@@ -1,0 +1,174 @@
+#141: Drex at a crossroads
+Plus: Crypto imports for April up 2x from 2023; Central Bank reveals next steps for crypto regulations
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+Olá pessoal!
+
+Welcome back to Brazil Crypto Report for the week of May 20-24, 2024! I’m on my way to Consensus in Austin. Hope to see some of you there this week!
+
+I’ll be hanging around the Filecoin booth during the main event, moderating a session at the DeAI Day side event on the 30th (which is being hosted by Erik Voorhees’ new Venice.AI project), and co-hosting the ACJR meetup on the 29th ahead of the Coin Center dinner.
+
+BCR is also a community partner for the Latinos in Web3 Meetup on Friday, May 31, which is being hosted by Christian Narvaez and the Web3Familia team.
+
+In other news, I had the honor of participating in the Modular House Brasilia event this past Saturday, hosted by the awesome Modular Crypto team. They’re doing a roadshow around Brazil the rest of the year hosting these meetups in different cities so definitely worth checking one out and supporting them!
+
+🔍What’s in this week’s BCR?
+
+The Central Bank of Brazil is rolling out a second phase of the Drex pilot focused on privacy testing and experimenting with new business cases
+The bank also revealed the next phases in its rollout of a crypto regulatory framework, which will come later in the year
+Imports of cryptocurrencies into Brazil totaled US$1.7 billion in April, doubling the figure recorded in April 2023
+
+Thanks for reading and have a great week everyone!
+
+-AWS
+
+New podcast
+
+This week’s episode is a conversation Web Summit Rio conversation I had with Yat Siu , co-founder and executive chairman of Animoca Brands . Animoca is the premier operator at the intersection of Web3 and culture, and Yat is simply the best in the business at articulating how crypto-native ideas like airdrops, NFTs and memecoins will transform the way brands interact with their customers. There’s a lot of alpha packed into this 20 minute convo so definitely worth a listen!
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Privacy roadblock remains as 1st stage of Drex pilot concludes
+
+The Banco Central do Brasil hosted its fourth Drex Forum event last Wednesday, during which it announced that it would incorporate a new stage into the Drex pilot focused on privacy solutions and new business cases.
+
+The news is not a huge surprise given that the bank began signaling in April that it had hit an impasse on finding an adequate privacy solution that satisfies both technological and legal requirements.
+
+Central Bank official Rogério Lucca explained that the maturity of existing data privacy solutions “does not yet allow us to safely produce a platform at this time.” The bank further affirmed that no testing involving the broader population will be performed until a solution to this problem is found.
+
+The first phase of the pilot will wrap up in the coming months, followed by a comprehensive report on the findings. The second phase is expected to commence in July and will run into the first half of 2025.
+
+Recall that the original timeline was for testing to conclude in May 2024, followed by a gradual rollout to the public.
+
+What to expect in the second stage
+
+The second phase of the Drex pilot will broaden the search for privacy solutions as well as the types of assets, smart contracts and business cases that can be deployed on the platform.
+
+Drex coordinator Fabio Araujo explained that once the first phase concludes the bank will put forth a call for new pilot participants to evaluate and build new use cases on the platform:
+
+“The intention is to bring other types of assets onto the platform and in this way it is necessary for us to bring the regulators of these assets”.
+
+These new use cases could include, but are obviously not limited to, vehicle registrations, CDBs and real estate. Until now, Drex has focused on a limited range of use cases such as tokenized federal bonds and the development of tokenized currency for use by both financial institutions and retail.
+
+Expanded system governance will also be a priority for the second phase. Once a new governance standard has been defined, the Drex pilot will be opened up to new participants, Araujo said. The application window for new participants should be opened during the third quarter of 2024.
+
+Privacy is key
+
+But the main focus of the second phase will be continued privacy testing related to these use cases.
+
+The bank also provided more detail on how the solutions currently in play have been tested:
+
+Anonymous Zether was tested in the context of digital real transfer flows and the purchase and sale of public bonds
+EY’s Starlight was used to test the purchase and sale of public securities
+Parfin’s Rayls (formerly Parchain) was used to test all of the above flows
+
+Clarissa de Souza, coordinator of the Drex project’s technology testing, revealed that the bank recently began testing Microsoft’s ZKP Nova solution:
+
+“Microsoft has invested a lot in implementing this solution and the flows, so we are following the same process of validating the flows, the architecture, the solution, and then moving on to a testing phase with the participants if all these evaluations really demonstrate that it is a tool that is capable of being tested within the Drex pilot.”
+Hard nut to crack
+
+Why has the privacy problem been such a challenge? Parfin CEO Marcos Viriato explained to Valor that a series of multiple complex variables need to be met, such as the scalability of privacy and speed of transactions when they are “hidden”:
+
+“Hyperledger Besu block time is five seconds. If the solution can execute multiple transactions close to this time then it is performing reasonably.”
+
+However, bank officials insist that the privacy roadblock is temporary and a challenge that will be solved. Rafael Bianchini Abreu Paiva , coordinator of financial risk regulation of financial market infrastructure at the Central Bank, explained at an event hosted by Zoop, per Valor:
+
+"It is public, it has already been reported that what Drex got stuck on the issue of secrecy. Does that mean it is unfeasible? No. It is possible to think of solutions that guarantee bank secrecy — the issue is that they take away scale, speed, increase the cost or they are private solutions, which could create problems down the road."
+
+Bianchini reverted to the “blockchain trilemma” which argues that it is impossible to have scalability, security and decentralization:
+
+"The blockchain is extremely secure and decentralized, but it is not scalable. Pix has already had a peak of 2 thousand transactions per second and can handle more than 5 thousand. The blockchain had a peak of 15 transactions per second. While a transaction on Pix takes 1 second. Secondly, on the blockchain it takes an average of 10 minutes.".
+
+While the tokenization elements are functional and a privacy solution seems likely to be found, the delays mean that trying to estimate an exact launch date at this stage is futile.
+
+Mateus Casanova Pereira , head of products and IT at UNICRED (a participant in one of 16 consortia currently operating in the Drex pilot) told Valor:
+
+“There is no way to predict when it will be available to the population. It is not possible to say that we will be with Drex in 2025, it could be until 2026”
+
+Casanova went on to argue that Drex will likely be phased in gradually for use by the general population, whereby use cases can be tested out individually.
+
+“We can tokenize practically anything. The important thing is to have a reason behind it.”
+
+Valor BlockNews Exame Portal do Bitcoin CoinTelegraph Brasil
+
+Brazil imported US$1.7 billion of crypto in April, up 2x YoY
+
+The value of cryptocurrency imports into Brazil totaled US$1.7 billion in April 2024 — double the US$763 million amount recorded in the prior year period.
+
+The figure was down slightly from US$1.8 billion in March, and does not separate out stablecoins from assets like bitcoin or ethereum.
+
+Fernando Rocha, head of the statistics department at the Central Bank of Brazil, explained to Valor that adoption of these assets is growing as people gain more knowledge about the topic:
+
+“Although crypto assets are not exactly new, I would still say that they are gaining market share, it is still something that started not so long ago.”
+
+Portal do Bitcoin
+
+Central Bank outlines regulatory next steps
+
+The Central Bank released the next three phases of its ongoing project to regulate crypto assets though what it calls “infralegal regulation.
+
+The goal is to finalize regulatory proposals by year’s end and then implement them in 2025.
+
+The first phase will be a second public consultation in the second half of the year — whereby the bank puts forth its proposals to the market and public for input. This consultation cycle will focus on establishing general standards for service providers in the crypto sector and an authorization model for their operations.
+
+The second phase deals with the regulation of stablecoins, "especially in the spheres of competence of the Central Bank regarding payments and the foreign exchange market".
+
+The third phase consists of a regulatory framework for virtual asset service providers in the country that seek to provide direct offering, intermediation and custody of crypto assets.
+
+Nagel Lisânias Paulino , an official in the bank’s financial system regulation department, said in a statement:
+
+“The regulation aims to offer minimum requirements for virtual asset service providers to carry out their activities, also dedicating themselves to providing adequate practices when dealing with their customers. The idea is to evolve in the construction of normative acts that will deal with virtual asset service providers, including business and authorization aspects.”
+
+Valor BlockNews Exame CriptoFacil CoinTelegraph Brasil
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷 Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Nubank now allows customers to transfer bitcoin, ether and Solana from their digital wallet to their digital bank account and other external wallets — whether they be unhosted or held on an exchange. According to Thomaz Lysakowski Fortes, CGA® , director of Nubank Cripto, the objective is to give customers more control over the assets they hold:
+
+“This new transfer functionality offers total freedom for our customers to move their assets whenever and however they wish, and at highly competitive rates.” (Valor) (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+Sonica is teaming up with Brasil Bitcoin to launch an asset tokenization platform to easily allow companies and developers to create and distribute new tokens. Sonica CEO Alexandre Adoglio explained:
+
+“The focus is to serve a market that is not currently supported, that is, tokenizers and securitizers that need a technology structure to launch tokens but encounter a series of obstacles both in the infrastructure and on the journey from origination to distribution.” (Valor)
+
+ANBIMA held a public hearing about new rules that managed funds in Brazil to allocate to crypto, with the intention of creating minimum governance rules for portfolio managers and administrators. (InfoMoney)
+Mercado Bitcoin announced the listing of three new assets on its platform — BVM Network (BVM), Realio (RIO), and Aevo (AEVO). It also launched Fist, the first digital variable income token in the electric sector. (Portal do Bitcoin)
+
+📲 Adoption
+
+OKX , through its partnership with McLaren, has rolled out a special marketing campaign paying tribute to Brazilian auto racing legend Ayrton Senna. (CoinTelegraph Brasil)
+FENASBAC announced a new partnership with the Federal University of Rio de Janeiro, Polkadot and Ripple to research interoperability solutions between Drex and other blockchain networks. (CoinTelegraph Brasil)
+Brasil Bitcoin , an exchange, now allows clients to make payments via Pix using any cryptocurrency listed on its platform. (Valor)
+Binance is hosting a roadshow of meetups across Brazil over the coming months, with stops in Fortaleza, Floripa, Curitiba, Belo Horizonte and Rio de Janeiro. (CoinTelegraph Brasil) (Livecoins)
+ABcripto - Associação Brasileira de Criptoeconomia announced a crypto fundraising campaign in support of flood victims in Rio Grande do Sul. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Sunny Pires, an 18 year-old Brazilian surfer from Buzios, received a sponsorship from NounsDAO. (Sportsmkt)
+brx finance nance joined the Chainlink BUILD program to accelerate adoption of DeFi and RWAs in Brazil. (CoinTelegraph Brasil)
+Fernando Martines of Portal do Bitcoin interviewed Ethereum Rio organizer Antonio Neto about the vision for the popular event brand moving forward.
+Parfin was selected by Mastercard for its “Start Path Blockchain and Digital Assets” program, which seeks to improve user experiences and expand blockchain business cases. (CoinTelegraph Brasil)
+Foxbit Group announced a partnership with QINV to bring artificial intelligence crypto investing tools to its customers. (CoinTelegraph Brasil)
+Skateboarder Bob Burnquist spoke to Portal do Bitcoin at Ethereum Rio about his efforts to empower artists using Web3
+Brazilian importers are paying Chinese suppliers with crypto, Ripio CEO Sebastian Serrano explained in Bloomberg piece about corporate adoption of crypto in Latin America.
+Daniel Coquieri of Liqi Digital Assets has a good op-ed in CoinTelegraph Brasil discussing how Brazil can overcome challenges associated with tokenization adoption. (CoinTelegraph Brasil)
+The Central Bank is considering new LIFT Challenges challenges focused on artificial intelligence and the green economy, Drex coordinator Fabio Araujo said at the Money Monster event hosted by Fenasbac. (BlockNews)
+Luiz Fernando R. Lopes of TecBan has a good op-ed in BlockNews discussing Drex’s current inflection point
+
+🏛 Policy, Regulation and Enforcement
+
+The CVM assessed R$55.8 million (US$10.8 million) in fines to individuals and entities involved in Atlas Quantum, a bitcoin pyramid scheme that promised 5% monthly returns. 47,000 investors lost R$1.1 billion (US$212 million) after it collapsed. (Valor) (Portal do Bitcoin)
+A Brazilian business man paid 6.24 bitcoin as a ransom to criminals who kidnapped his wife. Despite the payment, the kidnappers did not release the victim and sadly she is now believed to be dead. A man who worked for the couple is believed to have masterminded the kidnapping. (Portal do Bitcoin)
+Central Bank president Roberto Campos Neto met with officials from Mercado Bitcoin and 2TM on Tuesday, May 21. (Portal do Bitcoin)
+An ongoing legal dispute Brazilian footballers Willian Bigode and Gustavo Scarpa escalated last week as Bigode’s defense argued that the debt owed him by Scarpa be paid off by FTX. Recall that Scarpa claims he lost R$6.3 million in a crypto pyramid called XLand that Bigode was promoting, though Bigode claims that he was also a victim of the scheme. (InfoMoney) (CoinTelegraph Brasil)
+In other bizarre Xland news, Federal Police concluded that the 20 kilos of precious stones that Xland operators told clients were worth R$2 billion do not have significant value and cannot be used as collateral in the Scarpa vs. Bigode case. (Portal do Bitcoin)
+An Argentine court said that former Braiscompany CEO Antonio Neto Eis could get out of jail and instead serve house arrest. His defense argued that he should be released from jail to help take care of his children since his partner “suffers from hypertension and takes medication” and does not have help from any family member. (InfoMoney) (CriptoFacil
+The Federal Public Ministry filed a new money laundering complaint against Neto Eis, his wife Fabricia Farias, a money changer and four others involved in the Braiscompany scheme. The complaint asserts that the individuals carried out large scale money laundering amid the company’s collapse in late 2022. (Portal do Bitcoin)
+Investors in Titanium Asset and Sbaraini bitcoin investment schemes may need to wait five years to see their money returned if no agreement is reached between the parties, defense attorney Alex Gallo of Boschirolli E Gallio - Advogados Associados explained. (Portal do Bitcoin)
+Bitso announced the appointment of Julia Rosin to lead its public policy efforts in Brazil. (CoinTelegraph Brasil)
+Bitybank CFO Ibiaçu Caetano has joined the board of ABCripto. The association also announced Balcão BTC as a new member. (CoinTelegraph Brasil)
+
+

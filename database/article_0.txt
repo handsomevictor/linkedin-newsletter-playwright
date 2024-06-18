@@ -1,0 +1,152 @@
+#144: Itaú opens bitcoin trading platform to all users
+Plus: Campos Neto defends Drex at Valor Capital Summit; OKX looks to take on Binance in Brazil
+
+Olá pessoal!
+
+Welcome back to Brazil Crypto Report for the week of June 10-14, and happy Father’s Day to the American dads out there!
+
+I’m in a lot of pain right now as I overworked myself this morning at the gym (leg day💀). I did manage a new personal record for squats though, so pretty proud of that. No pain, no gain — as they say.
+
+Anyways, lots to discuss from this past week so on to the news!
+
+🔍What’s in this week’s BCR?
+
+Itaú, Brazil’s largest bank, opens its ion crypto platform to the general public
+Robert Campos Neto defended the Drex project and reaffirmed his bullish stance on tokenization at the Valor Capital Summit in São Paulo
+OKX is looking to take a cut out of Binance’s market share in Brazil
+The Solana ecosystem is committed to supporting builders in Brazil
+
+Thanks for reading and have a great week!
+
+-AWS
+
+New podcasts!
+
+This week I’m joined by Edward Woodford , who is the CEO of crypto infrastructure giant Zero Hash . We discuss Zero Hash’s origins as an institutional infrastructure play back in 2018-19, and how it now operates crypto custody, trading and liquidity services for blue chip names like Stripe, Interactive Brokers and Securitize (in which Blackrock is an investor.
+
+We also have a panel from Web Summit Rio with Leandro Pereira (Sciammarella) and Rafael Castaneda discussing the Central Bank’s Drex pilot. The pilot has since hit an impasse due to the issues we discuss in this conversation, but there is a wealth of information in here that is well worth your time if you’re tracking this project.
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Itaú Unibanco enables bitcoin trading for all customers
+
+Latin America’s largest bank began rolling out ion, its crypto investment platform, to select users in December 2023.
+
+Now, bitcoin and ether trading is available for all customers who download the platform. Ion users do not need to be customers of the bank to utilize the platform.
+
+José Augusto de Azevedo Antunes F. (Guto Antunes) , head of Itaú Digital Assets, told Valor that the bank carried out weekly surveys with initial users of the ion platform and received positive feedback, hence the decision to open the platform to all users.
+
+Antunes explained that a notable takeaway from the surveys was users’ trust in Itaú’s custody service — which it developed internally without a third-party service provider:
+
+“We have a stake and a partnership with Liqi, but nothing in terms of custody. The entire custody solution, since it was conceived, has been done with architecture and fiduciary duty within Itaú.”
+
+Notably, a separate digital wallet was created for each client in anticipation of asset segregation requirements that are expected to be included in the regulatory framework released by the Central Bank next year.
+
+Antunes didn’t release the official number of Itaú’s crypto customers, but the ion app has been downloaded 3.5 million times combined across Android and IOS operating systems.
+
+“Even in the staggered phase it was a relevant number for the crypto universe and a surprise.”
+
+Bitcoin and ether are the only crypto assets on the platform currently, though Antunes notes that customers are asking for other assets and that there are new launches on the radar that could go live if they pass a regulatory risk analysis.
+
+Crypto.News BlockNews Portal do Bitcoin CriptoFacil CoinTelegraph Brasil
+
+Campos Neto talks Drex, tokenization at Valor Capital summit
+
+Banco Central do Brasil president Roberto Campos Neto reaffirmed his conviction that, one way or another, the economy and financial system will eventually be tokenized and run on blockchains.
+
+“Tokenization is more efficient and cheaper, and programmability can grow over time.”
+
+In Brazil, this will potentially take place on the Drex hybrid CBDC/smart contract platform. The project has been met with delays related to privacy issues, but Campos Neto said that the Drex team is now working with other central banks to resolve these challenges:
+
+“We are on the frontier of this and there is another (central bank), that of South Korea, with which we are working to resolve the difficulties.”
+
+Despite the project’s difficulties, Campos Neto defended Drex’s wholesale CBDC model on the grounds that it engages private sector financial institutions in an unprecedented way:
+
+“With Drex, we introduced the concept of tokenization into bank systems.”
+
+Campos Neto is also excited about the use of blockchain for cross-border transactions, noting that the legwork of connecting a DLT network to centralized systems has already been done.
+
+“The technology part is resolved, but the governance is missing. To connect the systems, there needs to be a common taxonomy (between countries).”
+
+He also added that the bank is working to make Pix payments available in a contactless manner, potentially via Apple Pay or Google Pay.
+
+Valor Valor Valor Portal do Bitcoin CriptoFacil CoinTelegraph Brasil
+
+Photo Credit: Valor
+Solana committed to Brazil, says Austin Federa
+
+Solana Foundation 's head of strategy Austin Federa spoke to InfoMoney about the recent growth of the Solana ecosystem and its commitment to supporting builders in the Brazilian market:
+
+“We have money, and we can support developers and communities that are being built in Brazil. They know what the market needs. Technology is culturally agnostic, but the application of that technology is almost always culturally dependent. Therefore, the idea is to work with people who are really from the region”
+
+Recall that the Solana Foundation committed to invest US$10 million in Brazil at the beginning of this year, and now has a local Superteam organizing and meetups and hackathons targeted at builders and developers.
+
+OKX looks to take on Binance’s dominance in Brazil
+
+Binance has for years been the dominant exchange servicing the Brazilian market. However, OKX — a leading competitor to Binance globally — is making a push to capture market share in Brazil after formally launching in November 2023.
+
+Guilherme Sacamone , OKX’s Brazil country manager, says that the exchange has adopted a “highly aggressive” fee schedule in order to attract new users and traders who have used Binance in the past:
+
+“We have more aggressive fees or even zero fees for those who trade cryptocurrencies at very high frequencies and volumes and end up serving as market makers for us.”
+
+OKX Brasil users who have up to R$40,000 in deposited assets and R$200,000 in trading volume over 30 days are assessed a maker rate of 0.18% and a taker rate of 0.36%. This rate decreases as the user’s deposits and trading volumes increase. Binance has a lower rate for normal users, but it ticks up as users generates higher volumes.
+
+Valor notes that OKX is leaning into the retail and “pro-sumer” market even as other crypto exchange players in the region have pivoted to a B2B model or asset tokenization. Sacamone, in response, explained that OKX’s current focus in the country is on acquiring users rather than turning a quick profit:
+
+“Our average revenue per user ends up being lower than the Brazilian market average, because, at the moment, we want active users. It is clear that our operation needs to be sustainable, and it will become sustainable as it gains scale.”
+
+Web3News
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Crypto exchange Uphold announced its arrival in Brazil, complete with a Pix integration through its Topper platform — which integrates fiat and cryptocurrencies. Uphold Enterprise CEO Robin O'Connell explained that Brazil is the beginning of the exchange’s entrance into Latam:
+
+“This week marks our expansion into Latin America, starting with Brazil. Later this year, we intend to integrate additional payment methods in LATAM as options in Topper.” (CoinTelegraph Brasil)
+
+Brazilian DeFi protocol Picnic has integrated 8 blockchains and now offers the purchase and sale of 4,000 cryptocurrencies paired with the Brazilian real.
+
+-Users are able to make a deposit via Pix; the funds are converted to BRLA — a real-pegged stablecoin, which users can use to trade the various pairs.
+
+-The expansion integrates Arbitrum, Optimism, Base and Gnosis, and enables cross-chain transactions with order routing optimization and competitive prices and gas fees
+
+-Picnic co-founder and CEO João Ferreira ra explained:
+
+“Since we started developing the product, we thought about adding more networks. So, much of the code and systems already had this in mind. But still, it was necessary to make some adjustments to resolve technical issues that we did not initially foresee." (CoinTelegraph Brasil)
+
+Asset tokenizer AmFi is finalizing an agreement with Mercado Bitcoin to distribute its tokens. AmFi uses traditional asset tokens like card receivables and invoices as collateral, and has issued more than R$150 million in tokenized fixed income products. (BlockNews)
+Eric Altafim , director of ANBIMA (Brazil’s capital markets trade group), said that blockchain and asset tokenization will have a transformative impact on Brazilian financial markets. He said, during a Sustainability Week 2024 event in Manaus:
+
+“Carrying out digital transformation is not about digitizing the process; Leadership needs to be aware of what technologies are capable of offering to match their business and make a true transformation. When I look at the capital market, blockchain will allow for stronger disintermediation, lowering the costs of the process.” (CoinTelegraph Brasil)
+
+Ripio announced a partnership with Dex aggregator 1inch to offer asset swap services to Ripio Portal users in Brazil and elsewhere. (CoinTelegraph Brasil)
+The generational wealth transfer from Baby Boomers to Gen X and millennials will transform the role and importance of cryptocurrencies in the global economy, K33 analyst Vetle Andreas Gusgaard Lunde argued during a webinar promoted by Hashdex . (CoinTelegraph Brasil)
+brx finance is partnering with a startup called Jobis to create a platform allowing self-employed workers to advance their earnings through blockchain-based credit. (Startups)
+
+📲 Adoption
+
+FEBRABAN Tech, Brazil’s premier banking and fintech technology event, will heavily feature Drex, tokenization and other elements related to the crypto world. (BeinCrypto)
+The Central Bank of Brazil is exploring the possibility of linking the digital identity of Drex to the Gov.br platform, in an effort to simplify and standardize citizens’ digital credentials. Drex coordinator Fabio Araujo explained at the 4th Brazilian Internet Congress:
+
+"Credentials are still in the discussion phase, because it is a very complex problem. When you think about digital identity, identity is a global thing. It is not just the person's financial life that is in the identity. So this goes beyond the scope of the Bank Central.”
+
+Daniel Coquieri of Liqi Digital Assets has an op-ed in Portal do Bitcoin discussing how tokenization will impact Brazil’s agribusiness sector.
+G20 representatives met in Maranhão to discuss how blockchain can combat digital fraud, as part of the G20 Digital Economy Working Group. (CoinTelegraph Brasil)
+Worldcoin announced that Argentina, not Brazil, would be the new “nerve center” of its operations in Latin America. (CriptoFacil)
+Agribusiness giant Bunge and a Thailand food distributor are testing a blockchain solution to track soybean exports from Brazil to Thailand. (CoinTelegraph Brasil)
+BeinCrypto profiled ABcripto - Associação Brasileira de Criptoeconomia CEO Bernardo Srur in an extensive interview
+
+🏛 Policy, Regulation and Enforcement
+
+A habeas corpus petition to free “Pharaoh of Bitcoins” Glaidson Acacio dos Santos was denied by the Supreme Tribunal Federal. Glaidson was accused of architecting the US$1.5 billion GAS Consultoria cryptocurrency pyramid scheme and has been in prison since 2021. (InfoMoney) (Portal do Bitcoin) (BeinCrypto) (CoinTelegraph Brasil)
+Glaidson’s appeal of the R$102 million (US$19 million) fine issued by the CVM — Brazil’s securities regulator— was denied by the National Financial System Appeals Council (CRSFN). (Portal do Bitcoin)
+Civil Police in Rio de Janeiro arrested two suspects accused of being part of a gang specializing in cryptocurrency scams that resulted in R$15 million in losses to victims. (Portal do Bitcoin) (CoinTelegraph Brasil)
+The Public Ministry of the Federal District carried out search and seizure warrants against a military police officer accused of a cryptocurrency pyramid scheme that generated R$ million. (Portal do Bitcoin)
+North Korean hackers are actively targeting Brazilian cryptocurrency exchanges and fintech companies, says Google Cloud’s threat intelligence department. (CoinTelegraph) (Livecoins)
+
+
+
+
+

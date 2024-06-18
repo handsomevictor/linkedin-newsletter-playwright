@@ -1,0 +1,132 @@
+#143: Crypto Regulations to Come in Early 2025, says BC
+Plus: Brazil's first crypto certification program for financial advisors is live
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+Olá pessoal!
+
+Welcome back to Brazil Crypto Report for the week of June 3-7. I hope everyone enjoyed their Festa Junina festivities this weekend.
+
+The big news of this week is that the wait for regulations governing crypto brokerages will continue to drag out. The Central Bank of Brazil announced that the framework is now expected to be unveiled in early 2025, revising earlier expectations that they would drop during the second half of 2024 — or at the end of 2024 at the very latest. The first quarter of 2025 is now the target range.
+
+🔍What’s in this week’s BCR?
+
+Ancord and BlockTrends launch first crypto certification program for investment advisors
+Paxos launches yield-accruing stablecoin
+Hashdex revises the composition of its flagship HASH11 crypto ETF
+
+Thanks for reading and have a great week!
+
+-AWS
+
+
+
+
+New podcast!
+
+This week’s episode is another panel session from Web Summit Rio, where Transfero Group CEO Márlyson Silva and Koyamaki Ventures partner Daniel M. and I explore cryptocurrency adoption around the region from Brazil to Argentina to Colombia.
+
+Big thanks to the Transfero Group team for hosting this session on their stage!
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Crypto regulations ready in early 2025: BC’s Damaso
+
+The Central Bank of Brazil should unveil formal regulations to regulate the country’s cryptocurrency market in early 2025, director of regulation Otávio Damaso said during remarks at the Brazilian Internet Congress, hosted by ABRANET
+
+“We are in a very advanced process,” Damaso explained, adding that the second consultation seeking input from the public will be live in September.
+
+Photo credit: Valor
+
+Damaso also added some color about how the bank has embraced a novel financial innovation agenda in recent years.
+
+“The main transformation that the Central Bank underwent was opening up, leaving the shell that we had and going to talk to society to understand the criticism that society had towards the BC’s actions.”
+
+Valor
+
+BC to continue to monitor cryptos “very carefully”
+
+Renato Gomes, director of financial system organization and resolution at the bank, said that the institution continues to observe phenomena related to cryptocurrencies and stablecoins “very carefully.”
+
+Specifically regarding stablecoins, he explained that the asset is a means to maintaining a dollar account in a cheap and efficient way.
+
+“The person buys a stablecoin so that when he goes on an international trip he can sell the stablecoin, transforming it into dollars without going through the traditional financial system.”
+
+Valor Portal do Bitcoin CoinTelegraph Brasil
+
+Ancord and BlockTrends launch 1st crypto certification for investment advisors
+
+The National Association of Brokers and Dealers (Ancord) unveiled Brazil’s first ever crypto certification program for investment advisors in the country, with the intention of helping professionals provide better support to clients who want to invest digital assets.
+
+The course was developed in partnership with BlockTrends and includes a mix of courses, tests and a certification exam by Fundação Getulio Vargas. Advisors who participate in the program can earn up to 120 points in ANCORD ’s continuing education program.
+
+Orlando Junior , head of certifications at Ancord, explained that such a program is necessary now given the rising interest in the area from clients:
+
+“Investors are increasingly demanding and seek to be served by specialized, qualified and qualified professionals.”
+
+João Paulo Mayall , CEO of BlockTrends, said in a statement:
+
+“The Brazilian regulator has been agile in incorporating innovations in the financial market, surpassing its peers in other countries. The program is another milestone in the digital assets market in Brazil, a country that was a pioneer in launching ETFs and regulated funds in the sector,”
+
+Valor Exame CoinTelegraph Brasil
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+Share via Whatsapp
+
+Recommended by LinkedIn
+Weekly Crypto Market Review
+Venomex Limited  2 years ago
+How do the Tortoise and the Hare apply to Bitcoin?
+Zachary Amzallag  7 months ago
+Top 4 Crypto news you have to know NOW!
+ABZER  1 year ago
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Paxos launched a new product called the Lift Dollar (USDL) which allows holders to receive a daily programmatic rate of 5%, which is aligned with returns on US treasury bonds. Paxo CEO Chad Cascarilla explained the thinking behind the product in an interview with CoinDesk:
+
+Early distribution of USDL will be focused on Argentina via partnerships with Ripio, Buenbit and TiendaCrypto
+
+Paxos CEO Charles Cascarilla explained the vision behind the product to CoinDesk’s Ian Allison :
+
+“We’ve added programmatic daily yield so this looks a little bit more like a savings product than a checking account product, which is maybe the way to think about traditional stablecoins…“USDL] is going one step further from democratizing access to dollars, to also democratizing the risk-free rate, in the safest manner possible.” (Valor)
+
+Hashdex ’s HASH11 ETF will grow from 8 to 11 assets in its quarterly rebalancing and will now have SOL, MATIC, ADA, AVAX and XRP in its composition. Chief investment officer Samir Kerbage explained:
+
+“This is the most relevant rebalancing since the launch of HASH11, expanding the index from 8 to 11 assets. Bitcoin’s weight will be reduced from approximately 69% to around 64% with Solana’s entry at around 5.36%.” (Valor) (Exame) (CoinTelegraph Brasil)
+
+Cryptocurrencies were the 6th most sought-after asset class in May among Brazilian investors, according to research from Yubb. (Valor Investe)
+Mercado Bitcoin listed 11 new cryptocurrencies, including TON, CAKE, 1inch, and more. (Portal do Bitcoin)
+NovaDAX also listed eight new BRL-linked trading pairs. (CoinTelegraph Brasil)
+BEE4 has brought in several advisors to help it launch more tokenized shares of SME businesses in its marketplace. (Exame)
+BTG Pactual’s Mynt platform increased its recommended ether allocation after the US’s approval of spot ETH ETFs. (Exame)
+Brazil recorded US$4.4 million in net outflows from crypto exchange-traded investment products for the week ending May 31, according to data from CoinShares. (CoinTelegraph Brasil)
+Exchange Digitra.com announced that it will buyback and burn part of the supply of its DGTA token. CEO Rodrigo Batista said the decision was motivated by the CVM’s recent decision with regards to the Dynasty Global DYN token, which it does not consider a security. (CoinTelegraph Brasil)
+Brillacom Light DeFi, an operator of photovoltaic power plants, has issued a utility token that provides investors with cashback rewards linked electrical energy production. The first photovoltaic plant is in the city of Itajubá in Minas Gerais. CEO Germano Sales told Valor:
+
+“Our objective is to provide asset holders with a platform that rewards them for participating in a system with a sustainable initiative, like the one created by Brillacom. Payment will be automated, whenever the energy generated by photovoltaic plants is sold, investors will receive their cashback.”
+
+Dog Go To The Moon, a bitcoin-based memecoin, has become popular among Brazilian traders after launching on April 23. (CoinTelegraph Brasil)
+
+📲 Adoption
+
+Nicole Dyskant has taken on an additional role as an advisor to TaxBit , which is a crypto tax compliance company valued at US$1.3 billion. Her role is to help the company explore the Brazilian market. (Globo)
+Ripple Labs donated US$25,000 to Rio Grande do Sul relief efforts, mediated by BRLA Digital . (CoinTelegraph Brasil)
+WhatsApp will enable Pix payments via its payments platform. Guilherme Horn, PhD the app’s head of strategic markets made the announcement. (CoinTelegraph Brasil)
+brx finance , the joint venture between Transfero and Fuse Capital , has joined the Chainlink Build program. (BlockNews)
+Mocaverse, the metaverse project launched by Animoca Brands , sees Brazil as a critical growth market for reaching its goal of 700 million users globally. (CoinTelegraph Brasil)
+The Paraguayan government announced that it plans to sell off its surplus electricity to clients such as bitcoin miners rather than to Brazil — which pays three times less than the market rate under the Itaipu agreement. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+Federal Police and the Receita Federal executed arrest and search and seizure warrants against a group suspected of using cryptocurrencies for tax evasion and money laundering in an electronics importing scheme. The scheme involved a complex web of national and offshore companies and used cryptos to send money abroad to exchange for electronics from the US, China and Hong Kong. Federal Police explained in a statement:
+
+“The criminal organization had been operating since 2014, irregularly introducing goods into the country across the border with Paraguay, especially electronics, which were distributed to different states of the federation.” (Portal do Bitcoin)
+
+Military Police in São Paulo arrested three suspects accused of stealing US$100,000 of cryptocurrencies from a doctor in Campinas. In a classic “love scam”, the doctor was talking to the three individuals via a dating app and was kidnapped during an in-person meeting. (Portal do Bitcoin)
+The CVM recently imposed a fine on Atlas Quantum five years after opening an inquiry following the pyramid’s collapse. This is problematic because it is the average length of time the CVM requires to resolve such cases, Rodrigo Tolotti of Portal do Bitcoin argues.
+
+
