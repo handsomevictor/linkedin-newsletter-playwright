@@ -1,0 +1,121 @@
+LATAM Crypto Report #13: Milei irks bitcoiners with new registration rules
+Also: Paraguayan lawmakers propose temporary crypto mining ban; new report highlights LATAM regulatory landscape
+
+Olá pessoal 👋 and welcome to 🌎Latam Crypto Report, which is a sister publication to 🇧🇷 Brazil Crypto Report authored by Kristin Majcher. Be sure to smash that subscribe button below to stay abreast of crypto happenings in this part of the world💡
+
+Subscribe Now
+
+¡Hola a todos! 👋
+
+Welcome to the latest edition of the Latam Crypto Report, the place where we round up a curated collection of the biggest digital asset stories in the region.
+
+In this edition, we’ll cover:
+
+why bitcoiners are disappointed with Argentina’s President Javier Milei
+a proposal by Paraguayan lawmakers to temporarily ban crypto mining
+a comprehensive new report from Sherlock Communications that dives into the Latin America regulatory landscape
+
+You are invited to attend a virtual event March 10 (tomorrow!) from 10:30am - 12:30pm ET called The Argentina Opportunity - Igniting Innovation. This marks the kickoff of Operación Crecimiento, which is a series of activations in 2024 designed to support crypto builders in the country — including a pop-up city.
+
+This event will be a unique and intimate discussion exploring how crypto-enabled solutions can shape the future of Argentina. Speakers include:
+
+Hopefully you can join us, and feel free to jump in the Telegram group to learn more! Shout out to James Tunningley for putting this together!
+
+Argentina moves to register crypto companies
+
+One of the biggest crypto stories in recent weeks is the news that Argentina created a registry for virtual asset service providers (VASPs).
+
+Argentina’s securities regulator, Comisión Nacional de Valores (CNV), announced on March 25 that it had established the registry. It encouraged crypto providers to add personal data to continue operating in the market.
+
+The new regulation aims to “identify the human and legal persons that provide services related to crypto assets in the country,” a CNV announcement states.
+Any VASPs who don’t register “will not be able to operate in the country,” CNV President Roberto Silva stated in the announcement.
+Argentina introduced the registry during a Financial Action Task Force (FATF) visit to the country, the CNV release said.
+The registry launch comes after Argentina’s Senate unanimously approved modifying the penal code to introduce new anti-money laundering measures.
+
+While Argentina’s decision to register crypto companies may seem straightforward on the face of it, the move has garnered intense criticism from bitcoiners and crypto enthusiasts hoping that Javier Milei’s self-proclaimed “anarcho-capitalism” stance would mean fewer barriers to using digital assets in the country.
+
+Forbes points out that Milei inherited the law from the previous presidential administration.
+
+The move reinforces an observation Latam Crypto Report pointed out a few months ago: Argentina isn’t El Salvador.
+
+(Forbes, CoinDesk, The Block, CoinTelegraph, CNV Official Website, Bloomberg Law, BeInCrypto, Portal do Bitcoin, Livecoins, CriptoFacil, Bitcoin Magazine, Ámbito)
+
+For more color on Argentina, have a listen to Aaron’s latest podcast interview with renowned journalist and author Michael J. Casey. Michael covered financial markets in Argentina for six years for the Wall Street Journal during the 2000s, and these experiences ultimately led him down the bitcoin rabbit hole. He brings a rich and informed outsider perspective to Argentina’s predicament.
+
+Paraguay lawmakers propose temporary crypto mining ban
+
+More legislative tension is playing out in Paraguay, which has attracted some high-profile bitcoin mining projects in recent months.
+
+Highlighting concerns about clandestine crypto mines stealing energy, lawmakers proposed a bill to temporarily ban crypto mining in the country for 180 days. The story is developing, but here’s what we know so far:
+
+The proposal wants to temporarily prohibit new crypto assets from being created in the country during that period, as well as the installation of new crypto mining farms. It also proposes suspending crypto storage activities “that require intensive electro energy from the national electrical grid for this purpose.”
+Estimates from Paraguay’s national grid operator ANDE calculate that each clandestine crypto farm causes damages equivalent to about $68,000 to $95,000 worth of local currency.
+A ban could cost Paraguay more than $200 million annually if approved, Hashlabs Mining Co-Founder Jaran Mellerud told Cointelegraph.
+
+(Decrypt, Cointelegraph, Portal do Bitcoin, Exame, Forbes)
+
+New report highlights crypto landscape in Latin America
+
+We’ve been digging into a comprehensive new report from Sherlock Communications about Latin America’s regulatory landscape for crypto companies. The Blockchain Latam Report 2024 provides a country-by-country overview of key news and developments, plus a summary of the main players in every area of the region.
+
+Some interesting highlights include:
+
+Half a million freelancers in Argentina get paid overseas. (Forbes Argentina)
+Three out of every 10 bank users in the Dominican Republic have purchased a type of cryptocurrency. (Minsait Payments)
+Regenerative finance is growing in Costa Rica.
+
+(Sherlock Communications, BeInCrypto)
+
+🗞Latin America Crypto News Rundown
+Regional News
+
+Here’s where we break down Latin America crypto headlines from the past few weeks, organized by country and region. If you don’t see a country listed, it’s simply due to the news flow during a particular week.
+
+A new 万事达卡 whitepaper sheds new light on remittances in Latin America. One interesting tidbit is that cash remittances are supposed to reach a “historical peak” in 2023, with digital options becoming more popular. (Mastercard, Cointelegraph)
+Crypto custody and trading firm Bakkt said it “has observed a rapid level of growth in the number of crypto trade accounts opened in the region,” with Argentina and Colombia leading its new account growth. (Bakkt)
+BeInCrypto examines the five Latin American countries leading the region’s crypto adoption: Brazil, Argentina, Colombia, Mexico and Venezuela. (BeInCrypto)
+Ripio Ventures is looking to support 10 Web3 projects for its “LAceleradora” program, which will be built on the LaChain blockchain. (Cointelegraph, Forbes Argentina, Portal do Bitcoin)
+
+South America
+🇦🇷 Argentina
+
+Web3 investment manager Borderless Capital acquired quant trading firm CTF Capital, and plans to open a Latin America headquarters in Argentina. (The Block, Cointelegraph, TechCrunch)
+Let'sBit launched a prepaid crypto Mastercard for its users in Argentina. (Cointelegraph)
+Argentina’s bitcoin demand hit the "highest level in 20 months” as inflation of the local peso currency hits 276%, Bloomberg reported. (Bloomberg, InfoMoney)
+A Sherlock Communications survey shows that 40% of Argentines want crypto to be legal tender. (Ámbito, El Cronista)
+BeInCrypto reported that startups AcindarPymes and Aconcagua announced the launch of crypto-backed financing, allowing small businesses in Argentina to use crypto as collateral on loans. (BeInCrypto, Forbes Argentina)
+OKX Argentina Country Manager Alejandro Estrin explains why he sees potential for crypto to grow in Argentina. (Forbes Argentina)
+Argentina requested extradition for a Paraguayan crypto trader allegedly involved in a million-dollar virtual scam. This is the first time Argentina has requested extradition for a crypto trader in a virtual scam case, La Nación reported. (BeInCrypto, La Nación)
+
+🇨🇱 Chile
+
+Pedro Solimano talks to insiders about how Chile’s new fintech law will affect cryptocurrencies, and why February 2025 is a key milestone to watch out for. (The Defiant, Contxto)
+An appeals court in Valparaíso declared a protection appeal related to Worldcoin to be inadmissible. (CNN Chile)
+
+🇨🇴 Colombia
+
+Crypto exchange CryptoMKT is launching a loyalty campaign to promote crypto adoption in Colombia. (Portafolio)
+Forbes Colombia examines whether crypto regulations are necessary right now in the country. (Forbes)
+
+🇻🇪 Venezuela
+
+Forbes contributor Elias Ferrer sat down with Enrique De Los Reyes , the president of Venezuela’s crypto business association. They discuss remittances, sanctions, mining and more. (Forbes)
+
+Central America & Mexico
+🇸🇻 El Salvador
+
+El Salvador’s bitcoin-friendly president Nayib Bukele posted on X that the country moved more than 5,000 bitcoins into a cold storage wallet, totaling more than $400 million. This is about double the amount of bitcoin the country was thought to have had, based on Bukele’s previous purchase announcements. (CoinDesk)
+Bukele said on X that the country is earning bitcoin revenues from sources including a passport program, mining and government services. (CoinDesk, Cointelegraph, CriptoFacil)
+
+🇭🇳Honduras
+
+Tensions are mounting between Honduran president Xiomara Castro and crypto investors seeking to collect billions in compensation after the government repealed a law permitting special economic zones. (The Intercept, Cointelegraph, CriptoNoticias, Livecoins)
+
+🇲🇽 Mexico
+
+The Bitcoin Company launched an API for remittances to send instant, cross-border payments in Mexican pesos and Brazilian reais. (Bitcoin Magazine)
+CoinDesk chats with Kardashev BTC co-founder Santiago Varela Belmont about mining bitcoin in Mexico. (CoinDesk)
+
+🇨🇷Costa Rica
+
+BeInCrypto explores why Costa Rica may be shaping up to be a key player in the crypto world. (BeInCrypto)

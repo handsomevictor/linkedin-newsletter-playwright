@@ -1,0 +1,69 @@
+🇧🇷BCR #79: Braiscompany offices raided, founders on the run as crypto pyramid collapses
+Also: Digital Real pilot "starts now" proclaims Central Bank President Campos Neto
+
+This newsletter is an abridged version of this week's full 🇧🇷Brazil Crypto Report which is hosted on Substack. If you enjoy this content please consider subscribing and following the Substack version where you can find more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Olá pessoal!
+
+Huge welcome to 🇧🇷Brazil Crypto Report for the weeks of February 13-17, 2023! I hope everyone is doing well.
+
+Thanks to everyone who has tuned into my new YouTube channel. This was a big psychological battle for me to spin this up (big difference in going from audio podcasts to video), but the discovery potential on YouTube is so massive vis-a-vis other podcast platforms that it was imperative that I launch there.
+
+Last week, I was joined by João Marco Braga da Cunha, an economist and portfolio manager at Hashdex, to discuss the proposed Brazil-Argentina common currency.
+
+👍I’d much appreciate if you could give me a “like” and “subscribe” to help me some more more visibility. The goal is to surpass this channel “Brazilian Report” which has 2,000 subscribers 😜 Can you help me get there? 👊👊👊
+
+Federal Police raid Braiscompany; founders on the run
+
+The suspected R$1.5 billion crypto pyramid scheme was targeted by Federal Police on February 16, with founders Antonio Neto Eis and Fabricia Campos the targets of arrest warrants but were not located by authorities. (BBC Brasil)
+
+Their whereabouts remain unknown: a post from Neto Eis’s Instagram feed suggests he is in Argentina.
+
+Searches and seizures were carried out by law enforcement at Braiscompany’s headquarters in João Pessoa and Campina Grande, both in Paraíba, and in Vila Olimpia in São Paulo, Portal do Bitcoin reports.
+
+A court froze R$45 million worth of Braiscompany assets - cars and cash held in bank accounts - at the request of the Public Ministry of Paraíba. However, the court did not authorize seizure of the assets, nor did it freeze transactions made with several overseas cryptocurrency exchanges. Court documents show that the company had 26 luxury cars in its name.
+
+Portal do Bitcoin’s Fernando Martines revealed that both Antonio Neto Eis and Fabricia Campos are partners in a CVM-approved investment fund called Ever Asset Management that has R$4 million in assets under management.
+The Portal also revealed that Neto Eis hastily sold his São Paulo mansion in the Morumbi neighborhood for R$12.5 million in December even though the estimated price of the property was R$15 million.
+Binance reportedly froze the accounts of several Braiscompany leaders
+
+Portal do Bitcoin has a great explainer article if you want to catch up on the case.
+
+Braiscompany founder and CEO Antonio Neto Eis. Source: G1 
+Digital Real pilot “starts now”, proclaims Central Bank’s Campos Neto
+
+Speaking at the annual BTG Pactual CEO Conference event, the Central Bank president pronounced that the CBDC pilot is now live, though he didn’t provide specific details or timelines.
+
+Campos Neto did reinforce previously stated concepts that the Digital Real will be a wholesale CBDC that will primarily be used by banks and companies. The general population will interact with it via tokenized bank deposits that are converted into stablecoins. He stated:
+
+“The digital currency [enters] to advance the process of tokenization, that is, of digitization, of stopping seeing a bank as just a system of accounts and starting to see it a little more as a system of tokens.”
+
+He also proclaimed that the Digital Real will make the country a world leader in the area of digital finance by bringing more efficiency, security and reach to the country’s financial system.
+
+“We see pilots, for example, where tokenization improves the back office part, improves the asset securitization part, greatly improves the risk part…In one experiment, you can see atomized risk of up to 600,000 transactions per second, there are several experiments that improve efficiency as a whole.”
+
+Campos Neto also discussed the Digital Real during an interview on the program Roda Vida on TV Cultura, stating:
+
+“[I]n the digital world we had three large blocks, I would like to connect the blocks, which is the PIX, with Open Finance, with the digital currency. We already have the digital currency pilot, which will start running soon. I think these three things can change the history of financial intermediation in Brazil, transforming our system into something efficient and today in the world there is no one so advanced.”
+Lula Administration is preparing crypto asset decree
+
+Two months after the passage of the national crypto law, the executive branch is close to issuing the decree that will initiate Brazil’s crypto regulatory framework, Valor reports. The text is being prepared by the Ministry of Finance and has the support of both the Central Bank and the CVM, Brazil’s securities regulator.
+
+The Central Bank is expected to be appointed as the formal regulator of the industry (exchanges, wallets, lending) despite a quarrel between Lula and Roberto Campos Neto over the body’s autonomy.
+
+The CVM will likely have a role specific to regulated tokenized securities issued by both centralized and decentralized entities. The CVM will also have authority over exchanges that engage in activities such as ICOs, initial exchange offerings, “Launchpad” type products and derivatives trading.
+
+While the decree will not have an immediate practical effect, it is a foundational step towards implementing the framework laid out in the law.
+
+Crypto on display at Carnaval
+
+Bitcoin is being touted as a means of payment at Praia Bitcoin Beach in Jericoacoara, with a network of establishments accepting sats as payment. Inspired by El Salvador’s El Zonte Bitcoin Beach, a conference happening February 18-21 in Jerí claims to have set the world record for most bitcoin payments made in-person in a given period.
+
+Web3 enthusiasts in Rio de Janeiro hosted a metaverse themed “Bloco Chain” on February 16, drawing in a number of sponsors including ReservaX, Ribus, Blockchain Rio, Ethereum Brasil, Upland and more. Proceeds went toward Educar+, a non-profit that brings Web3 education to underserved populations
+Both Decentraland and Upland are hosting metaverse Carnaval experiences
+
+As always, I appreciate you reading and I hope you have a great week.
+
+-AWS
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

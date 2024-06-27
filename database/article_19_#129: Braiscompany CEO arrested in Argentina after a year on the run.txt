@@ -1,0 +1,169 @@
+#129: Braiscompany CEO arrested in Argentina after a year on the run
+Plus: Blackrock ETF lands in Brazil; Crypto.com partners with BTG Pactual
+
+Olá pessoal!
+
+Welcome back to 🇧🇷Brazil Crypto Report for the week of February 26 - March 1, 2024.
+
+and happy Bitcoin ATH day to all! 🎉
+
+I’m recovering from a wild week at ETH Denver. Definitely the most bullish crypto conference I’ve been to in some time. Buckle up because 2024 is going to be a wild year.
+
+Lots of big news on the Brazil front as well. Here are the big themes from today’s edition:
+
+Braiscompany CEO Antonio Neto Ais is arrested in Argentina after a year on the run
+Blackrock’s bitcoin ETF lands in Brazil
+Crypto.com to distribute BTG Dol stablecoin
+Asset segregation movement in Brazil’s Chamber of Deputies
+
+Thanks for reading and have a great week everyone.
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🎙New podcasts
+
+This week I spoke with Jason Lau, Chief innovation Officer at OKX and Guilherme Sacamone, Brazil Country Director at OKX, one of the world’s largest crypto spot and derivatives platforms, about their go-to-market strategy for the Brazil market.
+
+I also did a recorded a special Brazil Roundtable episode from the ETH Denver podcast studio with Bruno Maia of Cartesi, Thiago Rudiger of Tanssi and Joao Zecchin of Fuse Capital.
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Drex tech is nearly ready, but regulatory hurdles remain
+
+Drex, the Central Bank’s hybrid CBDC/tokenization platform, is nearly ready to be rolled out for broader testing to the full population, but fulfilling legal and regulatory requirements — specifically around bank secrecy and General Data Protection Law (LGPD) — will still take a few months. 
+
+Fabio Araujo, leader of the Drex project, stated at an event hosted by Microsoft:
+
+“We are advancing at fantastic speed on the solutions side, but we probably won’t be able to meet all regulatory requirements until the middle of the year.”
+
+The plan is to continue developing privacy solutions and governance protocols throughout the second half of the year while including new assets on the platform. Araujo added:
+
+“We will continue privacy testing and try to mature some other aspect of the project, other use cases and other participants. It will depend on bureaucracy and the way we end the first phase of the pilot”
+
+Valor CoinTelegraph Brasil
+
+Braiscompany owners arrested in Argentina
+
+Antonio Neto Ais and his wife Fabricia Campos, owners of the Braiscompany cryptocurrency pyramid, were both arrested in Argentina on February 29. 
+
+They were arrested at a gated condominium in Escobar, Argentina called Haras Santa María after Interpol investigators used a drone to identify and follow his vehicle to his home. Neto reportedly attempted to flee after encountering police but was quickly captured, handcuffed and admitted to being the person they were looking for.
+
+The couple had been at large for over a year since the Campina Grande company was raided by Federal Police last February. They fled to Argentina through Puerto Iguazu, where Neto adopted a fake identity with the name João Felipe Costa. Before settling down in Escobar, the fugitives previously spent time in La Plata, San Fernando and Buenos Aires. 
+
+Neto Ais and Campos will be held responsible for crimes against the financial system and money laundering, and face sentences totaling more than 150 years in prison. They remain in Argentina while the request to extradite them to Brazil is being processed. 
+
+The couple is accused of operating a R$1 billion cryptocurrency pyramid scheme through Braiscompany, which promised returns of up to 10% per month to investors.
+
+Fabricia Campos, Neto Ais’ partner, was released from custody in Argentina following a petition by the couple’s defense lawyers - Nelson Wilians and Santiago Andre Schunck
+
+“The Argentine court accepted the petition presented by us and decided that Fabrícia awaits the course of the extradition procedure in freedom, given the understanding that she does not appear to be a threat to investigations and presents no risk of evading.”
+Victims remain hopeful
+
+Aggrieved individuals in Campina Grande reportedly held a motorcade to celebrate the news that Neto Ais had been arrested. 
+
+Artemio Picanço, an attorney representing victims who helped authorities track down Antonio Neto Ais’ location in Argentina, said that the news was a welcomed relief for those who had lost their investments through. “It rekindled hope that the money would be reimbursed.”
+
+Four-time world boxing champion Acelino ‘Popó’ Freitas, who was among the victims, celebrated the arrest with an Instagram post calling it the “Best Gift of 2024”.
+
+Argentine no longer a “refuge for criminals”
+
+Argentine Minister of Security Patrica Bullrich shared a video of the arrest on X, calling Neto Ais “the most wanted swindler in Brazil” and saying that “Argentina is no longer a refuge for criminals”.
+
+Valor Portal do Bitcoin InfoMoney Livecoins
+
+Blackrock’s bitcoin ETF arrives in Brazil
+
+Blackrock’s iShares Bitcoin Trust ETF began trading on Brazil’s B3 stock exchange on March 1 with the ticker symbol IBIT39. 
+
+The product, which has reached more than US$10 billion in AUM since launching in January, will trade through an ETF BDR (Brazilian Depository Receipts) arrangement, in which securities backed by ETF shares from abroad are traded on the B3.
+
+Karina Saade, president of Blackrock in Brazil, explained:
+
+"Our digital asset journey has been underpinned by the goal of providing high-quality access vehicles to investors. IBIT39 is a natural progression of our efforts over many years and builds on the fundamental capabilities we have established so far in the digital asset market.”
+
+The product charges a 0.25% administration fee, and will be reduced to 0.12% on the first US$5 billion of AUM. Blackrock has already launched 140 ETF BDRs on the B3 exchange. 
+
+Portal do Bitcoin Valor CriptoFacil InfoMoney BlockNews CoinTelegraph Brasil
+
+Chamber of Deputies approves urgency request for asset segregation bill
+
+A proposal presented to accelerate consideration of a bill requiring asset segregation for crypto brokerages operating in Brazil was approved by the Chamber by a 285-103 vote. 
+
+The urgency requirement allows the bill to be voted on directly by the full chamber without needing to go through committee. 
+
+Finding a legislative solution for the asset segregation problem has been a top priority for the Central Bank, which is currently crafting regulations for the industry. 
+
+InfoMoney Valor Portal do Bitcoin Exame CoinTelegraph Brasil
+
+Caixa Econômica to test Drex for Bolsa Familia payments
+
+The state-owned bank plans to use Drex to provide welfare benefits for recipients residing in remote regions and have difficulty accessing the internet or physical bank branches. 
+
+Rafael Dias Silva, national superintendent of the bank, explained: 
+
+"Caixa reaches 99% of the Brazilian population, municipalities, and riverside communities among them. However, riverside residents often have to move to a bigger city, withdraw this money and sometimes they do their shopping in a big city and brings these purchases to his city.”
+
+Dias estimated that around 5% of Bolsa Familia recipients could receive payments in this fashion.
+
+Valor Folha de S. Paulo Exame
+
+Crypto.com to distribute BTG Pactual stablecoin
+
+Crypto.com inked a strategic agreement with BTG Pactual to list the bank’s BTG Dol USD-pegged stablecoin. 
+
+The listing brings BTG Dol to 80 million customers globally, while expanding Crypto.com’s presence in the region. It already has a payment institution license from the Brazilian Central Bank and Crypto.com Visa card available in Brazil.
+
+Eric Anziani, president and director of operations at Crypto.com, said in a statement: 
+
+“BTG Pactual is a pioneer in visualizing the potential for collaboration between traditional and digital financial systems…We at Crypto.com share this vision of BTG, of innovating financial technology in a responsible way, with the aim of strengthening the economy. 
+
+Andre Portilho, head of digital assets at BTG Pactual, stated: 
+
+“BTG Pactual is at the forefront of integrating crypto technology into traditional financial markets, demonstrating our commitment to innovation and excellence. This announcement represents another step on that journey, providing our clients with unparalleled access to the evolving landscape of digital assets.”
+
+Portal do Bitcoin Exame CoinTelegraph Brasil
+
+Share via Whatsapp
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Bitcoin surpassed R$300,000 on February 28 for the first time since December 2021. (Portal do Bitcoin)
+BlockNews has a good profile of BRLA Digital and the team’s vision of being the portal for overseas companies and protocols to enter the Brazilian market. 
+Usage of the BRZ stablecoin, issued by Transfero, has returned to levels not seen since the collapse of FTX. Transfero CEO Marlyson Silva explained to BlockNews: 
+
+“Despite the drop in volume in a few months after the bankruptcy of FTX, operations with BRZ soon returned to similar levels with the listing and increase in transactions with the stablecoin on other exchanges.”
+
+Argentina has overtaken Brazil as the leader in bitcoin adoption in Latin America, according to a new report by Lemon. (CoinTelegraph Brasil)
+Mercado Bitcoin is launching R$6 million worth of RWA tokens in partnership linked to profits from Redepetro, a fuel distribution company. (CoinTelegraph Brasil)
+
+Subscribe now
+
+📲 Adoption
+
+Marcelo Tangioni, CEO of Mastercard in Brazil, explained that “we really believe in digital currencies”. Mastercard is currently involved in the Drex pilot and has been investing heavily in blockchain developent in recent years. He explained:
+
+“Mastercard is one of the companies that has the most patents in the world in blockchain, which is not just for cryptocurrencies.”
+
+Pinheiro Neto Advogados is currently incubating 7 blockchain startups in its incubator program - with names like Agrotoken, AmFi, Crypo Hero, BRLA Digital, One Amazon, OnePercent and Tokens for Sports participating. The startups receive pro bono legal assistance from a top law firm, while helping the firm stay close to innovation happening at the ground level. Tatiana Guazzelli, partner in the Banking, Payment Methods and Crypto practice, explained to BlockNews: “This undoubtedly also helps serve traditional customers who are jumping on this bandwagon.”
+The Flamengo football club has hired a firm called Yapoli to help it turn materials in the club’s archive into digital assets. (Portal do Bitcoin) 
+Bruno Lima, current Municipal Secretary of Innovation and Technology of São Paulo, spoke to Exame about the city’s adoption of blockchain technology. 
+78% of Brazilians see cryptocurrencies as the “future of finance”, according to a new survey published by crypto exchange OKX. (Exame) (CoinTelegraph Brasil)
+Brazilian NFT collection CryptoRastas is launching an integration on Polygon. (CoinTelegraph Brasil)
+Agrotoken announced a partnership with Safras & Mercado to establish reliable price indices for agricultural commodities, which are essential for referencing the trades that producers execute using Agrotoken. (CoinTelegraph Brasil)
+More than 4 million Brazilians are already using the new national identity card (CIN) that uses blockchain to confirm CPF data. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+Federal Police launched Operation Brianksi to take down an organization accused of money laundering using cryptocurrencies. The agency carried out 10 search and seizure warrants in Florianopolis, Goiania and Eusebio, and seized an R$40 million (US$8 million) worth of assets.Among the assets seized in the raid was a Fortaleza house formerly owned by country singer Simone Mendes and acquired by Russian nationals in 2023. The police also ordered that the bank and exchange accounts of 25 individuals and legal entities be blocked. (Valor) (Portal do Bitcoin)
+Federal Police also launched Operation Fast targeting a criminal group that carried out cryptocurrency-related scams in Santa Catarina and Parana. The group alleged stole R$100 million (US$20 million) from 20,000 investors via crypto and NFT scams. Two arrest warrants and six search and seizure warrants were carried out in Itajaí, Balneário Camboriú, Curitiba and Londrina. (Valor) (InfoMoney) (Portal do Bitcoin) (Livecoins)
+Brazil’s CVM will modify its crowdfunding rules to accommodate growing demands for tokenization of receivables. CVM Commissioner Daniel Maeda told BlockTrends:
+
+“Our regulation on this matter, or any other, is neutral in terms of technology. But we see crowdfunding platforms, or have been seeing them, as a possible cradle, among our various regulated infrastructures, for the development of the issuance of tokenized securities, or even native tokens.” (CoinTelegraph Brasil)
+
+New rules requiring financial institutions to provide financial education to clients will come into force in July. Cryptocurrency brokerages will be subject to this once they are regulated. (BlockNews)
+A Rio de Janeiro attorney who had represented aggrieved investors against GAS Consultoria was shot and killed near the Rio branch of the Brazilian Bar Association. (Portal do Bitcoin)
+
+

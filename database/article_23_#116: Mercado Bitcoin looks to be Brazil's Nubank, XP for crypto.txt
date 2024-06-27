@@ -1,0 +1,123 @@
+#116: Mercado Bitcoin looks to be Brazil's Nubank, XP for crypto
+Plus: Campos Neto meets with crypto investors; Solana seeks new partnerships in Brazil
+
+Olá pessoal!
+
+Welcome back to 🇧🇷Brazil Crypto Report for the week of February 5-9, 2024. I hope you are all enjoying your Carnaval season.
+
+I’ll be heading to ETH Denver later this month. Feel free to shoot me a note if you’ll be around and want to have a chat.
+
+Also before we dive in, Leandro Pereira (Sciammarella) published an excellent article called “Drex for Gringos” that I highly recommend if you are looking for more Drex information in English.
+
+Also, if you're not already subscribed to BCR on Substack, please consider doing so for more content like this
+
+Have a great week everyone.
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷 Brazil Crypto Report  a follow on X/Twitter, Linkedin and Instagram
+
+🎙New podcasts
+
+We’ve got two must-listen podcast episodes for you this week. The first is with José Augusto de A. Antunes Filho (Guto Antunes), head of digital assets at Itaú. Antunes explains why Latin America’s largest bank is aggressively expanding its digital assets division with business lines touching tokenization, custody, distribution and Drex.
+
+The second is with Fabio Araujo of the Brazilian Central Bank. The coordinator of the Drex project, Fábio details the scope of the proposed overhaul of Brazil’s financial system and gives us an update on the 2024 roadmap.
+
+🎧 As a reminder, you can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Solana Foundation seeks partnerships in Brazil
+
+The Solana ecosystem is looking for new business and partnership opportunities in Brazil to encourage use of the network and attract local developers.
+
+Diego Dias, head of Latam at the Solana Foundation, told Valor that as far as Web3 tech is concerned, Brazil still remains a country of users and not builders, and that incentives need to change for that dynamic to shift.
+
+“Brazil has one of the best developed crypto legislations in the world, and yet it builds much less than the United States, which has aggressive legislation against crypto assets.”
+
+Earlier this year, Solana Foundation announced a US$10 million investment into the Brazil ecosystem to support hackathons, entrepreneurship and community building, and now it is aiming for more business partnerships.
+
+Estevão Rizzo, head of marketing and operations at the Solana Superteam Brasil, explained that they are pursuing ticketing companies on that front.
+
+“We are in talks with ticketing companies to provide support with NFT [non-fungible token] structures. Solana has a “compressed NFTs” solution that is very useful in this regard.”
+Roberto Campos Neto meets with crypto investors, stakeholders
+
+The Brazilian Central Bank president met with a group of crypto investors and stakeholders including Dan Tapiero of 10T Holdings and Axel Blikstad, CFA founding partner at BLP Crypto.
+
+Campos Neto also spoke about the transformation to a financial system at the BTG Pactual CEO Conference 2024. You can see his full remarks below (in Portuguese)
+
+Mercado Bitcoin looks to be Brazil’s crypto version of Nubank or XP
+
+MB CEO Reinaldo Rabelo gave a long interview to Renan S. Sousa of Seu Dinheiro discussing the exchange’s goals for 2024 as crypto enters what appears to be another bull market.
+
+Brazil’s unicorn exchange survived the downturn of 2022-23 which included several layoff rounds and an acquisition by Coinbase that didn’t make it across the finish line.
+
+“We managed to make good use of the last growth cycle of 2021, when the world went through a rare window of global liquidity that opened.”
+
+Now MB looks to position itself in the Brazilian market as the “middle ground” between the traditional market and the tokenized economy - offering crypto assets, tokenized assets, etc.
+
+Regarding a potential IPO, Rabelo says that the option is on the table, but that “we do not need to activate this alternative at the moment”. He also didn’t rule out further conversations with investors, but would prefer to focus on building a local ecosystem.
+
+At the end of the day, Rabelo sees Mercado Bitcoin becoming a financial market powerhouse the same way as Nubank and XP.
+
+“If XP and Nubank got where they are, why can’t we be the equivalent in the crypto world?…Are they the only ones who fit into this world of new and large capital market companies in Latin America? We don’t think so.”
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Agrotoken CEO Eduardo Novillo Astrada (h) explained in an interview with Forbes why the company has shifted its focus completely to Brazil in 2023
+
+“Not only because it is the number one country in agriculture, but we think it is the number one country in everything that a tokenized economy and finance will do.”
+“I come from the United States, where everyone supports that idea the one we had a year ago. Brazil is positioning itself as a reference in the world of blockchain and tokenized economy and finance. I think it's a bet that paid off for us and Visa and Bunge are also betting on Brazil. Our focus and resources, including those added in this round, are there. Maybe something more will come, but in principle the total focus is on Brazil”.
+
+Brazil consolidated as the second largest market (behind only the US) for crypto fund inflows so far in 2024, with US$29 million in inflows according to CoinShares. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Brazilian environment tech company Bluebell Index issued R$6 million (US$1.2 million) in tokenized carbon credits, with each unit equivalent to one ton of carbon dioxide, water, soil and biodiversity. The source of the credits are farmers, ranchers and forest owners who, by law, must retain at least 20% native forest. CEO Phelipe Spielmann explained that the company already has clients lined up to purchase the assets:
+
+“Today, we have contracts like that of the Dubai government, which buys tokens and distributes them to companies that pollute in the region.” (Valor)
+
+Brazilians have a more diversified crypto portfolio than their peers in other Latin American countries, according to a new survey of crypto adoption across Latam by Bitso. You can read the full report here.- The average Brazilian client has 17 percent of their portfolio in altcoins, vs 11 percent on average for the region- However, Brazilians have 58 percent of their portfolio in BTC, the highest rate among countries analyzed- 3 percent of total funds held by Bitso’s Brazilian customers are in Shiba Inu (Portal do Bitcoin) (CoinTelegraph Brasil)
+BEE4 , the blockchain-based secondary marketplace operating in the CVM regulatory sandbox, aims to bring 11 listings to market this year, according to CEO Patricia Stille. The platform lists shares of private companies with annual revenues of R$10 million to R$300 million. (Inteligencia Financeira)
+Daniel Rocha analyzes in an E-Investidor column why large banks in Brazil haven’t gone full in on offering crypto brokerage products to retail customers. Of Brazil’s five largest banks, just two are offering crypto to retail customers (still pretty good by global standards!), though all the banks have various crypto offerings restricted to qualified investors. Lingering questions about the nature of the asset class and a lack of a specific regulation framework (to come later this year) appear to be the primary holdup. But things are moving in the proper direction, argues Nonco co-founder Guilherme Cannavale Rebane, CGA:
+
+“For Itaú to offer this asset class, there was a series of financial and reputational risk analyses in order to make cryptocurrency negotiations viable…Brazilian banks have shown a lot of maturity when accessing the asset class.”
+
+MB Tokens, Liqi and AmFi , Brazil’s three largest asset tokenizers, combined to offer more than R$24 million (US$4.8 million) worth of real world assets to retail investors in the month of January, CoinTelegraph Brasil’s Gino Matos reports.
+estar.finance was approved by the CVM to sell RWA tokens linked to profits from TMX Energia’s Patos de Minas plant, which are issued on the Stellar blockchain. The secondary market listing is in reference to an R$4 million offer raised by BLOX , a partner crowdfunding platform. Estar Finance CEO Pedro Rodrigues explained:
+
+“By becoming part of the platform, anyone has instant access to tokenized assets and the ability to carry out trades immediately. The investor can buy much smaller shares than in primary funding. For example, TMX, in which the minimum investment quota was R$10 thousand - with tokens at R$10 you can buy 0.01% of the quote offered in the primary.” (CoinTelegraph Brasil)
+📲 Adoption
+
+Fireblocks and Pinheiro Neto Advogados are hosting a virtual asset summit on February 28 in São Paulo. Fireblocks CEO Michael Shaulov will be the keynote speaker. You can register for the event here.
+EthSamba is hosting Rio Onchain Week from March 19-24, with a series of builder and community focused events happening during that time.
+A new study by Arthur Inc (formerly Arthur Mining) and Genial Investimentos argues that bitcoin mining can help unlock idle energy in Brazil’s electrical matrix, to the tune of R$300 million in revenue by 2026. (InfoMoney) (CoinTelegraph Brasil)
+Bitcoin mining expert Allex Ferreira argues that Brazil has what it takes to become a mining powerhouse in Latin America, as the opening up of energy markets in recent years has created a more favorable environment.
+
+"With the possibility of choosing energy suppliers and negotiating prices, the activity has become more profitable and attractive for investors looking for new business opportunities. Furthermore, the abundance of natural resources, favorable climatic conditions and Low electricity costs place Brazil in a prominent position as a possible bitcoin mining center.” (Exame)
+
+Mastercard executive vice president Raj Dhamodharan spoke with João Pedro Malar Massa of Exame about his involvement in CBDC projects around the world, including the Drex pilot. He argued that the Drex system is one of the more innovative such projects he’s come across:
+
+"Brazil is leading part of this innovation because of the Central Bank, which has a well-thought-out, progressive stance. We think Brazil is at the forefront of this. Few countries have implemented a system like Drex, and Brazil already has it. It's an innovative structure, with CBDCs and bank deposits already tokenized, so we're excited.”
+
+Drex, tokenization and AI are the top payments technology trends in 2024, according to Cartão Elo’s annual Trends in Payment Technologies report. Elo CEO Giancarlo Greco stated:
+
+“Brazil has been making great advances within the financial innovation theme, among them, the construction of Drex stands out…It is estimated that by the end of this decade, more than 98% of global GDP will float freely through CBDC integration systems. We are facing one of the most disruptive movements since the origins of the capital market, back in the 17th century.” (CoinTelegraph Brasil)
+
+XRP Ledger announced the winners of their first hackathon in Brazil. 90 percent of the submitted projects were focused on finance, half focused on asset tokenization and one-third related to Drex. (BlockNews)
+Stake Together, an Ethereum staking and restaking protocol built by Brazilian developers, says that it will integrate with Pix for buying and selling ETH. (CoinTelegraph Brasil)
+MOBIUP is launching a new training program for blockchain developers. Co-founder Rodrigo Caggiano said in a statement:
+
+“With the arrival of DREX, we understand that there will be a great shortage of qualified labor in the coming years. Our objective is to train a considerable number of professionals, for a market that is increasingly growing here in Brazil and abroad.” (CoinTelegraph Brasil)
+
+Brazilian startup Bipa announced its new BitPix feature that simplifies the conversion of Pix deposits into bitcoin or USDT. (CriptoFacil)
+
+🏛 Policy, Regulation and Enforcement
+
+Titanium Asset regained the management of three crypto investment funds that were blocked by a court order on November 28 of last year in light of a Federal Police investigation, though withdrawals are not yet permitted. Titanium employee Thais Oliveira Almeida has been appointed a “provisional manager” for a 60 day period and must submit to monthly inspections from authorities. Titanium Asset was running alleged pyramid scheme involving assets worth R$1 billion (US$ 200 million) and harming 7000 investors, according to Federal Police. (Valor)
+Urban Crypto Exchange, which operates in the over the counter market in Brazil, has joined ABcripto - Associação Brasileira de Criptoeconomia. (Portal do Bitcoin)
+The owners of Fiji, a Paraiba company that sold investment contracts linked to cryptocurrencies, are defendants in a new complaint that accuses the company of operating a pyramid scheme. Fiji was a rival to financial pyramid Braiscompany in Campina Grande. (Portal do Bitcoin)
+Federal Police launched an operation called SYMBOLIC against a bookmaker for foreign exchange fraud, currency evasion and money laundering using cryptocurrencies. Five search and seizure warrants were executed in Curitiba, Campinas and São Paulo. (Portal do Bitcoin) (Valor)
+A group of Brazilians, inspired by “Wolf of Wall Street”, who are accused of using cryptocurrencies to embezzle funds are being extradited from Portugal to Brazil. (Portal do Bitcoin)
+We reported here last week that the Receita Federal used artificial intelligence to identify 25,000 Brazilians who did not report bitcoin on their taxes. Declare Cripto explains what the consequences will be for those individuals, in a Livecoins op-ed
+BlockNews and Portal do Bitcoin provided overviews of several of the submissions received during the Central Bank public consultation, including those from Digital Currency Group, Lukka , Zetta , FEBRABAN, ABcripto - Associação Brasileira de Criptoeconomia and more.
+
+
+
+
+

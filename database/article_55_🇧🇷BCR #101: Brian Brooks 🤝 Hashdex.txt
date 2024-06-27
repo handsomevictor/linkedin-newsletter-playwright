@@ -1,0 +1,186 @@
+🇧🇷BCR #101: Brian Brooks 🤝 Hashdex
+Plus: Central Bank announces public consultations for proposed crypto regulations
+
+Olá pessoal!
+
+Welcome to edition #101 of 🇧🇷Brazil Crypto Report! I took a bit of time this weekend to reflect on the fact that I’ve now produced 100 editions of this newsletter.
+
+I went all the way back to July 3, 2021 to take a fresh look at my genesis post for this Substack.
+
+In that genesis post I laid out my three core reasons for spinning up an English-language publication focused on the Brazil market:
+
+Brazil will be one of the most important growth markets for the crypto industry over the next 2-3 years
+Despite its potential, Brazil doesn’t receive the attention it merits from the crypto industry
+Brazil’s culture, politics and economics are quite complex and therefore require a degree of translation and interpretation
+
+If you’ll allow me to give myself a congratulatory pat on the back here, I can say confidently that all three of those seem dead on two years later. We’ve seen Brazil become one of the most important growth markets for crypto amid regulatory uncertainty in other jurisdictions, and this has come despite the fact that most gringos have no idea of what’s actually happening here.
+
+It’s been exciting to have a front row seat to this emerging crypto market - last year’s legislative battles, this year’s Digital Real pilot, firms like Nubank and Mercado Livre onboarding massive numbers of new crypto customers, larger than life bitcoin pyramid schemes. The list goes on - every week there’s something new happening.
+
+Now it appears that I’m going to be invited as an expert witness by the congressional CPI committee. It’s a big honor, even though I’m not entirely sure what it means yet.
+
+With all of that said, I’d welcome your feedback on what you find valuable about BCR and how it can add more helpful to you. Feel free to reach out anytime in English or Portuguese at aaron@brazilcrypto.report, Linkedin or @AaronStanley on Telegram.
+
+Have a great week everyone.
+
+Friendly reminder that this Linkedin edition is an abridged version of the full newsletter which I publish on Substack. I highly recommend subscribing there if you if you enjoy this content and want to stay abreast of the Brazil crypto ecosystem.
+
+-AWS
+
+Central Bank announces crypto regulation consultations
+
+The consultations will solicit the feedback of industry experts and the wider public, seeking their insights and responses on the proposed regulatory framework that the bank intends to implement for overseeing the cryptocurrency market. The consultation process will take place over the remainder of 2023.
+
+Otávio Damaso, director of regulation at the Banco Central do Brasil, said in a statement:
+
+“Virtual assets use technology that represents an important opportunity for innovation in the financial system. Decentralization, reduction of trading costs, transparency gains and integration between different types of products and services have revolutionary potential to increase efficiency and financial inclusion. However, many of these innovations also bring new or increased risks, requiring additional care on the part of regulators.”
+
+The bank said it is studying international recommendations for regulating crypto and seeks to build a system that adheres to the principles of free initiative, free competition and consumer protection.
+
+Importantly, the bank also noted that it intends to expand its regulatory purview to include native assets of decentralized finance systems, noting that it seeks to prevent investor exposure to these assets that do not have appropriate levels of disclosure. No specific assets were mentioned, but nothing would necessarily prevent cryptos like Compound, Aave and Uniswap from being included here.
+
+Once the final regulations are unveiled, companies that are already operating in the Brazilian market will have six months to come into compliance.
+
+The bank also published a fun YouTube video discussing how it plans to regulate the crypto market.
+
+(InfoMoney) (CoinTelegraph Brasil) (Portal do Bitcoin) (Exame)
+
+Hashdex taps Brian Brooks, ex Acting Comptroller of the Currency and ex-Binance.US CEO, for its Board of Directors
+
+Brooks joins the board and will assist in US and international expansion efforts for the Brazilian crypto asset manager.
+
+For those not aware, Brooks has been a critical figure in crypto for many years. He was chief legal officer at Coinbase before being appointed to lead the US Office of the Comptroller of the Currency from May 2020 to January 2021.
+
+Although his OCC tenure was short due to the change in presidential administrations, he became easily the most pro-industry regulator we’ve ever seen in the US. Under his watch, the agency issued guidance permitting US banks to provide services to crypto companies and allowing US banks to use stablecoins in payments.
+
+Upon vacating his OCC post, Brooks made the jump to CEO of Binance.US. However, that gig ended after four months when he resigned citing “strategic differences”, and what happened under his tenure there remains an intriguing mystery given Binance’s recent legal woes. Brooks then re-emerged as CEO of Bitfury, one of the industry’s OG bitcoin mining companies, before stepping down in March 2022. He still serves on the firm’s board.
+
+Brooks had been acting as an advisor to Valor Capital Group for several years and formalized that relationship by becoming a partner at the firm earlier this year. Most readers of this publication will know that Valor is one of the largest venture firms focused on Latin America and is an investor in most of the region’s key crypto companies - including Hashdex. Brooks will act as Valor’s representative on the Hashdex board and assist with the asset manager’s expansion efforts into new markets around the world.
+
+Brooks’s cachet and positioning in the US should be instrumental for Hashdex considering that we may be getting close to seeing a bitcoin ETF finally approved. He told Valor in an interview:
+
+“Hashdex is the largest crypto manager in Latin America and has proven experience in spot crypto ETFs. There may be a bitcoin ETF in sight even before BlackRock and Fidelity.”
+
+Now, personally, I don’t think we’re going to see a spot bitcoin ETF in the US anytime soon, but obviously the recent Blackrock filing has ramped up interest in this massively so having someone with Brooks' pedigree certainly won't hurt Hashdex's prospects here. 
+
+Just for fun, here’s an AI generated image of Brooks and Hashdex CEO Marcelo Sampaio playing volleyball on the beach in Leblon. Bet you can't tell that it's fake
+
+🎙Brazil Crypto Report Podcast
+
+For this week’s podcast I sat down with Adam Lowe, who is the chief product officer at Composecure - manufacturer of the Arculus hardware wallet. The crypto custody world has been having a lot of problems the last few months, so I wanted to bring on an expert who could help shed some light on these issues with an eye toward new solutions.
+
+Arculus has a novel three factor authentication solution that addresses some of the current woes, and they’re making a push to expand in Brazil and Latam so definitely worth a listen.
+
+🎧 Spotify | Apple Podcasts | Amazon | Anchor
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Valor Investe published a good analysis examining Brazilians’ crypto trading trends over the first half of 2023. 90 percent of the R$81.5 billion (US$17 million) traded between January and May came in the form of dollar-pegged stablecoins such as Tether. Some other key findings:
+
+The average USDT transaction was R$70,000 (US$15,000), while the average bitcoin transaction did not reach R$700 (US$146)
+
+One of the problems posed by stablecoin adoption is that there is not yet a legal framework governing cross-border remittances with crypto, though this will likely be included in the Central Bank’s forthcoming regulatory framework.Tatiana Mello, partner at Pinheiro Neto Advogados, stated:
+
+“The international transfers that we have seen happen a lot in the market have these two potential risks: not going through the traditional exchange market and not paying taxes”
+
+Bitcoin was the preferred cryptocurrency of Brazilians over the last 12 months, according to information from Google Trends. (CriptoFacil) (BeinCrypto)
+Cryptocurrency imports into Brazil surged to R$18.3 billion (US$3.8 billion) during the first half of 2023, according to an IPEA report. The number indicates an 18.6 percent increase in the purchase of cryptocurrencies by people residing inside the country. (Portal do Bitcoin)
+
+Liqi Digital Assets’s Daniel Coquieri wrote about a new tokenization primitive called Credit Rights Investment Tokens (CoinTelegraph Brasil)
+Coqueiri examines, in another, op-ed the impacts that falling interest rates in Brazil could stimulate investments in risk assets like cryptocurrencies. Meanwhile, a new survey from XP shows a hunger among Brazilian investors for risk assets, with 65% of respondents looking to increase their positions in the equities over the coming months. (Portal do Bitcoin) (Valor)
+The cumulative AUM of Brazilian crypto funds is down US$42 million year-over-year, but B2V Crypto co-founder Alexandre Vasarhelyi, CFA, CGA predicts inflows will pick up in the second half of 2023.
+
+“What we are seeing in the second half is a trend of investors returning to crypto asset funds. Until then, investors were still shy, or had taken some money.” (CoinTelegraph Brasil)
+
+Mercado Bitcoin rolled out a Buy with Pix feature that allows direct crypto purchases within the apps of partner financial institutions. (CoinTelegraph Brasil)
+Acura Capital acquired a 10 percent stake in Patex with a US$10 million investment. Patex pitches itself as a native blockchain ecosystem aimed at Latin America. Patex’s Henrique Marinho stated:
+
+"Our alliance not only signifies growing institutional interest in the cryptocurrency market, but also establishes Patex as an important player in the Latin American market for Central Bank Digital Currencies (CBDCs). (CoinTelegraph Brasil)
+
+New data showed 78.5 percent of Brazilian families are in debt, with 18.5 percent of families considered themselves heavily indebted. (CoinTelegraph Brasil)
+Oliveira Trust, a 32 year-old Brazilian financial group with R$ 150 billion (US$31 billion) in managed assets, has invested in tokenization companies Liqi and Bee4, in preparation for a future tokenized financial system. In an interview with Exame, CEO José Alexandre Freitas said tokenizing debentures, for example, will be able to grow the pool of investors capable of buying these products - especially among younger generations.
+
+"when you think of issuing debentures, of a structured fund, it has a high cost that includes all participants in the structure and the regulatory compliance that it requires. This higher cost makes it unfeasible for small and medium-sized companies and operations to enter.”
+"When it goes to tokenization, the sale takes place even in minutes, directly between the issuing company and the final investor, with much more variable values. It is very fast, direct, with lower costs, managing to serve the small and medium customer.”
+
+Banco Itaú published published a bullish informational text on Linkedin outlining various facts and myths about cryptocurrencies. The text argues that the “future of the cryptoeconomy is promising.”
+Mercado Bitcoin announced a partnership with @Renova Invest, a BTG Pactual-linked investment advisory firm, to boost distribution of digital fixed income tokens in Brazil. Henrique Pocai, commercial director at MB, said in a statement:
+
+“We estimate that 80% of the retail token market in Brazil is operated by the MB and the partnership we are signing with Renova will further strengthen this segment. In this way, we are planning to expand the number of partner offices, allowing even more investors to have access to digital fixed income and other crypto assets.” (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+estar.finance, a secondary market for trading tokenized shares of technology startups operating in the CVM’s regulatory sandbox, surpassed 2,000 total trades since launching - moving 6,284 total tokens from 1,079 investors. (BlockNews)
+Stockash, a fintech that provides stock option advances, tokenized a bond worth R$110,000 (US$230,000) in partnership with AmFi. The note will be issued in two rounds: the first establishes payment related to the actual debt, and the second provides an “equity fee” to investors. The token is expected to yield 24% per year with a two year maturity. (Valor)
+
+📱Adoption + Digital Real
+
+Fab Santos Santos of Criptomaníacos wrote a good op-ed arguing that the Brazil crypto industry’s enthusiasm for the Digital Real is short-sighted, as government decisions inevitably take on the sole objective of expanding and perpetuating power.
+
+“when someone comes up with the narrative that Real Digital Technology is similar to Ethereum or Bitcoin, don't believe it. The government and its friends will try to sell pyrite like it's gold.” (Portal do Bitcoin)
+
+Itaú Unibanco installed the first validator node on the Digital Real blockchain, built on the Hyperledger Besu network. Once the other 15 participants begin spinning up their nodes, the banks will begin interoperability tests for payments between institutions. The deadline for installing nodes comes in September. José Augusto de A. Antunes Filho (Guto Antunes) head of digital assets at Itaú, said:
+
+"Now we will be able to dive into testing the smart contracts that will be generated in the nodes. We will first mint [create on the blockchain] the Real Digital and the Real tokenized from bank deposits.From then on, we will carry out transfers and redemptions together with the institutions in the other nodes.” (Valor) (CoinTelegraph Brasil)
+
+Banking and payments infrastructure provider Núclea is creating a new arm to explore opportunities related to tokenization and blockchain. It will focus on bringing scale and interoperability to the Digital Real. Nucleo is part of the Bradesco consortium and is invested in tokenized equity startup BEE4. Cesar Kobayashi, the division’s team lead, said in a statement:
+
+“The mandate is to identify opportunities involving the tokenization ecosystem, but always focused on the benefits to add value, whether in the digital real, for the nation as a whole, or for financial and payment institutions that see in Nuclea a way to reduce operating costs.” (Valor)
+
+The Digital Real rollout will likely take longer than that of Pix, Sinqia chief innovation officer Leo Monte argued in an interview with Exame, because the CBDC will likely require significant changes to current financial infrastructure. Singia is a participant in the Digital Real pilot.
+
+There remain many doubts about the architecture, functioning and validations in the system, though the pilot phase should answer at least some of those questions.
+
+There exist numerous unaddressed challenges in the realm of payments, taxes and integration with the broader economy. Monte explained:
+
+"It's a very broad universe, with many different rules, bodies that act. The big challenge is to be able to tokenize the traditional economy, transform physical money into digital money, manage to make this integration between traditional currency, Pix and Real Digital happen.” (Exame)
+
+Otávio Damaso, director of regulation at the Central Bank, argued that upcoming tokenization initiatives will transform the country’s financial system in a recent debate. (Valor)
+@Tatiana Ourofino, @AWS Brasil’s business development leader for financial services, talked to Exame about the services the company offers to the Digital Real network:
+
+“Not only for the computing power part, but for example, confidential computing. we have served key management services that support confidential computing so that different parties in a digital payment arrangement have access to their own key and the transaction takes place securely.”
+
+Samsung Brasil is offering free courses on blockchain, metaverse and artificial intelligence technologies through its Ocean educational program. (Portal do Bitcoin) (Exame)
+The National Foundation of Indigenous Peoples (FUNAI) issued an alert about a tokenized carbon credit scheme called Green Forever. The entity urged that the Aikewara Suruí, from the Sororó Indigenous Land in the state of Pará, not follow through with project. Green Forever is a crypto project with a native token that raised R$1.5 million, but removed its fundraising campaign from its website when contacted by Folha de S. Paulo about the matter. The indigenous group did not follow through with the agreement. (Folha de S. Paulo)
+The state of Ceará seeks to invest up to R$3 million (US$627,000) in startups from various sectors, including cryptocurrency, through its Cearense Foundation for Scientific and Technological Development (Funacap). (Livecoins)
+InfoMoney profiled several Brazilian crypto investors who have generated 25-40 percent monthly returns in decentralized finance projects.
+A bitcoin pyramid called Grow Up has defaulted on at least 300 investors since the beginning of the year. (Portal do Bitcoin)
+YouTuber Rogério Betin, known for his channel where he exposes frauds and bitcoin pyramid schemes, said he is considering leaving Brazil due to threats against him and his family after entering a feud with Btrader Technologia e Investimentos, a scheme that recently began delaying bitcoin withdrawals for clients. (Livecoins) (Portal do Bitcoin)
+The Brazilian government announced that the new version of the RG, a primary personal identification document in Brazil launched in 2022, now uses blockchain technology and has surpassed one million registrations.
+
+The information is validated with the Receita Federal through the b-Cadastro, which is based on Hyperledger.
+
+The information was disclosed by Rogerio Mascarenhas, Secretary of Digital Government of the Ministry of Management and Innovation, in a YouTube interview.
+
+The next stage of the project involves replacing the current database system that stores identity data of Brazilian citizens with a blockchain network in connection with Serpro, a government-owned IT services company. The agency elaborated:
+
+“a permissioned blockchain network will be established between the Federal Revenue of Brazil (RFB) and the Identification Institutes, which will become a partner of this network.” (CoinTelegraph Brasil) (Exame)
+
+The Curitiba Development and Innovation Agency promoted a public discussion on cryptocurrencies, tokenization and Digital Real. (Livecoins)
+An electronic music club in Belo Horizonte is using blockchain technology as part of a loyalty program for VIPs. (CoinTelegraph Brasil)
+
+NFTs, Metaverse and Games
+
+NFT project CryptoRastas has updated its roadmap for 2023, with a new focus on more Portuguese language content and community engagement, including special events in Salvador and São Paulo later this year. (CoinTelegraph Brasil)
+Brazilian television channel Woohoo, known for skateboarding and surfing content, is making a bet on Web3 and crypto in an attempt to draw new audiences. (Exame)
+
+🏛 Policy, Regulation and Enforcement
+
+Federal Police launched an operation against a crypto pyramid scheme in Santa Catarina that resulted an estimated R$1.5 billion (US$313 million) in damages to investors. Police did not disclose the names of the individuals arrested, nor the company involved. (Portal do Bitcoin) (Valor)
+Genesis became the latest cryptocurrency pyramid to collapse after nine members were arrested.
+
+The scheme promised to pay 2.5% daily income to investors who deposited at least US$50 worth of Tether on the platform.
+
+Users earned referral bonuses for recruiting new users
+
+Problems arose in late May when a flurry of problems to the Genesis app arose, after which investors were told they needed to deposit an additional 10% of their invested amount to re-validate their account and request withdrawals. (Portal do Bitcoin)
+
+ABcripto - Associação Brasileira de Criptoeconomia added crypto tax software company Declare Cripto as a member.
+Federal Police launched the fourth phase of Operation Halving, known as Trade Off, against Braiscompany. Police executed three search and seizure warrants in São Paulo and Sergipe. Additionally, a judge issued an order blocking R$136 million worth of funds held by those being investigated. (Portal do Bitcoin) (InfoMoney)
+A tax reform package that is likely to be approved by Congress soon will likely result in increased tax burdens for cryptocurrency companies operating in Brazil. (Portal do Bitcoin)
+“Sheik of Bitcoins” Francisley Valdevino is scheduled to testify in front of the Parliamentary Commission of Inquiry examining cryptocurrencies on August 8. (Portal do Bitcoins)
+CoinLivre CEO Fábio Matos argues that the CVM, Brazil’s securities regulator, has given “ease and clarity” to the tokenization market with its recent guidance reinforcing the understanding that digital fixed income tokens are securities. (CoinTelegraph Brasil)
+ABStartups has named Mariane Takahashi as its new CEO. (BlockNews)
+
+

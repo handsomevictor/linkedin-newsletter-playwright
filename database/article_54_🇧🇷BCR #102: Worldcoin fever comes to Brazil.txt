@@ -1,0 +1,159 @@
+🇧🇷BCR #102: Worldcoin fever comes to Brazil
+Also: Unpacking the crypto CPI; Credix launches new receivables pool with Solana
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for July 24-28, 2023 and greetings from sunny Florida. In this edition we look at Worldcoin iris-scanning Orbs coming to Brazil, Credix’s new receivables pool, and a new Digital Real “buildathon” being organized by Fenasbac and the Ethereum Brasil team.
+
+Thanks so much for reading and have a great week!
+
+-AWS
+
+Friendly reminder that this Linkedin edition is an abridged version of the full newsletter which I publish on Substack. I definitely recommend subscribing there if you if you enjoy this content and want to stay abreast of the Brazil crypto ecosystem 👊
+
+👁Worldcoin Orbs come to Brazil
+
+At least three of Worldcoin’s eye-scanning “Orb” stations popped up in São Paulo last week. Willing participants lined up to have their eyes scanned by the now infamous 2 kg metallic sphere in exchange for a new digital ID and some WLD tokens.
+
+Worldcoin is a controversial project, founded by OpenAI kingpin Sam Altman, that seeks to create unique digital identities, called “World IDs” and “proof of humanity”, via iris scans. The idea is that these World IDs become a global passport of sorts, allowing people to seamlessly login to websites and applications, etc.
+
+Participants who complete the Orb scan are rewarded with 25 WLD, which is worth approximately R$260(US$56).
+
+🔮 WLD was among the most popular coins in Brazil this pas week, as tracked by CoinGecko 👇
+
+
+
+
+There were at least three Worldcoin Orb stations set up in São Paulo last week:
+
+MaacHub in the Jardins neighborhood
+Club Co-working in Itaim Bibi
+Akasa Itaim in Itaim neighborhood
+
+Cláudio Goldberg Rabin Goldberg Rabin of Portal do Bitcoin was onsite at the locations interviewing willing subjects. Gabriel Kupferman, a 26 year-old entrepreneur, wasn’t turned off by the dystopian critiques of the project. He argued that surveillance has already arrived and that he trusts the technologists more than he trusts the government:
+
+“The government already has your fingerprint for the passport, buildings in São Paulo ask for your RG and CPF, etc. The iris of the eyes is one of the few unique 'references' not cataloged by any institution. That is, starting to create greater security and anonymity from something new is certainly in our interest as users”.
+
+Those who would prefer not to scan their eyeballs for R$300 can buy WLD on Mercado Bitcoin, which became the first Brazilian exchange to list the coin this week. WLD tokens can also be purchased on the Digitra.com exchange.
+
+If you want to learn more about Worldcoin I recommend this Bankless interview with founders Sam Altman and Alex Blania. CoinDesk’s Michael Casey also had a thoughtful take addressing the controversies surrounding Worldcoin, which he argues is the most controversial crypto project since Facebook’s Libra/Diem.
+
+I personally see the obvious value proposition of a project like this in the age of AI and deepfakes, etc, however the dystopian angle is equally obvious. Suffice to say I won’t be staring into the Orb anytime soon.
+
+(CoinTelegraph Brasil) (Portal do Bitcoin) (Livecoins)
+
+Credix launches trade receivables lending pool on Solana
+
+The private pool lets lenders to earn up to 11 percent yield on credit products issued to Colombian farmers, backed by receivables.
+
+The size of the pool could grow as large as US$150 million based on current demand for capital in the country. Loans are underwritten and originated by a local partner and then the private notes are settled in USDC on the Credix platform.
+
+The first investors in the pool are the Solana Foundation and market-making firm Keyrock.
+
+Credix CEO Thomas Bohner said in a statement:
+
+“This groundbreaking initiative not only brings a unique offering to the market but also holds power to make a significant social and economic impact by providing crucial financial support to farmers in Colombia.”
+
+If you want to learn more about Credix and how it works, you can listen to this podcast interview I did last summer with CTO Maxim Piessen. I’m also scheduling a follow up with the team to get caught up on all of these news announcements. Stay tuned
+
+(CoinDesk) (BlockNews)
+
+CPI conundrum: what if witnesses do not show?
+
+As the whereabouts of several summoned witnesses remain unknown, the looming question surrounding the congressional investigative committee on financial pyramids remains: what happens if summoned witnesses do not show?
+
+The textbook example is Braiscompany founder and summoned witness Antonio Neto Eis, who has been on the run from Federal Police for nearly six months (believed to be in Argentina)
+
+Portal do Bitcoin's Fernando Martines reports that Deputy Aureo Ribeiro, chair of the committee, stated that attendance by the witness is mandated and can be coerced. However, the legality of forcing witnesses to testify in front of congressional committees is questionable. Until 2018, it was possible to coerce a witness to testify via court order until the Supremo Tribunal Federal ruled it unconstitutional, meaning that it is now prohibited for a person under investigation to be forced to testify against their will at a CPI.
+
+This procedure became famous in 2016 when Lula was forced by judge Sergio Moro to testify at a CPI on the Lava Jato scandal, which ultimately resulted in Lula’s conviction and imprisonment.
+
+Ribeiro said that the committee would take all steps available to make witnesses testify, but conceded that there were other remedies at his disposal in the event of a no-show:
+
+“If the summoned person is under investigation and does not appear, we cannot request coercive conduct, but the CPI has other instruments: breach of tax, bank and telephone secrecy or, depending on the case, we can request the Judiciary to search and seize the residence. and companies of those summoned.”
+🎙Brazil Crypto Report Podcast
+
+In this week’s podcast I talked to Gean Chu from Honey Island Capital about the venture firm’s new Web3 fund, which will feature a variety of liquid token and on-chain strategies. I highly recommend having a watch/listen!
+
+🎧 Spotify | Apple Podcasts | Amazon | Anchor
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Hashdex’s Pedro Lapenta published 10 secular and cyclical trends outlining the generational investment opportunity presented by crypto, even in spite of the current woes. Worth a read.
+Titanium Asset Management, a crypto-focused asset manager, announced the arrival of new CEO Ronaldo Baeta Guimarães. Baeta, who replaces Eduardo Zanunno, brings 30 years of investment banking and asset management experience with stints at Bradesco, Bank of America, Banco Concordia and Fiducia Asset.
+
+“Titanium has a disruptive, innovative and differentiated business model. Its methodology and proprietary technology, based on strategic diversification, is a formula for exponential growth, which always brings more advantages and security for our investors.” (Valor) (CoinTelegraph Brasil)
+
+Brazilians invested R$3.3 million (US$697,000) into crypto funds during the week of July 17-23 according to CoinShares. (CoinTelegraph Brasil)
+Pachamama Investimentos, which distributes environmental asset tokens called Sustainability Credit Units, hired Rodrigo Rivellino as a partner and new CEO. Rivellino is the son of former Corinthians Roberto Rivellino. (Valor)
+Mercado Bitcoin plans to expand its network of partner investment advisory offices from 23 to 60. (BlockNews)
+Brazilians football fans are more interested in purchasing fan tokens vis-a-vis fans from other countries. (BlockNews)
+Legacy and Genezys plan to issue a tokenized “Human IPO” in which investors can purchase credit rights linked to celebrities’ future earnings. The tokenized credit rights would be backed by income or expected earnings accrued through monetization of the celebrity’s image. The first such offering is expected to occur in September or October, involving “a Brazilian personality recognized worldwide,” said Phillippe Rubini, CIO of Grupo Fictor - which is an investor in Legacy, who added:
+
+“Incredibly, the people we contacted welcomed the initiative. Not only because it is innovative, but because of the possibility of creating a community. If I invest in a personality X and today he is the face of a brand, I will not consume from the competition, but from that community of which I am a part.” (Valor)
+
+Jequitibá Investimentos, which specializes in the trading of precatories legal assets, is partnering with an undisclosed asset tokenization fintech to issue fractionalized shares of its assets. Ernesto Schlesinger, partner at Jequitibá, said the idea is to give access to these types of assets to retail investors:
+
+“Today we don't work with retail investors because we don't have the capacity to structure such a large volume. We work with high ticket investors. For retail, we always indicate investment funds that are our partner. But Jequitibá's path is tokenization and then open this investment to large retailers.” (Valor)
+
+Token.com, a crypto app that launched in Brazil in March 2022 as a beta test, is now live in 21 countries. (Valor)
+UK-based crypto platform Quadra received a US$1 million investment round led by Kadmotek Ventures, a Brazilian micro-venture capital manager. (Valor)
+Binance is now holding weekly live webinars aimed at Brazilian investors. (CoinTelegraph Brasil)
+Movo., a new brokerage platform for trading crypto and equities developed by European neobroker EXMO.com, has launched in Brazil. It features trading in crypto, equities and indices, financial education tools and Pix integration. (CriptoFacil)
+Exame ran a nice profile of the Hathor Network blockchain, which is being used for many of the tokenization initiatives happening in Brazil currently - including B3 and Vortx QR Tokenizadora - and is looking for more uptake externally. Founder Marcelo Salhab Brogliato commented:
+
+"Hathor has its origins only with Brazilians, but today it is more international. It was born in the Brazilian academy, it is implemented by Brazilians and started by Brazilians. It is a very nice reason to be proud. Today it has grown a lot, operates in several countries and has pending patents, focusing on the United States, China and Europe."
+📱Adoption + Digital Real
+
+The Digital Real pilot consortium that consists of Ailos, Cresol, Sicoob, Sicredi and Unicred installed its node on the Hyperledger Besu-based simulation environment. The consortium also said that the Central Bank successfully simulated three batches of transactions of 20, 50 and 100 transactions per second, respectively.
+
+“We understand that we have a space to strengthen interaction on the network and carry out batteries of onchain and offchain tests until September.” (Valor)
+
+A new initiative called DigiFi Buildathon will incentivize Web3 teams to build Digital Real use cases and tooling. The program is being run by Ethereum Brasil and Blockchain.Rio with support from FENASBAC and the Hyperledger Brasil. It will feature a series of bootcamps, mentorship programs and hackathon, with winners being announced at Blockchain Rio in September. Registration is now open.
+UK-based payment infrastructure startup Ramp Network opened a local entity in Brazil, commencing its expansion into Latin America. The company will offer its software development kit for clients such as Web2 enterprises, crypto wallets and Web3 games to enable crypto-fiat on and off-ramps and will integrate with Pix. Lukasz Anwajler, CTO, said:
+
+“This year we are fully dedicated to establishing a strong presence in Latin America, and the reason for that is that this is a very interesting market for us.” (CoinDesk)
+
+Caixa Económica Federal president Maria Rita Serrano said that social and labor benefits like Bolsa Familia could be paid out with Digital Real in the future, and that this presents great potential for fostering financial inclusion. Caixa is one of the country’s largest mortgage lenders and a participant in the Digital Real pilot project via a consortium with Elo and Microsoft, which is creating a product to facilitate the purchase of properties using Digital Real. (Portal do Bitcoin) (Exame) (CoinTelegraph Brasil)
+The Central Bank is studying a “bank-to-earn” system that would pay users of banks and fintechs with tokens for data that they share in the financial system for potential launch once the Digital Real is live in 2024. Bank president Roberto Campos Neto said at a recent Blackrock Brasil event:
+
+"So one of the things we are going to do is when we have the Financial Aggregator, develop a function to generate, store and categorize data in a homogeneous way so that you can exchange this data for tokens and these tokens would talk to the digital currency that we is creating, the Real Digital.” (CoinTelegraph Brasil)
+
+Campos Neto also said the bank is considering adding a “new class of assets” to its foreign exchange reserves, though he didn’t specify if he was referring to cryptocurrencies or bitcoin. (CoinTelegraph Brasil)
+Banco Inter was studying blockchain implementation for many years without much success or real world use cases to show in return. However, it expects big uptake now with the Central Bank promoting the Digital Real (Exame)
+The Flamengo football club has contracts with three cryptocurrency companies, per information it disclosed to the CPI on financial pyramids. It is working with Socios to manage its $MENGO fan token, Futster Desenvolvimento de Jogo to create NFTs for each player and Sorare to build NFT fantasy sports game called SO5 Fantasy. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Nubank reached 80 million total customers and is now the 4th largest bank. in Brazil behind Caixa Economica, Bradesco and Itaú. (BlockNews)
+“Pyramids destroy lives” financial influencer Tiago Reis warned in a video on Instagram. “If you know someone involved in a pyramid scheme, help that person!” Reis has been invited as an expert witness by the CPI on financial pyramids. (Portal do Bitcoin)
+The Brazilian city of Rolante in Rio Grande do Sul is attracting tourists for its abundance of businesses that accept bitcoin payments, with other cities in the region looking to follow its model. (BeinCrypto)
+Revolut launched its “learn to earn” educational tools for the crypto market. Users can earn up to R$70 worth of DOT tokens by completing the tutorials and passing a quiz. (CoinTelegraph Brasil)
+DATAPREV, the Pension Technology and Information Company, has two open positions for information technology analysts for which knowledge of blockchain is a requirement. (Portal do Bitcoin)
+Coinspaid, which has significant operation in Brazil, lost US$37 million in a hack. (Livecoins)
+Cardano founder Charles Hoskinson gave a shout out to Brazil enthusiasts on Twitter.
+
+NFTs, Metaverse and Games
+
+Blockchain gaming startup Trexx took second place out of 50 participants in the Oasys Hackjam competition in Japan. CEO Helo Passos 🎮🌎 stated:
+
+“In recent months we have further strengthened our efforts in international partnerships and business, and we are on the right path within the relationship we have created with companies in Latin America and Southeast Asia. Winning in 2nd place in a competition in Japan and being the only Brazilian (and Latin) team among the finalists shows how off the curve is what we are creating.” (Exame) (BlockNews)
+
+A Brazilian team has released a decentralized exchange for NFTs called Sweep n’ Flip that uses a modified version of Uniswap v2 to create liquidity pools that combine NFTs and ERC-20 tokens. (CoinTelegraph Brasil)
+Grupo Foxbit is hosting a “real life” metaverse and Web3 experience at ImagineLand, a pop culture event in João Pessoa expected to attract 45,000 attendees. (CoinTelegraph Brasil)
+A new collective has emerged devoted to making the Decentraland metaverse more friendly to Brazilians and Portuguese language speakers. (CoinTelegraph Brasil)
+The University of São Paulo became the first university in Brazil to have a building in the metaverse. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+Federal Police launched an operation against a group of hackers in São Paulo who accepted payment in cryptocurrency to invade the websites of the federal government and private institutions. (Valor) (Livecoins)
+Federal Police formally ended its investigation of Braiscompany and indicted 16 individuals, including founders Antonio Neto Eis and Fabricia Campos. The report notes that both individuals fled to Argentina using passports of family members. The Federal Public Ministry will now receive the report and decide whether to file a complaint. (Portal do Bitcoin)
+Representatives from Mercado Bitcoin met with Central Bank president Roberto Campos Neto on Friday to discuss crypto markets, regulation and the custodian license the exchange recently earned from the Central Bank of Portugal. (Portal do Bitcoin)
+A case involving a Binance user who had his cellphone stolen, passwords hacked and funds stolen highlights an apparent lack of protections for crypto exchange customers. The victim was able to recover R$40,000 of funds stolen from his banking apps but not the R$10,000 in his Binance account. A judge ruled that Binance, through its local partner B Fintech, must reimburse the victim, despite Binance arguing that the user had not taken due precaution. (InfoMoney)
+Fab Santos of Criptomaníacos argued in an op-ed that while the Real Plan of 29 years ago was successful in taming runaway inflation, purchasing power has eroded steadily since then - highlighting the need for alternative currencies like bitcoin. (Portal do Bitcoin)
+The Lula government has implemented new taxes on sports gambling. Operators will need to pay an 18 percent tax on total revenue received minus payouts to bettors. This figure is higher than the 16 percent number that the market was expecting. The measure takes effect right away but must be voted on by Congress within 120 days to become permanent. Bettors will need to pay 30 percent on all prizes above R$2,112 (US$446). (Portal do Bitcoin)
+US Congressman and Brazil native George Santos is under indictment for involvement in a cryptocurrency scheme inspired by Nigerian prince email scams. (CoinDesk)
+The Brazilian government wants to review the energy supply agreement for the Itaipu hydropelectric plant, which it shares with Paraguay near Iguaçu Falls. A significant revision of the energy distribution from the plant could make energy cheaper in Brazil while making Paraguay less competitive as a a bitcoin mining hub. (CoinTelegraph Brasil)
+Federal Police seized R$2.3 billion (US$486 million) worth of precious stones in an action against alleged crypto pyramid Xland. (CoinTelegraph Brasil)
+
+

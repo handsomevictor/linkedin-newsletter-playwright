@@ -1,0 +1,85 @@
+🇧🇷BCR #98: Crypto takes over Febraban Tech
+Plus: Congressional crypto probe unveils witness list; another Brazilian bank launches crypto brokerage
+
+(Quick housekeeping note: I'd like to welcome the new subscribers that have joined the last couple of weeks. Friendly reminder that this Linkedin edition is an abridged version of the full newsletter which I publish on Substack. If you enjoy this content, I would encourage you to subscribe to the Substack to stay up to date on all of my content exploring the Brazil ecosystem)
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of June 26-30, 2023. Sneak preview of this edition:
+
+yet another Brazilian TradFi bank enables crypto trading for customers (this time in conjunction with the B3 stock exchange
+a congressional committee probing cryptocurrency scams and pyramids is taking the “kitchen sink approach”
+Febraban Tech, one of the country’s premier TradFi meets technology events, was taken over by crypto and digital asset companies
+
+Let’s kick this thing off
+
+-AWS
+
+Banco Inter launches crypto platform in partnership with B3 Digitas
+
+Banco Inter became the latest Brazilian bank to enable crypto trading services for customers.
+
+Groupe Inter Invest, its investment platform which has a reported user base of 26 million customers, will offer trading in bitcoin, ethereum, litecoin, USDT and XRP to a select customer base. The minimum investment will be R$1.00. The digital bank previously offered exposure to crypto only through investment funds offered by Hashdex and Vitreo.
+
+The solution comes in partnership with B3 Digitas, which is a branch of Brazil’s B3 stock exchange that offers digital asset infrastructure. Trading is available in the Inter application for use by retail and companies alike with a minimum trade of R$1.
+
+Felipe B., director of Inter Invest, said in a statement:
+
+“The Brazilian investment industry is increasingly mature, and the topic of cryptocurrencies has gained considerable space in this market. B3 Digitas comes with the legacy of strength and credibility of the Brazilian stock exchange and will support us in delivering a service with a high level of efficiency and protection for our customers, which we consider to be a priority value.”
+
+B3 Digitas CEO Jochen Mielke de Lima added:
+
+“B3 Digitas offers a transparent and secure platform, contributing to the construction of an increasingly robust and reliable cryptocurrency market. With our service, we work for institutions to enable their investors to increasingly diversify their portfolios and explore new markets in constant transformation.”
+
+From the B3 side, the partnership is yet another front in the exchange’s embrace of the digital asset industry (more on this later).
+
+(Valor) (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+Nearly 40 witnesses to testify in congressional crypto probe
+
+The Parliamentary Commission of Inquiry (CPI) approved invitations and summons for 38 witnesses to provide testimony as it investigates cryptocurrency pyramids and related activities that have harmed Brazilian consumers. You can find the full list here
+
+Notable names on the invited witness list include Banco Central do Brasil president Roberto Campos Neto, CVM president João Pedro Novochadloão Pedro Nascimento, financial influencer Thiago Nigro (aka Primo Rico) and “Pharaoh of Bitcoins” Glaidson Acacio dos Santos. Representatives from big tech companies, like Meta and Google, and broadcasters SBT and Globo are also on the list.
+
+Executives of numerous crypto exchanges operating in Brazil have also been invited. These include Mercado Bitcoin’s Reinaldo Rabelo, João Canhada of Grupo Foxbit, Thales Freitas and Daniel Vogel of Bitso, and Binance managing director Guilherme Nazar.
+
+Importantly, Binance’s Nazar was summoned, as opposed to just being invited. He will be asked about the exchange’s relationship with its local operator B Fintech and other partnerships it has with other entities in the country.
+
+Binance released a statement highlighting its willingness to contribute to the committee’s work:
+
+“Considering that scammers operate on several exchanges simultaneously, Binance is the exchange that has most helped authorities in investigations and victims to recover their money, offering constant and immediate support to law enforcement agencies and authorities.”
+“We expect all invited exchanges and financial institutions to contribute to the CPI and that the commission is an opportunity to disseminate Binance best practices to other players in the industry, especially smaller exchanges, preferred targets of fraud and scams, so that together we can build a secure crypto ecosystem that protects users in Brazil.”
+
+Witness testimonies could begin as early as Tuesday, July 4.
+
+Other notable names on the witness list include Atlas Quantum founder Rodrigo Marques, ABcripto - Associação Brasileira de Criptoeconomia’s Bernardo Srur, Binance’s Daniel Mangabeira Dantas and Thiago Carvalho, blockchain expert and personality Courtnay 考特内 "CognoChain" Guimarães, BTG Pactual’s Andre Portilho, Fabio Tonetto Plein of Coinbase and Portal do Bitcoin editor-in-chief Cláudio Goldberg Rabin.
+
+Several Brazilian football clubs including Flamengo, Santos, Palmeiras and Corinthians have also received official letters from the CPI asking for more information about their involvement with cryptocurrencies.
+
+Notably left off the initial witness list were former Brazilian football star Ronaldinho Gaucho, Binance’s Changpeng Zhao, Brazilian Football Confederation president Ednaldo Rodrigues.
+
+(Portal do Bitcoin) (Livecoins) (CoinTelegraph Brasil) (InfoMoney)
+
+🤝TradFi and digital assets converge at FEBRABAN TECH
+
+Latin America's premier finance and technology event was marked by the presence of cryptocurrency and blockchain companies, symbolizing the broader convergence of TradFi, fintech and digital assets that we are witnessing in the Brazil market currently.
+
+Companies like Fireblocks, Parfin, Mercado Bitcoin and a myriad of others joined in the sponsorship ranks, and the three stages were chock full of content exploring topics like tokenization, Digital Real and custody.
+
+Meanwhile, executives from Bradesco, Itaú Unibancoú and Santander Brasil discussed the path forward for asset tokenization to take hold in the Brazilian financial system. Ivo Mósca, deputy director of Febraban’s CBDC working group, argued in an interview with Exame that the Digital Real system is akin to “replacing the engine of the national financial system” and that it will “bring solutions to potential problems that have not yet been fully mapped.”
+
+Portal do Bitcoin's Fernando Martines put it this way: “Bottom line: the traditional financial market and institutional players finally seem to be on an equal footing with cryptocurrencies.”
+
+However, FEBRABAN president Isaac Sidney emphasized in his speech that Brazil’s banking industry has no plans of capitulating to newer, flashier competitors of any sort:
+
+“Digital players that came out of nowhere calling themselves modern, cheaper and innovative, refer to us in a demeaning and not infrequently accusatory tone. But, we banks were not born now and we do not work with marketing and advertising. We are very proud of being what we have always been, traditionally innovative”.
+
+(BlockNews) (Exame)
+
+🎙New 🇧🇷BCR Podcast Episodes
+
+Catch this episode I recorded at Consensus 2023 with Rodrigo D. Ambrissi aka Rodrix Digital. Rodrix is one of Brazil’s original crypto influencers and content creators, having first started his YouTube brand back in 2017. You can listen on Spotify, Apple or Google Podcasts.
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🔥To read the full version please head over to the Brazil Crypto Report Substack page!

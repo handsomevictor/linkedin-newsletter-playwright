@@ -1,0 +1,179 @@
+🇧🇷BCR #109: Binance's Nazar in the Hot Seat 🔥
+Plus: Coinbase to push global standards through Brazil G20 presidency; Brazil slips to 9th on Chainalysis global adoption index
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for September 11-15, 2023! 
+
+It was great catching up with a bunch of folks at @Blockchain Rio last week, hosted by the Blockchain.Rio team. It was a super useful setting to catch up on everything that’s happening across the Brazil ecosystem, from NFTs to Drex to asset tokenization. There’s definitely a different energy in Brazil right now compared to other parts of the world, so it was great to see that all on display.
+
+I had to time to stop by the Worldcoin booth and almost scanned my iris with the Orb, but ultimately didn’t have the courage. I got some nice photo ops with it though 😃 (thanks to Juliano Kimura). I also recorded several podcast episodes onsite and will be releasing those in the coming days so please stay tuned for those. 
+
+Thanks for reading and have a great week everyone!
+
+-AWS
+
+🎧 For this week’s podcast interview I was joined by Parfin CEO Marcos Viriato to discuss his thesis for institutional adoption of digital assets
+
+I also talked to Daniel Lynch of Consensys about why Brazil is such an important market for MetaMask and MetaMask Institutional adoption.
+
+Also have a look at my new weekly news recap podcast where I cover the biggest stories of the week in audio/video format. 
+
+🎧 You can find all of our podcast content on the Brazil Crypto Report feed: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+🌶 Nazar: Binance is a “reputational victim” of crypto pyramid schemers
+
+Hot news of the week: Binance Brasil’s director general Guilherme Haddad Nazar (nephew of current Finance Minister Fernando Haddad) was summoned to discuss Binance’s relationship with pyramids like GAS Consultoria and Braiscompany, which are being investigated by the CPI. 
+
+Nazar’s appearance was definitely the most anticipated and spiciest testimony heard by the committee to date, particularly as examining Binance’s operations in Brazil was one of the main motivations for convening the committee in the first place, and the committee members have not been shy in putting a target on Binance’s back.
+
+Nazar repeatedly defended Binance, claiming that the exchange is a victim of the bad actors who operated the aforementioned pyramids:
+
+“We are reputational victims of these bad actors. I would like to reiterate that in all investigations we work very closely with the authorities, including this CPI, sharing all the information requested in the letters.”
+
+The comment was a response to a statement from rapporteur Ricardo Silva that Binance appears to be the common denominator among all of the pyramids investigated by the committee thus far. 
+
+Guilherme Nazar. Photo credit: Valor
+
+Silva also cited an analysis commissioned by payment processor Capitual showing that there is a 95 percent chance that Binance’s 700 largest users are using the platform to launder money. Recall that Capitual was Binance’s fiat onramp partner in Brazil until June 2022, when the two partners split up in a nasty dispute that is still being processed by the courts.
+
+Relateldy, executives from Capitual, Aceso and Méliuz - all former service providers of Binance - threw the exchange under the bus during their testimonies, saying that the exchange did not comply with anti-money laundering policies and recommendations, and that it would routinely unblock accounts flagged as suspicious.
+
+Nazar denied any knowledge of the Capitual study, but said that he would share heretofore secret information on those 700 Brazilian clients should the committee formally request the information. 
+
+Other nuggets from Nazar’s testimony:
+
+Binance has submitted 557 suspicious activity reports to the Financial Activities Control Council (COAF). Deputy Aureo Ribeiro found this number to be surprisingly low given Binance’s size.
+Nazar was unable to answer when Binance created its CNPJ (local business entity). He also explained that its local B Fintech entity solely exists for “administrative purposes”: 
+
+“B Fintech is a purely administrative company to streamline operations in the country, such as dealing with hiring employees, services and products. It does not act in any way in the purchase and sale of cryptocurrencies, only administratively.”
+
+He also fielded questions about whether the exchange reports customer operations to the Receita Federal, pursuant to Normative Instruction 1888, and whether it pays taxes in Brazil. The answer to both questions was murky, but basically he argued that because Binance is operates internationally, it has no tax obligations in Brazil: 
+
+“Binance currently operates in Brazil using the international brokerage model, in which the purchase and sale of cryptocurrencies does not operate in Brazil. But we are committed to regulation and we are fully interested in acquiring the Sim; paul brokerage.”
+
+The Binance executive was also pressed on a CVM (Brazilian SEC) investigation into whether the exchange has been illegally offering crypto derivatives in defiance of a stop order, and how the exchange is able to offer deposits and withdrawals to Brazilian customers without paying taxes on crypto transactions.
+
+Nazar was originally scheduled to testify on Tuesday, September 12 but was ultimately rescheduled for Thursday the 14th. On the 13th, Nazar received a habeas corpus from Alexandre de Moraes (president of the Brazil Supreme Court) allowing him to remain silent if he desired. 
+
+You can watch the full testimony in Portuguese below (via CriptoFacil)
+
+Valor Portal do Bitcoin InfoMoney
+
+Coinbase to push global crypto standards through Brazil G20 presidency
+
+Nana Murugesan, Coinbase’s vice president of international and business development told The Block that the exchange will use Brazil’s G20 presidency as an opportunity to push for “a set of principles that will build some global consensus” around crypto rules. He added: 
+
+“With India wrapping that up and Brazil taking that over, that’s another area where we are very, very active.”
+
+Brazil assumed the presidency of the G20 for 2024 on September 10 and will host the G20 Summit in Rio de Janeiro next year. 
+
+Coinbase last week highlighted Brazil as one of the key markets in its “Go Broad, Go Deep” international strategy, which it continues to push in the midst of a worsening US regulatory environment. 
+
+In a blog post outlining the strategy, the exchange said that CEO Brian Armstrong will pay a visit to Brazil later this year to “engage with key decision-makers and stakeholders”. 
+
+↘️ Brazil slips from 7th to 9th place on Chainalysis’ 2023 Global Crypto Adoption Index
+
+The country’s crypto adoption fell slightly in 2023 and now trails other middle income countries like India, Nigeria, Vietnam and Indonesia, per the latest version of the annual report published by the world’s largest blockchain analytics firm. 
+
+However, Brazil still checked in higher than other Latin American countries like Argentina and Mexico. The full report has yet to be released, but you can read Chainalysis' teaser blog post here. 
+
+Kimberly Grauer, research director at Chainalysis, explained to Portal do Bitcoin that even if a country’s ranking decreases, it doesn’t necessarily mean that crypto usage in the country decreased. Rather, it could be that the adoption rate in other countries increased. She explained: 
+
+Brazil in the top 10 of the Index demonstrates a high level of adoption — by the way, the country jumped from 113th place in the P2P exchange trade volume ranking in 2022 to 15th place this year. The accelerated growth in other markets mentioned above refers mainly to the rise of Nigeria (jump from 11th to 2nd place in the ranking) and Indonesia (20th to 7th place in the ranking) to the top 10.”
+👏 Transfero Group obtains payments institution license from Banco Central do Brasil 
+
+The digital asset infrastructure firm and issuer of the BRZ stablecoin will now have direct connection to Brazil’s national payment system. 
+
+Transfero CFO Carlos Eduardo Russo told Valor that the company will offer fiat connections via Pix and digital banking services to its customers, who are mainly international crypto platforms. 
+
+“We are going to connect the crypto world, where we already operate with a series of partners, with the traditional regulated financial world”
+
+Founded in Switzerland by Brazilians, Transfero also operates in Chile, Argentina, Estonia, Hong Kong and the Bahamas. 
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Crypto payment infrastructure firm Ramp Network has enabled Pix onramps, allowing clients to offer crypto purchases using the payment method. Ramp, which raised US$70 million in a Series B round last year at a valuation of US$450 million, opened a Brazil entity earlier this year. CEO Szymon Sypniewicz said in a statement: 
+
+“Following the recent launch of BRL card payments and the establishing of our local Brazilian entity, this move builds on our mission to make crypto available everywhere, but in particular where it’s needed most - and at the same time creates even more opportunities for both local Web3 builders and our global partners looking to increase their footprint in Latin America.” (CoinDesk) (The Block)
+
+Brazilian crypto asset manager Hashdex, along with its local partners Nasdaq and Tidal, has submitted to launch a spot ether ETF in the US. It was the third such request filed last week, as both Invesco and Ark Investments. (Valor) (Portal do Bitcoin)
+Hashdex’s HASH11 ETF is the third largest crypto ETF in the world, according to data provider CoinGecko. Listed in Brazil, HASH11 is made up of a basket of the top cryptocurrencies on the market. (Exame) 
+Digital wallet NG.CASH launched its crypto platform with a focus on "Gen Z” customers with hopes of reaching one million users in the first few days of operation. The product, which is supported by Parfin, had previously been live in a beta version to select customers. (Valor) (Portal do Bitcoin)
+GCB Group has filed a request with the CVM to obtain a crowdfunding license that would allow it to tokenize receivables. The move follows guidance issued by the CVM restricting the issuance of “fixed income tokens” to crowdfunding platforms - a decision that was hotly debated within the industry. GCB CEO Gustavo Blasco commented:
+
+“Tokenizing credit assets in a regulated way is something that attracts more investors. I believe this will bring more credit to small and medium-sized companies.” (Valor) (CoinTelegraph Brasil)
+
+AmFi , a blockchain credit fintech, received authorization from the CVM to issue receivables tokens to retail investors. AmFi CEO Paulo David told Finsiders:
+
+“Now, we can talk openly about what we are doing and carry out the public distribution of assets. We can bring more and more investors to the operations we are structuring.” (BlockNews)
+
+QINV, an automated wallet company, will launch a new quantitative fund on Coinext’s platform that uses artificial intelligence and algorithmic trading strategies. Qinv chairman Lendel Lucas told Valor: 
+
+“We believe the timing is great. The 70% devaluation of bitcoin that marks all cryptocurrency bear market cycles has already occurred. We are sure that it is a good time to enter.”
+
+CoinLivre, a marketplace for tokenized assets, looks to trade R$100 million (US$20 million) in tokens representing real assets like carbon credits, organic waste, subscription cars and clean energy generators. (Valor)
+BEE4, a startup platform with a license to trade tokenized company shares, added former XP partner Caio Azevedo to its team. He said in a statement:
+
+“It is a big challenge to create this tokenized market ecosystem. I will use the experience I had in the financial market in Brazil and later in the USA to expand BEE4's operations.” (Valor)
+
+UP Vendas, a fintech focused on online commerce, raised R$6 million (US$1.2 million) through tokenization of credit card receivables. AmFi, the tokenization startup that facilitated, the operation facilitated a cost reduction of almost 50% compared to a traditional card advance. (Valor)
+Mercado Bitcoin itcoin listed Kanna Coin (KNN), a token that unites the crypto and cannabis markets. (Portal do Bitcoin)
+
+🪙 Drex (aka Digital Real)
+
+The first two transactions of tokenized federal bonds on the Drex test network were executed last week. Two types of bonds were issued by the bank and then transferred to the portfolios of the financial institutions participating in the project, who then minted the bonds as tokens on the underlying Hyperledger Besu network. The first was completed between Banco do Brasil and a consortium of credit unions (Sicoob, Sicredi, etc.); the second was carried out by banco BV V and Banco Inter. (Valor) (InfoMoney) (Exame) (Crypto Times)
+The Brazilian Central Bank reported that 500 transactions on the Drex network were conducted in the first 50 days after the launch of the pilot in late July. The bank communicated that 11 of the 16 chosen consortia for the project have nodes online. It said in a statement: 
+
+"Since then, various types of operations have been simulated, both wholesale and retail…Each of the already qualified participants received a quota of the version for simulating public securities and, from then on, they can also begin simulating buying and selling procedures for these securities among themselves and among simulated clients." (Valor) (Portal do Bitcoin)
+
+It’s still too early to determine what the principal use cases for Drex will ultimately be, Itaú’s head of digital assets José Augusto de A. Antunes Filho (Guto Antunes) told Exame: 
+
+“The focus is on testing the technology. Itaú is thinking about some cases, talking about them, but we still lack these guidelines from the Central Bank to have more concrete cases."
+
+BlockNews reports that Drex consortia are still having a time upgrading their bandwidth speeds to connect to the pilot network.
+Bruno Grossi, MSc of Banco Inter detailed some of the privacy challenges facing the project in an interview with Gino Matos of CoinTelegraph Brasil. 
+The Central Bank is not attempting to ban or shut down bitcoin through its Drex project, Drex coordinator Fabio Araujo said in a talk at Blockchain Rio, adding that attempting to do so would be “crazy”. (BeinCrypto)
+
+📱Adoption
+
+Agrotoken was cited in a Federal Reserve paper as a novel project in the tokenized commodities space. 
+
+Tokenized payments in Brazil during the first half of 2023 increased 200 percent year-over-year, according to Visa. In June 2023 alone, 35% of Visa;s online transactions in Brazil were tokenized.
+
+“This data shows an important trend as we move towards an economy that is not just digitalized, but tokenized…The tokenized economy is one of Visa’s main pillars in building a safer and more accessible transaction environment for everyone. It is worth reinforcing that with tokenization, we bring a better digital experience to Brazilian consumers, who have faster, more practical and safer usability.” (Portal do Bitcoin)
+
+Visa’s head of crypto solutions for Latin America Catalina Tobar discussed Drex and Visa’s tools for blockchain interoperability with Exame. 
+Ripple has opened up its Liquidity Hub platform for use in Brazil. The platform provides a streamlined way to buy, sell and hold digital assets, and allows businesses to access multiple liquidity pools and advanced trading features. (The Block)
+B3 and Empiricus are teaming up to launch a free investment course on crypto assets. (Valor Investe) (Exame)
+Brazilian blockchain gaming startup Trexx won first place in the Ethereum network technology competition in Singapore. The team took home the prize in the “Public Good with Account Abstraction or Gasless transactions focused on APAC Market” category. Trexx was the only Brazilian team among 120 projects that applied for the competition. The team even earned the praise of Ethereum creator Vitalik Buterin. (Exame) (BlockNews) (BeinCrypto) (Valor)
+The Yawanawá indigenous community in the state of Acre raised US$3 million through the sale of an NFT collection called Ventos da Amazônia displayed at Annabel’s club in London. (Valor) (CoinTelegraph Brasil)
+Brazil has the eighth highest number of women holding crypto assets, according to a study by Forex Suggest. 7.1 million Brazilian women are estimated to hold some type of digital asset. (Valor)
+Osten Games, a Brazil based accelerator, developer and investor in blockchain games in the region, announced a partnership with Immutable X, a layer 2 chain optimized for gaming and NFTs. (CoinTelegraph Brasil)
+Financial “influencers” will need to reveal sponsor relationships when advertising any type of investment product under new rules published by ANBIMA. The rules will come into effect in November. Luiz Henrique Queiroz de Carvalho, a manager of Investment Products Distribution Representation at Anbima, explained: 
+
+“Our objective is not to self-regulate the activities of influencers, but to help investors have access to important information for their decision-making”, comments…it is important that followers know when a post is advertising and when it is not.” (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+Estar, a project created by a consortium made up of SMU Investimentos, Ntokens, Digitra and Demarest Advogados, listed R$2.5 million worth tokens that represent a reforestated area. The operation took place in the CVM regulatory sandbox. (Exame) (CoinTelegraph Brasil)
+A Santa Catarina motel chain raised R$1.86 million in a fixed income token offering. (Valor)
+Sonica, the Floripa-based startup building no-code tools with Web3 integrations is enabling NFT integrations into its product suite. (BlockNews)
+Brazil has its first television program focused exclusively on cryptocurrencies. The show will be hosted by popular influencer Iara Thamires Alves on the Wohoo channel. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+US blockchain infrastructure company Ripple has joined ABcripto - Associação Brasileira de Criptoeconomia. Priscila Couto, Ripple’s public policy manager for Latam, said in a statement:
+
+"Brazil has positioned itself as a leader in bringing regulatory clarity to the digital assets sector, balancing innovation and consumer protection. This market is going through a unique moment, since the entry into force of its legal framework, and Abcripto has been an actor important in this process." (Valor) (Portal do Bitcoin)
+
+Atlas Quantum made a backdoor contribution of R$600,000 (US$123,000) to Jair Bolsonaro’s presidential campaign in 2018. Matheus Muller Ferreira de Abreu of grupo Valquiria, a victim of Atlas Quantum, made allegation in his testimony before the CPI committee. (Valor) (Portal do Bitcoin) (InfoMoney)
+The CPI approved a request to summon Brazilian Football Confederation president Ednaldo Rodrigues Gomes about the CBF raising R$90 million (US$18 million) in a fan token offering that shortly thereafter collapsed in value and failed to deliver engagement for fans. (Valor) (InfoMoney)
+The mandate for the CPI committee on financial pyramids expires on September 28th, committee president Aureo Ribeiro is pushing for it to be extended another 60 days. (Valor) (Exame)
+Mercado Bitcoin’s Fabrício Tota argues that the CPI has emerged as a positive force in shining the light on cryptocurrency pyramid schemes. (Estadão)
+Federal Police launched Operation Yang to investigate a R$300 million international money laundering ring that used cryptocurrency. One hundred police executed 25 search and seizure warrants in eight states across Brazil. (Valor) (Portal do Bitcoin)
+Brazil’s CVM published a short video of how “fan tokens” work. (Portal do Bitcoin) (Exame)
+The Science, Technology and Innovation Committee of the Chamber of Deputies will hold a hearing on September 20 to discuss the adoption of blockchain technology in public administration. (CoinTelegraph Brasil)
+
+

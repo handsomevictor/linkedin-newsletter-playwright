@@ -1,0 +1,131 @@
+🇧🇷BCR #69: Analysis and Reaction to Brazil's Crypto Bill
+The seven year journey to pass crypto legislation in Brazil is nearing the finish line
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal!
+
+Welcome to Brazil Crypto Report for the week of November 28 -December 2, 2022.
+
+It was a week for the record books as Brazil’s Chamber of Deputies approved PL 440/2201 on Tuesday, November 29. Known as the Marco Cripto, the legislation establishes a regulatory framework for cryptocurrencies and digital asset businesses in Brazil, puts in place consumer protections, looks to create a level playing field for crypto exchanges operating in the country and brings the country in line with international anti-money laundering standards as articulated by the Financial Action Task Force.
+
+The bill gives the Executive Branch the authority to appoint a crypto market regulator to oversee the industry and create a licensing regime. This entity will almost certainly be the Brazilian Central Bank, which is highly competent and advanced in its understanding of crypto and digital currencies.
+
+The bill now proceeds to President Jair Bolsonaro’s desk to be signed into law (he must sign within 15 days). From there, the Central Bank will have 180 days to create licensing criteria, and crypto companies will have 180 days to bring themselves into compliance with the law’s requirements.
+
+ABCripto, a trade group representing local crypto exchanges and business, was one of the chief proponents of the bill. It put out the following statement upon passage:
+
+“This measure guarantees that Brazilian society will take another step towards the safety and development of the sector. The Regulatory Framework is extremely important, as it establishes clear rules regarding the responsibilities of companies and the regulator. ABCripto believes in a very promising future for the area and understands that it is the first step of many that will be taken in relation to the crypto economy in Brazil.”
+How we got here
+
+In case you haven’t been paying attention, here’s a quick timeline summary of how we got where we are:
+
+PL 4401/2201, championed by Deputy Aureo Ribeiro, was seven years in the works before passing the Chamber in December 2021
+A companion bill in the Senate was quickly assembled and passed in late April 2022. However, because several significant provisions were added to the bill, a return to the Chamber of Deputies for another vote was in order
+Several of the provisions added to the Senate bill were controversially removed by Deputy Expedito Netto, rapporteur for the bill in the Chamber. Most notable among these was the clause that would require exchanges to segregate customer and corporate assets. Also stripped from the final bill was a provision to reduce import taxes on “green” bitcoin mining hardware, as well as the so-called “transition rule” that would have required foreign businesses to create a CNPJ and report to the Central Bank immediately upon approval - rather than honoring the typical 180 day window.
+An intense lobbying battle ensued between various factions (banks, domestic exchanges, foreign exchanges) over the summer. With competing priorities in the Chamber of Deputies and and elections and World Cup season right around the corner it appeared more likely that the legislation would be punted to 2023
+The FTX collapse of November 2022 breathed new life into legislation. A “baptist and bootleggers” style effort from business groups like ABCripto, Febraban and others urging Congress to act helped to move the needle by arguing that passing this legislation would help prevent a massive meltdown like this in Brazil.
+
+Optimal outcome under the circumstances
+
+In my opinion, the benefits of the legislation lie in its relative simplicity. It does not dive into thorny areas like decentralized finance, smart contracts or NFTs, nor does it wade into rules for custody, trading and infrastructure. Rather than prescribe definitions and rules for technologies and use cases that are still super early-stage (or in some cases haven’t even been invented yet), the bill instead creates a legal foundation for this industry to operate and grow.
+
+The idea is that the Central Bank will be able to use its discretion regarding when to layer on new rules and tighten or loosen existing ones as the technology develops. The heightened penalties prescribed for pyramid scammers and others using crypto for illicit purposes is also a welcomed addition here.
+
+Andre Portilho, head of digital assets at BTG Pactual, argued:
+
+“The PL is good because it maintained a principled content, leaving the details to infra-legal regulation. This is important in a technology that is rapidly evolving.”
+
+That said, many stakeholders still walked away unsatisfied. Proponents of the bill like ABCripto and the Central Bank took the approach that getting the text, albeit imperfect, approved this year was the best outcome given that a new president and Congress enter in 2023.
+
+The battlefield now moves from the legislative theater to the regulatory theater, as the Central Bank will get to work constructing the rulemaking and licensing process. The same stakeholders who waged an intense lobbying battle over the summer will slug it out again fighting over technical regulatory details.
+
+🚨It’s important to note here that while the Banco Central will likely be the regulator for the industry at large, the CVM - Brazil’s securities regulator - will have oversight of digital assets that are deemed to be securities. The CVM has promised clear and “light touch” rules on this subject and put out preliminary guidance in October, and it will continue to have jurisdictions over crypto-based products like funds, leveraged sales and futures contracts.
+
+But not everyone is happy about the law, and there are many that it only took into account the interests of “big bitcoin” crypto exchanges and not other stakeholders from the industry. Wladimir ₿ Crippa, CEO of 42 Digital/Bitcoin Brasil argued that the law should not have been approved in such a hurry due to the fact that its main proponents were large companies and not necessarily the estimated 5 million crypto users in Brazil.
+
+“The bill was built from the top down, listening to few interested parties and, on top of that, among the interested parties, only large companies, the so-called exchanges, were heard…”
+
+He released an open letter before the vote stating that users, researchers, academics and scientists were effectively rendered voiceless:
+
+“We are users and we are not represented by any association or entity that is following these discussions. We point out that approving legislation listening only to exchange representatives will probably not result in legislation that covers all sectors interested in the topic – which is not limited to and goes far beyond the financial market and investors.”
+No asset segregation = pyrrhic victory?
+
+While the bill’s approval was a big win for the domestic industry, losing out on the asset segregation component has to be viewed as a loss given the enormity of the FTX collapse.
+
+The Central Bank plans to make asset segregation one of the priorities in its licensing regime. However, the strong preference of proponents was to bake this provision into the legislation directly, and thus not be beholden to the whims of a regulator on an issue of such importance.
+
+There are also outstanding questions regarding the level of precedent the Central Bank has to regulate this type of activity in an infra-legal manner. While many obviously believe the BC has the ability to do this, Isac Costa, partner at Warde Advogados, warns “that there are solid legal arguments…that this is not possible.”
+
+
+
+
+Opponents of asset segregation included Netto and bill author Aureo Ribeiro, who argued that such a rule impedes freedom and is not conducive to promoting innovation, pointing out that larger sectors do no have such restrictions. Foreign exchanges like Binance were also in opposition to this rule.
+
+Some observers argue that failing to include asset segregation in light of FTX amounts to an outright failure by the Chamber of Deputies, as it will allow crypto exchanges to effectively act like banks by lending and investing customer assets without rigid controls. Carlos Portugal Gouvêa of PGLaw Advogados told Portal do Bitcoin:
+
+“While the world is starting to look more carefully at the need for asset segregation, the Chamber of Deputies approves a bill excluding this topic, under pressure from market agents. It seems, once again, Brazil wanting to be the vanguard of backwardness, as we have done on other occasions, such as, for example, in the Civil Rights Framework for the Internet”.
+
+Nicole Dyskant, global head of legal and compliance at asset manager Hashdex, argued that tasking the Central Bank with mandating and enforcing asset segregation is far from ideal:
+
+“Unfortunately, but as expected, there was no legal provision for asset segregation, leaving the Central Bank with the non-trivial task of regulating this aspect in an infra-legal manner, such as the other requirements for prior authorization, maintenance of licenses and inspection”
+
+Erik Oioli of VBSO Advogados argued:
+
+“The regulatory body can create rules that limit or prevent exchanges from making use of their customers' assets. But this does not have the same effect as in true equity segregation, where it is possible to shield the client's equity in relation to the exchange's equity.”
+
+At the end of the day, regulators have to be assured that brokerages who also offer custody services are not using customer balances without consent. Daniel Coquieri, CEO of Liqi argued:
+
+“This is a big problem that the market currently has, because brokers and platforms are black boxes, and that's where all the danger lives.”
+Still a big win for crypto brokerages
+
+For their part, crypto asset brokerages were still quite pleased with the result. They were among the proponents fiercely pushing for the PL’s passage, as they sought to use it as a means of clawing back marketshare from Binance and other overseas exchanges.
+
+José Artur Ribeiro, CEO of Coinext, told Crypto Times:
+
+“We were afraid of some exaggerated restrictions that could prevent the development of new products and initiatives, but, on the contrary, the approval of this project allows serious companies to continue to deliver innovations with more transparency and legal security.”
+
+Mercado Bitcoin CEO Reinaldo Rabelo said that the law brings greater organization to the competitive crypto brokerage space and sees a parallel with the emergence of digital banks and fintechs last decade. He told Portal do Bitcoin:
+
+“I see a similarity with what happened to fintechs, which managed to conquer the market with better products and the guarantee that their offer respected governance and controls required by the Central Bank. Today, many digital banks compete directly with ‘banks’ because of this regulatory pillar.”
+
+Perhaps the most immediate benefit of the new law is that it clears away some obstacles for institutional investors who are interested in crypto but don’t have the risk tolerance for anything perceived as overly Wild West. Foxbit CEO Ricardo Dantas told CriptoFacil:
+
+“We see a great opportunity for entry by large institutional investors at the current time.”
+
+However, Alexandre Ludolf of QR Capital argues that the failure to pass the asset segregation clause will have the opposite impact and keep investors at a distance. He told Crypto Times:
+
+“Since it does not include the requirement to segregate the custody of customers and the company's capital – a very important point, especially in light of what happened with FTX and the impacts it had on the market. So we believe the immediate impact of more institutional investor access will be limited.”
+
+There will unfortunately be some collateral damage. The licensing regime will likely apply to peer-to-peer platforms, many of which already operate in Brazil via a CNPJ. The costs of obtaining a license could be problematic for these entities. One well known P2P operator anonymously criticized the law told CriptoFacil:
+
+“Corporatism in the vein, where big businessmen buy laws to bureaucratize the market environment and eliminate small ones, thus maintaining an oligopoly.”
+
+With such a broad mandate presumably being handed to the Central Bank, the devil definitely will be in the details. Will the BC enact a licensing process that is competitive, fair and doesn’t kick away the ladder? Or will it require BitLicense-esque levels of compliance that make it impossible for anyone beyond the most highly capitalized entities to win approval?
+
+José Domingues da Fonseca of Firmo, Cardozo Moreira Advogados summed it up nicely:
+
+“If the regulation presented by the BC has a restrictive spirit, we will have a poorly made set of rules.”
+
+Exciting times! Have a great week everyone and thanks for reading!
+
+-AWS
+
+Voting Open for 🇧🇷BCR 2022 Most Influential 2022
+
+If you haven’t voted yet for the Brazil Crypto Report Most Influential series, please take a look at this Google Form and select three individuals whom you believe contributed the most to the Brazil crypto world this year (keep in mind they don’t necessarily need to be influential in a positive way).
+
+If there is someone I left off the list whom you think should be included feel free to write their name in and a quick reason for why they should be considered. I will put out a Top 10 list at the end of the year similar to what I did for 2021.
+
+🏆World Cup Fan Token Watch 📉
+
+Fan tokens of World Cup teams continue to be a down-only investment despite the success of said clubs. Despite four below teams advancing to the Round of 16, their respective fan tokens have not performed well, with Brazil’s BNT token down 46% over a 7 day period.
+
+Source: CoinMarketCap
+🎙Catch the latest episodes of the 🇧🇷Brazil Crypto Report podcast
+
+1️⃣ Andre Franco, head of research at Mercado Bitcoin, joined to discuss the impacts of the FTX fallout on the Brazil crypto market. (Spotify)
+
+2️⃣ If you need a refresher on the crypto regulatory framework in Brazil and what PL 4401 /2201 means for the industry, I highly recommend having a listen to my episode with Isac Costa from August. (Spotify)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

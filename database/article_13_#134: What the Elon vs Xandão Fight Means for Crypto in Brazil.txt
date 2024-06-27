@@ -1,0 +1,129 @@
+#134: What the Elon vs Xandão Fight Means for Crypto in Brazil
+Plus: Banco BV tests tokenized auto-financing; Lula government pushes another crypto tax increase
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+Welcome back to 🇧🇷Brazil Crypto Report for the week of April 1-5, 2024.
+
+We had massive news over the weekend as Elon Musk publicly criticized Brazilian Supreme Court justice Alexandre de Morães’s demands that the X/Twitter platform block certain Brazilian accounts deemed to be spreading misinformation.
+
+Musk explained that X would not comply with Xandão’s demands, even if it means losing all revenue in the country and being kicked out of Brazil entirely. See Twitter Files thread by journalist Michael Shellenberger for context on how the whole ordeal began.
+
+Morães responded late Sunday night by ordering Musk to be investigated for obstruction of justice and incitement to crime, while threatening fines.
+
+Elon staring down Lula (via MidJourney)
+
+I won’t get into the politics of all this, but the likely outcome is that X/Twitter is going to be banned in the Brazil very soon. Musk’s pinned post is now instructing users to download a VPN app to continue using X. 
+
+This will have a number of implications for the crypto world in Brazil. The first is that access to information about crypto will be severely constrained, as X/Twitter has been crypto’s town square for over a decade now. It is the primary platform where knowledge is exchanged and connections are made. There is already a crypto information gap between Brazil and the rest the of the world — this would only serve to exacerbate that. 
+
+One positive implication is that this battle creates more urgency for people to build and adopt decentralized social platforms on which to communicate, build brands and businesses, etc. 
+
+The main driver of Web3 adoption, unfortunately, will be pain. In the event of an X blockage, there will be a lot of pain inflicted on Brazilian individuals and businesses (many who have nothing to do with politics) — perhaps this will be the moment they begin to look for alternatives.
+
+Buckle up because it looks like this will be a wild ride. 
+
+🔍What else is in this week’s BCR?
+
+Lula government eyes a new tax increase on crypto holders
+Banco BV tests tokenized auto financing
+São Paulo police request that Braiscompany CEO be extradited from Argentina and arrested
+
+Have a great week everyone!
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🎙New podcast!
+
+This week, I talk to Michael Casey about Argentina, its precarious macroeconomic situation and how the country has become a ground zero for crypto adoption. 
+
+Michael lived in Argentina for six years during the 2000s as a financial markets correspondent for Wall Street Journal, where he covered a myriad of financial crises during that period. These experiences ultimately led him down the bitcoin rabbit hole. His understanding of Argentina’s history and recent struggles help to inform the conversation about current crypto adoption in the country. 
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Lula government aims to increase taxes on bitcoin holders
+
+Finance Minster Fernando Haddad will submit a proposal to increase taxes on all cryptocurrency users to 22.5%, irrespective of whether the coins are held domestically or abroad. 
+
+The proposal will be included in a broader bill that would overhaul taxes on financial investments. If approved, it would apply next year. 
+
+Recall that Congress last year passed a 15% tax on cryptocurrencies held offshore, and that the Receita Federal recently released guidance explaining how this will apply. 
+
+According to the bill, the government believes that these current rules will end up benefiting holders looking to circumvent income taxes. 
+
+CoinTelegraph Brasil Exame BeinCrypto Valor Exame
+
+Banco BV tests RWA tokens linked to auto financing
+
+Banco BV is partnering with Parfin and CConsensus to issue RWA tokens linked to vehicle financing in Brazil. The tokens will ensure that the financing and transfer process can be done digitally via blockchain — Hyperledger Fabric, in this case. 
+
+The bank explained that some tests are already being performed in a test environment. 
+
+Carlos Bonetti, Banco BV Risk and Operations Director, said in a statement: 
+
+"The idea is that the bank conducts the entire financing operation, from simulation to discharge of the encumbrance and the completion of the vehicle's sale after the payment of the benefits by the buyer, which will provide greater agility and efficiency in the operation." 
+
+CoinTelegraph Brasil Valor
+
+São Paulo police request the arrest of Braiscompany CEO Antonio Neto Ais
+
+São Paulo Civil Police requested the preventative arrest of Neto Ais, the founder of the R$1 billion Braiscompany bitcoin pyramid scheme, and his wife Fabricia Campos. 
+
+Both Neto and Campos have already been sentenced to 150 years in prison by the Federal Court of Paraiba.
+
+Two other members of the scheme were also included in the request, which was sent to Campina Grande (where Braiscompany was headquartered) at the request of the SP Public Ministry. 
+
+The couple was arrested by Interpol in Argentina last month after being on the run for more than a year. Both are awaiting extradition to Brazil. 
+
+Portal do Bitcoin InfoMoney
+
+Share via Whatsapp
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Mercado Bitcoin is creating a “startup exchange” for primary and secondary equities, primarily focused on late stage companies from Series A and forward. Reinaldo Rabelo , CEO, told Neofeed:
+
+“We always wanted and thought that the tools and tokenization technology would serve very well to organize the fundraising market and to offer investors liquidity in startups.”
+
+OKX Brasil and Cainvest have partnered to provide a more robust and competitive trading experience for Brazilian users. (CoinTelegraph Brasil)
+Adoption of tokenization by Brazilian companies is 56% higher than the global average, according to a survey by Dutch payments company Ayden. (Exame)
+CoinEx Global has listed 38 new token pairs for its Brazilian customers. (CoinTelegraph Brasil)
+
+📲 Adoption
+
+Brazil’s Drex pilot will be entering a new phase with the conclusion of privacy testing, Central Bank president Robert Campos Neto explained during a talk at the Bradesco BBI Brazil Investment Forum. The privacy testing phase is expected to conclude in May but has suffered from delays due to staffing issues at the bank
+
+Brazil’s Federal Council of Real Estate Brokers (COFECI) revealed details about the institution’s forthcoming blockchain solution that will be mandatory for all real estate brokers in the country to use. The chain will be interoperable with the Drex system, opening up a variety of programmable money use cases involving real estate transactions. (CoinTelegraph Brasil)
+A new Anbima study of Brazilian investors found that only 5 percent hold cryptocurrencies. The study - X-Ray of the Brazilian Investor was conducted by Anbima in a partnership with Datafolha. It found that savings accounts and private debt remain the most popular investment vehicles in the country. (Valor) (CoinTelegraph Brasil) (InfoMoney)
+Solana hosted one of its Build Station activations at Ibrawork in São Paulo last week, marking the closing of its Renaissance Global Hackathon. (Portal do Bitcoin) 
+Financial influencer Nathalia Arcuri released a video explaining the upcoming bitcoin halvening event. 
+
+Transfero Group announced that it is one of the premier sponsors of Web Summit Rio later this month. (CoinTelegraph Brasil)
+A survey by Sherlock Communications shows that Brazilians expect Drex to reduce instances of corruption in the country, and that they do not fear potential financial privacy violations. (CoinTelegraph Brasil)
+
+-The percentage of survey respondents who invested in crypto increased from 14% in 2023 to 24% this year. (Exame) (Portal do Bitcoin)
+
+-The study also found that 80 percent of Brazilians believe cryptocurrency needs more regulation. (CriptoFacil) (BeinCrypto)
+
+-In all, the study found that crypto adoption across Latam increased 73% year-over-year. (Web3News)
+
+-You can download the full Blockchain Latam Report 2024 here. Kudos to Luiz Eduardo Abreu Hadad , Patrick O'Neill and the rest of the team for producing this. 
+
+The governments of Recife and Araguaina announced a partnership with Serpro to integrate blockchain into public electricity infrastructure. (CoinTelegraph Brasil)
+The city of Recife also launched a new digital social currency called Capiba to incentivize citizens to partake in healthy and sustainable practices. (CoinTelegraph Brasil) (Portal do Bitcoin)
+
+🏛 Policy, Regulation and Enforcement
+
+The CVM issued stop orders against Coinbene and Kaarat, prohibiting them from offering securities and crypto in the country. The CVM argued that the exchanges do not have permission to offer securities in Brazil. (CoinTelegraph Brasil) (Portal do Bitcoin)
+The Receita Federal is warning consumers about “error in declaration” email scams, in which a phishing email is sent telling the taxpayer to click on a malicious link to amend their tax return. (Portal do Bitcoin)
+CVM director Daniel Walter Maeda Bernardo will travel to the US this month to meet with American participants in the RWA tokenization market. (CoinTelegraph Brasil)
+Rules for the inheritance of bitcoin, NFS and digital assets are being addressed in a reform to Brazil’s Civil Code. (CoinTelegraph Brasil) (Portal do Bitcoin)
+A São Paulo woman lost R$28,000 in cryptocurrencies after falling victim to a scammer pretending to be a crypto investing consultant. (Portal do Bitcoin)
+Brazil’s Supreme Court approved the extradition of Laurent Barthelemy, a Belgian man arrested in Brazil for operating a cryptocurrency pyramid called Bit Robot. (Portal do Bitcoin)
+Federal Police carried out an operation against a Mexican citizen residing in Brazil accused of operating a cryptocurrency pyramid. (Portal do Bitcoin) (BeinCrypto)
+Federal Police launched Operation Private Key targeting a criminal enterprise that stole R$6 million (US$1.2 million) from Caixa Economica banks via cyber attacks and converted the funds into cryptocurrency. (Portal do Bitcoin)

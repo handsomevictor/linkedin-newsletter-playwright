@@ -1,0 +1,91 @@
+🇧🇷BCR #76: Brazil-Argentina Common Currency Proposal Takes Shape, Draws Controversy
+Plus: Parfin raises US$15 million in latest round; lost year for crypto regs in Brazil?
+
+This newsletter is an abridged version of this week's full 🇧🇷Brazil Crypto Report which is hosted on Substack. If you enjoy this content please consider subscribing and following the Substack version where you can find more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the weeks of January 23-27, 2023. I snuck away for a few hours this weekend to check out the Flamengo vs Palmeiras match in Brasilia for the Brasil Supercopa.
+
+It was my first ever Brazilian football match and a pretty incredible experience overall - though I naively thought that simply purchasing a ticket would guarantee me a seat. I quickly realized that’s not how it works in Latin America as there were two times as many people in my section as there were actual seats. In the end it didn’t matter if we had seats or not because everyone stood for the entire game anyways. Fun stuff! 
+
+As always, I appreciate you reading and I hope you have a great week.
+
+-AWS
+
+Brazil-Argentine common currency takes shape
+
+The conversation over a potential South American currency continued to rage on Twitter this week after Lula and Argentine president Alberto Fernandez shared their intentions to push the project - called the “Sur”. Ideally, the shared currency would increase trade between the two countries while reducing dependence on the dollar.
+
+The text signed by both heads of state following their first bilateral meeting states reads:
+
+“We also decided to advance discussions on a common South American currency that can be used for both financial and commercial flows, reducing operational costs and our external vulnerability,”
+
+Finance Minister Fernando Haddad articulated that Brazil would have two official currencies in this scenario - the Real and the CBDC shared by the two nations. Haddad explained that he has been discussing the topic with his counterpart, Sergio Massa - Argentina’s Minister of Economy, but there are no further details on how it would work.
+
+The project has its share of naysayers. Brazilian Central Bank President Roberto Campos Neto stated that he is against the idea, stating during a webinar:
+
+"I am against. I don't think it makes sense for us right now for a variety of reasons.”
+
+Joao Zecchin, founding partner at Fuse Capital, argued that single currencies shared by countries with different monetary policies has proven to be problematic, but suggested that a blockchain-based synthetic currency used as an intermediary between the two countries could be feasible. He told Exame:
+
+"It is a solution to have a middle way, without committing the two central banks to identical monetary policies but still facilitating the exchange rate. It could even use the infrastructure of Real Digital and a future Peso Digital and create an exchange rate with settlements blockchain, also avoiding SWIFT."
+
+Coinbase CEO Brian Armstrong even chimed into the discussion by suggesting that the countries should consider adopting bitcoin as their single currency, similar to El Salvador.
+
+2023 could be a lost year for crypto regulation amid transitions and political turmoil
+
+Paulo Alves of InfoMoney wrote an important article highlighting how momentum behind crypto regulation could slow down significantly this year as political turmoil in Brasilia, transitional bureaucracy and other competing priorities may force it to take a back seat.
+
+While the enabling legislation was signed into law in late December and has a deadline of 180 days to enter into effect, specific rules have yet to be defined nor has a formal regulatory body (expected to be the Central Bank) been designated by the Executive Branch. Further, there is nothing preventing this 180 day deadline from being extended.
+
+This means that work on developing a consultation and rulemaking process for crypto exchange licenses may not begin for some time, rendering it unlikely that any such licenses will be issued this year.
+
+Others interviewed for the piece expressed concern that the new Lula government may opt not to designate the Central Bank as the industry regulator. Attorney Rodrigo Caldas de Carvalho Borges argued that such an outcome would render the law toothless. He told InfoMoney:
+
+“Not defining [the BC] would empty the law…The benefit of appointing a technical body makes the process more dynamic than the legislative one, and this would be lost. The market would remain in a gray area and the law would have little effect”.
+Parfin raises US$15 million in latest round
+
+The crypto service provider for institutions raised from Framework Ventures, Valor Capital Group, Alexia Ventures and L4 Venture Builder - an investment fund formed by the B3 Exchange.
+
+Parfin provides a variety of Web3 infrastructure solutions including MPC custody, an API that allows institutions to offer crypto to end users, treasury management, an OTC desk and a “blockchain as a service” platform called Cryptum. The funds will be used to launch new products like Parchain, a permissioned EVM fork that enables DeFi and asset tokenization.
+
+Jochen Mielke de Lima, CEO of B3 Digital Assets, commented:
+
+“Parfin is an excellent partner with a solid team and technology stack…With this step and a new capital increase, we hope to further strengthen our relationship and we hope that Parfin will continue to execute its roadmap to offer digital infrastructure at an institutional level, reconciling market experience and technological innovation”
+
+Parfin’s Cryptum product currently has approximately 300 clients in Brazil, according to CEO and founder Andre Salem.
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Inflows into crypto asset investment funds in Brazil dropped dramatically in 2022 from the previous year, according to a survey by asset manager Hashdex. New money coming into the sector fell from R$3.5 billion (US$689 million) in 2021 to R$440 million (US$87 million) in 2022.
+Performance of Brazilian crypto funds lagged as well: KPTL’s A5 Bohr Arbitrage Fund was down 15.8 percent, Vitreo/Empiricus’s Vitreo NFT fund lost 86%, while Hashdex’s HASH11 ETF, the largest crypto index fund, was down 69 percent for the year.
+Titanium Structure, managed by Titanium Asset, was one of the few that appreciated. It posted a 6.2 percent gain on the year with its quantitative arbitrage strategy. (Valor)
+Valor also published a good piece looking at the state-of-play for Brazil’s 13 crypto ETFs currently trading on the B3 exchange.
+Brazilians declared over R$100 million worth of stablecoin declarations in 2022, a 135 percent increase over the previous year, according to preliminary data from the Receita Federal that does not factor in December numbers. (InfoMoney)
+Blockchain analytics firm Chainalysis predicts stablecoin usage in Brazil and Latin America will increase in 2023
+Bradesco, the last of Brazil’s big banks to dive into crypto, is preparing ambitious plans for tokenizing debt securities, managing crypto asset funds and offering crypto trading services to clients. André Bernardino, director of shares and custody at Bradesco, told Valor:
+
+“This market has already arrived and is here to stay. Opening for cryptocurrency trading is something that is within our plans. The CVM has authorized funds to invest in crypto, and Bradesco is one of the largest fund managers in Brazil.” (Portal do Bitcoin) (CoinDesk)
+
+Despite crypto’s poor performance in 2022, four of the 10 most popular ETFs listed on the B3 exchange are crypto-focused, according to s survey by TC Economatica.
+The HASH11 ETF, managed by Hashdex, was the second most popular ETF on the exchange, with nearly 150,000 shareholders. In total, 13 ETFs with cryptocurrency exposure currently trade on the B3, with eight of them launched in 2022. (CoinTelegraph Brasil)
+
+Bitso became the first exchange in Latin America to offer EUROC, Circle’s Euro-pegged stablecoin. The exchange also noted that its stablecoin transaction volume grew 95% in 2022. (BlockNews) (Valor)
+Ripio, the Argentine crypto exchange that operates in Brazil, is one of the 50 largest creditors of Genesis Trading. Genesis, which filed for bankruptcy protection earlier this month, owes US$27.5 million to Ripio with regards to a loan. Ripio told InfoMoney that “ ser funds have not been compromised in any way by this situation”.
+São Paulo-based Schnutz Investments LP is the 50th largest creditor, per BlockNews
+iVi Technologies, headquartered in Belo Horizonte, is prepping a new quantitative crypto asset ETF to launch on the B3 exchange in the second quarter of 2023, contingent upon approval by the CVM. The fund, developed in partnership with MIAX - the Miami exchange, will mirror a new index scheduled to be released in March. (InfoMoney) (Exame)
+Coinext, the Brazilian crypto exchange, will launch a crypto asset management division to manage an offshore ETF.
+The unit will function separately from the exchange side of the business and will be regulated by the CVM and the Banco Central. It is expected to launch in the first half of 2023 once it receives the necessary approvals.
+The fund seeks to raise between R$5 - R$25 million from institutional and accredited Brazilian investors. (Portal do Bitcoin) (Valor)
+WEB3DEV, the Brazilian Web3 educational platform, opened its first round with the goal of raising R$7.5 million (US$1.5 million) to expand its community across Latin America. R$2.5 million has already been secured from MZ Web3 Fund. (CoinTelegraph Brasil)
+The blow up of Brazilian retailer Lojas Americanas, which discovered a US$4 billion gap on its balance sheet, could have been avoided with the tokenization of credit markets in Brazil, argued Paulo Oliveira, CEO of Bolsa OTC Brasil. (Crypto Times)
+Brazilian fintechs received R$9 billion (US$1.8 billion) in investment funding in 2022, according to a survey by the District. (Exame)
+More than 50 percent of Brazilians under 35 currently use “neobanks” such as Nubank, according to a survey by Mambu - a fintech. (Exame)
+Brazilian startup Estar is seeking to create the first secondary market for trading tokenized startup shares in Brazil within the CVM’s regulatory sandbox. The idea is that Estar allows startups to do conduct a “mini-IPO” in which shares are tokenized, divided and then listed in the marketplace. (Exame)
+Mynt, BTG Pactual’s crypto platform, listed four new assets for trading on its platform - Aave, Uniswap, Lido and Curve, bringing its grand total to 14. Also introduced was a new tool for calculating income tax obligations on crypto investments. (CriptoFacil) (Crypto Times)
+Mercado Bitcoin offered its first tokenized receivables product in Europe via CriptoLoja, a Portuguese exchange in which MB has an ownership stake. While the tokens are distributed in the European market, they are backed by tokenized assets in Brazil - specifically, PagCartão receivables. The offering sold out in less than 24 hours. (CoinTelegraph Brasil)
+Brazil is one of Binance’s top 10 institutional markets globally, and institutional clients in the market increased by 15.5 percent in Q4 2022 according to Guilherme Nazar, Binance’s new director general for Brazil. (Livecoins)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

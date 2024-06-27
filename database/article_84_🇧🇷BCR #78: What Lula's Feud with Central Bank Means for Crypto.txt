@@ -1,0 +1,73 @@
+🇧🇷BCR #78: What Lula's Feud with Central Bank Means for Crypto
+Also: Brazil crypto volumes shrink 24% in 2022; Nubank gets green light for Nucoin
+
+This newsletter is an abridged version of this week's full 🇧🇷Brazil Crypto Report which is hosted on Substack. If you enjoy this content please consider subscribing and following the Substack version where you can find more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Olá pessoal!
+
+Huge welcome to 🇧🇷Brazil Crypto Report for the weeks of February 6-10, 2023. I hope everyone is doing well.
+
+I’m excited to announce that the BCR YouTube channel is officially live, as is Season 2 of the podcast. In the inaugural edition, I talk to Karen Duque, head of public policy at Bitso Brasil, and Julien Machado Dutra Dutra, head of government relations at 2TM Group and Mercado Bitcoin. Karen and Julien were two of the catalysts that helped passed cryp🇧🇷BCR #78: What Lula's Feud with Central Bank Means for Crypto
+
+to legislation last December.
+
+Please have a watch or listen (can also listen on Spotify) and feel free to subscribe/like/comment if you enjoy the content!
+
+As always, I appreciate you reading and I hope you have a great week.
+
+-AWS
+
+Central Bank autonomy on the line as Lula lashes out at Campos Neto
+
+Lula, Brazil’s new president, lashed out at the Banco Central do Brasil and its president Roberto Campos Neto this week in an attack on the institution’s autonomy. He argued that the bank’s 3.25 percent inflation target is too low:
+
+“Is this country doing well? Is this country growing? Are people’s lives improving? No. So, I want to know what independence was good for….There is no reason for the interest rate to be at 13.75 per cent. Does Campos Neto want to achieve European inflation standards? We have to reach a Brazilian standard. An inflation rate of 4.5 per cent in Brazil, of 4 per cent, is a good thing if the economy is growing,”
+
+Former president Jair Bolsonaro granted the institution official autonomy in 2021. Lula intends to review and possibly reverse this decision - re-positioning the bank as a political actor. According to the Financial Times:
+
+Many fear that Lula’s administration is resembling that of former leftwing president Dilma Rousseff, who pressed the bank to adapt monetary policy to suit her political agenda and whose mismanagement of the economy was widely seen as a factor behind Brazil’s deepest ever recession between 2014 and 2016.
+
+The comments sent jitters throughout the market as investors moved to reset inflation expectations.
+
+What does any of this have to do with crypto?
+
+First, Campos Neto and his team of technocrats at the Banco Central are supposed to be appointed as the official regulator of the crypto industry, pursuant to enabling legislation passed last December. Given the state of the relationship between the new president and the BC, it’s looking more unclear as to when this formal designation will actually happen
+Second, Campos Neto’s team is the driving force behind the development of the Digital Real (not to mention other successful initiatives like Pix and Open Finance), which is currently being tested and expects to be rolled out fully next year.
+
+In somewhat related news, the Lula administration is now picking a fight with Uber, the rideshare company, arguing that Uber drivers should be included in Brazil’s national social security system - effectively rendering them full-time employees. Luiz Marinho, Brazil’s new Minister of Labor, explained that if Uber were to leave Brazil instead of complying, he will direct the Post Office to create a similar ride-sharing application:
+
+“What if Uber leaves [Brazil]? Uber problem. I'm not worried….I can call Correios, which is a logistics company, and say to create an application and replace [Uber].”
+Brazil’s crypto market shrinks 24% in 2022
+
+Brazilians reported R$154 billion (US$30 billion) in cryptocurrency transactions in 2022, down 24% year-over-year, according to data from the Receita Federal, Brazil’s tax authority. 2021, the peak of the crypto bull market, saw R$204 billion (US$39 billion) in reported transactions.
+
+More than 62,000 CNPJs (unique businesses) performed crypto trades during December 2022. This is up from just ~10,000 in January 2022.
+
+The figure is up more than 35% from November, which saw 45,000 CNPJs report crypto trades.
+The number of CPFs (unique individuals) who transacted in December was down 22% - to 909,000 from 1.17 million (CoinTelegraph Brasil)
+Chiliz, Matic and XRP were among the preferred altcoins for the month
+
+Source: CoinTelegraph Brasil
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+2023 will be a year of “cleanup” for the crypto assets industry as more serious players enter the space, Andre Portilho, BTG Pactual’s head of digital assets, argued in an interview with Reuters:
+
+"Companies without a sustainable business model, that did stupid things, that didn't treat their customers well, that leveraged too much, those will fall by the wayside…Nothing that happened with crypto has not happened in other industries in the past ... Going forward, the trend is to clean up the industry, have more regulation and have more structured companies entering this market."
+
+Arthur Mining, the US-based bitcoin miner run by Brazilians, raised a round of US$4.6 million to expand its green mining operations. It projects a 400% growth in its operation in the US, and it intends to launch a mining operation in Brazil, both of which should in theory allow the company to reach US$40 million in revenues for 2023. CEO Raymond Nasser explained:
+
+“Closing a round of this size in the midst of one of the most challenging times in the market, with other companies in the sector undergoing judicial reorganization and bankruptcy, was a great milestone for Arthur. As ASICs have a high price correlation with Bitcoin, the moment to expand operations was as opportune as possible, being able to acquire the assets at a great discount, including part of the inventory of less efficient players in the market.” (InfoMoney) (CoinTelegraph Brasil) (Livecoins) (Forbes)
+
+Nubank’s Board of Directors approved the issuance of Nucoin, the digital bank’s crypto asset. The bank intends to launch Nucoin in the first quarter of 2023 from the Cayman Islands, where Polygon Labs - which is providing technical support - is headquartered. (CoinTelegraph Brasil) (InfoMoney)
+Nubank also announced that it had laid off 40 individuals, on top of a previous round of cuts in December
+Z.ro Bank, the multi-currency digital bank, is experimenting with new verticals, such as its “Pix-as-a-Service” offering, in an effort to diversify away from crypto during the bear market. (BlockNews)
+Banco do Brasil and BWS inked a new partnership allowing BB customers to pay their taxes with cryptocurrency. (Portal do Bitcoin) (Valor Investe)
+Walltime Digital Assets Exchange, one of Brazil’s earliest crypto brokerages, is ending its operations and returning deposits to clients. (Portal do Bitcoin)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem
+
+
+
+
+

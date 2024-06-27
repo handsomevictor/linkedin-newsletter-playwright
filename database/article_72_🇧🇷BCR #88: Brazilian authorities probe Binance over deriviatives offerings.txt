@@ -1,0 +1,87 @@
+🇧🇷BCR #88: Brazilian authorities probe Binance over deriviatives offerings
+Also: Brazil Builders Breakfast in Austin; CVM open to loosening rules for asset tokenizers; BTG Pactual acquires 20% of Lumx Studios
+
+(NOTE: This is an abridged version of this newsletter. I'd encourage readers to subscribe to Brazil Crypto Report on Substack - which is my primary distribution channel - to ensure you're receiving everything!)
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of April 17-21, 2023 and greetings from Austin, Texas where I’m getting ready for Consensus and the Filecoin Network Base event which we’re hosting Monday - Wednesday. I’d encourage everyone to stop by if you’re in town!
+
+☕️ Also Ethereum Brasil and Brazil Crypto Report are hosting a Brazil Builders Breakfast Friday, April 28th from 8am - 11am at TacoDeli in downtown Austin. Open to everyone! RSVP link is here
+
+Have a great week everyone!
+
+-AWS
+
+Binance under investigation over derivatives offerings
+
+Federal Police, the São Paulo Public Ministry and the CVM - Brazil’s securities regulator - are expanding investigations into whether Binance illegally enabled Brazilian users to trade derivatives on its platform.
+
+The investigation is looking into whether the world’s dominant exchange committed a crime by continuing to offer crypto derivatives to Brazilian customers even after the CVM issued a “stop order”, Valor reports.
+
+Among the materials presented by the CVM include screenshots of interactions with Binance customer support in which a reporter from Portal do Bitcoin, posing as a trader, is instructed to change the language from Brazilian Portuguese to Portuguese from Portugal to circumvent the prohibition and access the product.
+
+The CVM first initiated an action against Binance’s crypto derivatives offerings in 2020, which ultimately resulted in the stop order being issued as the exchange did not have the proper authorization to offer such products. There is a bit of background here that (Exame published a good piece laying out the background and history of this initial inquiry if you’re interested)
+
+The agency then released an opinion in 2022 stating that Binance had sufficiently complied with the order.
+
+However, the revelation of the support messages shortly thereafter prompted the CVM to review this position, and the matter has been under review by the CVM’s Market and Intermediary Relations superintendent since then.
+
+Portal do Bitcoin reports that the CVM’s re-opened inquiry began almost one year ago and that the action “continues at full speed through the corridors of the institution”. The report lays out the following timeline:
+
+The CVM sent Binance an inquiry on June 1, 2022 requesting information about the types of products available to Brazilian users and the means by which users access those products.
+Binance did not respond to the inquiry after two weeks, prompting the CVM to send a second notification and open a sanctioning process
+The second inquiry was answered two months later by Pinheiro Neto, a leading law firm, representing both B Fintech and Binance
+One week later, the law firm Galdino & Coelho Advogados sent a notification explaining that there was a private meeting between Binance and the CVM and that Binance was not aware of any sanctioning procedures underway
+
+“On 08/18/2022, Mr. Daniel Mangabeira (Senior Director for Latin America at Binance), Dr. Gustavo Borba (in the capacity of Binance's consultant for this case) and this signatory, Dr. Pablo Cerdeira, with the best intention of contributing and collaborating with the relevant services developed by this Securities and Exchange Commission, demonstrating his good background, his good faith and his best spirit of collaboration. It was on that date, however, that Binance became aware of the present Sanctioning Process.”
+
+On August 25, Mangabeira sent an email to the CVM requesting more time to respond to the inquiry - a request which was ultimately denied
+
+The timeline becomes murkier after that due to partial availability of documents, including several being made confidential at Binance’s request. We do know that the CVM sent a notice to the Public Prosecutor’s Office of São Paulo state in late 2022 stating that there existed “evidence of the commission of crimes subject to public criminal action”.
+
+The last substantive update available was from February 28, in which an internal CVM letter stated that Binance had submitted a Term of Commitment to be reviewed by the agency. If the document is agreed upon, it could likely require Binance to pay a fine and agree to change the way local investors access the products in question.
+
+As part of the CVM’s inquiry, several employees of B Fintech were summoned to give testimony - with that evidence being forwarded to the Federal Public Ministry, Portal do Bitcoin reported.
+
+Binance declined to comment to numerous local outlets that reached out, citing that it does not comment on ongoing investigations, it does not offer derivatives in Brazil and that it is committed to compliance and dialogue with authorities.
+
+Cláudio Rabin of Portal do Bitcoin came on my podcast last week to discuss what his team of reporters has uncovered thus far. Highly recommend listening if you’re interested in learning more.
+
+CVM agrees to discuss relief for fixed income token rules
+
+The Brazilian securities regulator agreed to discuss easing restrictions for issuers of digital fixed income tokens following a series of meetings with industry participants.
+
+The CVM issued an interpretation earlier this month stating that it views most of these fixed income tokens as securities - a characterization that the local industry took issue with.
+
+Among the relief measures being discussed is a move to wave the requirement for a bookkeeper and centralized depository - services that the blockchain can perform instead.
+
+Also, InfoMoney reports that industry participants are optimistic that the CVM will grant an exemption from the need to obtain a license to operate a crowdfunding platform.
+
+Industry representatives argue that the CVM must clarify its position quickly. While the agency has not issued a stop order, tokenizers such as Liqi have frozen operations for the time being.
+
+The agency is also open to loosening its crowdfunding requirements so that companies with more than R$15 million (US$8 million) in revenue can participate.
+
+However, blockchain-based asset tokenizers argue that the technology is fundamentally incompatible with the crowdfunding regulatory framework. In particular, the current 120 day lock-up rule.
+
+Liqi CEO Daniel Coquieri told CoinTelegraph Brasil:
+
+“In crowdfunding there is a 120-day lock-up rule, when the issuer issues a token he has to wait 120 days to issue another token, this does not work in the tokenization market, which is very dynamic, there is a token every day, every week, the assets are originated much faster.”
+
+Asset tokenizers are also hammering the home the point that many of these fixed income tokens don’t necessarily constitute securities. Rather, many of them represent a simple advance of funds which are to be paid back within a given period.
+
+Vanessa Butalla, legal director at MB, told Valor:
+
+“It is important to look at tokenization from the right perspective and not seek to fit into traditional structures that are already known. More than a new technology, it is a new business model, capable of offering access and liquidity with assets that were not available to the entire market and that are not securities or certificates of receivables. We are quite convinced of this.”
+🎙Recent 🇧🇷BCR Podcast episodes
+
+If you are a service provider/operator/investor looking to enter Brazil, a Brazilian company looking to expand your presence internationally, or an exchange operating in the Brazil market - I want to interview you!
+
+1️⃣ Cláudio Rabin, editor-in-chief at Portal do Bitcoin, joined to help us better understand what’s happening with the ongoing probes into Binance’s derivatives offerings. Apologies the audio isn’t great on this (Spotify)
+
+
+
+
+2️⃣ Jorge Borges, head of Latam sales at Fireblocks, joined to talk about the unicorn crypto infrastructure provider’s expansion efforts in the region. (Spotify, Apple Podcasts)
+
+3️⃣ Rony Szuster from the Mercado Bitcoin research team joined to discuss the Shanghai and Capella upgrades which were executed on the Ethereum network last week. (Spotify, Apple Podcasts, YouTube)

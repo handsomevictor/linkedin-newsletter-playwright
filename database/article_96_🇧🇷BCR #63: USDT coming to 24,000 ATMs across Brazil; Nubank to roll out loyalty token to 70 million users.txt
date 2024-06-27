@@ -1,0 +1,91 @@
+🇧🇷BCR #63: USDT coming to 24,000 ATMs across Brazil; Nubank to roll out loyalty token to 70 million users
+Plus: Latam is the fastest growing crypto region in the world, says Chainalysis
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal!
+
+Welcome to Brazil Crypto Report for the week of October 17-21, 2022. It was another big news week - in this issue I look at Nubank’s forthcoming Nucoin token, how Brazil and Latam fare in Chainalysis’s new global crypto adoption report, how USDT is coming to 24,000 ATMs across Brazil and how police have cracked down on yet another massive crypto pyramid scheme.
+
+On a side note, I will be in Lisbon the next couple of weeks attending a bunch of different crypto events so please hit me up if you’re around. If you’re passing through, make sure you check out the FIL Lisbon conference hosted by Filecoin Foundation, and if you’re at Web Summit make sure you stop by the Filecoin booth and pick up some interplanetary swag.
+
+Have a great week everyone,
+
+-AWS
+
+P.S. If you enjoy this content please consider subscribing and sharing with others who might find it informative!
+
+Nubank to roll out Nucoin to 70 million customers in Brazil, Mexico, Colombia in 2023
+
+The unicorn digital bank’s native coin will be distributed freely to all customers and will be used to offer discounts and perks to holders. Fernando Czapski, general manager for Nucoin, commented:
+
+“We are opening a door to the future…Nucoin is a new way to recognize customer loyalty and encourage engagement with Nubank products.
+"This project is another step ahead in our belief in the transformative potential of blockchain technology and to democratize it even more, going beyond the purchase, sale and maintenance of cryptocurrencies in the Nu app.
+
+Nucoin itself will be built on Polygon. The bank will initially select a beta test group of 2,000 users to test the product and provide feedback. Afterwards, the token will be distributed to all customers, with the official launch expected to come in early 2023. Nubank did not specify if users would be able to cash out Nucoin, trade it on exchanges or what the initial market value of the coin would be.
+
+Sandeep Nailwal, co-founder of Polygon, said in a statement:
+
+“One of the largest financial institutions in the world distributing its own cryptocurrency is a strong validation of the utility that blockchain and crypto have to offer. Nubank's loyalty program, developed in partnership with Polygon, will bring the transformative benefits of blockchain technology to its customers, recognizing the changes taking place in the traditional financial world.”
+
+Nubank is hardly the first Latam fintech to plot its own token. Recall that Mercado Libre launched its own Mercado Coin token earlier this year which has a similar loyalty mechanism. InfoMoney has a nice overview looking at the key aspects of these fintech crypto tokens.
+
+Latam is world’s fastest growing region for crypto, says Chainalysis
+
+Latin America received BRL$2.9tn (US$560bn) of crypto between July 2021 to July 2022, a 40% year-over-year increase, making it the fastest growing region in the world for crypto adoption. These numbers come from the 2022 edition of Chainalysis’s Global Cryptocurrency Adoption Index, released last week.
+
+Brazil itself represents the seventh largest market for crypto adoption worldwide, receiving just under US$150bn worth of cryptocurrencies over the period.
+
+Brazilian investors are generally more exposed to cryptocurrencies vis-a-vis other types of assets than investors elsewhere in the region. This because Brazilians tend to approach crypto more as a speculative asset, the report notes, similar to more developed markets. Notably, Brazil featured significant adoption by retail and professional investors, with transfers between US$10,000 and US$1m representing more than 60% of the total volume, whereas the rest of Latam did not surpass 40%.
+
+Another highlight from the report is that Brazil has the world’s fifth largest Axie Infinity community, and the second largest in Latam behind Mexico.
+
+Latam is also home to several other countries in the top 30, including Argentina (13th), Columbia (15th), Ecuador (18th) and Mexico (28th).
+
+Chainalysis research director Kimberly Grauer explained at a press conference:
+
+“We have a very large volume coming from Brazil, which makes sense with what is happening there in the financial market. Hedge funds are diversifying to adopt crypto, and there is a lot of work being done to do so strategically. Not to mention Brazil's role as Latin America's financial hub.”
+
+Note: if you’re interested in learning more about Chainalysis’s methodology for these reports please have a listen to my podcast interview with Kim Grauer from earlier this year
+
+Brazil was also second in the region when it comes to investing in decentralized finance, behind only Chile. This market, which includes play to earn games and NFT transactions, comprised 30% of the total crypto volume in the country.
+
+The report also found that Binance was not surprisingly the most visited crypto site by Brazilians between September 2021 and September 2022.
+
+USDT will be available at 24,000 Brazilian ATMs via SmartPay partnership
+
+Brazilians will be able to access the USDT stablecoin at ATMs beginning November 3 through an arrangement with SmartPay and TecBan - which owns 24,000 ATMs in 1,000 cities under the Banco24Horas brand and has been exploring other crypto product offerings (and is a participant in the Banco Central’s Digital Real Lift program).
+
+Using SmartPay’s Swapix service, users will be able to send USDT from any wallet to an ATM to convert to BRL, as well as deposit BRL at the ATM and receive USDT in their wallets. SmartPay previously built a connection between USDT and Pix whereby users can directly send and receive USDT payments via Pix using a QR code. SmartPay has an existing agreement with Bitfinex, which is connected to Tether, since March. SmartPay CEO Rocelo Lopes told BlockNews:
+
+“I want to be a bank without being a bank. We want who the bank doesn't want and who doesn't want the bank it has…The (Bitfinex) partnership brings us traffic and the exchange has already put Swapix in the Fast Pay (payment feature) of its app,”
+
+
+
+
+Brazilians transacted a total of US$1.4bn in USDT during the month of August, the company reports.
+
+Tether CTO Paolo Ardoino commented:
+
+“Adding tether tokens to ATMs across Brazil provides the opportunity to include more people in the financial system…This will bring major changes not only to the payments industry but to the entire Brazilian financial ecosystem.”
+Federal Police break up R$4bn pyramid
+
+Patrick Abrahão, a Brazilian businessman and husband of Perlla, a popular singer, was arrested in Rio de Janeiro by Federal Police over his role in a financial pyramid scheme called Trust Investing.
+
+The arrest was part of the La Casa de Papel operation which sought to dismantle the criminal organization behind the Trust Investing scheme that raised funds from 1.3 million people more than 80 countries. The Estonia registered company allegedly offered returns as much as 20% per month and 300% annually to investors via cryptocurrency investment packages. The loss to investors from the scheme is estimated at R$4.1bn (US$790m) since it began operating in 2019. It ceased paying out money to investors in October 2021.
+
+Two other leaders of the group, Diego Chaves and Fabiano Lorite, were also arrested. Portal do Bitcoin reports that in the days prior to the scheme’s collapse, Lorite and other executives were promising that they would be able to pay investors dividends for “many years to come”. Lorite stated on a video:
+
+“Flamengo may lose Libertadores, its candidate loses for president, but I can guarantee: Trust will come back and it will bring joy to many people.”
+
+Perlla has insisted that her husband is innocent.
+
+🎙Catch the latest episodes of the 🇧🇷Brazil Crypto Report podcast.
+
+1️⃣ Isac Costa joined to discuss the Brazilian SEC’s new guidance on crypto tokens and how this fits into the scope of crypto regs in Brazil more broadly. Definitely worth a listen if you’re on the regulatory beat.
+
+2️⃣ Marcello Mari of SingularityDAO discusses how his AI-driven asset management platform became one of the most popular crypto projects in Brazil
+
+3️⃣ Garrett Kinsman, co-founder of Nodle, joined to discuss his smartphone-powered Internet of Things network and how he hopes to onboard one million users in Brazil by this time next year.
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

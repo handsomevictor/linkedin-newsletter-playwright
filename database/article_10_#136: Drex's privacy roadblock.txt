@@ -1,0 +1,150 @@
+#136: Drex's privacy roadblock
+Plus: Bitcoin futures go live on B3; BitcoinToYou freezes withdrawals
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+Welcome back to 🇧🇷Brazil Crypto Report for the week of April 15-19, 2024.
+
+BCR had an incredible experience at Web Summit Rio last week - 5 panels, 3 podcast recordings, lots of conversations with new and old friends, not much sleep, etc.
+
+I was fortunate to share the stage with some amazing individuals - Animoca Brands CEO Yat Siu, Hashdex CEO Marcelo Sampaio, ABCripto CEO Bernardo Srur, Transfero CEO Márlyson Silva Silva, techno-philosophy mastermind Rafael Castaneda neda, Drex for Gringos guru Leandro Pereira (Sciammarella) and too many more to name
+
+Big thanks to Lorcan Sweetman Fox from Web Summit and the Transfero Group team for the opportunity to participate!
+
+Be sure to check out the BCR YouTube channel for interviews and recaps as they come available over the coming week.
+
+🔍What’s in this week’s BCR?
+
+Brazil’s B3 stock exchange launches bitcoin futures trading AND a new tokenized crowdfunding solution
+Drex hits an impasse with privacy testing
+BitcoinToYou , Brazil’s oldest bitcoin exchange, freezes withdrawals
+Banco do Brasil and BTG Pactual are among the largest shareholders of Blackrock’s bitcoin ETF
+
+Have a great week everyone!
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🎙New podcast!
+
+This week I’m joined by Luiz Eduardo Abreu Hadad, who is a blockchain advisor and researcher at Sherlock Communications. He is the author of the Blockchain Report Latam, which is an annual survey of crypto and blockchain adoption across the entire region. We discuss the latest 2024 edition of the report, and the key takeaways from the different countries he studied — including Argentina, Mexico, Paraguay and Colombia.
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+B3 launches bitcoin futures trading and tokenized crowdfunding platform
+
+Bitcoin futures contracts began trading on the B3 exchange on April 17, with 7400 contracts exchanging hands on the first day of operation. The value of each contract is the equivalent of 0.1 bitcoin, will track the Nasdaq Bitcoin Reference Price Index they will expire monthly.
+
+The contracts are strictly financial in that no purchase or sale of actual cryptocurrencies in involved.
+
+In order to trade bitcoin futures, retail investors must deposit a minimum margin of R$100 margin per contract with a broker
+
+Marcos Skistymas, CFA, director of listed products at B3 explained in a statement:
+
+“Products linked to cryptocurrencies have been sought after by investors. We are committed to expanding our offer.”
+
+B3 also launched a tokenized asset solution for crowdfunding platforms, with a target market of startups and small and medium-sized enterprises.
+
+The solution enables B3 to conduct operations involving tokens as well as a subsequent market.
+
+B3 said in a statement:
+
+“The solution developed by B3 will enable the tokenization of Collective Investment Contracts (CICs) and assets issued on crowdfunding platforms during primary fundraising.”
+
+Jochen Mielke de Lima, CEO of B3 Digitas, said in a statement:
+
+“We are bringing to the market an agile and secure white label solution (a product adaptable to the needs of each client), which enables the crowdfunding sector to offer an environment for investors to transact their participation in startups and small and medium-sized companies. The use of crowdfunding platforms is often the first step for companies in the capital markets.”
+
+BlockNews Livecoins Portal do Bitcoin Valor Investe Exame CoinTelegraph Brasil
+
+Araujo: Drex privacy tools not ready for production
+
+Fabio Araujo, Drex coordinator at the Brazilian Central Bank, announced that a solution to Drex’s privacy roadblock won’t be coming anytime soon. Finding a technology solution that provides data privacy in a manner that is compliant with Brazilian data protection laws AND is scalable has been the major roadblock in the pilot project thus far.
+
+The consortia participating in the Drex pilot project have tested the Zether solution and are now testing solutions from EY (Starlight) and Parfin, but none of these have yet to prove viable. The bank will release a mid-year report with more detail on the project’s overall development. During a Web Summit Rio panel at the Banco BV stand, Araujo explained:
+
+"We have already tested some solutions. These solutions have their pros and cons. We will carry out an analysis of which solutions are greater or sufficient for the adoption of the Drex ecosystem and should release a report to society in the middle of the year, ending this first phase of testing."
+Araujo speaks on a Drex panel at the Banco BV stand at Web Summit Rio
+
+Araujo raised the possibility that a tokenized version of the real with privacy may not be technologically possible right now:
+
+"The first result is, look, this technology is not ready and will not be ready in the next few years. This technology is discarded, the other solution, the other debut. The second is look, this technology is ready, we can now think about taking this system for production. It doesn't seem like this is the case.
+
+Valor CoinTelegraph Brasil
+
+BitcoinToYou freezes withdrawals
+
+Customers of BitcoinToYou, Brazil’s oldest bitcoin exchange (founded in 2012), have been unable to make withdrawals, according to dozens of complaints on social networks and ReclameAqui.
+
+One investor wrote:
+
+“I have been a customer since the company was founded. I've been trying to withdraw my money from BitcoinToYou for almost a year and they won't allow it. I have already sent several photos of documents and data confirmations. I have already validated my account dozens of times. I can’t withdraw my money.”
+
+Trading volume on the exchange in recent days has plummeted, leaving its order books practically empty. It has also stopped reporting transactions to the CoinMarketCap aggregator, InfoMoney reports.
+
+Aggrieved customers are also reporting that they have not been able to get responses from customer support.
+
+InfoMoney also notes that the founder Andre Horta has accused his brother and former business partner Thiago Henrique Horta Lourenço of stealing 675 bitcoins from the business in January 2019, and has filed a lawsuit demanding the assets be returned.
+
+Livecoins Portal do Bitcoin
+
+Banco do Brasil and BTG Pactual among largest shareholders of Blackrock bitcoin ETF
+
+The two Brazilian banks are among the fund’s 30 largest shareholders, with Banco do Brasil coming in 8th place with US$1.59 million in the ETF, according Bloomberg ETF analyst Eric Balchunas.
+
+Recall that a Brazilianized version of the product began trading in Brazil on March 1 via a partnership between Blackrock and the B3 exchange.
+
+The reason for this became clear during the week after BB Assets, the assets division of Banco do Brasil, announced that it had received approval from the CVM to become a multimarket fund for retail investors. This means that five million BB Assets customers can buy access to crypto through product.
+
+The bank’s purchases of the Blackrock iShares Bitcoin Trust were to capitalize the fund, BB Asset Management Commercial Director Mario Roberto Perrone Lopes, CFP® explained to CoinTelegraph Brasil. He added:
+
+"As we have to comply with this rule and buy 'out there', it is kind of natural, even kind of obvious, to choose BlackRock, which is a reference in the world. Our management is super serious and competent. We also have assets from Brazilian managers, like Hashdex and, as our fund is not 'rigged', we can choose and allocate assets where we believe there is security, liquidity and opportunities for the fund."
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+B3 Digitas , a subsidiary of the B3 exchange, is preparing to launch an institutional crypto exchange after rolling out a crypto-as-a-service offering last year. President Jochen Mielke de Lima told Valor:
+
+“Institutional investor demand is awaiting regulation. There will be an unlocking of value when there is more regulatory certainty. Institutional institutions feel safer and start to study ways and theories of investing funds in digital assets.” (Exame)
+
+OKX introduced a tiered fee model whereby Brazilian users can have zero or even negative fees depending on their balance at the exchange. Customers with more than R$5 million on the platform will incur negative maker fees, meaning that they’ll earn money from their transactions. Guilherme Sacamone explained:
+
+“Our new fee structure is a game changer for cryptocurrency trading in Brazil, offering unparalleled value and simplicity to our users.
+“One of the challenges we have is competing with the autonomy of Brazilian companies that produce products for Brazilians. It is an advantage they have. But we have differentiated ourselves through our efforts to have local autonomy, with a product designed for Brazilians. What works well abroad is tropicalized here.” (Exame) (Portal do Bitcoin) (CriptoFacil)
+
+Itaú has seen a “super positive” response to its crypto product five months after launching, head of digital assets José Augusto de Azevedo Antunes F. (Guto Antunes) explained, while reinforcing that Brazil’s largest bank sees bitcoin as “digital property” for investors. (Exame)
+Itaú and Estadão have also partnered to create a “Cryptoeconomy Manual”
+Crypto brokerage Coinext has opened an asset management arm after receiving a license from the CVM. Its first fund is for qualified investors and allocates 100% to crypto assets. Coinext Asset CEO Mikail Ojevan, CRC, MBA explained:
+
+“We have exposure to bitcoin (BTC) and ether (ETH), altcoins and other directional positions. The reduction in volatility comes with derivatives operations.” (Valor)
+
+Ripio announced listing of the Paypal PYUSD stablecoin on its platform in Brazil. (CriptoFacil)
+banco BV BV is studying how it can enable the purchase and sale of cryptocurrencies for its customers, digital assets manager João Gianvecchio revealed at Web Summit Rio. He explained:
+
+"We are studying, possibly starting with a simple crypto operation, similar to what the market is operating, buying and selling, crypto in the closed model. And eventually, seeing the appetite of this market, we can then go expanding to other types of hypotheses.” (CoinTelegraph Brasil)
+📲 Adoption
+
+Rio de Janeiro is “crypto friendly” and is making a push to become the “innovation capital of Latin America”, Mayor Eduardo Paes explained during Web Summit Rio. (Exame)
+Drex will likely be mature enough to be released for use by the broader population in 2026, Febraban’s director of innovation Carolina Sansão Moreira Alexandrino said during a panel at Web Summit Rio.
+
+"What I also think is important to mention is that the deadline for (DREX) to go into production, to be available to the customer at the end, this is something that everyone asks about. Perhaps the market will be mature enough to launch DREX at the end of 2025, but I think this deadline is still very bold. But, who knows, maybe in 2026 we will be ready, safe and prepared to launch this to the population.” (CoinTelegraph Brasil)
+
+Brazilian banks will invest R$47 billion (US$9 billion) into technology this year, with Drex being a key focus of that investment, according to the Banking Technology Survey conducted by FEBRABAN. 56% of banks surveyed identified Drex as a strategic priority for the year. (Exame) (Valor Investe) (CoinTelegraph Brasil)
+Roberto Campos Neto, president of the Central Bank of Brazil, discussed his belief in a future tokenized payments system that incorporate programmable money using Pix at an event hosted by the Peterson Institute for International Economics in New York. He also discussed the development of a “superapp” that could come within the next year. (Negocios) (Folha de S. Paulo) (Valor)
+“Ethereum and Cardano are ambulances, Solana is Formula 1 car,” Solana’s Brazil Superteam director Estavão Rizzo compared in an interview with Portal do Bitcoin discussing Solana’s recent activation in Brazil. “Our vision is clear: Solana is business.”
+Marisa Reghini Ferreira Mattos ni, vice president of Digital Business and Technology at Banco do Brasil, argued that Drex has the potential to be the “second step towards banking” for the Brazilian population, and that BB is positioning itself as a “215 year old startup” as it follows the Central Bank’s lead on financial innovation. (Exame)
+The federal government banned the use of credit cards as a means of payment for online sports betting and online games. Payments via Pix and debit cards, however, were authorized. (Valor)
+Ragnarök, a game which has become a hit in Brazil, will be launched on Axie Infinity’s Ronin blockchain. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+Two partners of Titanium Asset were indicted by Federal Police. Claudio Miguel Miksza Filho and Guilherme Bernert Miksza were indicted, along with 24 others, on allegations of money laundering following an investigation into Sbaraini Administradora de Capitais.
+Employees of the CVM, Brazil’s securities regulator, carried out a strike on April 17 to protest a lack of response from the government to their demands for higher pay. Further strikes are planned for April 24 and April 30. In February, SEC president João Pedro Nascimento and four other directors released a note supporting the employees’ demands. (BlockNews)
+Brazil has become a “poster child” for crypto regulation, Ripple executive Monica Long argued during a visit to Web Summit. (Exame)
+A book about the GAS Consultoria pyramid scheme will become available in May. “Queda Livre — the story of Glaidson and Mirelis, Pharaohs of Bitcoins” is written by journalists Chico Otavio and Isabela Palmeira and promises to “unravel one of the biggest financial pyramid schemes in the history of Brazil". (Portal do Bitcoin)
+Machado Meyer Advogados has joined the ABcripto - Associação Brasileira de Criptoeconomia trade group as an associate member. (Portal do Bitcoin)
+Vanessa Lopes Butalla, legal and compliance director at Mercado Bitcoin and 2TM Group, argued that the government’s proposal to increase taxes on crypto transactions to 22.5% will hurt small investors. (CoinTelegraph Brasil)
+
+

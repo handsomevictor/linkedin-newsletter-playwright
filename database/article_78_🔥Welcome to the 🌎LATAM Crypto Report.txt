@@ -1,0 +1,168 @@
+🔥Welcome to the 🌎LATAM Crypto Report
+Also: LATAM startups feel collapse of three U.S. banks; Despegar now accepting crypto
+
+Hey everyone!
+
+Since I started writing about Brazil 18 months ago I’ve received a flurry of requests to expand coverage to other Latam markets. I’ve dabbled with this concept but frankly it’s been difficult for me to do personally as I don’t have enough familiarity with these markets to consistently create a good product.
+
+However, now that mainstream crypto media outlets like CoinDesk and The Block are covering the region less due to resource constraints, there is a need and an opportunity for a product that focuses on crypto adoption across the rest of Latam.
+
+So, I’ve asked my friend Kristin Majcher to take a stab at creating a report that covers the Spanish-speaking regions of Latam. This is a prototype of a report that we’ll release on a to-be-determined cadence. Hopefully every two weeks but that may change depending on news flow, etc.
+
+If you enjoy this content, please follow Brazil Crypto Report on Linkedin and on Substack
+
+-AWS
+
+¡Hola a todos! 👋
+
+Welcome to our very first Latin America Crypto Report for March 19.
+
+I’m excited to introduce this newsletter, which will serve as the sister publication of Aaron Stanley’s Brazil Crypto Report .
+
+I’m a freelance journalist from the U.S. who has been based in Latin America for about five years. I most recently worked as a Senior Correspondent for The Block, writing about El Salvador’s experiment to make bitcoin legal tender and the wider Latin America crypto scene. I’ve spent most of that time in Bogotá, but also lived in Medellín and Buenos Aires.
+
+Please follow me on Twitter and LinkedIn if you’d like, and feel free to drop me a line whenever you see Latin American crypto news happening.
+
+🌎 Why cover Latin America?
+
+Like Aaron’s Brazil Crypto Report, this newsletter was born from the idea that Latin America is an important center for crypto adoption that deserves more attention.
+
+For starters, El Salvador raised the visibility of Latin America in the crypto world when it made bitcoin legal tender in September 2021.
+
+However, it’s important to remember that while Latin American countries do share many similar challenges, they also contain incredible diversity. Each country has their own banking systems, legislatures and domestic issues shaping how their residents make and spend money. After all, the Latin America & Caribbean region is comprised of as many as 33 countries.), depending on which geographical definition you want to use.
+
+So, we believe it’s important to track not only how crypto adoption develops within the greater Latin America region, but on a country-by-country basis as well.
+
+Here are some other reasons why we think Latin America is an important region to cover for crypto news:
+
+Latin America’s Residents Have Strong Familiarity with Crypto
+
+For starters, a significant number of people are already using crypto in Latin America.
+
+A Mastercard study released last June, for example, calculated that 51% of consumers it surveyed in the region have made a transaction with crypto. More than a third have used stablecoins for everyday purchases, the survey said.
+
+The Region Has Been Receiving More Crypto
+
+Secondly, the amount of crypto the receiving seems to have grown significantly.
+
+Chainalysis’s latest Geography of Crypto report shows that while Latin America is only the seventh-largest cryptocurrency market, the amount of crypto the region received between July 2021 and June 2022 in 2022 grew 40% over the previous year to $562 billion. The top use cases for crypto in Latin America are remittances, storing value and turning a profit.
+
+Chainalysis has also indicated strong crypto adoption for several individual countries in the region. Five of the top 30 countries leading the company’s Global Cryptocurrency Adoption Index are based in the region. Along with Brazil (which Aaron will continue to cover separately in his newsletter) these countries include Argentina, Colombia, Ecuador and Mexico.
+
+Inflation Continues to Be a Huge Issue
+
+Latin America also continues to be an interesting place for alternatives to fiat currency due to the high inflation rates in several key countries.
+
+Just this week, Argentina’s statistics agency announced that the country’s inflation rate has surpassed 100%. Colombia, meanwhile, saw its consumer price index rise more than 13% in February — the fastest increase since 1999, Bloomberg reports. Plus, Venezuela is facing fears that hyperinflation could return.
+
+And finally, coming full circle to the topic of regulation, several countries in Latin America are considering how to regulate crypto even if they are not planning to make it legal tender. Argentina, Colombia, Paraguay and Panama are just a few of the countries we hope to explore from a legislative standpoint in this newsletter.
+
+🕵️ ♀️ What can you expect from this newsletter
+
+For now, my plan is to publish this newsletter every two weeks to achieve two different goals: 1) Compiling the most important crypto news stories in Latin America and 2) providing a deeper look into the region’s most important stories.
+
+This week, for example, we’ll analyze how the collapse of Silicon Valley Bank has impacted Latin American startups. We’ll also discuss why Despegar’s decision to accept crypto payments in Argentina is a huge deal.
+
+With that said, this newsletter is very much a work in progress. I’d love to hear your thoughts on what kind of news, features and interviews you’d like to see in the region as we build this out.
+
+Thanks so much for reading, and joining us on this new journey. Have a great week. - KM 💌
+
+And now, the news.
+Latin American startups feel collapse of crypto-friendly banks
+
+The recent collapse of tech industry darling Silicon Valley Bank (SVB) as well as crypto-friendly banks Silvergate Bank and Signature Bank is causing difficulties for Latin American startups, both in crypto and the wider tech scene.
+
+As Rest of World points out, SVB was one of the few U.S. institutions willing to work with founders in the region. Argentina-based news outlet Infobae reports that at least 15 startups in the country had funds with SVB.
+
+Because SVB was one of the only banks providing Latin American startups with dollar accounts, those firms are now “struggling” to find alternatives, Reuters reports.
+
+Brian Requarth, the co-founder of startup Latitud, put it to Reuters this way:
+
+"This touched (almost all) venture-backed companies in Latin America.”
+
+Latin America’s crypto companies are also affected in unique ways by the twin shutdowns of Silvergate and Signature, which were some of the only U.S. institutions focusing on crypto companies. As CoinTelegraph reported on March 13, Latin American firms relied on these banks to buy stablecoins like USD Coin (USDC) and Tether (USDT) for foreign exchange (FX) purposes.
+
+Transfero Group CEO Thiago César told CoinTelegraph:
+
+“Most crypto exchanges lost their U.S. dollar rails.[...] It impacted the alternative FX market in LATAM fueled by crypto.”
+Latin America’s leading travel website Despegar to accept crypto
+
+Popular Latin America travel website Despegar recently announced that it would start accepting crypto payments in Argentina, which recently saw inflation finally top 100%.
+
+Despegar is partnering with Binance Pay to handle the transactions, with a platform called Inswitch handling the crypto-to-fiat transactions.
+
+Since Despegar operates in about 20 different countries, its decision to adopt crypto has potential to change the face of how Latin American travelers pay for airline tickets, hotels, cars and more. We’ll have to wait a bit longer, though, to find out how many people will actually opt to pay for their trips in crypto.
+
+CoinDesk reports that the travel company is indeed planning to expand crypto to other markets.
+
+Here’s what Paula Cristi, Despegar’s general manager Argentina and Uruguay, had to say about crypto in a statement reported by CoinDesk:
+
+“We know that the world of cryptocurrencies is already a reality and, therefore, from this alliance, all Despegar customers in Argentina will be able to approach this universe in a friendly way.”
+
+While there have been a few examples of airlines and travel companies accepting crypto, the sheer scale of Despegar’s reach in Latin America makes this a pretty significant announcement.
+
+Argentina’s tax authority seizes $1 million in crypto mining equipment
+
+Argentina’s customs authority seized at least $1 million worth of crypto mining equipment in its latest crackdown, several Argentina-based media outlets reported.
+
+Agents discovered the equipment in a truck belonging to a Paraguayan company that crossed into Argentina from Chile, Infobae and others reported. The driver said they were carrying more than 1,000 boxes containing television receivers and related equipment, but failed to declare 300 boxes full of graphics cards for mining crypto.
+
+News outlets reported that the contraband totaled about $240 million ARS, or $1 million.
+
+Argentina’s tax authority (AFIP) has been vocal about cracking down on undeclared crypto equipment and activities in recent months, including clandestine crypto farms. (Cronista, Ámbito, Infobae, BeInCrypto, Portal do Bitcoin).
+
+🗞 Latin America Crypto News Rundown
+
+This is where we’ll break down Latin America crypto headlines from the past two weeks, organized by country and region.
+
+Regional news here will be broken down into three regions — South America, Central America & Mexico and the Caribbean. Each category includes a list of countries by alphabetical order. If you don’t see a country listed, it’s simply due to the flow of news during a particular week.
+
+South America
+Regional News
+
+The IMF says Latin America “records a high interest in unbacked crypto assets and stablecoins and its authorities’ policy responses have varied substantially” in a new report.(IMF Working Papers).
+
+🇦🇷Argentina
+
+Central Bank of Argentina (BCRA) President Miguel Pesce spoke about the risks of crypto at a G20 meeting in Bengaluru, India in late February. A central bank press release states:
+
+“We must remember that crypto assets are decentralized and anonymous in nature and it is not possible to know where crypto asset holdings are held and most of them do not have an underlying asset,” Pesce said during a panel on financial inclusion. "We should treat them as akin to gambling, and in that sense, our goal should be to isolate their effects from the traditional financial system," he said. “We must focus on addressing data gaps to ensure effective monitoring.”
+
+Economic publication El Cronista wrote that Pesce’s statements are adding fuel to the fire when it comes to the regulatory debate about crypto in Argentina.
+
+Last May, the Central Bank blocked financial institutions from letting their customers complete operations with digital assets. More recently, Argentina’s National Securities Commission (CNV) plans to establish rules for crypto exchanges, CoinDesk reported in February. The CNV would be responsible for overseeing crypto under an updated law to prevent money laundering, if it passes. (El Cronista, Ámbito, BeinCrypto)
+
+Argentine cryptocurrency exchange Ripio is integrating its Ripio Trade, Ripio Portal and Ripio Wallet products with the Polygon network to “speed adoption of Web3 applications in Latin America,” a Polygon announcement states. (Forbes Argentina, CoinTelegraph)
+QR code payments have been gaining traction quickly in Argentina in recent months. A study from payments firm Fiserv showed that 34% of Argentines prefer to use QR codes and digital wallets for payments, Bitcoin.com reported. Crypto exchange Fiwind is the latest to offer a QR code option in its app to enable crypto payments at stores, joining companies like Bitso in offering this payment method. (Bitcoin.com, iProUP, Perfil)
+Binance’s Director of Latam Southern Cone, Maximiliano Hinz, attended a meeting of more than 200 young entrepreneurs in Posadas, Argentina. (CoinTelegraph, iProUP)
+
+🇨🇱Chile
+
+Chilean senators participated in a seminar to discuss opportunities in the metaverse this week during a future-focused event called Congreso Futuro, BeInCrypto reported. Senate president Juan Antonio Coloma was in attendance among 30 experts. (BeInCrypto, El Mostrador).
+
+🇨🇴Colombia
+
+Binance introduced its “Binance Card” Mastercard in Colombia, issued by MOVii. Colombia is the third country in the region to have access to the prepaid crypto card, after its introduction in Argentina last August and Brazil back in January. Binance said the card is currently in a beta phase and should be available soon on a wider scale. The card features real-time conversions between fiat and crypto and up to 8% cash back on qualifying purchases, Binance said in a blog post. (Diario Bitcoin, Payments Journal)
+
+🇵🇾Paraguay
+
+Canadian crypto miner Pow.re has entered a contract to secure 100 megawatts (MW) of power in Paraguay. The contract stipulates a five-year, fixed rate for power. That power will come from the Yguazu substation belonging to Paraguay’s public utility company, ANDE. (CoinDesk, PR Newswire)
+The Paraguayan Chamber of Fintech said it plans to bring a new legislative proposal to Congress at the end of March regarding crypto regulations, following the president’s veto of a bill last August that was struck down by the lower chamber in December. (CriptoNoticias, Market Data)
+
+Central America & Mexico
+🇸🇻El Salvador
+
+El Salvador, which made Bitcoin legal tender in September 2021, is starting a new education program through its university system in May. The program aims to form a new cohort of developers specializing in Bitcoin and the Lightning Network. The six-month program, known as CUBO+, will partner with the University of Don Bosco in Soypango, El Salvador. (*Bitcoin Magazine)*
+
+🇨🇷Costa Rica
+
+The Hereditary Prince of Serbia, Philip Karageorgevitch, will participate in a crypto-focused panel centered on Costa Rica’s digital economy. Karageorgevitch, a vocal bitcoin supporter, is listed on the event flier as the executive director of JAN3 — the crypto startup formed last year by ex-Blockstream strategy head Samson Mow. (BeInCrypto)
+
+🇲🇽Mexico
+
+Latin America crypto exchange Bitso has launched a debit card in Mexico. However, the card does not appear to use crypto directly. According to a FAQ on Bitso’s card page, Bitso users have to add Mexican pesos to their balance so that they can use the card. (*CoinDesk, El Economista)*
+
+Caribbean
+🇵🇷Puerto Rico
+
+Puerto Rico’s 4% tax incentive now applies to crypto assets and related activities like staking, due to updated guidance from Puerto Rico’s Department of Economic Development and Commerce. More details can be found in a February 22 circular letter. (CoinDesk).

@@ -1,0 +1,77 @@
+🇧🇷BCR #77: Binance Teams Up with Mastercard to Bring Crypto Debit Card to Brazil
+Also: Banco Capitual eyes overseas expansion; PicPay hits 1 million crypto customers in Brazil
+
+This newsletter is an abridged version of this week's full 🇧🇷Brazil Crypto Report which is hosted on Substack. If you enjoy this content please consider subscribing and following the Substack version where you can find more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal!
+
+Huge welcome to 🇧🇷Brazil Crypto Report for the weeks of January 30 - Feb 3, 2023. I hope everyone is doing well.
+
+Before we dive in, I thought I’d share a super helpful YouTube channel I found recently called Speaking Brazilian. I’ve been using this a lot to brush up on my Portuguese. It’s a really great resource for gringos so highly recommend checking it out if you’re looking to improve your skills here.
+
+I enjoyed this particular lesson below that looks at the 10 things you should avoid doing while traveling in Brazil. These include:
+
+🇪🇸 trying to speak to a Brazilian in Spanish
+✈️ claiming the Wright brothers invented the airplane (it was Alberto Santos-Dumont, obviously)
+⚽️ talking about the 2014 World Cup match against Germany
+🚗 slamming car doors (?)
+
+As always, I appreciate you reading and I hope you have a great week.
+
+-AWS
+
+Binance and Mastercard launch crypto debit card in Brazil
+
+The world’s largest crypto exchange’s debit card will allow users to pay in 14 different cryptocurrencies while earning up to 8 percent cashback on eligible purchases. Guilherme Nazar, Binance’s director-general for Brazil, said in a statement:
+
+“Payments is one of the first and most obvious use cases for crypto, yet adoption has a lot of room to grow. We believe the Binance Card is a significant step in encouraging wider crypto use and global adoption, and the openness of Brazilians to innovation makes the country a great market for this release.”
+
+The card will be available in the coming weeks. It is being rolled out in beta mode initially but will soon be available to all Binance users in Brazil with a valid national ID.
+Binance launched a similar product in Argentina in August, 2022 and intends to introduce the card in other markets as well.
+Cardholders will be able to make payments in 14 different currencies: Brazilian Real, BNB, BUSD, USDT, BTC, ETH, SANTOS, ADA, DOT, SOL, SHIB, XRP, MATIC, and LINK. 
+Payments made with BRL are zero-fee, while payments made with crypto will incur a 0.9 percent conversion fee
+The 2022 Mastercard New Payments Index found that 49 percent of Brazilian consumers have conducted at least one crypto-related activity in the last year, making Brazil one of the top markets worldwide in terms of crypto interest. Marcelo Tangioni, Mastercard’s Brazil country manager, commented:
+
+“Brazilians are eager to embrace crypto beyond an investment asset. Today is an exciting step in our crypto journey, which draws on the strengths of both our trusted global network and Binance’s infrastructure to support consumer choice in payments.”
+Capitual inks US$16 million investment in overseas push
+
+Capitual, the crypto-friendly fintech most famous for being Binance’s fiat on ramp in Brazil until June 2022, received the investment from Azimut - one of Italy’s largest asset managers. The crypto bank will use the funds to expand its operations into Mexico and Europe.
+
+Guilherme Nunes, Capitual CEO, explained the reasoning behind the deal:
+
+“We want to replicate the product we have in Brazil in other countries, serving our partners also in other jurisdictions. The idea is to become a blockchain technology hub in these markets.”
+
+Capitual provides fiat onramps into the Brazilian market for several foreign exchanges, such as Huobi, Kucoin and Bitget. It provided these services to Binance until last summer when a contract dispute ended that relationship and left Binance without a proper payment processor for nearly three weeks.
+
+The investment puts Capitual at a valuation of US$327 million, putting it on the way to becoming a potential Brazilian crypto unicorn.
+
+JBS made second-largest bitcoin ransomware payout ever
+
+The Brazilian meat-packing giant paid US$11 million in bitcoin after a cyberattack in 2021, according to a new report released by software security firm Immunefi. The firm had its tech stack “hijacked” in January 2021 and had to transfer the funds to the hackers to regain access, InfoMoney reports.
+
+The payout ranks as the second-largest ever, behind the US$40 million paid by Chicago-based insurance company CNA Financial in 2020.
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+PicPay, Brazil’s largest digital wallet, announced that it had reached one million customers for its crypto offering - which first launched in mid-2022. The company, which has 30 million total users on its platform, also began to offer Solana - bringing its total crypto offering to 10 tokens. It also introduced a new price alert feature. (Valor)
+Xtage, XP’s cryptocurrency platform, enabled trading of three new cryptocurrencies: Cardano (ADA), Solana (SOL) and Litecoin (LTC). (Valor)
+“Imported” bitcoin and other cryptoassets generated a US$7.37 billion deficit on Brazil’s trade balance in 2022 as calculated by the Brazilian Central Bank. The numbers represent crypto inflows via international exchanges or mining operations.
+The value of crypto inflows is close to surpassing that of small-value e-commerce imports
+Bitcoin inflows began impacting Brazil’s trade balance in 2019 when the Central Bank began including them in its calculations. (CoinTelegraph Brasil)
+The Santos FC token was the best performing fan token globally in 2022, according to a study by Trading Browser. The token finished the year up 22.59 percent, from US$3.50 to US$4.29. (CoinTelegraph Brasil)
+Crypto and fintech voice Gustavo Cunha argued in a BlockNews op-ed that a proposed shared currency by Brazil and Argentina is an “idea in search of a use case”.
+The benefits of such an arrangement would ostensibly be streamlined trade flows between the two nations, but because Argentina’s relevance as a trading partner has been on the decline for years, it’s unclear how much benefit would be reaped.
+The motivation behind the proposal does not seem to be one of thwarting future conflict or increasing integration, as was the case with the Eurozone, but rather Argentina seeking a solution to the problem of not having sufficient financing in dollars for its businesses.
+Asset tokenizer Liqi has distributed R$622,000 to holders of the Cruzeiro token, in relation to the sale of defender Fabricio Bruno to Flamengo last year. Liqi CEO Daniel Coqueiri commented:
+
+“As of this year, people are able to see in practice the impacts that tokenization will generate in the market and in the world as a whole. In the last 2 months alone, we had 3 payments to Cruzeiro Token holders. And, if we stop to think about it, this is an asset that would not have been a possibility for any fan or investor before the possibility of tokenization” (CoinTelegraph Brasil)
+
+Coqueiri also penned an op-ed for Portal do Bitcoin discussing tokenized receivables, which he argues will be transformative in 2023.
+Lucas Lendel, co-CEO of Brazilian asset manager iVi Technologies, argued that bitcoin could reach a price plateau of US$25,000 - US$30,000 in February. (CoinTelegraph Brasil)
+MB Tokens launched its first digital token linked to the real estate market in partnership with Braspark. The token is based on receivables and inflows from a logistics warehouse rental contract. (Portal do Bitcoin)
+Gabriel Rodrigues, a promoter of several suspect pyramid projects, is planning to launch his own crypto brokerage called Vinco. He raised money via an initial coin offering, among other means, to begin building the exchange. In an Instagram post he stated:
+
+“After years traveling the whole world and meeting market giants, I created a completely innovative project, not only in Brazil but in the world” (Portal do Bitcoin)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

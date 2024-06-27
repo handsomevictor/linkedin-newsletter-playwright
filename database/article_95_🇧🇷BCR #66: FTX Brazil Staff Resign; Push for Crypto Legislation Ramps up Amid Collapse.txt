@@ -1,0 +1,105 @@
+🇧🇷BCR #66: FTX Brazil Staff Resign; Push for Crypto Legislation Ramps up Amid Collapse
+Plus: BRZ stablecoin breaks BRL peg; Gisele and Tom caught up in the mess
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal!
+
+Well it’s been an interesting week. I hope everybody is holding up ok amid the FTX fallout. The situation is changing extremely quickly so we’re going to try to provide the most up to date rundown of how this situation impacts the Brazil market.
+
+Please please please remember not your keys, not your coins! Keeping your crypto on any centralized exchange in the current market condition is extremely risky!
+
+FTX Brazil and Latam Staff Resign, Left in the Dark
+
+One of the shocking aspects of the FTX blowup was how employees were left completely in the dark about what was going on and were learning about the fate of their company, including the failed Binance takeover and the bankruptcy filing, in real time via Twitter along with the rest of us.
+
+There are also many reports of FTX employees who received compensation in the form of FTX equity or FTT tokens that were custodied on the exchange, and others who even kept a majority of their personal funds and investments on the platform. They will likely never recuperate those investments after this week.
+
+Antonio Neto, former head of FTX for Brazil and Latam, posted a note to clients in the FTX Portugues Telegram group Friday indicating that he and all other FTX employees in the region had resigned. He claims they were completely blindsided by the insolvency and the revelations that FTX was improperly loaning out customer deposits. This note came after he shut down FTX Brasil social media accounts.
+
+Neto notes that he was reassured by FTX executives earlier in the week that the exchange was solvent and that all assets were available, but then resigned on Friday after the bankruptcy revelations came to light. He also claims his personal savings and investments remain stuck on the exchange:
+
+I am extremely shocked and trying to process all of this. Sam built an image and vision that we all believed in: providing access and education so people can financially empower themselves and move the industry towards adoption. I've been in crypto since 2013, when I joined FTX in 2020 it was because I believed in the vision that was being built and how much it aligned with the crypto ethos. And this result was definitely not what we worked for. All my personal funds and investments also got stuck in FTX, these are hard losses to swallow. But the hardest thing is the frustration of having believed in something and shared it with family and friends who were also taken by surprise. And for that, I apologize, that's not what we've been working on all this time!
+Push Renews for Brazil Crypto Legislation
+
+The most immediate impact of the FTX collapse on the Brazilian market is that it provides urgency to push crypto legislation through the Chamber of Deputies this year. Indeed, Deputy Aureo Ribeiro told CoinTelegraph Brasil at Rio Innovation Week that pending legislation will pass the within 15 days.
+
+“We have the commitment of the president of the Camara [Arthur Lira] to vote on this legislation within the next 15 days…This way, this year, we will have legislation that provides legal and economic security, so that we can attract more investments and move values safely.”
+
+November 22 is the most likely date for the vote, according to Ribeiro. Ribeiro was the original rapporteur of the legislation that passed the Chamber of Deputies in December 2021. The bill then went to the Senate where it was approved with modifications and then returned to the Chamber where it ran out of momentum over the summer as election season approached.
+
+Ribeiro’s comments come on top of a letter sent on November 9, by Febraban and ABCripto - trade groups that represent the banking and crypto industries, respectively - to Chamber Speaker Arthur Lira urging that bill 4401/2021 be voted on quickly.
+
+New revelations that FTX was improperly using user funds will make the case for asset segregation significantly stronger. This provision was included, with much controversy, in the version of the bill that passed the Senate but was stripped out in the Chamber of Deputies amid intensive lobbying. Now, it is back in the discussion. Vanessa Butalla, legal director at 2TM Group, told CoinTelegraph Brasil:
+
+“Ideally it [the PL] should be approved with the asset segregation rule, yes, because if this existed in the regulation, probably cases like the ones we saw this week, between FTX and Binance, would be avoided.”
+
+Ribeiro, however, argued that he will push for the asset segregation clause to be excluded from the Chamber version:
+
+“I believe that we are going to overturn this amendment that includes segregation. Banks do not segregate equity, why should there be segregation of an asset that grows, that advances, that is a new way of seeing the world? We cannot freeze this asset.”
+
+There are still doubts among industry stakeholders whether the bill can realistically pass this year as Congress goes into recess on December 22. The legislation isn’t being met with major opposition at this stage; rather, the question has been one of prioritization and getting the project to the top of the agenda. As new revelations emerge from the FTX collapse this task should become much easier.
+
+2TM’s Butalla told Valor that not passing the project this year would be a “step backwards”.
+
+“We have a complicated calendar with the post-elections and the World Cup coming up, but the project is ready to be approved and if we miss the opportunity now, until the change of government and the change of legislature comes, we are opening space for a few months until we get it go ahead with it again. In such a dynamic market, these months mean years of delay.”
+FTX Fallout Felt Across Brazil
+
+Several Brazilian asset managers and funds reportedly had direct exposure to FTX or FTT, its exchange token whose decline in price set off the cascade. Giant Steps and Titanium Asset were among those, per filings with the CVM examined by crypto sleuths on Twitter. However, these reports are not up to date so it’s unclear if the entities were still holding those positions as of last week.
+
+Asset manager BLP Crypto disclosed in a note to clients (obtained by Portal do Bitcoin) that it had 2.1 percent of its Genesis Block fund exposed to FTT tokens, but it sold this position before the crash on November 6 when negative rumors began circulating:
+
+“We were uncomfortable with the FTT position, we immediately took out 2/3 of our position which was in cold custody on Coinbase Prime and transferred it to Binance, we sold the assets on Monday as soon as they were available and the price was around USD 22 .50 and the other third we sell later.”
+
+Asset manager Hashdex stated that it had no exposure to FTX or Alameda Research, though one of its ETF products had an allocation in Solana, the price of which has declined significantly over the last week. Pedro Lapenta, head of research at Hashdex, said in a conference with investors:
+
+“We have a very strict process for choosing custodians, we do not have any in-house products, passively or actively managed, with exposure to the FTX token, the FTT. We also do not negotiate with FTX, nor do we make any transactions with Alameda Research.”
+BRZ Breaks Peg to Real
+
+Transfero, the Switzerland-based issuer of the BRZ stablecoin with ties to FTX (received a R$40m (US$7.5m) investment in late 2020), has assured that the asset remains healthy despite FTX’s’s collapse and BRZ breaking its peg with the BRL twice in the last week. CEO Thiago Cesar told Livecoins:
+
+“FTX is a Transfero customer. We process PIX payments to FTX, but we don't have actual exposure to that company. It is also clear that FTX is a shareholder of Transfero, this is a known fact in the market.
+
+While BRZ is traded on multiple exchanges, FTX was one of the most liquid markets for the asset. Crypto.com, which is now also rumored to be experiencing a bank run and bordering on insolvency, was another large liquid market for the world’s largest non-dollar stablecoin.
+
+While BRZ rebounded after initially breaking its peg on November 10 when FTX froze withdrawals, it crashed again this morning (Nov 14) presumably on the Crypto.com rumors. For its part, Crypto.com has sought to reassure customers that it has the necessary assets on the books to process withdrawals.
+
+Cesar posted a Twitter thread on November 12 seeking to clarify the relationship between Transfero/BRZ and FTX and the mechanics of how the BRZ peg is maintained.
+
+Cesar also told InfoMoney earlier in the week that he was in discussions with FTX to retrieve the BRZ held by the exchange, and that the crisis doesn’t affect the company’s core business.
+
+“For Transfero, nothing changes, FTX is one of the many clients we have. Transfero is not dependent on FTX, so much so that we work with ByBit, Bitget, Phemex, Crypto.com and other players. Transfero’s operations are independent and go far beyond crypto exchanges.”
+
+BRZ is the world’s largest non-dollar stablecoin with a market value of US$188 million and was a popular trading instrument on FTX. It is also one of the most acquired cryptocurrencies in Brazil, with brokers declaring R$1.5bn (US$282m) worth of operations during the third quarter (trailing only bitcoin, ethereum and USDC).
+
+Some other nuggets of FTX-related fallout in Brazil
+
+FTX had signed on to be a sponsor of the São Paulo Grand Prix. This deal has been terminated
+At LaBitConf in Argentina, Ripio CEO Sebastian Serrano said the FTX collapse opens the doors for smaller exchanges to attract customers and gain market share. (Exame)
+Reports are emerging of Brazilian users and businesses with funds trapped in FTX. An FTX Vitimas Telegram group has spun up and now has nearly 1,000 members
+Numerous attorneys are looking into what types of recourse might be available to Brazilian customers.
+Bitso CEO Daniel Vogel said that the next few weeks will be “very difficult” as contagion spreads and other companies in the industry face financial stress. In an interview with Exame, he stressed that Bitso had no direct or indirect exposure to FTX and that the exchange is recovering some of the investments behind its Bitso+ program that offers monthly income to users.
+
+Rough Year for Gisele
+
+One of the biggest losers in the FTX affair is Brazilian supermodel Gisele Bündchen. Gisele and her ex-husband Tom Brady took a large equity position in FTX and became public faces of the entity, representing FTX around the world at events and advertisements. There are lots of numbers floating around speculating about how much the collapse will impact their net worth (estimated at US$650m) but it’s unclear exactly what portion of that is tied up in FTX. I’m sure we’ll find out soon enough in the bankruptcy proceedings.
+
+Clearly Gisele and Tom aren’t financial people and had no idea what they were getting themselves into, but the situation serves as a great example of why it’s important to be extremely careful about these types of associations when you’re dabbling in crypto for the first time. 
+
+CVM’s Nascimento Speaks at Criptorama event
+
+In his first public address specific to cryptocurrencies since taking over the CVM, Brazil’s securities regulator, this summer, João Pedro Nascimento emphasized that his agency is pro crypto. Unlike other securities regulators around the world, he said his objective is to help the development of crypto and not creating rules that strangle the market and impede its growth.
+
+Speaking at the Criptorama conference hosted by ABCripto, Nascimento stated;
+
+“The CVM is open to innovation. CVM welcomes new ideas. CVM is a house that honors new technology. We understand that whenever a new technology is brought into the world, it must be conceived as a way to broaden the horizons with which rights can be exercised, and never as a way to restrict rights.”
+
+In his talk, he said that he subscribes to the “blockchain, not bitcoin” narrative which asserts that cryptocurrencies themselves are less transformational than blockchains and distributed ledger technology:
+
+“Cryptoassets themselves are not that inventive, they are not that big of a novelty. The new thing is blockchain technology. This is indeed a gigantic innovation that admits millions of applications, including in the capital market. For now, the technology has only revealed a tiny tip of all that it has in terms of usability and applications.”
+
+Have a great week everyone,
+
+-AWS
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

@@ -1,0 +1,73 @@
+🇧🇷BCR #84: Coinbase goes live in Brazil as US woes mount
+US powerhouse exchange pushes ahead with global expansion amid new round of attacks from SEC
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of March 20 - March 24, 2023!
+
+Quick public service announcement that I’ll be in and out of Ethereum Rio and ETHSamba this week meeting some teams and doing some interviews, so please feel free to ping me if you’ll be around and would like to say hi. 
+
+(Friendly reminder that this newsletter is an abridged version of this week's full 🇧🇷Brazil Crypto Report. If you enjoy this content, please consider subscribing to the Substack version for more news, commentary and interviews exploring the Brazil crypto ecosystem)
+
+Some exciting personal news: this past week I paid a fun visit to William J. Howey’s mansion in central Florida. Howey was the central figure in the 1945 US Securities and Exchange Commission v. W.J. Howey Co. case, in which the US Supreme Court ruled that his scheme to sell parcels of Florida orange groves was an unregistered securities offering. The “Howey Test” has since become the standard in the US (and around the world) for determining whether an investment scheme is deemed a “security”.
+
+For 70 years this was an obscure court case only of interest securities lawyers and law students, but it quickly became a household name in the world of cryptocurrencies amid the initial coin offering boom of 2017.
+
+If you’ve been around crypto for any amount of time, you can probably recite the four prongs of the Howey Test from memory: 1) investment of funds, 2) in a common enterprise, 3) with the expectation of profits 4) derived from the efforts of others.
+
+I was grateful for the opportunity to pay my respects to Mr. Howey.
+
+Also, definitely have a listen to my most recent podcast episode with João Zecchin of Fuse Capital and Paulo Alves of InfoMoney discussing the economic implications of the Brazilian Central Bank’s proposed Digital Real. The Digital Real project is a big deal and it’s well worth your time to get smart fast on the developments. Can also listen on Spotify here.
+
+Thanks everyone for reading and I hope you have a great week!
+
+-AWS
+
+Coinbase officially launches in Brazil as pressure mounts in the US
+
+The U.S.’s leading crypto exchange has officially launched in Brazil after two years of preparation behind the scenes. The announcement comes as U.S. regulators have been ramping up pressure against the company, prompting it to look more aggressively at expanding overseas and internationalizing its business.
+
+Coinbase arrives in Brazil with a platform supporting trading of 240 digital assets, staking and yield services, a digital wallet and an NFT marketplace. Fabio Plein, Coinbase’s country manager for Brazil, told InfoMoney:
+
+“We are bringing to Brazil the same user experience that made us the leading exchange in the US, which is a super important crypto market, and which, today, more than 100 million people use around the world.”
+
+The exchange also revealed that it had been served a Wells Notice by the U.S. Securities and Exchange Commission, meaning that the agency is pursuing an enforcement action against the company - likely for listing unregistered securities.
+
+CEO Brian Armstrong told Valor in an interview:
+
+“The US has been somewhat slow to create regulatory clarity. We see that places like Brazil, Hong Kong, Singapore and the UK have made the most progress. This leads us to invest in markets such as Brazil.”
+“We believe, based on customer surveys, that all financial services companies in Brazil should somehow integrate cryptocurrencies into their platforms. These are products that Coinbase has been dedicated to for a long time, and these are services that customers want [on platforms].”
+
+Armstrong also gave an interview to Exame, in which he made similar statements about Coinbase’s health amid the banking crisis in the US and its competitive positioning in the Brazil market.
+
+Coinbase will partner with Ebanx for local banking and payment services. Ebanx also works with other name brand tech companies like Airbnb, Spotify and Uber. The exchange has also begun integrating with Pix and has built a Portuguese language app fully equipped with 24 hour customer support.
+
+Nana Murugesan, VP of International and Business Development, said in a statement:
+
+“While we are enhancing our product offerings today, we have a strong history in Brazil…We established a technology hub in the country in 2021, with engineering talent developing crypto and Web3 technologies using Brazilian expertise for Brazil and beyond.”
+
+Murugesan also highlighted that Coinbase Ventures, the company’s VC arm, has been focusing on the Brazil and has invested in companies such as Ledn and Hashdex.
+
+Plein further highlighted the country’s openness to the technology and willingness to implement a sound regulatory environment as a stark difference from the US. He told The Block:
+
+"Brazil is a great example of a country in which regulators have understood the value of crypto and they are creating a very healthy debate around the topic to keep innovation and growth going.”
+
+In a separate interview with InfoMoney, Plein added:
+
+“The signs that we have been seeing are optimistic, we feel comfortable to be present and launch our operation in Brazil seeing regulators with this openness to debate, to collaboration, to build something positive for society.”
+
+There had previously been speculation that Coinbase would attempt to enter Brazil through an acquisition. It was rumored to be in talks to acquire first Bitso and then 2TM Group, the parent company of Mercado Bitcoin.
+
+Shares of Coinbase stock rose 12% on the news of the Brazil announcement, though they plummeted 16% the following day after the Wells Notice revelation.
+
+Bitso receives payment institution license from Brazilian Central Bank
+
+The institution approved the application of Nvio Brasil, the corporate name of Bitso’s Brazil operation, to be a licensed payment institution in the country. The designation means that the crypto exchange can now issue electronic money and postpaid payment instruments, and it brings the exchange closer to its objective of becoming a digital bank of sorts built on crypto rails.
+
+Electronic money issuers can manage prepaid payment accounts in which funds are deposited in advance. Postpaid payment instruments include products like credit cards and the ability to grant credit limits to customers.
+
+Other exchanges operating in Brazil such as Mercado Bitcoin and Ripio have also applied for the payment institution license.
+
+According to the license, Nvio has a capital reserve of R$65.9 million (US$13 million) and lists Daniel Vogel Fernandez de Castro, José Pablo Gonzalez Delezé and Benjamin Joel Peters as its controllers. (Valor)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

@@ -7,19 +7,19 @@ Subscribe Now
 
 In this edition, we’ll cover:
 
-Leading Colombian bank Bancolombia launching a crypto exchange through its Bermuda-licensed subsidiary Wenia
+Leading Colombian bank Bancolombia launching a crypto exchange through its Bermuda-licensed subsidiary Wenia  
 El Salvador launching a proof-of-reserves website
 Venezuela planning to ban crypto mining due to energy concerns
 
-Whether you’ve been getting this newsletter for a while or just joining us this week, we want to thank you for reading. If you like what you see here, please consider subscribing and sharing with your colleagues. Also, feel free to follow Kristin on Twitter and LinkedIn to share any crypto news or say hello.
+Whether you’ve been getting this newsletter for a while or just joining us this week, we want to thank you for reading. If you like what you see here, please consider subscribing and sharing with your colleagues. Also, feel free to follow Kristin on Twitter and LinkedIn to share any crypto news or say hello. 
 
 And now, let’s jump right into the top crypto stories from the past few weeks👇
 
 Bancolombia launches new crypto exchange
 
-Bancolombia, Colombia’s biggest bank, launched a crypto exchange through its subsidiary Wenia earlier this month.
+Bancolombia, Colombia’s biggest bank, launched a crypto exchange through its subsidiary Wenia earlier this month. 
 
-The bank has shown interest in crypto for years, and launched a pilot project with Gemini in 2021 as part of Colombia’s regulated sandbox. Now, it is offering its own crypto exchange for Colombians through its subsidiary Wenia, a separate company licensed in Bermuda.
+The bank has shown interest in crypto for years, and launched a pilot project with Gemini in 2021 as part of Colombia’s regulated sandbox. Now, it is offering its own crypto exchange for Colombians through its subsidiary Wenia, a separate company licensed in Bermuda. 
 
 As Bancolombia Group President Juan Carlos Mora stated:
 
@@ -33,9 +33,9 @@ Wenia hopes to sign up more than 60,000 users in its first year of operations, a
 (Forbes Colombia, Contxto, Portal do Bitcoin, Cointelegraph, Criptofacil)
 
 El Salvador introduces proof-of-reserves website
-source:
+source: 
 
-More than two years after making bitcoin legal tender, El Salvador’s Bitcoin Office has launched a proof-of-reserves website showing how much of the digital currency the government holds at any given time and the transactions its treasury makes.
+More than two years after making bitcoin legal tender, El Salvador’s Bitcoin Office has launched a proof-of-reserves website showing how much of the digital currency the government holds at any given time and the transactions its treasury makes. 
 
 The announcement is especially significant considering that El Salvador recently revealed it had more bitcoin than previously thought, and the exact amount of its bitcoin holdings had been unclear. At the time of this report, El Salvador held 5,758.76 BTC worth nearly $400 million.
 
@@ -45,9 +45,9 @@ Venezuela bans crypto mining over energy grid concerns
 
 In a developing story, Venezuela’s government said it plans to disconnect all crypto mining farms from the power grid over electricity concerns. The news comes after authorities seized more than 2,300 mining machines, local outlet Últimas Noticias reported. Meanwhile, crypto is playing a leading role in an ongoing corruption case involving Venezuela’s state oil company.
 
-Venezuela said it plans to disconnect all crypto mining farms in the country from the power grid to avoid high electricity usage, Voice of America (VOA) reported.
+Venezuela said it plans to disconnect all crypto mining farms in the country from the power grid to avoid high electricity usage, Voice of America (VOA) reported. 
 Venezuela’s power ministry on social media announced it would be disconnecting crypto mining farms.
-Non-governmental crypto association Asonacrip encouraged people and companies with installed crypto mining equipment to disconnect and store it. “We do not consider that this has a solution in the medium or short term,” it said in a Spanish-language X post.
+Non-governmental crypto association Asonacrip encouraged people and companies with installed crypto mining equipment to disconnect and store it. “We do not consider that this has a solution in the medium or short term,” it said in a Spanish-language X post. 
 
 (Cointelegraph, BeInCrypto, Voice of America, CriptoNoticias, Ámbito, El País)
 
@@ -56,16 +56,16 @@ Regional News
 
 Here’s where we break down Latin America crypto headlines from the past few weeks, organized by country and region. If you don’t see a country listed, it’s simply due to the news flow during a particular week.
 
-Bitso published research on the potential impact of cryptocurrencies on elections in Brazil, Argentina and Mexico. (BeInCrypto)
+Bitso published research on the potential impact of cryptocurrencies on elections in Brazil, Argentina and Mexico. (BeInCrypto) 
 
 South America
 🇦🇷 Argentina
 
-Mercado Libre’s founder and Argentina’s richest man Marcos Galperín shared his optimistic take on bitcoin in an interview with The Economist. (The Economist, Cointelegraph, Infobae, El Cronista)
+Mercado Libre’s founder and Argentina’s richest man Marcos Galperín shared his optimistic take on bitcoin in an interview with The Economist. (The Economist, Cointelegraph, Infobae, El Cronista) 
 Worldcoin, the blockchain project that scans people’s irises in exchange for crypto, is booming in Argentina in light of 288% annual inflation. (Rest of World, Infobae)
 Meanwhile, Buenos Aires’ provincial government accused Worldcoin of putting “abusive clauses” in its contracts. The company faces a fine equivalent to more than $1 million. (Buenos Aires Herald, BeInCrypto, CriptoFacil, CriptoNoticias, Infobae)
 A subsidiary of Argentina’s state oil and gas company YPF has partnered with bitcoin mining company Genesis Digital Assets (GDA) to power a new data center. “The Bajo del Toro Thermal Power Plant, composed of YPF, Equinor and YPF Luz, will power 1,200 bitcoin mining machines and efficiently monetize stranded gas, which would otherwise be flared into the atmosphere,” a GDA press release states. (Cointelegraph, CriptoFacil, CriptoFacil, Bitcoin Magazine)
-Hundreds of federal police officers carried out 64 raids across the country related to a cybercriminal organization that allegedly infected the computers of various companies and organizations and drained their bank accounts to buy USDT. (La Nación, Portal do Bitcoin)
+Hundreds of federal police officers carried out 64 raids across the country related to a cybercriminal organization that allegedly infected the computers of various companies and organizations and drained their bank accounts to buy USDT. (La Nación, Portal do Bitcoin) 
 
 🇨🇱 Chile
 
@@ -77,9 +77,9 @@ Colombia’s National Electoral Council is investigating whether individuals inv
 
 🇵🇾 Paraguay
 
-Last month, Paraguayan senators reconsidered a proposal to ban crypto mining to look at the potential financial benefits for the country. (Cointelegraph, CriptoFacil, BeInCrypto)
+Last month, Paraguayan senators reconsidered a proposal to ban crypto mining to look at the potential financial benefits for the country. (Cointelegraph, CriptoFacil, BeInCrypto) 
 Paraguay’s national police force announced on X that it had arrested a 23-year-old woman accused of having hundreds of stolen bitcoin mining machines. (Portal do Bitcoin)
-Cointelegraph Brasil recently held an hour-long discussion about the state of bitcoin in Paraguay. (Cointelegraph)
+Cointelegraph Brasil recently held an hour-long discussion about the state of bitcoin in Paraguay. (Cointelegraph) 
 
 🇸🇷 Suriname
 

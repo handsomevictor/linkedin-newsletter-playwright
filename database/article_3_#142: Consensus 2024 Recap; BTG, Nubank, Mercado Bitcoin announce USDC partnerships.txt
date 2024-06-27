@@ -3,19 +3,19 @@ Plus: Trexx receives funding from ImmutableX for blockchain game development; Ri
 
 Olá pessoal!
 
-Welcome back to Brazil Crypto Report for the week of May 27-31, 2024, where I’m wrapping up an exciting week at Consensus 2024.
+Welcome back to Brazil Crypto Report for the week of May 27-31, 2024, where I’m wrapping up an exciting week at Consensus 2024. 
 
-It was great seeing a bunch of you IRL on the ground in Austin, Texas around main event and all of the various DePIN, DeAI, DeCompute side events. It was also super cool to see a delegation of ABCripto folks make the trip up.
+It was great seeing a bunch of you IRL on the ground in Austin, Texas around main event and all of the various DePIN, DeAI, DeCompute side events. It was also super cool to see a delegation of ABCripto folks make the trip up. 
 
 I also got to participate in a special Brazilian happy hour on Friday after the main event!
 
-If you’re looking for Portuguese language content from the event I’d recommend checking out Paulo Alves ’ work for InfoMoney and Leonardo Rubinstein Cavalcanti ’s reporting for BlockTrends.
+ If you’re looking for Portuguese language content from the event I’d recommend checking out Paulo Alves’ work for InfoMoney and Leonardo Rubinstein Cavalcanti’s reporting for BlockTrends. 
 
 🔍What’s in this week’s BCR?
 
-BTG Pactual , Nubank and Mercado Bitcoin have launched USDC partnerships with Circle
-Trexx has received funding from Immutable X to support its blockchain game development and adoption efforts
-Foxbit Group launches a prepaid crypto card that offers 1% cashback on all purchases
+BTG Pactual, Nubank and Mercado Bitcoin have launched USDC partnerships with Circle 
+Trexx has received funding from ImmutableX to support its blockchain game development and adoption efforts
+Grupo Foxbit launches a prepaid crypto card that offers 1% cashback on all purchases
 Ripple announces the recipients of its Brazil-focused developer grant program
 
 Thanks for reading and have a great week!
@@ -26,7 +26,7 @@ New podcasts!
 
 Two new episodes for you this week. The first is a Web Summit Rio panel session (recorded in Portuguese) with Hashdex CEO Marcelo Sampaio and ABcripto - Associação Brasileira de Criptoeconomia CEO Bernardo Srur discussing how the bitcoin ETF approvals in the US have propelled the industry in 2024. (Big shoutout to the Transfero Group team for hosting us for this session!)
 
-The second is an interview I recorded in Brasilia with Gurvais Grigg , who is a 20 year FBI veteran turned chief technology officer at Chainalysis is focusing on the public sector. We discuss the state of crypto usage in criminal activity — who’s using it, for what purposes, and how governments and law enforcement entities are responding.
+The second is an interview I recorded in Brasilia with Gurvais Grigg, who is a 20 year FBI veteran turned chief technology officer at Chainalysis is focusing on the public sector. We discuss the state of crypto usage in criminal activity — who’s using it, for what purposes, and how governments and law enforcement entities are responding.
 
 🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
 
@@ -38,11 +38,11 @@ BTG Pactual, Nubank and Mercado Bitcoin will all offer the stablecoin as part of
 
 BTG will serve as the direct liquidity provider for USDC in the country, allowing companies and investors to issue and receive USDC in Brazil via the local banking system.
 
-Andre Portilho , head of digital assets at BTG, says he sees ample demand from entities looking for cheaper and easier means of acquiring dollars:
+Andre Portilho, head of digital assets at BTG, says he sees ample demand from entities looking for cheaper and easier means of acquiring dollars:
 
 “We will show companies how we can use this new instrument to make dollarization easier and cheaper.”
 
-Mercado Bitcoin will allow customers to transfer fixed income tokens from their MB-hosted wallet to other wallets, such as Metamask, through payment in USDC. Roberto Dagnoni , CEO of 2TM, explained:
+Mercado Bitcoin will allow customers to transfer fixed income tokens from their MB-hosted wallet to other wallets, such as Metamask, through payment in USDC. Roberto Dagnoni, CEO of 2TM, explained:
 
 “We are going to create a ‘whitelist’ of permissions. The user indicates the address of the wallet they intend to sell to and we check it against the 'whitelist' to prevent it from going to a platform we don't trust or to malicious addresses… This allows us to access liquidity pools and people out there.”
 
@@ -85,15 +85,7 @@ Brazilian blockchain gaming platform Trexx received an undisclosed amount in gra
 
 Blockchain games took off in 2021 with the rise of Axie Infinity but cooled off during the bear market. Still, they are seen by many as one of the “low hanging fruit” use cases for blockchain tech given the digitally-native nature of the platforms and the gamers themselves.
 
-Recommended by LinkedIn
-Filip Is The Name Of Blessing In The Transportation…
-Pranti Rahman  2 years ago
-BRC-20: A Paradigm Shift for BTC?
-Raymond Ratti Beato  3 months ago
-How to Invest in Cryptocurrency: Q&A with Alex…
-Ameer Rosic  7 years ago
-
-Helo Passos , CEO and founder of Trexx , explained to Valor that the technology is getting closer to being shovel ready and that game development giants like Ubisoft, Konami and SquareEnix are getting involved in the trend — albeit timidly:
+Helo Passos, CEO and founder of Trexx, explained to Valor that the technology is getting closer to being shovel ready and that game development giants like Ubisoft, Konami and SquareEnix are getting involved in the trend — albeit timidly:
 
 “This is a point we work on at Trexx. We must abstract terms. It will be easier for gamers to understand that they have a unique collectible than to explain that there is a blockchain behind it. There will be hard players selling their items and there will be people buying items from other players, as is already the case, but in an organized way.”
 
@@ -116,24 +108,24 @@ Foxbit has launched a new prepaid card allowing holders to pay for goods and ser
 
 “This card is not just a means of payment, but a bridge to integrate cryptoeconomy into people’s daily lives.” (Valor) (CriptoFacil) (BlockNews) (CoinTelegraph Brasil)
 
-viden.vc , a Brazilian VC focused on the Web3 market, invested in the seed round of Magisat, a marketplace focused on trading rare sats, ordinals and runes. (Portal do Bitcoin)
-Enegix Global , one of the largest bitcoin miners in the world, intends to expand its operations to Brazil. Yerbolsyn Sarsenov , CEO of the Kazakhstan-based miner, says the company is attracted by the energy and regulatory advantages that the country offers. The initial operation will be an 80 megawatt facility in the northeast region of the country, with the goal of expanding to 200 MW in the coming years:
+viden.vc, a Brazilian VC focused on the Web3 market, invested in the seed round of Magisat, a marketplace focused on trading rare sats, ordinals and runes. (Portal do Bitcoin)
+Enegix Global, one of the largest bitcoin miners in the world, intends to expand its operations to Brazil. Yerbolsyn Sarsenov, CEO of the Kazakhstan-based miner, says the company is attracted by the energy and regulatory advantages that the country offers. The initial operation will be an 80 megawatt facility in the northeast region of the country, with the goal of expanding to 200 MW in the coming years:
 
 "Brazil presents conditions regarding natural resources that make it a powerhouse in bitcoin mining. Here, we find a very significant amount of natural resources that provide energy generation with the cost and efficiency we seek." (Exame) (CoinTelegraph Brasil)
 
-Dynasty Global , the Swiss company founded by two Brazilians, acquired a US$11.5m stake in the Swiss asset tokenization company BrickMark Group with the aim of enabling tokenization of US$9bn in real estate assets. (Exame)
-Mastercard launched its Crypto Credential product at Consensus 2024. The product allows users on participating platforms to send and receive funds using pseudonyms rather than long blockchain addresses. Users of Foxbit, Mercado Bitcoin and other exchanges can use the platform for transacting between Latin American and European corridors. Walter Pimenta , Mastercard’s executive VP of product and engineering for Latin America, said in a statement:
+Dynasty Global , the Swiss company founded by two Brazilians, acquired a US$11.5m stake in the Swiss asset tokenization company BrickMark Group  with the aim of enabling tokenization of US$9bn in real estate assets. (Exame)
+Mastercard launched its Crypto Credential product at Consensus 2024. The product allows users on participating platforms to send and receive funds using pseudonyms rather than long blockchain addresses. Users of Foxbit, Mercado Bitcoin and other exchanges can use the platform for transacting between Latin American and European corridors. Walter Pimenta, Mastercard’s executive VP of product and engineering for Latin America, said in a statement:
 
 “As interest in blockchain and digital assets continues to grow in Latin America and around the world, it is essential to continue providing trusted and verifiable interactions on public blockchain networks.” (Portal do Bitcoin) (CoinTelegraph Brasil)
 
-BRLA Digital , creator of the BRLA real-pegged stablecoin, said that it had reached the mark of more than US$10 million in total processed payments since launching last year. (BlockNews)
+BRLA Digital, creator of the BRLA real-pegged stablecoin, said that it had reached the mark of more than US$10 million in total processed payments since launching last year. (BlockNews)
 While unlikely, ethereum still has a shot at “flippening” bitcoin’s market cap once the recently approved ETH ETFs in the US are up and running, Hashdex CIO Samir Kerbage argues. (CoinTelegraph Brasil)
 
 📲 Adoption
 
 Despite privacy and scalability concerns encumbering the Drex project, Brazilian banks are still optimistic about its development and see a path forward in the coming phases. (Exame)
 Ripple announced the recipients of its grants program for Brazilian projects. Select recipients include: Cointimes (US80,000) for an X-to-earn plugin; goAssets (US$100,000) for its tokenization product; Amora (US$100,000) a Shopify app for NFTs; XRPL Elixir (US$10,000) which allows devs to interact with XRPL via APIs; ThingsGo.Online (US$75,000) for its rewards system; Cryptum (US$50,000) which integrates the XRP blockchain with any application, and several more. (Valor)
-61% of Brazilian crypto investors do not intend to sell their bitcoin, according to a new survey of roughly 500 individuals conducted by crypto exchange Bitget . (Portal do Bitcoin) (InfoMoney) (CriptoFacil)
+61% of Brazilian crypto investors do not intend to sell their bitcoin, according to a new survey of roughly 500 individuals conducted by crypto exchange Bitget. (Portal do Bitcoin) (InfoMoney) (CriptoFacil)
 The Federal Public Ministry has hired TechBiz Forense Digital to monitor the use of cryptocurrencies in the country, per publication in the Official Gazette dated May 24. The purpose of the contract is to “subscribe to a system for identification, monitoring, tracking, research and analysis of electronic transactions using cryptocurrencies and contracting training for the use of the system”. (Portal do Bitcoin) (CriptoFacil) (CoinTelegraph Brasil)
 Brazil has an energy surplus that can be used for bitcoin mining, generating revenue and promoting socio-environmental development, argues Arthur Inc chief business officer Flávio H. in a CoinTelegraph Brasil op-ed.
 

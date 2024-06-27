@@ -1,0 +1,145 @@
+#145: Receita Federal to probe overseas crypto exchanges
+Plus: Arthur Inc opens mining facility in Oklahoma; Hashdex files for mixed bitcoin + ether ETF in US
+
+Olá pessoal! 
+
+Welcome back to 🇧🇷Brazil Crypto Report for the week of June 17-21, and happy Febraban Tech week for everyone attending! 
+
+I spent the weekend following the drama around LayerZero and some of the other big platforms that have done airdrops recently. I used to be super bullish on airdrops as a user acquisition strategy, but honestly things have gotten completely out of control with sybils and industrial farming. 
+
+For more color, see this X thread by a guy claiming to have been farming zkSync from 350 unique wallets and then complaining that his compensation wasn’t fair. Also worth a listen to this Laura Shin podcast episode with LayerZero Labs founder Bryan Pellegrino discussing his novel but ineffective approach to fighting off sybils. 
+
+It’s really hard to see a credible path forward for airdrops right now, as it seems to be creating more problems than it is solving at this point. I’m going to call the top and say we’ve reached “peak airdrop”. 
+
+Don’t get me started on this Martin Shkreli/$DJT memecoin nonsense 😱
+
+Anyways, let’s jump into the news. 
+
+🔍What’s in this week’s BCR?
+
+Brazil’s tax authority is probing foreign-based crypto exchanges 
+Hashdex files for a mixed bitcoin + ether ETF in the US
+Parfin unveils its new Rayls blockchain
+Brazilian bitcoin miner Arthur Inc opens a 15 megawatt facility in Oklahoma
+
+Thanks for reading and have a great week!
+
+-AWS
+
+ 🇧🇷Brazil Crypto Report is presented by
+
+Kaleido is the most trusted digital assets and blockchain company by enterprises. Their product suite is the ultimate business blockchain cloud and is rated #1 for tokenization and #1 for blockchain-as-a-service. Kaleido is powered by open source, supports multiple protocols, connects to permissioned and public chains, and lets you utilize any smart contract. Tokenizing assets in a scalable and interoperable way has never been easier.
+
+Built by veterans of IBM Blockchain and Consensys, the Kaleido platform combines turnkey functionality with enterprise-grade security and scalability to power your application — whether it be in banking and financial services, supply chain, media, government & public sector, or central bank digital currencies.
+
+New podcasts!
+
+Two new interviews this week! The first is with two of Brazil’s top journalists covering the crypto world — Claudia Mancini of Blocknews and Ricardo Bomfim of Valor Econômico. We discuss the delays impacting the Drex project and the much-awaited regulatory framework for crypto brokerages in the country.
+
+I also also talk to Jack O'Holleran and Andrew Saunders of SKALE Labs. Skale is a super interesting dark horse in the blockchain scaling race, with its novel horizontal approach allowing for highly performance and gas-less transactions. As a result of this, Skale has become a popular platform for blockchain game developers and users. We talk about the implications for gamers in Brazil.
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Receita Federal to probe foreign crypto exchanges
+
+Brazil’s tax authority will examine foreign crypto exchanges operating in Brazil, with an eye toward their business models and relationships they have with local service providers.
+
+The Receita Federal published an ordinance last week establishing a working group, called GT Criptoativos, focusing on tax compliance of overseas crypto exchanges in the country. The objectives are to provide guidance on tax obligations — such as Normative Instruction 1888 which requires brokerages to report customer trading activity to the agency, better capture information about depositors and withdrawers from these platforms, and establish a plan of action if the brokers fail to comply.
+
+The ordinance states:
+
+"the activities referred to in the caput include, among others, holding meetings with institutions providing payment services in the country of international exchanges."
+
+Among the exchanges presumably targeted by this include Binance, OKX and Kucoin, though it doesn’t appear that any of these have officially received a summons. 
+
+Andrea Chaves, Undersecretary of Inspection at the Receita Federal, told Reuters:
+
+"it is an area of concern for us to first understand how they [international brokers] operate here, whether there is any illegality or not. Also We are concerned about having information here about Brazilian wealth subject to taxation".
+
+Valor Exame CriptoFacil Portal do Bitcoin Livecoins BeinCrypto CoinTelegraph Brasil
+
+Hashdex files for new mixed bitcoin + ether product in the US 
+
+The Rio de Janeiro-based crypto asset manager has filed for a new ETF in the US that tracks the Nasdaq Crypto Index. If approved, it would be the first ETF product in the US market to hold multiple cryptos. 
+
+The NCI is composed of both bitcoin and ether (90.85%), in addition to altcoins such as Chainlink, Polygon, Solana and more. Hashdex’s flagship HASH11 product in Brazil also tracks the NCI
+
+However, the proposed US ETF would only invest in bitcoin and ether, as those are the only two coins that been approved to trade through regulated vehicles. It explicitly will not invest in “crypto securities, tokenized assets or stablecoins.” 
+
+BitGo and Coinbase would be the custodians of the fund. The US Securities and Exchange Commission has until March 2025 to respond to the request. 
+
+The Block Valor Investe Exame Blockworks CriptoFacil Portal do Bitcoin InfoMoney CoinTelegraph Brasil
+
+Parfin rolls out new blockchain network Rayls
+
+Parfin is replacing its old Parchain with a new product called Rayls. The tool is in play to be a scalable privacy solution for Drex, and will ideally integrate banks and other financial institutions with decentralized finance. 
+
+One of the core improvements of Rayls over Parchain is that it is possible to use the network in a fully permissioned way through the Rayls Public Chain — which functions as an Ethereum Layer 2. 
+
+Parfin CTO Alex B. explained that Parfin is trying to fill a gap that exists with existing permissioned solutions like Hyperledger Besu, which don’t natively integrate with public chains like Solana, Ethereum, etc: 
+
+“Today there is a barrier between the world of traditional finance and what we call DeFi, which takes place on public blockchains.”
+
+Inside of Drex, Rayls will likely be tested together with Microsoft’s ZKP Nova. 
+
+Valor BeinCrypto CoinTelegraph Brasil
+
+Arthur Inc opens 15 mw bitcoin mining farm in Oklahoma
+
+The Brazilian-owned bitcoin miner has opened a new facility in Oklahoma with 6,800 square meters and 15 megawatts of energy capacity. 
+
+The site has an agreement with Oklahoma Gas and Electric Company to provide electricity at a price of US$0.04 per kilowatt hour. Oklahoma recently passed a law protecting investors in bitcoin and other digital assets. 
+
+Co-founder Rudá Pellini explained:
+
+“Oklahoma has one of the best energy costs in the country. The mining companies have a partnership to encourage operations, because it benefits the grid” 
+
+The new unit will be focused on hosting, in which it provides space to companies who have bitcoin mining machines but nowhere to run them. 
+
+“We already have 1,500 (high performance computers) installed and 3,500 arriving at the new unit”
+
+Arthur already has mining facilities in Ohio and Wyoming. 
+
+Valor Portal do Bitcoin CoinTelegraph Brasil
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+BLP Crypto, Brazil’s oldest crypto fund, has changed its name to B2V Crypto to and added Luis Guilherme Oliveira as a partner overseeing operations. Oliveira is the former COO of Safari Capital. Axel Blikstad, CFA remains as executive president and Alexandre Vasarhelyi, CFA, CGA as head of investments. 
+
+“The new brand makes the maturity of the business tangible and reinforces our commitment to ensuring excellence, consistency and results in an ecosystem that still scares investors, but which is growing and has high profitability potential.”  (Valor) (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+ANBIMA, Brazil’s capital markets association, is leaning into tokenization as a way to connect to the eventual Drex network. Carlos Andre, Anbima president, said that the association intends to work with the Central Bank and the CVM to create an “innovation network” that supports adoption of new technologies by way of feasibility studies, workshops, pitch days, etc. (Valor) 
+Holders of the Coritiba Football Club token received R$1 million (US$200,000) in payouts related to the sale of Matheus Cunha, who was sold from Atletico de Madrid to Wolverhamption in England. (CriptoFacil) (CoinTelegraph Brasil)
+NovaDAX is expanding its USDC options by enabling deposits and withdrawals on Arbitrum, Base, Optimism, and AVAC C-Chain. (Web3News)
+Mercado Bitcoin is rolling out an “intelligent basket”, a portfolio that rebalances every 30 days. (CoinTelegraph Brasil)
+Banco Itaú is looking at offering bitcoin and cryptocurrency investments in Paraguay. Jose Britze, CEO of the bank’s Paraguay operation, told Forbes Paraguay:
+
+“We are analyzing it with two experts from Itaú. The process is still quite green in Brazil, but we want to understand it better and look for some solutions.”
+📲 Adoption
+
+Solana Foundation says it will invest R$5 million (US$1 million) in content creators in Brazil, starting with DEFIHACK — which is being organized by the Solana Superteam Brasil and DeFiverso and runs from June 3 to July 8. Diego Dias, head of Latam at Solana Foundation, explained: 
+
+“We are excited to launch this significant investment to support content creators and developers in Brazil…We believe this is a crucial step to fuel innovation and growth of the Solana ecosystem in the region.” (Portal do Bitcoin) (BlockNews) (CoinTelegraph Brasil)
+
+More than 100,000 of “Proof of Passion” NFTs, minted by the sports-focused blockchain Chiliz, were redeemed by fans during the 2024 Campeonato Brasileiro, explained Brazil country manager Bruno Pessoa. (BlockNews)
+Participating consortia in the Drex pilot have until July 1 to submit use case proposals for testing in phase 2 of the project. (BlockNews)
+BlockNews has a handy guide to blockchain-relevant programming at Febraban Tech
+Brazil is the country most attacked by malware focused on cryptocurrency wallets, according to Kaspersky’s Global Research and Analysis Team. (CoinTelegraph Brasil)
+The city of Rio de Janeiro announced a partnership with ABCripto bring awareness and education about crypto assets. The intention is to "strengthen financial education and boost the development of cryptoeconomics in the capital of Rio de Janeiro". Alexandre Vermeulen, president of Invest.Rio, said in a statement:
+
+“This initiative not only strengthens the local digital economy, but also places Rio de Janeiro at the forefront of financial innovation in Brazil.” (CriptoFacil) (Portal do Bitcoin)
+
+Polkadot announced a partnership with Federal Technical University of Paraná, with the goal of making Brazil recognized as a “cutting edge blockchain research center worldwide”. John Rhodel Bartolomé of Polkadot Brazil explained: 
+
+"Polkadot's approach to cutting-edge centers like UTFPR is a partnership that not only aims at research and training, but also the development of blockchain technologies that can bring value to the Brazilian economy." (CoinTelegraph Brasil)
+
+QR Asset Management and B3 are hosting an event on June 24 focused on bitcoin ETFs in the Brazilian market 
+
+🏛 Policy, Regulation and Enforcement
+
+Civil Police in Rio de Janeiro recovered R$790,000 (US$145,000) in bitcoin paid to kidnappers of a Brazilian attorney. (Portal do Bitcoin) (Livecoins)
+Civil Police in Rio Grande do Sul arrested a couple who operated a clandestine cryptocurrency mining farm in the municipality of Serra Gaucha. The operation may have resulted in a loss of R$1.5 million to the region (US$300,000). (Portal do Bitcoin) (CoinTelegraph Brasil)
+Law firm Mattos Filho has joined ABcripto - Associação Brasileira de Criptoeconomia as an associate member. (CoinTelegraph Brasil)

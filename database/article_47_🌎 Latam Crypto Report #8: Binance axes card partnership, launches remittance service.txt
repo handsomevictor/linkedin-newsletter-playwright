@@ -1,0 +1,114 @@
+🌎 Latam Crypto Report #8: Binance axes card partnership, launches remittance service
+Also: Circle launches USDC via Mercado Pago in Chile; possible Tether bitcoin mining operation in Paraguay
+
+¡Hola a todos! 👋
+
+Welcome to this week’s edition of the 🌎Latam Crypto Report, a sister publication to Brazil Crypto Report written by Kristin Majcher - who is a freelance journalist based in Bogotá, Colombia. 
+
+Please give her a follow on Twitter and LinkedIn and don't be shy about sending over any tips about news stories we should be covering.
+
+This week we’ll dive into the news that Binance is ending a crypto card partnership and launching a remittance service, and examine Circle’s partnership with Mercado Pago in Chile. Then, we’ll go over our usual rundown of news items by country. 
+
+As always, thanks for reading. If you found this content to be helpful, please consider sharing this newsletter with friends and subscribing to the full version on Substack 👊
+
+Binance ends Mastercard partnership, launches remittance service
+
+Binance leads the news this week with two news items. The global exchange reportedly plans to end its card partnership with Mastercard, and Binance launched a new crypto transfer service in the region. 
+
+Binance and Mastercard to end crypto card partnership 
+
+Binance and Mastercard will end their crypto card partnership on September 22, CoinTelegraph and others reported. 
+
+The partnerships affect credit cards from Binance and Mastercard issued in Argentina, Brazil, Colombia and Bahrain. 
+Cardholders use the cards to spend money in local currencies while funding those purchases with their Binance crypto balance. 
+Binance did not give specifics on why it is ending the program, although Bloomberg Línea noted that Mastercard and Visa are distancing themselves from the exchange as it faces regulatory issues in several jurisdictions. 
+
+(CNBC, Bloomberg, Reuters, CoinTelegraph, Bloomberg Línea, BeInCrypto)
+
+
+
+
+image via MidJourney
+Binance Launches ‘Send Cash’ crypto transfer service 
+
+Days after news broke about the card partnership ending, Binance announced it has launched a new crypto transfer product in nine Latin American countries. 
+
+The crypto transfer product called “Send Cash” will allow people to send crypto to friends and families’ bank accounts through Binance Pay and licensed service providers. 
+Send Cash will available for use in nine countries, Binance said. These include: Colombia, Honduras, Guatemala, Argentina, Costa Rica, Paraguay, the Dominican Republic, Panama, and Mexico. 
+In the first stage of the rollout, people with bank accounts in Colombia and Argentina can receive funds from those countries. 
+Send Cash will have the “lowest cost in the market” according to Binance. 
+
+(The Block, CoinTelegraph, Crypto Briefing, Crypto News, BeInCrypto)
+
+Circle and Mercado Pago to offer USDC in Chile
+
+Circle has partnered with e-commerce giant Mercado Pago to access its dollar-pegged stablecoin, USDC. Mercado Pago Senior Director Matias Spagui said: 
+
+“The US dollar is one of the most stable currencies in the world and a simple vehicle to ensure wealth preservation amidst general uncertainty. With the launch of this stablecoin we seek to diversify access to cryptocurrencies and offer the more than two million Mercado Pago users an alternative that matches the value of the dollar.”
+
+(Circle, CoinTelegraph, Decrypt, The Block) 
+
+🗞 Latin America Crypto News Rundown
+
+Here’s where we break down Latin America crypto headlines from the past few weeks, organized by country and region. If you don’t see a country listed, it’s simply due to the news flow during a particular week.
+
+Regional News
+
+Bitso added support for the Tron network for its Tether (USDT) transactions, which should increase speeds and lower costs. (The Block, BeInCrypto) 
+Exchange Buda.com has added Tether for users in Chile, Colombia and Peru, alongside its existing support for USDC. (BeInCrypto, CoinTelegraph)
+Latin American citizens received $562 billion worth of digital currencies between mid-2021 and mid- 2022, Circle pointed out in a new report about the region’s crypto efforts. (Circle)
+Ripio Ventures is on the hunt for up to 10 “super early” projects to launch under its new accelerator program focused on the new LaChain blockchain. (Ripio CEO Sebastián Serrano via X) 
+
+Cryptoconexion’s Mónica Talán offers insights on the potential of Web3 in Latin America. (Contxto) 
+Home bitcoin mining can still be profitable in Latin America — here’s why. (Bloomberg Línea) 
+Deel’s Chief Operating Office Dan Westgarth explains why Latin America’s workers want to be paid in crypto. (Rest of World) 
+Here’s how Latin American citizens are using crypto in their everyday lives. (Contxto)
+Tech experts from the law firm Dentons discuss the outlook for cryptocurrency regulations in Latin America. (Dentons) 
+Latin America crypto asset management firm Hashdex applied to offer a spot bitcoin exchange-traded fund (ETF) in the U.S. using a unique strategy. (Financial Times, Decrypt)
+
+South America
+🇦🇷 Argentina
+
+The Worldcoin project said it recorded 9,500 verifications in Argentina for its World ID — in a single day. (Portal do Bitcoin, CriptoNoticias, CoinTelegraph, Worldcoin Blog) 
+Ámbito provides an update on the forces shaping crypto regulations in Argentina. (Ámbito)
+The price of bitcoin hit a record high in Argentina after pro-bitcoin Javier Milei won the presidential primary. The winner will be decided in October. (BeInCrypto, CoinTelegraph, Decrypt, Portal do Bitcoin)
+Argentina is seeing stronger bitcoin adoption than El Salvador, an Ark Invest researcher said in an investor note. (The Block, Portal do Bitcoin)
+Federal Police carried out 25 raids in several provinces related to a cybercrime group that converted stolen funds into crypto after committing robberies. (Ámbito, Portal do Bitcoin)
+Ripio CEO Sebastián Serrano explains the economic factors prompting Argentines to use its new dollar-pegged stablecoin, the Criptodólar. (Valor Econômico)
+Here’s what presidential hopeful Javier Milei’s “dollarization” proposal could mean for bitcoin. (CriptoNoticias, Livecoins, Portal do Bitcoin)
+Hackers broke into Argentina’s retiree services database last month, demanding a ransom of $650,000 in bitcoin and releasing 1.6 million files onto the dark web after it didn’t receive the amount, BeInCrypto reported. (BeInCrypto, CNN, CoinTelegraph)
+
+🇨🇴 Colombia
+
+Colombia’s central bank found that introducing a central bank digital currency (CBDC) would not represent significant macroeconomic risks, but thinks setting limits on transactions could have benefits. (CoinTelegraph)
+Num Finance launched a stablecoin pegged to the Colombian peso (nCOP) via the Polygon network. (CoinDesk, BeInCrypto)
+
+🇵🇾 Paraguay
+
+Police in Paraguay arrested a group of Argentine and Chinese nationals over an operation to launder money in Paraguay on the border with Brazil. (Livecoins)
+Tether is rumored to be setting up a new bitcoin mining farm in Paraguay using energy from the Itaipu hydroelectric power plant, CoinTelegraph Brasil exclusively reported. The company has committed to launching a mining operation in Latin America, but has not disclosed the location specifics. Tether CTO Paulo Ardoino explained: 
+
+“The site is going well, everyone on the team is super free and working around the clock to start operations in the coming weeks.” (CoinTelegraph)
+🇻🇪 Venezuela
+
+Binance has removed the Bank of Venezuela as a payment method from its P2P platform. (BeInCrypto, CoinTelegraph, Forbes, Forbes Argentina, CriptoNoticias, Crypto Briefing)
+
+Central America & Mexico
+🇸🇻 El Salvador
+
+Google Cloud is planning to open an office in El Salvador, thanks to a seven-year government partnership pending approval. The news has prompted discussion about to what extent the country’s move to make bitcoin legal tender could have inspired the move. (Reuters, CoinTelegraph, BeInCrypto)
+
+CoinDesk’s Jonathan Martin reports from El Salvador about the role of the Lightning Network in bitcoin’s adoption there. (CoinDesk) 
+El Salvador has seen a 70% return on its dollar bond this year. (The Street, Exame, CoinTelegraph)
+
+🇲🇽 Mexico
+
+Startup Crecy launched a new ethereum-backed Mastercard credit card in Mexico. (Contxto, CoinTelegraph, Latam Fintech)
+Pro-bitcoin senator Indira Kempis hopes to become a presidential candidate. (Livecoins, El País)
+Nearly 250 high school students in Mexico are studying crypto, thanks to El Salvador-based NGO Mi Primer Bitcoin. (Portal do Bitcoin)
+
+🇨🇷Costa Rica
+
+Popular online food store Market & More now accepts bitcoin payments. (BeInCrypto)
+
+

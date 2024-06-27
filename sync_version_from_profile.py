@@ -11,6 +11,15 @@ USER_AGENTS = [
     "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/58.0",
 ]
 
+if os.path.exists('linkedin_newsletter_urls.txt'):
+    os.remove('linkedin_newsletter_urls.txt')
+    print(f"File 'linkedin_newsletter_urls.txt' removed")
+
+
+# create an empty file
+with open('linkedin_newsletter_urls.txt', 'w') as f:
+    pass
+
 
 # noinspection PyShadowingNames
 def main(profile_url):
@@ -40,6 +49,22 @@ def main(profile_url):
         if count == 0:
             raise Exception("No newsletter links found. Website is blocked or changed, trying again in 10 seconds.")
 
+        # scroll to the bottom of the page
+        previous_height = None
+        while True:
+
+            # if login popup appears, close it
+            login_close_button_selector = '.contextual-sign-in-modal__modal-dismiss-icon > svg:nth-child(1) > path:nth-child(1)'
+            if page.locator(login_close_button_selector).is_visible():
+                page.locator(login_close_button_selector).click()
+
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+            page.wait_for_timeout(random.randint(800, 2000))
+            current_height = page.evaluate('document.body.scrollHeight')
+            if current_height == previous_height:
+                break
+            previous_height = current_height
+
         final_linkedin_newsletter_urls = []
         for i in range(count):
             element = linkedin_newsletter_elements.nth(i)
@@ -47,6 +72,11 @@ def main(profile_url):
             inner_html = element.get_attribute('href')
 
             final_linkedin_newsletter_urls.append(inner_html)
+
+            # save to file
+            with open('linkedin_newsletter_urls.txt', 'a') as f:
+                f.write(inner_html)
+                f.write('\n')
 
         print(final_linkedin_newsletter_urls)
         print(len(final_linkedin_newsletter_urls))

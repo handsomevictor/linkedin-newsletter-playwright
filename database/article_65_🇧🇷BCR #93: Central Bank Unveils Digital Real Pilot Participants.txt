@@ -1,0 +1,128 @@
+🇧🇷BCR #93: Central Bank Unveils Digital Real Pilot Participants
+(NOTE: This Linkedin post is a shortened edition of the full Brazil Crypto Report newsletter. To catch the entire version as well as more content like this please subscribe to the full version on Substack)
+
+Plus: Bitcoin Pizza Day goes viral in Brazil
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of May 22-26, 2023!
+
+The big news of this past week was the Banco Central do Brasil unveiling its 14 selections for the Digital Real pilot project that will kick off in mid-June. 14 participants were selected out of a total of 36 applications, which in turn represented more than 100 companies.
+
+The list of selected participants includes banks (both TradFi banks and digital banks), payment processors, credit unions, financial market infrastructure operators and crypto infrastructure providers.
+
+Marking the second stage of Digital Real testing, the pilot will begin in mid-June and is expected to last 18 months. Testing will primarily be focused on privacy and programmability features using delivery against payment (DvP), with the initial use case being a federal public bond traded between two financial institutions.
+
+The objective is for each participant to test the redemption, issuance and transference of the asset - and the resulting financial flows - using its own respective business model, but without involving real transactions or values.
+
+These tests will be used to evaluate the effectiveness of the Digital Real as well as ensure security and privacy on the network - which is being built on Hyperledger Besu. While limited in scope, this pilot will facilitate development of infrastructure, tokens, smart contracts on the network while ensuring programmability, privacy and integrity of the system.
+
+Rodrigoh Henriques, director of innovation at FENASBAC, told Exame:
+
+“If it works, it is ready to expand to the rest, it will have all the foundation of the house, it will grow very fast".
+
+Henriques added that the submission process received a "very interesting number of projects, above the moderate forecast that the Central Bank had,” which demonstrated that companies “understood the importance of participating in a collaborative, cooperative moment, in the creation of a digital currency and the infrastructure that will be the basis of this digital society that we are creating."
+
+He also emphasized that the key use case of this entire system will be programmability, which will provide security and efficiency benefits for large transactions and contracts while enhancing trust.
+
+"It's the big use case. Bringing programmability to large transactions generates security between all parties. Any time it's an important, significant purchase, it can generate security. It manages to eliminate the feeling of insecurity or the need for trust from the other party.”
+Crypto firms largely excluded
+
+Notably, the Central Bank excluded in its final selection consortium applicants that did not have at least one regulated financial or payment institution with existing access to the National Financial System network. This wasn’t a total surprise as the bank had stated previously that crypto-native participants would need to form consortia with TradFi players if they wished to participate.
+
+The institution elaborated in a note to Valor:
+
+“There were eliminatory requirements, such as access to the National Financial System network, the need to have at least one institution authorized to operate by the BC and the demonstration of the capacity to carry out the operations proposed in the pilot.”
+
+As a result, only a handful of the selected submissions included crypto-native or crypto-adjacent companies:
+
+The consortium led by Banco da Amazônia and Tecban included Parfin, Grupo Foxbit and nTokens.
+The Banco ABC consortium includes Hamsa, a tokenizer that works with NFTs
+Digital security and cryptography company Dinamo, which created encryption system for Pix, was included in three submissions and selected for one: TecBan + Banco da Amazonia. Dinamo’s Jean-Michel Guillot told Valor:
+
+“One of BC’s requirements for developing solutions is the use of cybersecurity standards similar to those used in the traditional financial market.”
+
+Two banks that have crypto platforms, BTG Pactual and Nubank, were selected
+Four infrastructure companies focusing on digital assets were also selected: Parfin, Hamsa, B3 Digitas, BBChain
+
+In total, the 14 selected submissions included:
+
+Bradesco
+Itaú Unibanco
+Santander, Santander Asset Management, F1RST and Toro CTVM
+Banco do Brasil
+BTG Pactual
+Nubank
+XP and Visa (the only major card provider to be selected)
+Banco B3, B3 and B3 Digitas
+Banco da Amazônia (Basa), TecBan (provider of the Banco 24 horas ATM network), Pinbank, Dinamo, Cresol, Banco Arbi, Ntokens, Clear Sale, Foxbit, CPqD, Amazon Web Services and Parfin
+Banco Inter, Microsfot and 7Comm
+BV
+Banco ABC, Hamsa and Loopi
+SFCOOP: a consortium of credit unions led by Sicoob and Sicredi
+Brazilian Association of Banks (ABBC), which led a consortium of smaller banks including Banco Ribeirão Preto
+
+Outside looking in
+
+22 submissions did not make the cut. Several notable ones left out included:
+
+A consortium led by Caixa Econômica Federal, Microsoft and payment processor Elo
+A Mercado Bitcoin and Mastercard digital wallet submission
+Capitual
+Asset tokenizers like Liqi and Vórtx QR
+Banco do Nordeste and startup LoveCrypto that sought to use tokenized treasury bonds as guarantees for microcredit
+
+Both Caixa and MB indicated that they would appeal the decisions. Entities left out of the pilot will still be invited to participate in the Digital Real forums created by the Central Bank.
+
+Central Bank considering 2-3 names for Digital Real
+
+Roberto Campos Neto, president of the Brazilian Central Bank, said that the Central Bank has narrowed down to two to three naming options for the Digital Real - similar to the name Pix for the bank’s instant payment system. Campos Neto told GloboNews:
+
+"We already have a pilot [of digital currency] that starts with a public bond. The banks are enthusiastic about the project, we should have the process finalized by the end of next year. We are between two and three names.”
+80 percent of Brazilians have a favorable view of Digital Real
+
+Most Brazilians have heard of the Digital Real initiative but few understand its design or implications, according to a survey of 1,000 respondents conducted by Cryptum, a “blockchain as a service” infrastructure company.
+
+As reported by Valor, 93 percent of respondents were familiar with digital currencies, while 80 percent said they welcome the Digital Real initiative. 52 percent responded that they did not have enough knowledge on the subject and thus feel confused.
+
+A separate survey of just C-suite executives from the financial services industry found less enthusiasm for the idea of tokenized money.
+
+35 percent saying they’d heard about Digital Real but didn’t understand how it would work in practice
+Another 34 percent said financial services companies aren’t ready to embrace the Digital Real
+30 percent were pessimistic and don’t believe in a favorable environment for the Digital Real anytime soon
+
+Cryptum CEO André Salem compared the findings to the initial skepticism showed towards Pix by consumers and TradFi banks. The original reticence quickly gave way once the product was launched and in the hands of users. He explained:
+
+“In the same sense of innovation, the Digital Real has been studied and elaborated in a more collaborative way with the financial ecosystem, in order to enable its more objective use and to have a gradual adoption in the market.”
+Brazil is Tether’s main focus in Latin America, says Ardoino
+
+In an exclusive interview with CoinTelegraph Brasil, Tether CTO @Paulo Ardoino argued that Brazil is a critical market for USDT moving ahead. Brazilians transacted R$37.1 billion in USDT during the the first quarter of 2023, representing 80 percent of all crypto trading volume during the period.
+
+Ardoino also reckoned that Tether will co-exist with stablecoins issued by Brazilian banks under the Digital Real system, operating as a peer-to-peer decentralized ecosystem operating in contrast to stablecoins issued by TradFi and government institutions.
+
+🍕Bitcoin Pizza Day promotions sweep Brazil
+
+The time-honored tradition of eating pizza on May 22 to commemorate the first-ever bitcoin transaction is alive and strong in Brazil. On May 22, 2010, programmer Laszlo Hanyecz paid 10,000 bitcoins in exchange for two pizzas to be delivered to his home. The transaction is widely acknowledged as the first non-trivial transaction involving an actual value exchange with bitcoin (ie an actual good or service being paid for with bitcoin).
+
+At today’s prices, the bitcoins used to purchase the two pizzas would be worth US$272 million (R$1.36 billion).
+
+The holiday took off this year in Brazil with events in more than 21 cities around the country. Seemingly every crypto exchange and Web3 community group had some sort of activation, meetup or promotion.
+
+Mercado Bitcoin conducted a R$10,000 raffle for new customers who opened an account.
+Bitso CEO Daniel Vogel was working hard hand-delivering pizzas to customers in São Paulo
+
+My personal favorite was Binance’s pizza food truck set up in Praia Vermelha in Rio de Janeiro.
+Bitget launched a promotion whereby a lucky user can earn up to two bitcoins
+CoinEx hosted an event at Donna Maru pizzeria in São Paulo
+Instituto Caldeira in Porto Alegre hosted a two day conference to commemorate
+YouTuber and educator Rai Auad and some friends in the Web3 Brasilia community celebrated at a pizzeria in the suburb of Aguas Claras
+
+🎙New podcast with BTG Pactual’s Andre Portilho
+
+BTG Pactual’s head of digital assets Andre Portilho joined the show this week to discuss the bank’s new BTG Dol stablecoin and the growth of its Mynt crypto brokerage platform. Have a listen on YouTube below or on Spotify or Google Podcasts
+
+If you missed my conversation with Fortune’s Leo Schwartz last week be sure to have a listen to that as well to get his impressions of the Brazil crypto ecosystem after his visit to Web Summit Rio earlier this month. You can have a listen on Spotify, Apple Podcasts or Google Podcasts 👊
+
+That’s it for now. Have a great week everyone.
+
+-AWS

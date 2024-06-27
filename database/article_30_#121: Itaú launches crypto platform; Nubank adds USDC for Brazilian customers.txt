@@ -1,0 +1,158 @@
+#121: Itaú launches crypto platform; Nubank adds USDC for Brazilian customers
+Plus: Bacen hosts inaugural Encontro Drex conference in Brasilia; regulatory consultation delayed to 2024
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of December 4-8, 2023.
+
+We had a ton of big news last week as we begin rounding out the year: Itaú finally went live with its much anticipated crypto platform, Nubank began offering USDC to Brazilian customers, and the Central Bank hosted its first annual Encontro Drex at its headquarters in Brasilia.
+
+Quick programming note: I’ll be in Curitiba this week for the Multichains Brasil meetup, which will happen on Wednesday, December 13. It’s being supported by Filecoin, Zcash Brasil, Polkadot and some others so should be fun. Hope to see some of you there!
+
+🎙No podcast episode this week sadly, but I’ve got some good stuff lined up for this week and for the holiday season. I’ll also be releasing the BCR Top 10 Most Influential list for 2023. Many thanks to everyone who voted in this year’s survey!
+
+🙌 Friendly reminder to please subscribe to BCR on Substack if you enjoy this content
+
+Have a great week everyone
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin
+
+👊Also, please do give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram if you don’t already. It helps out a ton!
+
+Nubank beefs up its crypto offerings
+
+Brazil’s largest digital bank made a number of big moves last week to expand and amplify its crypto product. The platform currently offers 14 cryptocurrencies for trading for its 1.6 million active customers.
+
+There are three main prongs to Nubank’s expansion:
+
+It announced a partnership with Circle to offer USDC stablecoins to clients, giving them an easy way to access US dollars. Stablecoins have emerged across Latin America as a way to protecting savings against inflation.
+Customers will be able to withdraw cryptos directly from their Nubank account to an external wallet. This allows customers to send funds out of the Nubank app to a self-hosted wallet controlled either by themselves or a third party.
+An integration with Talos to provide intelligent order routing through different liquidity providers such as the Chicago Mercantile Exchange and the Chicago Board Options Exchange. The goal here is to provide lower transaction costs for customers
+
+Nubank’s crypto lead Thomaz Lysakowski Fortes, CGA® explained to Valor that the new features are part of a broader strategy to give customers more control over their money. The decision to use USDC instead of market leader USDT was a question of trust, he explained:
+
+“We like the structure and level of security of USDC, which has all its reserves in dollars.”
+
+The Block Portal do Bitcoin Exame BlockNews
+
+Itaú enables bitcoin and ethereum trading for customers
+
+Banco Itaú, Brazil’s largest and perhaps most “traditional” private bank, has taken its full plunge into crypto with the launch of its crypto platform, which is called ion.
+
+Crypto assets traded on the platform will be held in custody by the bank, with a pledge to keep customer funds segregated from business and operating accounts.
+
+External withdrawals and deposits will not be initially available, as is typical with other “TradFi” institutions in their first attempt at a crypto product. José Augusto de A. Antunes Filho (Guto Antunes), head of digital assets at Itaú, explained that the objective is attracting new customers and getting existing customers familiar with the product:
+
+“We are in a generation that grows up and uses banking in a tokenized way. A portion of the more than US$1 trillion allocated to crypto assets today comes from people who are using the bank. We want to help bring security to this market.”
+
+The product will be gradually rolled out to customers as demand and the regulatory climate dictates, Antunes explained:
+
+“This gradualness depends on regulatory clarity. We did not go into detail about the selection processes [for the first customers who will have access to the new feature] as it is a strategic issue.”
+
+Valor InfoMoney Portal do Bitcoin Exame BlockNews CoinTelegraph Brasil
+
+Central Bank hosts first Drex Annual Meeting
+
+Hundreds of Drex enthusiasts flocked to Brasilia on December 7 for a conference, hosted by the Banco Central do Brasil, exploring the development of the CBDC and tokenization platform.
+
+Unfortunately, I had to make a trip back to the US last week so missed out on the event, but it looked quite fruitful based on the news coverage and social media posts I saw.
+
+Bank president Robert Campos Neto kicked off the conference with a call for Drex to “shake up” the traditional banking system:
+
+"We need to shake up the dinosaur legacy systems that are inside the banks. And it's difficult to shake the dinosaur, I was there 22 years, it's very difficult to make a big change in technology. Change causes returns to fall for a while before going up, it's a lot of investment in technology",
+
+There was a lot of content that came out of this meeting, as well as a special Drex feature section published by Valor, which we will attempt to summarize here and below:
+
+Drex will impact questions of digital identity, self-sovereign data ownership and the relationships that customers have with their financial institutions. To this end, a verifiable and reusable identity credential, stored in a digital wallet, is being developed to provide secure access across the various layers of the financial system. (Valor)
+Campos Neto explained that global central banks originally wanted to prohibit banks from touching crypto, but that that position is no longer viable:
+
+“The BCs wanted to prohibit banks from having any interaction with cryptocurrencies. That train has already left. We have to bring this environment closer to us.” (Valor) (InfoMoney)
+
+The expectation remains that Drex will be delivered and operational by the end of 2024 or early 2025. (Valor)
+The Central Bank was studying distributed ledger technology and blockchain while it was developing Pix, well before the idea for Drex emerged. Rogério Lucca, head of the Department of Banking Operations and Payment Systems, explained:
+
+“There has always been this discussion and concern about the use of tokenization and technology within the scope of financial market infrastructures.” (Exame)
+
+The Drex event was protested by Central Bank employees upset over the lack of a salary adjustment, in the latest round of the “Drexit” saga in which talent is departing (or threatening to depart) the institution. (Exame)
+
+Public consultation on crypto asset regulation pushed to 1Q 2024
+
+The Central Bank delayed its public consultation on digital asset regulation to early 2024. The event was originally expected to occur during the fourth quarter of 2023.
+
+Fabio Araujo explained that this consultation is being conducted in a non-standard manner:
+
+“Normally, Central Bank consultations are based on a draft resolution, but for this first consultation, as it is a new and disruptive topic, it will be based on questions that we want the market to answer.”
+
+The bank still has a target of completing its first stage of VASP regulation by the middle of 2024.
+
+Valor CoinTelegraph Brasil
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Tether CEO Paolo A. discussed USDT adoption in Brazil with Portal do Bitcoin, calling Brazil a market “that everyone must follow closely”:
+
+“Brazil is a market that everyone should follow closely from a technological point of view. In Argentina, for example, USDT is as present as in Brazil, but the technological structure still needs to be developed. In Argentina, people use USDT to protect themselves from inflation. In Brazil this is not necessary and that is why the country can focus more on how to use technologies to improve citizens' lives.”
+
+Roberto Campos Neto says that Brazil will include digital currencies in the context of international transfers as an agenda item during the 2024 G20, which Brazil will assume the rotating presidency on January 1.
+
+“Digital currencies can greatly reduce the costs of international transactions. The G20 will work to improve the settlement and governance of international transfers.” (Valor) (CoinTelegraph Brasil)
+
+“Nonconformist” digital asset brokerage Nonco raised US$10 million in a seed funding round led by Valor Capital Group and Hack VC.The brokerage, which is spun off from Hong Kong-based OSL Digital Limited, claims to have realized US$6 billion in volume since launching in AprilBrian Brooks, Valor Capital partner and former chair of the US Office of the Comptroller of the Currency, and Alexander Pack will serve on the board of directorsOther investors in the round included Morgan Creek Digital, CMCC, Theta Capital, Bullish, Libra Capital Ventures and more.Nonco CEO Fernando Martínez Fernández said in a statement:
+
+“Our aim is to become the leading brokerage firm for digital assets, and we intend to achieve this by establishing a new standard that prioritizes technology and service while ensuring institutional risk management and compliance.” CoinDesk
+
+Businessman Guga Stocco is launching a “Human IPO” platform that allows investors to buy tokens linked to an individual, whose profitability is linked to the results of his venture capital portfolio. The platform will operate under the CVM’s crowdfunding model. (Valor) (CoinTelegraph Brasil)
+Bitget CEO Gracy Chen argued that Binance’s recent settlement with US authorities is an opportunity for competitor exchanges in Brazil and around the world. (Exame)
+Liqi will sunset its cryptocurrency exchange and cease operations as a crypto broker. Customers with assets on the platform will have until January 11 to withdraw assets. The company will continue building its B2B business, with a focus on blockchain, tokenization and digital asset solutions. (Portal do Bitcoin)
+Crypto asset manager Hashdex believes that the US will see spot bitcoin ETFs by the second quarter of 2024, with a bitcoin ETF first and then an ETF to follow shortly thereafter. (CoinTelegraph Brasil)
+Bank Cainvest will offer crypto trading, settlement and custody services to investment funds, becoming the first banking institution in the country to offer such services. (Valor) (Portal do Bitcoin) (CoinTelegraph Brasil)
+Crypto platform Patex announced the launch of its products for the Brazil market, including Patex Network, Patex Exchange, Patex Wallet and Patex Explorer. (Portal do Bitcoin)
+Portal do Bitcoin is reporting that Kucoin users in Brazil are experiencing delays in processing operations and withdrawals, apparently related to a new compliance policy adopted by Capitual. Diego Santos, Kucoin community manager for Brazil explained that Capitual and Banco S2 created a new policy to comply with new Central Bank anti-money laundering rules:
+
+“Some users who moved more considerable amounts were flagged and some additional documentation was requested. For those who meet the requests and comply with the compliance requirements, the operation will be fully reestablished in both ways: both deposits and withdrawals in BRL.”
+
+Coinbase sees Brazil as a priority market in its international expansion efforts, managing director Fabio Tonetto Plein explained in an interview with Exame:
+
+"Brazil is a priority market for Coinbase. It is a country with a very high crypto adoption rate, always in the top 10 and with strong adoption. It is also an economy with a history of fluctuation, inflationary cycles, and these are problems that Crypto helps to solve this."
+🪙 Drex
+
+Caixa Economica continues to study how it can use Drex to distribute Bolsa Familia and unemployment insurance benefits. (Valor)
+Santander Brasil carried out the first private transaction on the Drex testnet, using the Zether privacy tool to send funds to a Central Bank test account without the other 15 network participants being able to see the details of the transaction. (Valor) (Exame) (CoinTelegraph Brasil)
+Valor explored why Hyperledger Besu was chosen as the underlying platform for Drex
+Reconciling advances in digital asset technologies, the high transparency of blockchain networks and privacy requirements remains a critical point to be addressed in Drex development. Juliana Steil of Valor explored the three privacy solutions being tested in the Drex pilot: Starlight from Ernst & Young, Parfin’s Parchain and Anonymous Zether from Consensys.Speaking at another event last week, Campos Neto elaborated on some of the inherent privacy challenges the Drex project faces:
+
+“There is still a problem that we are trying to improve, which is that every DLT platform has a deficiency because it was designed to have total transparency for everyone. How do you have a platform designed to have total transparency and maintain privacy during negotiations? Today, the methods that exist to make the platform more private also make it slower.”
+
+Drex will not do away with Brazil’s notaries, or cartórios, but their roles will look significantly different
+Ricardo Bomfim of Valor analyzes why Brazil’s massive population size could put considerable strain on the Drex network, hence the need for scalable solutions
+Toni Sciarretta looked at how Drex will eventually integrate with Brazil’s B3 stock exchange
+Who are the key individuals driving the Drex project? Valor pulled back the curtain on the principal people involved
+
+📲 Adoption
+
+Several crypto service providers, including Bitgo are denying any relationship with JanBank, a fintech created by Pelé’s former wife and her children that advertises itself as a company focused on crypto trading and conversion into reals. (Valor) (Portal do bitcoin)
+The number of cryptocurrency investors in Brazil grew by 7 percent in the third quarter of 2023, per a study by market insights platform Toluna. (CoinTelegraph Brasil)
+Bank executives who work in cryptocurrency roles are among the best compensated in the country. (CoinTelegraph Brasil)
+New rules from ANBIMA that govern influencers who promote projects or investments, including cryptos, came into effect on November 13. The entity has been monitoring influencer activity since 2020, with 515 influencers speaking to an audience of 176 million followers by the end of 2023. 26 percent of their posts mentioned cryptocurrency in some form.The new rules increase disclosure requirements for paid promotion, and stipulate that the sponsoring institution is co-responsible for the content produced. Anbima’s Luiz Henrique Carvalho,PMP,MBA,CSM explained:
+
+“This does not mean that the influencer will not have the freedom to communicate with their audience as they have always done, but rather that the institution will also be responsible for the content contracted and published” (Portal do Bitcoin)
+
+Fundação Getulio Vargas revealed the winners of its Digital Currency Datathon, which saw 18 teams participate. (Portal do Bitcoin)
+The University of São Paulo launched the first university-hosted metaverse portal in Brazil. (CoinTelegraph Brasil)
+Instituto Fenasbac hosted a demo day for the third cohort of its Next Accelerator program, which pairs startups with larger corporate sponsors
+
+🏛 Policy, Regulation and Enforcement
+
+There are still many lingering questions surrounding new legislation that will expand tax treatment of overseas financial assets, particularly as it relates to cryptocurrencies. Ana Carolina Monguilod, a tax specialist at CSMV Advogados, told Valor Investe:
+
+“The Receita Federal will still have to tell us, through new regulations, what exactly characterizes virtual assets and digital wallets as financial applications abroad.”
+
+Floripa-based X Bank Capital is under investigation for operating a pyramid scheme that promised 20% monthly returns on cryptocurrency investments. The scheme allegedly impacted 5,000 investors, who collectively lost R$30 million (US$6 million). (InfoMoney)
+The CVM and ABcripto - Associação Brasileira de Criptoeconomia teamed up to release a cryptocurrency dictionary that helps standardize the language used across the industry in Brazil. (InfoMoney) (Portal do Bitcoin) (CoinTelegraph Brasil)
+An ex-Braiscompany employee will be extradited from Argentina to Brazil on charges that the suspect helped to embezzle at least R$4 million (US$800k) out of the pyramid scheme. The individual, who was not named, was arrested near Foz do Iguaçu. (Portal do Bitcoin)
+Federal Police launched an operation against a criminal group that smuggled corn, soybean and pesticides into Brazil from Argentina and used R$1.2 billion (US$250 million) worth of cryptocurrency for tax evasion purposes. (Portal do Bitcoin)
+The prison workers Union in Goiás is accusing a prison director of providing preferential treatment to crypto pyramid schemer Johannes Steynberg, a South African who ran a billion dollar scheme called Mirror Trading International. (Portal do Bitcoin)
+Rio de Janeiro authorities launched a crackdown on a gang that specialized in stealing cryptocurrencies from victims after drugging them, in a scam known as “Good night, Cinderella.” (CoinTelegraph Brasil)

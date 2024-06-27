@@ -1,0 +1,84 @@
+🇧🇷BCR #100: Pharaoh of Bitcoins speaks; Crypto Twitter revolts over Digital Real
+GAS Consultoria founder tells Congress he's innocent; maxis reject Digital Real's centralized components
+
+Olá pessoal!
+
+Greetings from Ilha de Marajó at the mouth of the Amazon River enjoying a nice getaway week. Definitely one of the most unique and novel places I’ve ever visited in Brazil or anywhere else for that matter. Would recommend checking it out if you ever have the opportunity.
+
+With that, welcome to 🇧🇷Brazil Crypto Report for the week of July 10-14, 2023
+
+Friendly reminder that this Linkedin edition is an abridged version of the full newsletter which I publish on Substack. Highly recommend subscribing there if you if you enjoy this content and want to stay abreast of the Brazil crypto ecosystem.
+
+-AWS
+
+Digital Real Revolt on Crypto Twitter
+
+News emerged late last week that the Digital Real pilot's underlying code will allow the Central Bank to disable token transfers; increase, decrease, burn and freeze balances in wallets, and make transfers to other other wallets.
+
+Obviously these are the types of features that make cypherpunks, privacy advocates and crypto libertarian types uneasy, and that sentiment raced through Twitter last week.
+
+The functionality was flagged by blockchain developer Pedro Magalhães, who looked through the code posted in the Digital Real GitHub repository. (The features were also announced during a June 26th technical Digital Real Forum meeting) The revelation then began to go viral among various clout farmers on Twitter → including this one from a 21 year-old YouTuber that got one million views.
+
+Bitcoiners and otheranti-CBDC voices on Twitter quickly jumped on the narrative - some out of genuine concern and others looking for an easy attack against opposing tribes, including this free shot against Ethereum creator Vitalik Buterin.
+
+Reformed bitcoiner Nic Carter chimed in with a dose of sarcasm
+
+To partially quell the uproar, Mercado Bitcoin’s Fabrício Tota argued out that the Digital Real “superpowers” are the exact same as those used currently by other stablecoins like Tether or USDC, and that a crucial feature of a digital currency like this is to uphold the integrity of the financial system.
+
+Unlike bitcoin, the Digital Real is a state-controlled, centralized currency and therefore will have certain centralized features.
+
+Another overlooked point here is that the Digital Real will be a wholesale CBDC that will be used to settle interbank transactions and not a currency that everyday citizens will be interacting with. However, it appears that the freezing functionality would also apply to Tokenized Reals that will be issued and distributed by financial institutions to their customers.
+
+For its part, the Central Bank responded saying that the Digital Real system must comply with existing laws that allow the freezing of financial assets once proper legal procedure (ie a court decision) has been followed:
+
+““According to Brazilian legislation, the courts, in the proper conduct of legal proceedings, have the prerogative to freeze or arrest amounts held in the (National Financial System). These functionalities, therefore, currently exist in the (National Financial System) and should be reproduced on the digital real platform in order to guarantee its compatibility with the legislation in force.”
+
+Importantly, the bank added that it plans to incorporate this functionality into the final version of the Digital Real, not just the pilot.
+
+(Valor) (InfoMoney) (Portal do Bitcoin) (Exame) (CoinTelegraph Brasil)
+
+Congressional inquiry into crypto pyramids kicks into high gear
+
+(Before I dive in here, I’d like to distinguish the two types of individuals being called to testify in from of the CPI committee. I tried explaining this in last week’s edition but didn’t do so as clearly as I could have, per feedback I received from several of you.
+
+So the upshot here is that not everyone being called to testify is a pyramid schemer. The CPI is “summoning” numerous witnesses who are directly or indirectly involved in Brazilian cryptocurrency pyramids, or are suspected of engaging in some sort of shady behavior. The committee is also “inviting” numerous subject matter expert witnesses to help the committee better understand this new industry and technology. Most people who are being called to testify fall into the latter camp. Apologies for any confusion around this)
+
+“Pharaoh of Bitcoins” Glaidson Acácio dos Santos, alleged mastermind of the GAS Consultoria pyramid, teleconferenced in from the Catanduva prison in Paraná and denied any wrongdoing to the committee despite being labelled by Deputies as a type of “Bernie Madoff from Brazil”:
+
+“I'm not a pyramid, I wasn't a pyramid and I won't be a pyramid.”
+
+He stated that while his company invested customer funds in cryptocurrencies, the contracts he brokered with his customers did not allow for full redemptions due to “market risk”.
+
+Meanwhile, Glaidson insisted that GAS clients were paid regularly until company accounts were blocked by authorities - thus pinning the blame on Federal Police and stating that he’d be able to pay back his customers once the accounts are unfrozen:
+
+““People committed suicide. They stopped paying for medical treatments. All because of the PF stoppage that caused this disaster. It left several people in a vulnerable situation,
+“By unlocking what is on Binance and the other platforms, taking what was hijacked by the PF, GAS resumes its activities…Once I have access to the seized wallets, I will pay people.”
+
+Glaidson also denied any involvement in the murder of Wesley Pessano, operator of a competing Cabo Frio-based cryptocurrency pyramid, in August 2021. Authorities allege that Glaidson ordered the hit.
+
+Santos also stated that he spoke with the CVM several times during his time operating GAS and also noted that several CVM employees were, in fact, GAS clients themselves.
+
+“Sheik of Bitcoins” Francisley Valdevino da Silva was supposed to testify on July 13 obtained a Habeas Corpus ruling allowing him to remain silent for the time being
+Responses from football clubs in regards to their fan token programs have begun to roll in
+The CPI will reimburse travel expenses to Brasilia for summoned individuals
+The CPI invited executives and directors from BS2, Latam Gateway and Méliuz to testify in regards to their companies’ connections to Binance, Portal do Bitcoin reported, with the justification that Binance uses a:
+
+“measure to, roughly speaking, disguise the way it relates to companies incorporated here and, more worryingly, to individuals who buy and sell crypto assets on its platform”
+“Such a model prevents the effective monitoring of the Central Bank of Brazil and the Federal Revenue Service of Brazil, leading us to understand that there is no collection of taxes due, statement of movement of exchange operations, among other banking and financial actions.”
+
+Valor has an up to date list of individuals invited or summoned by the committee.
+
+(InfoMoney) (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+💪 Do you know somebody else who would enjoy 🇧🇷Brazil Crypto Report? Please feel free to share!
+
+Share via Whatsapp
+
+🎙New 🇧🇷BCR Podcast Episodes
+
+This week’s episode is a recording of a live panel I hosted at the Digital Finance Brazil/BlockchainSP event in June. This rock star panel included AB InBev Vice President Daniel Tartaro, Bitso Brasil CEO Thales Freitas and fintech expert Bruno Diniz. Have a listen via Substack or on Spotify, Apple Podcasts or Anchor.
+
+
+
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts

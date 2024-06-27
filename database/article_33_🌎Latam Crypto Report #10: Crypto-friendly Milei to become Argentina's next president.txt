@@ -1,0 +1,125 @@
+🌎Latam Crypto Report #10: Crypto-friendly Milei to become Argentina's next president
+Also: Credix raises $60 million, LABITCONF wraps up in Buenos Aires; Tether to invest US$500 million into mining bitcoin in Latam
+
+¡Hola a todos! 👋
+
+Welcome to the latest edition of the 🌎 Latam Crypto Report.
+
+We hope our U.S.-based readers are gearing up for a relaxing and fun Thanksgiving break. 🦃 In the meantime, we’re serving up some piping hot crypto news from all over the Latin America region for you to snack on.
+
+Big thanks to Kristin Majcher for authoring this report, which focuses on the Spanish-speaking countries of Latin America and serves as a sister product to 🇧🇷@Brazil Crypto Report
+
+Feel free to follow her on Twitter and LinkedIn and share any tips about news we should consider.
+
+This week we’ll dive into the surprising news that the crypto-friendly, libertarian economist Javier Milei won Argentina’s presidential elections, funding news from Credix and highlights from the 11th edition of the LABITCONF conference.
+
+Then, we’ll review our usual rundown of news items by country.
+
+As always, thanks for reading. If you found this content to be helpful, please tell your friends and be sure to subscribe on Substack
+
+Crypto-friendly, libertarian Javier Milei to become Argentina’s next president
+
+The crypto community is downright fascinated with Argentina’s incoming right-wing president Javier Milei, who surprised the country last weekend when he won a runoff election against Economy Minister Sergio Massa.
+
+While Milei has expressed enthusiasm for crypto and radical ideas such as dollarizing the economy and eliminating the country’s central bank, it’s important to remember that we’re still waiting to see how these plans might unfold after he takes office on December 10. Furthermore, Milei has not shared any plans to make bitcoin legal tender.
+
+While it’s tempting to compare Milei and El Salvador’s President Nayib Bukele because they both support bitcoin, one must remember that Argentina and tiny El Salvador are different countries. While Bukele was able to quickly push through reforms like making bitcoin legal tender in El Salvador in September 2021, Reuters points out that Milei’s coalition La Libertad Avanza has limited seats in Congress and would need to solidify key alliances before pushing through his reforms.
+
+What we know for sure is that all eyes will be on Milei to see if he can tamp down inflation, which is running at 143% according to Reuters. Argentines are also keeping a close watch on the Argentine peso-U.S. dollar exchange rate, the Associated Press reported.
+
+It’s also worth noting that an array of local news outlets including Clarín, Perfíl and Ámbito reported last year that Milei was sued for allegedly promoting a Ponzi scheme after he posted about CoinX on Instagram. English-speaking outlets including Decrypt and Protos also picked up the news.
+
+Regardless of the challenges facing Milei, crypto-focused outlets have provided no shortage of takes in the past few days about how the industry is receiving the news and what his presidential tenure could mean for digital assets.
+
+For example, Decrypt pointed out that while high-profile crypto figures are supporting Milei for his economic policies, the incoming president has also made controversial remarks regarding human rights.
+The price of Bitcoin rose on the news of Milei’s win, up nearly 3% past $37,000 after the news. (CoinDesk, The Block, Fortune, Clarín)
+A conversation is playing out about whether Milei’s victory might spur increased crypto adoption in the region. (City A.M., The Block, Forbes)
+The usually bullish Bitcoin Magazine discussed why the dollarization of Argentina’s economy would be one of the most anti-bitcoin measures Milei could enact.
+Noelle Acheson argued in a CoinDesk op-ed that bitcoiners cheering on Milei’s election are “getting it all wrong.”
+
+Credix secures $60 million credit facility for Latam expansion
+
+The Solana-based decentralized credit marketplace Credix has raised $60 million to expand its focus on providing loans to farmers and small and medium-sized enterprises in Latin America, the company announced on November 14.
+
+Credix said it had secured a “$60 million credit facility from a leading, $3 billion alternative asset manager.”
+Credix added that the funding “aims to bring the firm’s assets under management to over $100 million.”
+
+“Credix’s cutting-edge technology platform is now facilitating access to credit opportunities across Latin America for this multi-billion dollar credit fund,” Credix CEO Thomas Bohner stated. “This strategic collaboration empowers Credix to not only expand its operational footprint but also contribute to generating risk-adjusted returns while fostering a positive social impact.”
+
+Check out Aaron’s recent interview with CEO Thomas Bohner to learn more about Credix’s plans.
+
+(Benzinga, LatamList, LinkedIn)
+
+LABITCONF wraps up 11th edition in Buenos Aires
+
+The 11th edition of the LABITCONF conference in Buenos Aires brought together crypto experts from around the region on November 10 and 11.
+
+Technology, regulation, transparency and security were some main themes at this year’s conference, Ámbito reported, with economists, developers and entrepreneurs joining crypto experts. The local news outlet chatted with several attendees, including executives from blockchain-based streaming service Flixxo, Ripio Select and BingX.
+Criptala co-founder Juan Becerra told Cointelegraph that regulatory stability “emerges as a fundamental pillar in the panorama of the crypto industry” and “plays a crucial role in formulating action plans and strategies for the future.”
+OKX President Hong Fang highlighted security as a main priority for the Web3 company during a speech at the event. The crypto exchange also hopes to physically expand into Argentina, El Cronista reported.
+One of the most widely-covered talks at LABITCONF was a panel featuring Argentine economic experts Diana Mondino, Alfredo Roisenzvit, Agustín Etchebarne and Fausto Spotorno, Infobae reported.
+
+🗞Latin America Crypto News Rundown
+
+Here’s where we break down Latin America crypto headlines from the past few weeks, organized by country and region. If you don’t see a country listed, it’s simply due to the news flow during a particular week.
+
+Regional News
+
+Tether plans to invest about $500 million in bitcoin mining-related projects over the next six months, soon-to-be CEO Paolo Ardoino told Bloomberg. It is building mining sites in Uruguay, Paraguay and El Salvador with a capacity of between 40 and 70 megawatts each, Ardoino said in the interview. (Bloomberg)
+BeInCrypto examined the challenges Latin America-based crypto and Web3 startups face, especially considering that startup funding in the region is down 83% this year compared with 2022. (BeInCrypto)
+Tax and consulting firm RSM Global examines stablecoins in Latin America, highlighting their appeal for businesses and risks. (RSM Global).
+Bakkt and stock trading platform Hapi are expanding their crypto trading offerings in Mexico and Argentina, with a Brazil launch planned later this year. (Yahoo! Finance, Bakkt)
+Karen Duque, Bitso’s public policy lead for Colombia and Brazil, announced she moved on from her post at the company. (LinkedIn)
+Fintech startup BeeTransfer (EPA22) formed a strategic partnership with Bitso to expand in Latin America, focusing on providing services to freelancers and digital nomads. (Contxto)
+
+South America
+🇦🇷 Argentina
+
+Crypto asset manager Grayscale Investments wrote in a recent analysis that “the election of Javier Milei as Argentina's president marks a pivotal moment for Bitcoin in the country.” (Grayscale, BeInCrypto)
+Nonprofit ONG Bitcoin Argentina is optimistic about Milei, but says it won’t give his administration a “blank check.” (A24, BeInCrypto)
+ONG Bitcoin Argentina proposed a legal framework for bitcoin during LABITCONF. (CriptoNoticias, Cointelegraph)
+Criptonoticias summarizes what Milei has said so far about crypto. (Criptonoticias)
+Peter McCormack, host of the What Bitcoin Did podcast, released a documentary film exploring Argentina’s inflation crisis and cryptocurrency adoption.
+
+🇨🇴 Colombia
+
+Details emerged about how Colombia’s national prosecutor’s office caught six people who defrauded more than 120,000 investors for more than 130 billion COP (about $32 million) by promoting a supposed cryptocurrency called Daily Cop. Several influencers shared information about the scam on social media. (El Tiempo, Infobae, SoyHodlr, El Colombiano)
+
+Colombia’s proposed regulatory framework for crypto assets is advancing, with Finance Minister Ricardo Bonilla highlighting some recent progress on the initiative. (Soy Hodler)
+Colombia is also working to implement a digital peso, Bonilla said in late October. (Soy Hodler)
+Medellín is home to the country’s first NFT nightclub, with people who previously purchased NFTs from a collection getting special benefits. (BeInCrypto)
+
+🇵🇾Paraguay
+
+Sazmining opened its 100% renewable energy facility in Paraguay in late October. The company earns a 15% commission for operating customers’ Bitcoin mining rigs, Decrypt reported. The hydroelectric Itaipu Dam on the Paraguay-Brazil border is powering the operation. (Decrypt, Portal do Bitcoin)
+A few weeks later, MARA announced that it is also planning to put a 27-megawatt Bitcoin mining facility in Paraguay, which will also be powered by the dam. The U.S. company is partnering with Penguin Infrastructure Holding on the project. (Marathon Digital Holdings, Hydro Review, Blockworks)
+
+🇵🇪Peru
+
+Peru passed a regulation prohibiting Bitcoin and other cryptocurrencies from being used to pay for remote games and sports betting. (BeInCrypto, CriptoNoticias)
+
+🇺🇾Uruguay
+
+Spanish company Prosegur and Minos Global will provide crypto custody, buying and selling services in Uruguay for customers of fintech Midinero. (Yahoo! Finance, Expansión)
+
+🇻🇪 Venezuela
+
+BeInCrypto examines the factors leading up to the decline of Venezuela’s much-hyped Petro cryptocurrency. (BeInCrypto)
+
+Central America & Mexico
+🇸🇻 El Salvador
+
+El Salvador’s portfolio is running losses of about $16 million based on what we know about the country’s purchases and current bitcoin prices (CoinDesk, InfoMoney)
+Athena and Genesis Coin are enabling Athena-branded bitcoin ATMs in Latin America and El Salvador’s Chivo ATMs with the Lightning Network. It plans to have 100 of these ATMs operational with Lightning by the end of the year. (Athena Bitcoin, Cointelegraph, Decrypt)
+According to El Salvador’s Vice President Felix Ulloa, bitcoin has helped the country’s “rebirth.” (Forbes, Livecoins, Exame)
+
+🇨🇷Costa Rica
+
+Costa Rica recently held an event called Blockchain Jungle 2023, which featured speakers including Nick Szabo and JAN3’s Samson Mow. (Cripto Tendencia, La Nación Costa Rica)
+
+🇲🇽 Mexico
+
+etherfuse is making its “Stablebond” tokenized bond offering available to retail investors in Mexico, the second-largest bond market in Latin America. It made the announcement at the Solana Breakpoint Conference in Amsterdam. (CoinDesk)
+Bitso has named Felipe Vallejo Dabdoub as the new head of its Mexico operation starting in January. Daniel Vogel will continue as CEO of Bitso globally. (Forbes Mexico, El Economista, Expansión)
+
+

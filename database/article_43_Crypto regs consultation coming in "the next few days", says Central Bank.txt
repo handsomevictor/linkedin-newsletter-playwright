@@ -1,0 +1,156 @@
+Crypto regs consultation coming in "the next few days", says Central Bank
+Plus: CPI summons bank records of Brazil's largest exchanges; record 4.1 million Brazilians traded crypto in July
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of September 25-29, 2023!
+
+It was great catching up with many of you in São Paulo last week at several events and conferences around town. I remain impressed by the extent to which the narrative in Brazil is much more positive right now than in the US and in other “western” countries. I believe there is something really special brewing here, and this is what inspires me to keep creating content exploring this market. 
+
+As always, thanks for reading and have a great week!
+
+-AWS
+
+👊 Friendly reminder that if you enjoy this content, please consider subscribing on Substack and following 🇧🇷Brazil Crypto Report across the web. It’s a free and easy way to support my work! Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+For this week’s podcast episode I talked to Taynaah Reis onsite at the Blockchain Rio event earlier this month. Taynaah first learned to code at 12 years old and started her own company at 16, and she’s been an entrepreneur and builder in the blockchain world since 2017. 
+
+I also had the opportunity to join Felipe Cabral of the Let’s Crypto podcast to record a crossover interview with Rodrigoh Henriques, director of innovation at Fenasbac. This interview is in Portuguese, so apologies to my English-only readers (and thanks to everyone for tolerating my gringo Portuguese). I promise to track down Rodrigoh soon for a proper chat in English.
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+💔 CPI votes to break bank secrecy, summon bank records for Brazilian crypto exchanges
+
+The special congressional committee investigating financial pyramids moved to break bank and tax secrecy protections for the major crypto exchanges operating in the country. 
+
+The impacted exchanges are Mercado Bitcoin, Grupo Foxbit, NovaDAX, Ripio , Bitso Brasil, Bitcoin Trade, BitcoinToYou, Coinext and Digitra.com . 
+
+Records for Binance Holding UY S.A, Binance Capital Management CO, Binance Capital Management CO and Wellington Participações LTDA will also be unsealed. Earlier this month, the committee broke bank secrecy for Binance and B Fintech, Binance’s local operating company. 
+
+The justification for the summons is that obtaining these records will provide visibility into the flow of funds, particularly in cases where investor funds went missing. Deputy Ricardo Silva, author of the request, explained:
+
+“The breach of confidentiality required here will greatly contribute to the work of this technical body, as it will make it possible to recognize the path taken by investors' money”
+
+The CPI also summoned records for LTW Consult, Interag Consultoria, Rental Coins, Holy Spirit Invest, FMS Eventos, Forces Produções e Eventos, Grow Up Club, E-Dinheiro Brasil, One World Services (OWS) and ex-footballer Ronaldinho Gaucho. 
+
+Valor Valor InfoMoney Portal do Bitcoin Exame
+
+📈 Record 4.1 million Brazilians reported crypto trades in July
+
+A record 4.1 million CPFs (unique individuals) reported crypto trades during July, according to new data from the Receita Federal do Brasil. The figure is the highest since data began being tracked in August 2019. Similarly, a record 92,000 CNPJs (unique businesses) reported trades during the month. 
+
+Additionally, R$18.8 billion (US$3.75 million) of trading volume was reported during the month, while the figure for June was revised up to R$21.3 billion (US$4.3 billion) from R$18.6 billion (US$3.7 billion). 
+
+R$15.4 billion (US$3.1 billion) of July’s trading volume - roughly 82% - involved the Tether (USDT) stablecoin, with 232,000 operations reported with an average value of R$66,000 (US$13,200). Competing stablecoin USDC moved R$840 million (US$168 million). 
+
+Bitcoin, the largest cryptocurrency, moved R$737 million (US$147 million) in volume during the month.
+
+Valor InfoMoney Exame CoinTelegraph Brasil 
+
+Bacen to release crypto regulation consultation “in the next few days”
+
+Joao Andre Pereira, head of the financial system regulation department at the Banco Central do Brasil, said that the first public consultation on crypto regulation will be published “in the next few days” at the Fintouch 2023 event, hosted by ABFintechs, last week.
+
+“We still have great difficulty even conceptualizing when we enter this world. This is not trivial. ‘Stablecoins’, for example, have different definitions…This should come out now, within this quarter, in the next few days, let’s put it that way.”
+
+The first consultation will deal with defining activities of virtual asset service providers with the objective of obtaining feedback from the market. A second consultation, expected to come out toward the end of the year, will include a draft regulation. 
+
+“Some points we will try to discuss legislatively, such as property segregation, for example. Crypto ‘as a service’ is another thing we have to look at.”
+
+At a separate event hosted by ABcripto - Associação Brasileira de Criptoeconomia, Nagel Paulino from the bank’s regulation department offered several teasers about what would be in the proposed regulations. 
+
+He stated that the regulation will be implemented in stages, with the first stage being one of defining the types of VASPs that will be allowed to operate and the respective sets of rules they must follow. These will include rules related to preventing money laundering and terrorist financing; minimizing risks of hacking, theft and fraud; and Know Your Customer and Know Your Transaction programs. 
+
+Other requirements will include audit, governance and compliance for regulated agents operating in the market segment: 
+
+“Request for cyber security, competitive and business practices, problem-solving mechanisms and, finally, the banking system’s relationship registry for judicial purposes.”
+
+He also emphasized that the main purpose of the initial consultation is to get generate feedback from stakeholders and market participants. He told Portal do Bitcoin: 
+
+“Our intention was to bring a normative act to be discussed with the general public. But for international regulation, or some doubts regarding local regulation, we decided to carry out a public consultation first, with more on concepts and suggestions.”
+
+Paulino also highlighted that the Bank had carried out a mapping and study of crypto regulations around the world, and that there has been a particular focus on the MiCa framework being implemented in Europe. 
+
+Additionally, Central Bank president Roberto Campos Neto signaled that the institution will look to “tighten” crypto regulations in the country, with a particular focus on the growing use of stablecoins. During testimony before the committee on Finance and Taxation in the Chamber of Deputies, he stated: 
+
+"We understand that there are a lot of things, let's say, that are linked to tax evasion, or that are linked to illicit activities that are taking place in this world of cryptocurrencies…we are trying to tighten regulation, making brokers start to be inspected by the Central Bank."
+
+Valor Valor Investe InfoMoney BlockNews Exame
+
+Transfero installs Marlyson Silva as CEO 
+
+BRZ stablecoin issuer Transfero Group swapped chief executives, with co-founder Márlyson Silva replacing Thiago Cesar. The change comes shortly after the company obtained its payments institution license from the Central Bank. 
+
+One of the reasons cited for the move is the company’s growing involvement in the Brazil market. With Cesar living in Europe, the time zone and geographic differences proved difficult. 
+
+“Managing teams remotely is very difficult. With Central Bank regulation, we began to participate in the Brazilian framework, so it would make sense to pass the baton”
+
+Silva founded crypto payment gateway Bit.One in 2015. The company was acquired by Transfero two years later, where he assumed the role of co-founder and chief strategy officer. 
+
+Cesar confirmed to Portal do Bitcoin that he had stepped down from the CEO role and left the company entirely:
+
+“I stepped down from the CEO position and will no longer be with Transfero…I'm living in Europe and have other personal life plans (family, etc.). I decided to pass the baton to Marlyson Silva, who was also a founding partner and lives in Brazil”.
+
+Valor 
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Imports of crypto assets into the country set a new record in August with US$1.32 billion in inflows - ie transactions between buyers in Brazil and sellers abroad. It’s the highest figure recorded since the Central Bank began tracking the dataset in 2016. The figure is up 17.4 percent month over month. Crypto imports during the January to August totaled US$7.4 billion, up 44% compared to the prior year period and roughly equalling the total amount registered in 2022. (Valor) (Portal do Bitcoin) (Exame)
+Asset tokenizer Liqi Digital Assets raised R$13 million (US$2.6 million) in an investment round led by Galapagos Capital. Kinea Ventures, Itaú and Honey Island also participated in the round. The company will deploy the capital to reach its goal of tokenizing R$250 million (US$50 million) in assets by the end of this year. It has to date issued R$90 million (US$18 million) worth of assets. Liqi raised R$27.5 million (US$5.5 million) in a funding round in early 2022. Galapagos Capital partner Thomas Resende Averbuck said in a statement:
+
+“We believe that with the most recent initiatives from the CVM and the Central Bank, the time is ideal to invest in digital assets and decentralized finance, in order to build a more dynamic and efficient capital market.” (Valor)
+
+Liqi and Mercado Bitcoin combined to issue R$25 million (US$4.96 million) worth of real world asset tokens in August. (CoinTelegraph Brasil)
+Nubank listed Bitcoin Cash, Solana and Aave tokens on its platform. (Livecoins)
+Vórtx QR Tokenizadora issued a tokenized multimarket fund within the CVM’s regulatory sandbox in partnership with asset manager AGBI. R$30 million (US$6 million) worth of shares, tokenized on the Hathor blockchain, will be sold to accredited investors - with a minimum investment of R$1m. The fund invests in degraded agricultural land, recovers the property and then re-sells once it is suitable for planting. Shares of the fund will be tradable on a secondary market within the Vortx platform. (Valor) (CoinTelegraph Brasil)
+Bloxs will launch tokenized Real Estate Receivables Certificates and Agribusiness Receivables Certificates in the coming weeks. The bonds will be worth R$1.5 million to R$3 million and distributed to retail investors. (Valor)
+Grupo Blue, creator of the Tokeniza platform, launched a tokenized real estate venture. For its first asset, it is tokenizing 20 percent of a mansion in Brasilia with expected revenue of R$2.2 million to R$2.3 million. (Valor)
+Brazilian crypto funds saw outflows of R$2 million during the week of Sept 18-23, according to data from CoinShares. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Foxbit announced the listing of the new Paypal stablecoin PYUSD. (BeinCrypto)
+
+🪙 Drex (formerly Digital Real)
+
+Central Bank president Roberto Campos Neto stated that the idea behind Drex is to reduce the costs of intermediating both financial and non-financial assets. The efficiencies will come from the fact that the currency will automatically generate legally valid contracts for essentially zero cost. The remarks came at an event hosted by 1618 Investimentos. (InfoMoney)
+The consortium made up of Elo, Caixa Economica and Microsoft executed the first successful purchase of a federal bond using the Drex network. The operation took place in the Central Bank’s testing environment. The consortium elaborated in a statement:
+
+"the exchange of assets was carried out instantly, known as Delivery Versus Payment, or DvP in English, made possible by blockchain technology. The transaction represents a record and was carried out in five seconds, an advance technological period in comparison with the standard period of up to two business days.” (Exame)
+
+Banking and payments infrastructure giant Núclea is preparing to offer a wide range of services related to asset tokenization and the Drex network. (BlockNews)
+Itaú Digital Assets lead José Augusto de A. Antunes Filho (Guto Antunes) sat down with Inteligėncia Financeira to discuss the bank’s role in the Drex project. 
+
+📱Adoption
+
+The Federal Data Processing Service (Serpro), an entity of the Ministry of Finance, announced the new version of the Federal Revenue Shared Registry that generates national identity cards via blockchain technology with the vendor b-Solutions. (Portal do Bitcoin) (CoinTelegraph Brasil)
+GAM3 Studio, a Brazilian game studio, announced the launch of Ordem e Porrada, a Web3 fighting game based on Brazilian culture. The project has the support of Moonbeam Network, the Polkadot parachain, and Brazilian Web3 no-code startup Sonica. (CoinTelegraph Brasil)
+A clip from an interview with Brazilian financial influencer Ricardo Amorim saying that he did not buy bitcoin in 2009 for fear of “feeling like a fool” has been circulating on social media, with many criticizing the claim as a “fisherman’s story”. (Portal do Bitcoin) (Exame)
+
+A fan purchased a jersey signed by Gremio forward Luis Suarez for R$6,000 worth of IMORTAL tokens, Gremio’s official fan token. (Exame)
+
+🏛 Policy, Regulation and Enforcement
+
+Chamber of Deputies president Arthur Lira extended the CPI committee on financial pyramids by two more weeks until October 11. (Livecoins)
+The CVM granted the first license to a crypto company to sell fixed income tokens under a crowdfunding platform registration. Bruno de Freitas Gomes, Superintendent of Securitization at the CVM, made the revelation to Portal do Bitcoin but did not disclose the name of the company.
+
+“There is now a movement for tokenizers to come and register as a platform, this is already happening. We already gave the first record in this case yesterday. I just can’t comment on the specific case.”
+
+Peer-to-peer crypto marketplaces and platforms that enable the trading of “utility tokens” must now follow the same rules as brokers, per new guidance released by the Receita Federal. This means that these entities, whether they be based in Brazil or abroad, will be required to report the purchase and sale activities of customers to the agency pursuant to Normative Instruction 1888. The new guidance states: 
+
+“A legal entity, even non-financial, that provides a digital platform on which its users can carry out transactions with utility tokens directly between them (peer to peer transactions), is classified as an exchange, remaining obliged to provide the Special Secretariat of the Receita Federal do Brasil, information on transactions with its own crypto assets and those of its users. The legal entity issuing utility tokens must provide information about this operation to the RFB.” (Portal do Bitcoin) (Valor) (BlockNews) (InfoMoney)
+
+Relatedly, the Receita Federal stated that market participants that offer services related to NFTs representing physical property, or mediate such transactions, do not need to report these activities to authorities. The new rule states: 
+
+“The legal entity that offers services related to operations with NFT, representing a particular property, is not obliged to provide information related to operations with such NFT, according to IN 1.888, due to the fact that it does not fit into the concept of cryptoactive provided for in said normative instruction.” (Portal do Bitcoin) (Valor) (CoinTelegraph Brasil)
+
+While the market waits for the Central Bank to release formal regulations for the crypto sector, companies like Mercado Bitcoin and Transfero are already implementing changes in line with recommendations issued by international organizations. Attorney Nicole Dyskant explained to Valor: 
+
+“The BC is looking at the rules of the FSB [Financial Stability Board], the IMF and other bodies. It's not premature to think about this now. Controls are here to stay and being regulated in this area has advantages such as attracting more investment and more customer confidence.” 
+
+ABCripto launched a Compliance Certification Program, allowing companies to earn a “seal” proving adherence to best regulatory and compliance best practices. (Valor) (Portal do Bitcoin) (CoinTelegraph Brasil)
+Federal Police executed two search and seizure warrants in a new operation against Braiscompany partners. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Police in São Paulo and Santa Catarina carried out seven search and seizure warrants against a bitcoin mining scheme accused of stealing R$341,000 from an investor. (Portal do Bitcoin) (Livecoins)
+Pablo Renato Rodriguez, a Brazilian co-creator of Airbit Club, was sentenced to 12 years in prison in the US. Airbit was a multi-million dollar cryptocurrency pyramid that collapsed in 2020. (Portal do Bitcoin)
+Brazilian influencer Diego Aguiar trolled the CPI on social media after having his bank secrecy broken by the committee. “I’m happy to see the deputies working”, he said. (Portal do Bitcoin)
+Federal Highway Police arrested three individuals in Para involved in various pyramids and bitcoin scams. (Portal do Bitcoin) (Livecoins)
+
+

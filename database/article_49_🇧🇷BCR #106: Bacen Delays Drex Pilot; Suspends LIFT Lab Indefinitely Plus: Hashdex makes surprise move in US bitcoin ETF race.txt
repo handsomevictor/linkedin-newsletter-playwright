@@ -1,0 +1,182 @@
+🇧🇷BCR #106: Bacen Delays Drex Pilot; Suspends LIFT Lab Indefinitely Plus: Hashdex makes surprise move in US bitcoin ETF race
+Plus: Hashdex makes surprise move in US bitcoin ETF race
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for August 21-25, 2023.
+
+Before we start to highlight that Antonio and I recorded an experimental week in review podcast for this last week. The idea is to talk through and analyze the 4-5 biggest Brazil-related crypto stories of the week. Would love to hear your feedback if you enjoy this format.
+
+🎧 You can also listen on the Brazil Crypto Report podcast feed, which can be found on Spotify | Apple Podcasts | Amazon | Anchor
+
+🔥 Friendly reminder to please consider subscribing on the Substack version 🇧🇷Brazil Crypto Report for more content like this. 
+
+There is a TON of news this week so let’s dive right in.
+
+-AWS
+
+🎧 For this week’s podcast interview I talk to Bruno Ramos de Sousa, head of US and Europe at Brazilian crypto asset manager Hashdex, to get a dose of realism on the US bitcoin ETF landscape.
+
+Bruno argues that the short-term hype we’re seeing regarding Blackrock and Grayscale is unwarranted and that analysts on crypto Twitter have gotten over their skies in search of a positive narrative. Worth a listen and a like/subscribe!
+
+After recording this episode, we got a Friday afternoon news drop that Hashex filed for the first ever mixed spot bitcoin and bitcoin futures ETF - named $DEFI.
+
+Several ETF analysts on X/Twitter, including ETF Store president Nate Geraci, were quite intrigued by the filing and reckoned that it might assuage the SEC’s concerns about the underlying bitcoin market still being too heavily manipulated to approve a straight spot bitcoin ETF.
+
+Could a Brazilian crypto asset manager sneak ahead of Blackrock and the other asset management giants in the US bitcoin ETF race? That would be a pretty wild turn of events…
+
+Central Bank suspends LIFT Lab indefinitely; announces delay in 1st phase of Drex pilot
+
+The Brazilian Central Bank announced nine finalists for the 2023 LIFT Lab cohort, a joint accelerator initiative of the bank and Fenasbac, started in 2018, that aims to stimulate technological innovation in the financial system. The program saw a record 95 projects apply earlier this year.
+
+Aristides Cavalcante, deputy head of the Department of Information Technology at the bank, said of the finalists:
+
+“The selected projects deal with relevant themes of the Central Bank’s innovation agenda such as blockchain, tokenization assets, crypto assets, Pix, socio-environmental responsibility and innovations to improve Know-Your-Customer and Money Laundering Prevention processes”.
+
+✋ However, the bank also suspended the next phase of LIFT Lab due to resource constraints. This is a symptom of a broader staffing problem that the bank has faced in recent years. The National Union of Central Bank Employees (Sinal) had previously said that the LIFT program would be impacted without the addition of new staffing resources; now, it’s been suspended completely.
+
+In a statement, the bank said that the road ahead for the selected projects will be communicated “in due course":
+
+“due to operational and human resource limitations, the current Lift Lab is suspended indefinitely”.
+MidJourney Prompt: an official at the Brazilian central bank stands in front of a group of his innovation lab participants and tells them that they need to go home
+
+⏰ In a similar vein, the Central Bank announced that Drex, the wholesale CBDC project formerly known as Digital Real, will not complete its pilot until May 2024 - potentially pushing its launch into 2025.
+
+The delay was attributed to data protection complications, the aforementioned staffing issues and difficulties getting participants onto the network. The initial goal had been to get all 16 consortia running nodes by the end of August, but as of press time only eight had been onboarded.
+
+Pointing to the privacy preservation challenges, Fabio Araujo, coordinator of the project at the bank, said during a live webinar on YouTube:
+
+“We are having some problems, the schedule is running a little slower than we had planned to get people into the network.”
+
+The original schedule forecasted the last stage of testing to wrap up in February 2024. Despite the delay, market participants such as Banco Inter’s Bruno Grossi are bullish on the project - arguing that it could be the biggest overhaul of the Brazilian financial system since the 1990s.
+
+(Portal do Bitcoin) (Valor) (BlockNews) (InfoMoney) (Exame)
+
+Binance launches Binance Pay, shuts down debit card product in Brazil
+
+The Binance Pay application allows Binance customers to make payments in more than 70 different cryptocurrencies at online and physical retailers straight from their digital wallets.
+
+Merchants and suppliers receive payment at a cost of 1 percent, significantly lower than fees charged by credit card companies, and can opt to receive the value in the form of cryptocurrency or converted into BRL.
+
+Guilherme Nazar, director general of Binance Brasil, said in a statement:
+
+“We expect Binance Pay to be especially relevant for businesses in Brazil, as the country has seen one of the highest rates of increase in cryptocurrency adoption. By accepting cryptocurrencies as a payment method, they will broaden the range of potential new consumers.”
+
+Binance Pay kicks off its Brazil operation with partners like WorldPress and Weo Games. Users will also be able to recharge prepaid mobile phones through Binance Pay using the exchange’s app.
+
+Binance also announced that it will sunset its crypto debit card product in Brazil, which it launched in partnership with Mastercard last fall. The product will officially be deprecated September 21. The exchange emphasized that only one percent of its customers will be impacted.
+
+Binance did not give an immediate reason for the decision to wind down the product, but that became clear when both Mastercard and Visa publicly distanced themselves from their card partnerships with the exchange. Bloomberg reported that Visa ended its partnerships with Binance in July, and Mastercard will officially shutter the relationship in September.
+
+(Valor) (Portal do Bitcoin) (Bloomberg) (CoinTelegraph Brasil) (InfoMoney)
+
+Lula pushes de-dollarization at BRICS Summit
+
+Not directly crypto related, but as the gradual decline of the dollar has been one of the dominant recurring narratives for bitcoin over the years, its worth highlighting some of the main takeaways from the BRICS Summit held last week in South Africa.
+
+Front and center was the need to increase direct trade between member countries using their own currencies and potentially a single currency to be used by bloc members.
+
+Brazil’s president Lula argued that a single reference unit is necessary to accelerate de-dollarazation:
+
+“I have defended the idea of adopting a reference unit of account for trade, which will not replace our national currencies.”
+
+Remember that one of Lula’s first moves upon assuming the presidency in January was to propose a shared digital currency between Brazil and Argentina.
+
+With Argentina, Egypt, Ethiopia, Iran, UAE and Saudia Arabia now formally invited to join the BRICS club, a successfully implemented shared currency for the bloc will have much more reach and potency.
+
+As a counterpoint, geopolitics expert Peter Zeihan argued that the move to include these six new countries is a total nothing burger and “indicates that BRICS has no plans of doing anything useful in the future”.
+
+What does this all mean for bitcoin? I have no idea, but this all will certainly elevate conversations around the role of bitcoin and crypto in a world where USD is no longer king. But, the dollar index actually moved up following these anti-dollar hegemony comments, so it’s hard to buy in too much into this narrative at the moment.
+
+(Bloomberg Linea)
+
+Ronaldinho MIA + more CPI updates
+
+Brazilian football legend turned cryptocurrency promoter Ronaldinho Gaucho no-showed for two scheduled appearances in front of the Parliamentary Inquiry Commission (CPI) on financial pyramids last week.
+
+Ronaldinho and his brother, Roberto de Assis, has been affiliated with several questionable crypto projects, including one called 18k Ronaldinho that promised returns of 2% per day and 400% per month. Both were granted habeas corpus by the Supremo Tribunal Federal, thus relieving them of their duty to testify before the committee.
+
+Roberto agreed to testify anyway, but only gave canned responses that had been dictated to him by his lawyer - prompting the ire of many deputies.
+
+The CPI will look to petition the courts to coerce Ronaldinho to testify. However, the legality of such a committee to force individuals to testify against their will is an open question.
+
+(Valor) (CoinTelegraph Brasil) (Portal do Bitcoin)
+
+Other CPI happenings from the week:
+
+The committee will investigate the owners 123Milhas, a popular travel agency that sells packages for miles or cash. The company recently canceled packages and flights, impacting thousands of Brazilians who bought travel packages for September to December of this year. CPI rapporteur Deputy Ricardo Silva said:
+
+“Based on the information available so far and the need to clarify the facts, it is imperative to break the bank and tax secrecy of the company 123 Milhas, as well as its partners and administrators, so that it is possible to analyze in detail the financial transactions carried out in recent months.” (Valor) (InfoMoney)
+
+Deputy Glauber Braga wants to summon Jair Renan Bolsonaro, son of the former president, to testify over a metaverse token he helped launch that promptly collapsed 80% in value. (Valor) (Portal do Bitcoin)
+The CPI voted to break the bank secrecy of celebrities Tata Werneck, Cauã Reymond and Marcelo Tas after they were granted habeas corpus, relieving them of their obligation to testify. Tatá’s attorneys wrote in response
+
+“Tatá acted only as a poster girl for Atlas, five years ago, at which time there was nothing that discredited that company."
+
+Businessman and influencer Patrick Abrahão denied any involvement in managing the Trust Investing pyramid, which promised 300% annual returns before collapsing. He said that he was simply an investor in and an affiliate marketer for the scheme. He said:
+
+“I never had any kind of management, it was the company that had the operations stalls. I'm not one of the partners and what they did with their money I don't know. I have an investor contract and I don't remember how much I invested in the company, I had between R$2 million and R$3 million. Of all charges I consider myself innocent.” (Valor) (Portal do Bitcoin)
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+BTG Pactual will now offer crypto custody services to institutional investors through a dedicated prime platform called Mynt Prime. The service will be aimed at investment funds, asset managers, family offices and other large clients seeking exposure to digital assets, using tools from Fireblocks. Andre Portilo, head of digital assets, said that the bank is plowing ahead with its crypto strategy despite the bear market. He argued that all financial institutions will be forced to look into crypto because of Drex:
+
+“We believe that, with the evolution of regulation and knowledge of technology, more funds will start to include crypto in their allocations and we will give more dynamism to the market.” (Portal do Bitcoin) (Valor) (Exame)
+
+Hedge funds in Brazil and elsewhere are ramping up interest in tokenized assets and cryptocurrencies, according to a new report by PwC. Caio Arantes, partner at PwC Brasil, said:
+
+“Although with great caution and low percentage, traditional hedge funds have increased their exposure to the sector.” (Valor)
+
+Bitybank will launch a new crypto debit card product in partnership with Mastercard. The card will let customers make payments using either crypto or reais. The card will carry no monthly or annual fee and holders can opt to receive cashback in crypto or BRL. Bitypreço Ney Pimenta said in a statement:
+
+“The card will allow new people to enter the cryptocurrency market with cashback, making it possible to accumulate bitcoins and other cryptocurrencies even when using the real as a payment method.” (Valor)
+
+Mercado Bitcoin will pay R$18 million to Santos Token de Vila token holders for the sale of Neymar to the Al-Hilal Saudi football club pursuant to the FIFA solidarity mechanism which allows the club that developed a player to receive a portion of his future earnings. (Portal do Bitcoin)
+Glauber Contessoto, aka SlumDoge Millionaire, revealed how he lost R$15 million (US$3 million) after betting big on dogecoin in early 2020. (Portal do Bitcoin)
+Ripio has enabled USDT and USDC transfers on the Algorand network as part of a new partnership with the layer 1 blockchain. (Portal do Bitcoin)
+Brazilian DeFi protocol Munchies Money is scheduled to launch Monday, August 28 with expectations of reaching R$250 million (US$50 million) in total volume in its first year. (CoinTelegraph Brasil)
+
+ DREX (formerly Digital Real)
+
+DREX will be able to reverse transactions that are identified as fraudulent as long as the money involved remains in digital form, providing an extra layer of consumer protection in the event of frauds or pyramids. Aristides Cavalcante, deputy head of the technology and information department at the Central Bank, said during a live webinar:
+
+“If that money is in digital format and with a court order, banks can reverse the transactions. The reversal can be done, even if the money goes through 10 or 15 accounts.” (Portal do Bitcoin) (Exame)
+
+The webinar, entitled “Drex: facts, fakes and all doubts about the digital currency”, sought to clarify misconceptions about the project. Several observers are opining that the name Drex has created confusion among the broader population. Marcos Bedendo, a professor at ESPM-SP, told Valor:
+
+“It needs, like Pix, to be well accepted by the population. And this is where the name can complicate this acceptance.
+
+The YouTube live sought to address various questions, misconceptions and “conspiracy theories” around the project, such as when it will be operative, whether Drex is the world currency, will it replace physical money, are transactions centralized and controlled by the government
+
+The Drex/Digital Real pilot is getting a good reviews thus far from participants. (Valor)
+Drex will allow money to “have a face”, argues Paxos’s Juliana Schlesinger Felippe in a Portal do Bitcoin op-ed
+
+📱Adoption
+
+The electricity cost for a solo miner to mine one bitcoin in Brazil is US$45,500, according to a new report from CoinGecko. The figure is average compared to other countries surveyed, but significantly higher than in neighboring countries like Paraguay and Argentina.
+
+The Cristo Redentor Music School held a pre-launch concert in the MetaMundi metaverse. (CoinTelegraph Brasil)
+"Brazil offers a useful model of positive public sector engagement [with the cryptocurrency market]” according to FTI Consulting’s new study examining the use of cryptocurrencies in Latin America. The report argues that cryptos need to move away from being an “alternative phenomenon” and gain more support within the public sector. (Exame)
+Brazil’s Ministry of Economy may soon use a blockchain system to track invoices across municipalities, companies and governments. (CoinTelegraph Brasil)
+14 percent of Brazilians invest in cryptocurrencies and 80 percent believe in blockchain, according to a survey carried out by PR firm Sherlock Communications. (CoinTelegraph Brasil) (Exame)
+The potential opportunity of a blockchain-based trade network between Brazil and Arab nations was the subject of a recent thesis from the University of São Paulo. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+ABCripto announced the arrival of tokenization firm Zuvia as a new member. The association has doubled its membership ranks in the last year as traditional finance firms like Itaú, Visa and Mastercard have joined the ranks. (Portal do Bitcoin)
+ABCripto also created a support program for asset tokenization firms looking to apply for a crowdfunding platform license from the CVM - Brazil’s securities regulator. The initiative is part of the cooperation agreement closed between the two groups in May. (Valor) (CoinTelegraph Brasil)
+Deputy Aureo Ribeiro, president of the CPI committee on financial pyramids, intends to introduce new legislation requiring crypto brokers to segregate assets and holding “influencers” who promote fraudulent schemes accountable. Ribeiro told Valor:
+
+“One of the points is that you cannot keep the asset in custody, lend it and leave it without guarantee. The other is a regulation for an influencer not to lead thousands of Brazilians to fall for these scams.”
+
+Ribeiro also reiterated that he will use the full powers of the CPI to investigate involved influencers and help recover money for investors who lost money.
+
+“We need to know if these influencers, artists and celebrities earned income for each person they convinced to join the scheme, or if they became partners in these companies. There are processes such as breach of tax and telematic secrecy, in addition to opening contracts with celebrities, which we can use to discover this information.”
+
+A court ordered Icoach Serviços Digitais Ltda, World Trade Provedor de Serviços Digitais Eireli and three other defendants to reimburse an investor R$60,000 worth of cryptocurrencies in relation to a crypto asset lease agreement. (Valor)
+Renato Dias de Brito Gomes, director of the Financial System and Resolution at the Brazil Central Bank met with tokenization specialists Daniel Coquieri of Liqi, and Thiago Mello, Bruno Mastellaro and Guto Antunes of Itaú’s crypto unit on August 23. (Portal do Bitcoin)
+A legislative proposal that would impose new taxes on Brazilians’ crypto assets held in overseas wallets appears to have lost its momentum. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Glaidson Acácio dos Santos, aka the “Pharaoh of Bitcoins”, will stand trial before the CVM - Brazil’s securities regulator, on Tuesday, August 29. (InfoMoney)

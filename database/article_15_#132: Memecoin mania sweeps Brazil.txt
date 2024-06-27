@@ -1,0 +1,144 @@
+#132: Memecoin mania sweeps Brazil
+Plus: Nubank slashes trading fees; BNDES joins Hyperledger Foundation
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+
+
+
+Welcome back to 🇧🇷 Brazil Crypto Report  for the week of March 18-22, 2024.
+
+I wanted to take a minute and say how much I appreciate you all for reading and supporting BCR. It’s been a fun and rewarding venture these past couple of years to work on this project every week.
+
+🔍What’s in this week’s BCR?
+
+Memecoin fever is sweeping Brazil, per an analysis by InfoMoney
+BNDES, Brazil’s national development bank, has joined the Hyperledger Foundation
+Nubank is slashing its crypto trading fees as it competes with other established exchanges and brokers
+Federal Police indict 23 individuals involved in the Titanium Asset pyramid operation
+
+Have a great week everyone!
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🎙New podcast!
+
+This week’s episode explores new guidance from the Receita Federal on cryptocurrencies held on offshore exchanges, wallets and custodians. There are a lot of important nuances to this rule change, so I invited attorney and crypto tax expert Thiago Barbosa Wanderley onto the show to discuss the implications for Brazilian investors.
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Nubank slashes crypto trading fees
+
+Nubank is modifying its fee schedules to better compete with larger players in the crypto brokerage world.
+
+The new rates will be calculated daily based on the customer’s buy/sell history over the prior 30 days and the amount of fees paid during that time. It previously charged 1.6% on all trades; that level will be reduced to as low as 0.8% depending on the individual’s transaction activity (the more activity, the lower the fees)
+
+Nubank Cripto director Thomaz Lysakowski Fortes, CGA® explained that the move comes in response to customer feedback.
+
+Valor
+
+FENASBAC NEXT Accelerator selects fourth cohort of startups
+
+Three startups — Trexx, Mullet and Investy Club — were selected to participate in the “DeFi Experience” challenge, of which Mercado Bitcoin is the lead sponsor. There were five other challenges related to data science, Open Finance, security and payments.
+
+Operated by FENASBAC, the Next program is one of the largest fintech accelerator programs operating in Brazil currently - designed to match startups with larger partners seeking solutions.
+
+Mullet is a spinoff of crypto-powered credit platform Rispar that seeks to enable the issuance of Bank Credit Certificates and the fiduciary assignment of digital assets.
+
+Rafael Isidoro, Mullet CEO, explained:
+
+“The partnership with Mercado Bitcoin is a significant milestone for Mullet. MB's experience and leadership in Brazil are unparalleled, and together we are defining the way in which traditional finance will converge with digital finance, promoting greater inclusion of Brazilians, in addition to opening new paths for economic growth.”
+
+Gaming startup Trexx proposed a project to that provide MB customers with easier access to airdops.
+
+Portal do Bitcoin
+
+Tokenization possibilities are endless, BC official declares
+
+Antonio Guimaraes, a consultant at the Banco Central do Brasil focused on developing the regulatory structure for crypto brokers in Brazil, explained why the bank is so bullish on tokenization:
+
+“Tokenization eliminates intermediaries, but that’s not what makes it so disruptive. It’s a paradigm shift.”
+
+The remarks came during an event held by Editora Globo and Oliveira Trust .
+
+Another bank official, Otávio Damaso, highlighted that real-world asset tokens and regulating bitcoin and cryptocurrency brokers are priorities for the institution in 2024
+
+Valor CoinTelegraph Brasil
+
+Federal Police indict 23 over Titanium Asset scheme
+
+23 individuals involved with Sbaraini Administradora de Capitais were indicted for laundering millions of reais through the crypto asset manager Titanium Asset.
+
+The indictment alleges that Sbaraini acted as an unauthorized financial institution, and accuses executives of crimes against the financial system and money laundering.
+
+Funds obtained illegally by Sbaraini were then put through the washing machine, the complaint asserts:
+
+“after going through layers of corporate interposition, through asset shielding, was integrated into the capital market through the funds established by them and the management company that manages them (Titanium Invest Gestão de Investimentos LTDA), as well as being integrated into the payment institution (MK Digital Bank) that operates in the payments market under the supervision of the Central Bank of Brazil”.
+
+Portal do Bitcoin
+
+BNDES joins Hyperledger Foundation 
+
+Brazil’s national development bank is now a member of Hyperledger Foundation, which supports a variety of open source enterprise grade blockchain technologies.
+
+BNDES was one of the first public institutions in Brazil to evaluate, test and implement blockchain projects. It launched its own proof of concept BNDES token in 2017, and in 2022 it partnered with the Federal Audit Court (TCU) to launch the Brazil Blockchain Network (RBB)
+
+Notably, the Central Bank has built its Drex pilot on Hyperledger Besu, an open-sourced Ethereum client designed for both public and permissioned use.
+
+The foundation also announced a Besu Financial Services Working Group, of which Brazil’s central bank is a member alongside Visa, Mastercard, DTCC and others.
+
+Daniela Barbosa , Executive Director of Hyperledger Foundation, explained:
+
+“The launch of a working group focused on financial services to accelerate the development of critical capabilities underscores the value of the Hyperledger Foundation's open, community-driven development.”
+
+CoinTelegraph Brasil
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Mercado Bitcoin listed RON, the native token for the Ronin network - one of the most popular blockchains for gaming. (Portal do Bitcoin)
+The emergence of blockchain-based secondary marketplaces for equities like BEE4 has created a surge in “listing consultants” looking to help SME businesses get listed. (Valor)
+To no one’s surprise, crypto funds are the top performing funds in Brazil so far this year. (CoinTelegraph Brasil)
+InfoMoney profiled the surge in memecoin trading among Brazilian investors, noting that on the day of publishing 8 of the 10 most popular coins in Brazil were memecoins. By March 25, several AI coins had snuck into the top rankings, per CoinGecko
+
+Liqi Digital Assets and Alfa Racing launched a receivable token representing a portion of a R$500,000 sponsorship of a stock car racing team. The token provides an annual return of 19.56%. Alfa Racing team manager William Lube explained:
+
+“I learned about tokenization through a friend and after understanding how it works, our team decided to tokenize this receivable as it is a faster and lower cost way than traditional banks.” (CoinTelegraph Brasil)
+
+Brazilian crypto funds saw R$118 million (US$23.5m) in inflows during the week of March 11-15 despite the overall price pullback. (CoinTelegraph Brasil)
+Crypto exchange BingX announced its entrance into the Brazil market with a Pix integration and rewards for the first 500 users who sign up. Chief Product Officer Vivian L. said in a statement:
+
+"We are excited to bring BingX's user-centric services to Brazil, marking the first step in our expansion journey across Latin America. By enabling seamless transactions with Reais through Pix, we are empowering users with greater accessibility and security across its cryptocurrency ventures.” (CoinTelegraph Brasil)
+
+Rio de Janeiro-based asset manager Fuse Capital participated in an US$11 million investment round for Mantra, an decentralized financial services ecosystem focused on RWAs based in Hong Kong. Its Fuse’s 16th investment in four years of operation. Founding partner Guilherme Hug explained:
+
+“Most traditional assets like real estate, stocks and debt will be tokenized. This way, they will be able to access a whole new decentralized financial market.” (Finsiders)
+📲 Adoption
+
+Coinbase has distributed more than R$7 million (US$1.4m) to 40,000 Brazilian users through the local version of its Earn program.
+A new report by Mastercard highlights the convergence of physical and digital money in Latin America’s remittance scenario. (CoinTelegraph Brasil)
+A new TV 3.0 standard being rolled out in Brazil could unite television, Drex, Web3 and programmable money. (CoinTelegraph Brasil)
+Lucas Nuzzi, Brazilian crypto analyst based in the US, announced the launch of PortexAI — a platform that uses AI and a collaborative social network to map out cryptocurrency ecosystems. He told CoinTelegraph Brasil
+
+"This interface will simplify the process for users to compose applications and bring their data on-chain, where crypto primitives can be combined in new and interesting ways to create innovative systems.”
+
+The Ibake Protocol team is looking to create the first decentralized BRL stablecoin as a community-first, fair launch inspired protocol. They are seeking interested collaborators.
+Bitybank has launched a campaign to help users find and claim airdrops. (Livecoins)
+Chainlink is running a free online bootcamp from April 1-12 with instruction in Portuguese. Content will focus on ERC20 tokens, Chainlink data feeds, Cross Chain tokens and Chainlink CCIP.
+Patex, a Latam-focused Layer2 blockchain, inked former Brazilian national team footballer Roberto Carlos as a brand partner. (CoinTelegraph Brasil)
+Ng.Cash has added MATIC, XRP and ADA tokens to its crypto investment offering. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+Valor published a handy guide on how to declare bitcoin and cryptos on an income tax declaration
+The CVM released an infographic describing how it views fixed-income tokens currently
+
+The National Council of the Public Ministry (CNMP) approved a new rule detailing how bitcoin and cryptocurrencies can be seized by authorities. (CoinTelegraph Brasil)
+The former president of an Italian football club was arrested in Santa Catarina for operating a crypto pyramid scheme in Brazil. Paul Mario Baccaglini Frank, a Brazilian-Italian, was arrested by Italian police after a warrant was issued by a criminal court in Itajai. He allegedly operated a pyramid in Balneario Comboriu that raised R$15 million (US$3m) from 120 victims. (Portal do Bitcoin)
+Brazil’s Ministry of Foreign Affairs hosted a bilateral meeting with the European Union in Brasilia to discuss digital economy and artificial intelligence regulations. (CoinTelegraph Brasil)
+
+

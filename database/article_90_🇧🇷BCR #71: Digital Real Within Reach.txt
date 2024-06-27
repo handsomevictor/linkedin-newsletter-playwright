@@ -1,0 +1,75 @@
+🇧🇷BCR #71: Digital Real Within Reach
+Plus: Crypto.com receives payments license from Central Bank; US authorities eye the "Sheik of Bitcoins"
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of December 12-16, 2022.
+
+It’s another big news week as we wind down the year. We have developments regarding Digital Real development, Crypto.com obtaining a payments license and of course our old friend the “Sheik of Bitcoins”.
+
+Have a great week everyone and thanks for reading!
+
+-AWS
+
+Banco Central Gives Digital Real a 2024 Launch Date
+
+The Central Bank of Brazil announced that its Digital Real launch for usage by the broader population could take place as early as 2024. BC president Roberto Campos Neto made the announcement during an event hosted by Poder360.
+
+"I think that this digitized, paid-in, integrated system, with inclusion, will help a lot in the development and inclusion of people in the financial world,
+
+Campos Neto highlighted that the Digital Real’s innovative deposit tokenization architecture has become a model that other central banks around the world are following:
+
+“When we said this for the first time, it was seen as something very different and very non-standard. In the end, we are flattered to think of a system that other central banks are now thinking too."
+“I think that if we manage to achieve this, Brazil will be on the frontier of innovation in terms of financial intermediation and most likely there will be a lot of people looking at what we did and following our example.”
+
+Tokenized deposit mechanism will transform bank deposits into tokens that essentially function as a stablecoin paired 1:1 to the Digital Real. These can then be used in various decentralized finance applications and blockchain protocols.
+
+Campos Neto also re-remphasized that the Digital Real is part of the BC’s broader agenda of digitization and decentralization of the economy, which includes pieces like Pix and Open Finance. He highlighted that a critical next step for the Digital Real will be integration into these other components. Per CoinTelegraph Brasil, he stated:
+
+“It is very important for it to be programmable so that you can add new functionalities, in PIX, in theory, you can put a smart contract on top of it.”
+
+The benefits of the Digital Real constructed in this fashion, Campos Neto argued, include lower costs, greater inclusion, more competition, lower barriers to entry, tokenization of financial assets and contracts, data monetization and risk management.
+
+"This is what we see in this digital economy in Brazil."
+
+Campos Neto also stated that International Monetary Fund representatives have approved the Digital Real model and noted that it seems the easiest to implement vis-a-vis others, per Reuters.
+
+Also, the transition from a Bolsonaro presidency to a Lula presidency should not have a significant impact on the BC’s Digital Real plans, Campos Neto assured, per Valor Investe:
+
+"The Central Bank has autonomy, I stay in office for another two years. Most of these projects are not from a president or a team, they belong to the institution. I took a very good legacy from my predecessor, Ilan [Goldfajn]. This was a vision adopted by BC staff and will continue, regardless of the government, who the president is and the term of office."
+Fireblocks Eyes Digital Real
+
+In other Digital Real news, crypto custody and infrastructure unicorn Fireblocks reckons that it is among the most developed and well-thought out CBDC projects in the world.
+
+Varun Paul, Fireblocks’ director of market infrastructure and CBDC, told InfoMoney:
+
+“We have been watching developments [of CBDCs] around the world and Brazil is one of the most developed ones, so we are talking to the banks and the Central Bank to understand more about the ecosystem and seeing where we can leverage our technology to support them.”
+
+CEO Michael Shaulov argued that the mechanism by which the Digital Real interacts with a stablecoin system is well ahead of other G20 CBDC projects. It is necessary to have this intermediation layer to prevent the Central Bank from fully controlling the financial system and credit issuance. The Digital Real’s focus on interoperability with other public blockchains is also quite different from what other nations are pursuing.
+
+Fireblocks is involved in at least one of the Digital Real LIFT Lab projects and is in dialogue with the BC and other project leaders. Shaulov said:
+
+“We are showing that we can bring real-life experience into the driver ecosystem. So it will no longer be just writing reports and we will show what we can do in real life.”
+Banco Central Launches Tokenization Working Group
+
+The BC also launched a new group, called GT Tokenização, to study activities related to registration, custody, trading and settlement of blockchain-based assets. The group’s responsibilities will include comparing Brazil’s work in this area to the international landscape, analyzing results of the BC’s LIFT Lab and the CVM’s regulatory sandbox, and studying the impact of blockchain technologies on services and market structure.
+
+🏆World Cup Fan Token Watch 📈
+
+While the majority of World Cup fan tokens have been in “down only” mode, the Argentina token (ARG) is up 136% over the last week ahead of its final match Sunday against France. The coin hit a new all-time high topping $7. Congratulations to all the punters out there who wagered correctly here.
+
+Source: CoinMarketCap
+
+If you’re a true fan token enthusiast like me you can track my World Cup portfolio on CoinMarketCap here.
+
+🎙Catch the latest episodes of the 🇧🇷Brazil Crypto Report podcast
+
+1️⃣ Axel Blikstad, co-founder of BLP Crypto - Brazil’s oldest crypto fund manager, talked about his experience escaping the FTX collapse. (Spotify)
+
+2️⃣ Andre Franco, head of research at Mercado Bitcoin, joined to discuss the impacts of the FTX fallout on the Brazil crypto market. (Spotify)
+
+3️⃣ If you need a refresher on the crypto regulatory framework in Brazil and what PL 4401 /2201 means for the industry, I highly recommend having a listen to my episode with Isac Costa from August. (Spotify)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

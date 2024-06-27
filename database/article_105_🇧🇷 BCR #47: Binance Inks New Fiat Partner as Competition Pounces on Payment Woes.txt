@@ -1,0 +1,36 @@
+🇧🇷 BCR #47: Binance Inks New Fiat Partner as Competition Pounces on Payment Woes
+Also, Brazil's "Bitcoin Law" to be voted on this week; Coinbase talks plans for Brazil
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Fala pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of June 20-24. Hopefully everyone is settling into crypto winter. I for one am enjoying buying the dip on bitcoin under $20k. I honestly never thought I’d have this opportunity again so I’m aproveitando a oportunidade.
+
+🤩 I’m excited to announce BCR Institutional, our first premium service, will launch in July. This product will focus on providing bitcoin and cryptocurrency education to large investors in the Brazil market. It will consist of investor-focused content (in Portuguese), monthly roundtables and networking/chat functions. Stay tuned for more details.
+
+🚨We’re entering week two of Binance’s suspension of BRL deposits and withdrawals via Pix after it terminated its relationship with Capitual, its local fiat on/offramp, which it had partnered with since October 2020. The situation is quite complex but important given Binance’s dominance in the Brazilian market. If you want to better understand the timeline of events and why the situation matters, I highly recommend this podcast I recorded with Saori Honorato of Portal do Bitcoin who has been following the developments closely, as well as this piece by Portal do Bitcoin editor Claudio Goldberg Rabin.
+
+🗞 After the podcast with Saori was recorded on Thursday (June 23) morning, Binance announced that payments services would be restored “soon” via a new partnership with Latam Gateway. The new firm will be responsible for intermediating transactions between the exchange and the Banco Central’s payment system. Founded in 2019, Latam Gateway provides payment services in Brazil to e-commerce, gaming and payment aggregation businesses (Portal do Bitcoin does a deeper profile on the company here). Binance said in a statement:
+
+“The integration process with Latam Gateway will be completed soon, when transactions (deposits and withdrawals) will be fully normalized. Binance will keep the community informed.”
+
+In the meantime, Binance has been contrite and encouraging users to take advantage of other (albeit less convenient) deposit and withdrawal channels.
+
+🤯 Needless to say, many of Binance’s 4 million customers in Brazil aren’t happy about the situation.
+
+🤺 Rival exchanges like Mercado Bitcoin in the domestic market have pounced on the opportunity, seeing this as an opportunity to potentially put a chink in Binance’s armor by siphoning away disgruntled customers. Bitso announced last Thursday that it will waive all conversion fees for the next month.
+
+The story gets a juicier still as Capitual issued a statement on Friday defending itself contending that it bears no responsibility for the interruption in payment services to Binance clients. It said that it has been adapting its platform over the last two months to reflect new compliance rules issued by the Banco Central, and that it was waiting on Binance to update its systems to reflect the changes:
+
+“The partner exchanges KuCoin and Huobi have adapted their systems to the changes that have taken place on the Capitual platform and the services provided to their users in transactions with reais happen regularly. In the case of Binance, there was no such suitability.”
+
+Disclosure: Please note that I have ZERO financial interest or engagements with any of the companies mentioned here. I’m not taking sides, and I have no agenda other than to accurately convey what’s happening and help readers connect the dots and form their own conclusions.
+
+🗞 In other Binance-related news, the exchange will be hosting a three day exclusive workshop on blockchain and crypto assets for Federal Police in Brasilia this coming week. Topics to be discussed include core crypto and blockchain concepts and the exchange’s anti-money laundering policies. Representing Binance at the event will be Matt Price, a former IRS agent; Jarek Jakubcek, the company’s Head of Intelligence and Investigations for Asia-Pacific; and Renato Barreto, an investigations specialist for Latam.
+
+🏛 Crypto Legislation Update: Brazil's “Bitcoin Law” is the on the Chamber of Deputies’ agenda and is expected to be voted on next week. We’ll be watching closely 👀
+
+🙏 Thanks to our partners at HBAR Foundation for supporting 🇧🇷 Brazil Crypto Report! If you're a Latam entrepreneur or developer with an up-and-coming project or idea and need some support, take a look at the HBAR grant program. They're seeding projects focused on DeFi, fintech, NFTs, sustainability and so much more. They also offer a plethora of other resources to help builders bootstrap. Do yourself a favor and check them out! 👊
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report to catch the full version of this newsletter

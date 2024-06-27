@@ -1,0 +1,118 @@
+🌎 Latam Crypto Report #5: Tether eyes El Salvador, Uruguay for bitcoin mining
+Also: Ripple partners with Colombia’s central bank to explore blockchain
+
+🔥 Quick shout out to our partners at the BlockchainSP Festival and Digital Finance Brasil. These events will take place June 20-23 at the University of São Paulo and bring together crypto and TradFi professionals, students, hackers and investors from all walks. Worth checking out!
+
+¡Hola a todos! 👋
+
+Welcome to the latest edition of the 🌎Latam Crypto Report.
+
+I’m Kristin Majcher, a freelance journalist based in Bogotá, Colombia. This is the 🌎Latam Crypto Report, a sister newsletter to Aaron Stanley’s 🇧🇷Brazil Crypto Report 
+
+Feel free to follow me on Twitter and LinkedIn and send over any Latin American crypto news stories we should be covering.
+
+This week, we’ll dive into a Ripple partnership with Colombia’s central bank, Tether’s bitcoin mining ambitions in Uruguay and a new bitcoin mining project in El Salvador.
+
+Ripple partners with Colombia’s Central Bank
+
+Ripple is partnering with Banco de la República - Colombia (Colombia’s Central Bank) to “explore blockchain technology use cases” as the country develops its payment system. Blockchain technology firm Peersyst Technology will also participate in the project.
+
+The pilot project, along with Colombia’s Central Bank and Ministry of Information and Communications Technologies (MinTIC), will use Ripple’s CBDC platform based on the XRP Ledger blockchain. The project will run until the end of the year.
+
+As James Wallis, Ripple’s VP of Central Bank Engagements and CBDCs stated:
+
+“By harnessing the power of the Ripple CBDC Platform based upon the XRPL, this project will pave the way for transformative advancements in the utilization of blockchain technology within the public sector.”
+
+Colombia announced last year that it would consider developing a Central Bank Digital Currency (CBDC), with the dual goal of easing transactions and curbing tax evasion.
+
+(Soy Holdler, CoinTelegraph, CoinDesk, Ripple, NewsBTC, Crypto Daily)
+
+Tether to launch Uruguay mining operation
+
+Tether.io plans to get into bitcoin mining, with hopes to launch an operation in Uruguay before the year’s end. In a statement, the stablecoin issuer said it would be working with a local, licensed company on the initiative and will invest in renewable energy sources to make it happen.
+
+Tether plans to hire energy experts in Uruguay to staff the operation, Blockworks pointed out, posting open positions on a new website for its so-called Tether Energy business.
+
+Tether’s Chief Technology Officer Paolo A. said:
+
+"By harnessing the power of Bitcoin and Uruguay's renewable energy capabilities, Tether is leading the way in sustainable and responsible Bitcoin mining.”
+
+(Blockworks, CNBC, Portal do Bitcoin, CriptoFacil)
+
+Volcano Energy sources $1b in commitments for El Salvador bitcoin mine
+
+Another mining project in the region is in the works, and CoinDesk reported that Tether is investing in this one, too. Volcano Energy announced it has sourced $1 billion in commitments to start up a 241 megawatt (MW) bitcoin mine in El Salvador. The site will be powered with wind and solar energy.
+
+The investments include a $250 million investment from “key bitcoin industry leaders.” El Salvador’s government will have a “preferred participation equivalent to 23% of the revenues.”
+
+(CoinDesk, CoinTelegraph, Portal do Bitcoin, CriptoFacil, Reuters)
+
+🗞 Latin America Crypto News Rundown
+
+Here’s where we break down Latin America crypto headlines from the past few weeks, organized by country and region. If you don’t see a country listed, it’s simply due to the flow of news during a particular week.
+
+Regional News
+
+Spanish crypto exchange Bit2Me raised $15 million to further grow in Spain and Latin America. The funding round was led by Investcorp, with participation by Telefónica Ventures and others. (CoinDesk, Business Insider, BeInCrypto)
+Ripio CEO Sebastian Serrano shares his take on how he sees crypto adoption evolving in Latin America. (BeInCrypto)
+According to a new 万事达卡 study on Latin America financial inclusion, seven out of 10 crypto holders started accessing these digital assets for the first time in the years following the COVID-19 pandemic. (Mastercard, BeInCrypto)
+Brazilian fintech Ebury is looking to expand its payment services in Brazil and Latin America following its purchase of a bank called Bexs. (BeinCrypto)
+Crypto exchange Bitget said its new Latin America-based accounts grew 43% between June 6 - 9 following US regulators’ lawsuits against Binance and Coinbase, CoinTelegraph reported. (CoinTelegraph)
+Bitfinex published a report on the state of crypto in six Latin American markets. (Bitfinex)
+
+South America
+🇦🇷Argentina
+
+The Argentine hacker who stole — and returned — about $200 million from the Euler lending protocol earlier this year resurfaced with messages for newbie hackers. (DL News)
+Argentina’s securities regulator (CNV) is pressing charges against the hacking group Medusa for breaching its systems with a ransomware attack. The group threatening to leak 1.5 terabytes of documents unless it paid a $500,000 payment. The CNV contained the attack quickly and said the information was public anyway. (Buenos Aires Herald, Portal do Bitcoin)
+Argentina’s Comisión Nacional de Valores is reportedly asking to be the public institution responsible for regulating cryptocurrencies. (Livecoins)
+More than 500 people gathered to form a massive bitcoin logo to celebrate ONG Bitcoin Argentina’s 10-year anniversary. (Portal do Bitcoin, Bitcoin Magazine) (via Dan Held)
+
+Ripio is holding a “crypto & business summit” called Modular in Buenos Aires this week. (Modular Summit, Exame, Blocknews)
+Binance Pay entered into a strategic alliance with Credencial Payments Payment to help businesses accept Binance Pay as a payment method. (Ámbito)
+
+🇨🇱Chile
+
+Government officials in the region attended the Second Meeting of the Western Hemisphere Cryptocurrency Working Group, held between June 12- 14 in Santiago, Chile. The event was organized by the US Justice Department and attended by Latin American officials including Brazil’s Attorney General Tiago Misael De Jesus Martins. (Portal do Bitcoin)
+
+🇨🇴Colombia
+
+Crypto financial platform Tropykus suffered an attack on June 14 that wiped out $150,000 in funds — about 10% of its total deposits. The platform offered the hacker a bounty of $50,000 with a June 16 deadline before taking legal action through the authorities, but it is unclear if they complied.
+
+Tropykus, which said it is doing everything it can to recover the stolen funds, outlined details of the attack in a Twitter thread on June 15 and two blog posts. As Tropykus explained in a blog post detailing the attack:
+
+“The attack was carried out through the KSAT market (referred to as rBTC micro on the platform) in a single transaction that was executed in the same block but included several internal transactions.”
+
+(Soy Hodler, BeInCrypto, CriptoNoticias, CoinTelegraph)
+
+Colombia will have to wait longer to see whether a much-discussed crypto bill that would regulate exchanges can become law. According to local crypto news outlet Soy Hodler, the final Senate debate needed to bring the bill to law was scheduled for June 14 but did not end up happening. The Senate will review the bill again sometime later this year during the next Congressional session. (Soy Hodler, BeInCrypto)
+Bitso has increased its individual retail clients in Colombia tenfold in the past year since launching operations in May 2022. (CriptoNoticias, Crypto News, Valor & Dinero)
+U.S. startup Azteco, which focuses on enabling bitcoin purchases at stores, is expanding its services to Colombia and Costa Rica. (BeInCrypto)
+
+🇵🇪Perú
+
+New survey results from Peru’s banking superintendency show that money laundering incidents involving crypto have increased since the pandemic. (BeInCrypto).
+
+🇻🇪Venezuela
+
+A Venezuelan news outlet called Efecto Cocuyo launched a collection of 486 NFTs on OpenSea to raise money to combat government censorship. (BeInCrypto, LatAm Journalism Review, Metaverse.sg)
+Venezuela’s US-sanctioned Petro cryptocurrency is reportedly nearing the end of its run after its blockchain operations stopped. The government is reportedly planning to liquidate the cryptocurrency, according to Bloomberg Línea. (Bitcoin.com, Bloomberg Línea, Cryptopolitan).
+
+Central America & Mexico
+🇨🇷Costa Rica
+
+Dallas-based bitcoin mining company Evergreen Sustainable Enterprises, Inc. Enterprises said it hopes to get its first Costa Rica operation running this month. (Yahoo Finance press release)
+As mentioned above, U.S. startup Azetco, which focuses on enabling bitcoin purchases at stores, is expanding its services to Colombia and Costa Rica. (BeInCrypto)
+
+🇸🇻El Salvador
+
+Last month, U.S. Senators Jim Risch and Bob Menendez reintroduced a bipartisan bill examining the effects of El Salvador’s move to make bitcoin legal tender. (Crypto News, Senate Foreign Relations Committee)
+
+🇲🇽Mexico
+
+Strike expanded its Lightning Network cross-border payments service to Mexico on June 14. (CoinDesk, Crypto News)
+
+
+
+
+

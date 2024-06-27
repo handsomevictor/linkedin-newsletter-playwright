@@ -1,0 +1,83 @@
+🇧🇷BCR #82: Brazil's Digital Real gets real
+Hyperledger Besu chosen as underlying infrastructure for Digital Real CBDC
+
+Olá pessoal!
+
+Huge welcome to 🇧🇷Brazil Crypto Report for the week of March 6 - March 10, 2023!
+
+Before we dive in this week, please know that I was SIM swapped on Friday. I’ve suspended my phone number, but the hacker was able to access my Whatsapp and Telegram. If you've received any bizarre messages from me asking for money please know that it is not me! 
+
+As always, thanks for reading and have a great week!
+
+-AWS
+
+(This newsletter is an abridged version of this week's full 🇧🇷Brazil Crypto Report. If you enjoy this content, please consider subscribing to the Substack version for more news, commentary and interviews exploring the Brazil crypto ecosystem)
+
+Central Bank announces Digital Real pilot on Hyperledger Besu
+
+Brazil’s Central Bank has initiated testing of a pilot version of its Digital Real, the ambitious central bank digital currency which is expected to go fully live by the end of 2024. Testing will involve the issuance, exchange, transference and redemption of assets and focus on the infrastructure and privacy of the information that will be transmitted on the network.
+
+The first asset to be tested on the Digital Real network will be a federal public bond.
+
+Testing will continue throughout 2023 with the participation of mainstream financial system institutions, similar to the process used ahead of the Pix rollout in 2020. The five guidelines for the current testing phase include 1) multiactive DLT, 2) simulated transactions, 3) asset fragmentations, 4) access to services through FIs, 5) technical and business decisions.
+
+Built on Besu
+
+The Digital Real test platform will be developed with a “specific focus on the programmable infrastructure in DLT”, according to project coordinator Fabio Araujo. To do this, the Banco Central announced it will be using Hyperledger Besu, which allows for the creation of distributed networks that can be controlled by a centralized administrator.
+
+For the record, @Hyperledger Besu is NOT a blockchain. Rather, as a DLT (Distributed Ledger Technology) it has many of the same characteristics as a public blockchain (ie multiple nodes distributed across the network that mutually reach consensus) but offers the feature of control by a centralized administrator. Blockchain purists will argue that a DLT is no different from a regular database. They may or may not be correct, but that’s a conversation for another time. The point is that for compliance purposes the BC needed a permissioned network into which only authorized participants can access.
+
+Why Hyperledger Besu?
+
+Hyperledger Besu is a permissioned network - access is restricted to approved participants - that offers the functionalities of Ethereum - namely, smart contracts and composability (ie “money legos”). In theory, this Ethereum Virtual Machine compatibility with should attract a wealth of startups and developers interested in building new financial products on the Central Bank’s infrastructure.
+
+Prior to the announcement, there had been speculation as to what platform the BC would use:, a permissioned blockchain system like Hyperledger, a more open and public platform, or nothing at all.
+
+You can see the full press conference from the Banco Central do Brasil below (in Portuguese)
+
+Data Privacy a Concern
+
+One of the main concerns voiced by Araújo and team is that of data privacy - notably that the data being transacted cannot be openly viewed by other participant (and competitor institutions). Araújo stated:
+
+“Distributed technologies tend to give wide visibility to information on the network, so we need to think carefully about the strategies that can be used to guarantee the privacy that is required by law.”
+“Programmable Money” is the Goal
+
+Contrary to other CBDC models, the primary goal of the Digital Real is not necessarily to enable faster payments or create a payments database. Rather, the objective is to build a tokenized financial system based on the idea of “programmable money” - which refers to the idea of building rules directly into the currency itself about how, when, where and for what the purpose the currency can issued and used. Araújo described a potential example:
+
+"A City Hall can give a voucher to buy milk that can be digital and be in the [citizen's digital] wallet, and have all the characteristics of money, but, at the time of payment, it will only lend itself to that purpose."
+
+Araújo affirmed, however, that the Central Bank does not want to control citizen spending.
+
+“It is very important to separate the voucher from the money, and leave very clear to whoever is receiving it. This needs to be very clear to people, because there is a risk of interference that requires great care. It is up to people to define how they are going to use [their money]”.
+Digital Real Design
+
+The bank also confirmed previously reported plans that the CBDC will reach the Brazilian public by means of tokenized bank deposits. The Digital Real itself will function as a hybrid wholesale/retail CBDC, in which the primary use case is to transact and settle financial transactions between commercial banks and the central bank. Commercial banks will then be able to issue their own tokenized reals (essentially real-pegged stablecoins) against bank deposits. These tokenized real stablecoins, subject to BC rules and regulations, will be used by the general population.
+
+Araújo affirmed:
+
+“The regulatory framework will be in force to avoid asymmetries in relation to what exists today. The digital real will serve more for interbank transactions and the tokenized real will be a kind of stablecoin issued by banks.”
+
+For their part, banks will need to have sufficient liquidity to carry out tokenized real operations. Exactly how much liquidity? More guidance on that to come later on.
+
+Pix for Financial Services
+
+If all goes according to plan, the Digital Real infrastructure will function as a Pix for financial services, in which new assets issued in the form of tokens can be created, transacted and settled instantaneously - essentially creating a peer-to-peer trading model for securities with a blockchain/DLT registration.
+
+The national CBDC will therefore allow for participants easily to buy and sell government bonds and other financial products. Araújo explained:
+
+“You choose the product, the bank withdraws the Tokenized Real from your wallet and transfers it in Digital Real (RD) to the other bank. And then, the other bank receives the RD and makes the payment in deposits of Tokenized Reals for its client. And you would close the cycle by delivering the public title”
+Mitigating harm to TradFi banks
+
+One of the noteworthy aspects about the Central Bank’s CBDC approach is that it actively sought to minimize harm to the country’s existing TradFi banks. This approach is drastically different from the design used by China, for example.
+
+Rodrigo Caldas de Carvalho Borges of Carvalho Borges Araújo Advogados told Valor:
+
+“The pure use of technology, as is done in China, would result in people having wallets directly connected to the BC, no longer having accounts in private banks. Consequently, it would have a huge economic impact, with a reduction in bank deposits and even the supply of credit.”
+
+In fact, credit rating agency Moody’s argued that the Digital Real’s design poses less of a threat to existing banks than other CBDC models being researched around the world, which pose “greater risk of disintermediation” for legacy banks. As reported by InfoMoney, only Central Bank regulated institutions would have access to the Digital Real under the proposed design, and commercial banks would be able to issue real-pegged stablecoins against tokenized bank deposits. Under the Digital Real design,
+
+“By not allowing retail customers to have direct access to the CBDC, the Central Bank cushions the risk of bank deposit outflows that could reduce the availability of funding for the financial system.”
+
+🚨If you’re looking for more info about the Digital Real design and implementation, I highly recommend checking out this podcast I did with Gustavo Cunha on the topic.
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

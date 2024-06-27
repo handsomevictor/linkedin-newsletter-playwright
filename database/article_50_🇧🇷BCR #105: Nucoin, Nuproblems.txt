@@ -1,0 +1,147 @@
+🇧🇷BCR #105: Nucoin, Nuproblems
+Plus: Mercado Bitcoin layoffs; CVM president says crypto is not the "enemy"
+
+Olá pessoal!
+
+Welcome to 🇧🇷 Brazil Crypto Report for August 14-18, 2023.
+
+One of the most challenging aspects of being an independent content creator (or any type of entrepreneur for that matter) is learning to appreciate the small victories as they come in. When you have bigger ambitions, sometimes its easy to overlook the small milestones as they just feel like a box you need to check on your path to something greater.
+
+With that context, I’m proud to say that BCR hit 100 subscribers on YouTube this week. Starting the YouTube channel in back February was intimidating for me - I’d never done one before, it required a variety of new skills I needed to learn and I’m not a natural in front of the camera.
+
+Thankfully the launch of my channel coincided with the AI boom, so that gave me a good reason to experiment with these new tools like MidJourney, etc. I may not be approaching Mr. Beast territory yet, but going from zero to 100 feels worth celebrating🥂
+
+🎧 On that note, be sure to check out this week’s podcast episode with Nicole Dyskant, who is one of the top fintech and capital markets lawyers in Brazil and an advisor to key companies like Fireblocks, Hashdex, 2TM M and Vórtx QR Tokenizadora. Have a watch/listen and be sure to smash that subscribe button while you’re at it 💪
+
+Thanks so much for reading and have a great week!
+
+-AWS
+
+🎧 You can also tune in on Spotify | Apple Podcasts | Amazon | Anchor
+
+🚨 If you enjoy this content, please consider subscribing to 🇧🇷Brazil Crypto Report on Substack for more content like this and/or sharing with a colleague. It helps a bunch!
+
+Nucoin surges 2,000% after Nubank opens loyalty token program to more
+
+Nucoin surged 2,000% month-over-month to reach a market cap of R$20 billion (US$4 billion) last week, forcing Nubank to halt trading of its loyalty token. The coin was first launched in March, but was made broadly available to the Nubank customer base earlier this month.
+
+In the process, Nucoin became one of the largest 20 cryptocurrencies by market cap before tumbling 40 percent to R$0.12 by mid-week.
+
+So what caused the dramatic pump? CEO David Vélez told Valor that the swell of interest in the coin was precipitated by the expansion of the Nubank loyalty program:
+
+“In the last week we started releasing invitations [to participate in the Nucoin program] to more and more people. There was a greater demand than I imagined, and this began to reverberate on social media, in communities. So, to calm things down, we decided to stop trading, to avoid encouraging speculation. Today the price is already more relaxed”
+image via CoinTelegraph Brasil
+
+It seems that raw speculation played a pretty heavy role here, particularly as many customers reported being unable to sell the coins on the Nubank platform at the peak and throughout the week as the platform was plagued by a number of service outages, prompting numerous complaints on Reclame Aqui.
+
+Nubank responded in a statement:
+
+“Due to high demand last weekend (August 12th and 13th), the Nubank app experienced a brief instability restricted to the Nucoin area, which was promptly resolved. In order to avoid having customers in a position of advantage or disadvantage, Nubank suspended the trading operations of the digital asset, also provided for in the Terms & Conditions of the Nucoin program, which resumed on the morning of last Monday (14)”
+
+However, even as of Sunday, August 20 the Nubank page on Reclame Aqui was steadily receiving new Nucoin-related complaints from customers saying they couldn’t see their Nucoins in the wallet.
+
+MidJourney prompt: a mob of angry Nubank customers outside demanding access to their Nucoin tokens
+Fake Nucoin tokens proliferate amid price surge
+
+The Nucoin price surge caught the attention of scammers and golpistas, as some 20 knock-off tokens with similar names emerged over the last week according to Token Sniffer and GeckoTerminal.
+
+The authentic Nucoin runs on the Polygon blockchain and is meant to be used exclusively as a rewards and loyalty token for customers. It can only be bought and sold within the Nubank application. Many of the impersonators popped up on BNB Chain (formerly Binance Smart Chain), which has long been a haven for scams, rug pulls and all other sorts of shitcoinery. Many of these fake coins have no liquidity, no information about the issuer and could have malicious software programs attached to them.
+
+Several of these fake tokens are now available in decentralized finance liquidity pools - such as a Nucoin/BUSDd pool on PancakeSwap that had as much as R$100,000 of liquidity. At least six other fake Nucoin pools were spun up, according to Cointelegraph Brasil's Gino Matos. 
+
+image via CoinTelegraph Brasil
+
+Nubank said that it is taking appropriate measures to steer potential buyers away from the fake coins.
+
+(InfoMoney) (Portal do Bitcoin) (Valor Investe) (Valor) (Exame) (CoinTelegraph Brasil)
+
+CVM President Nascimento proclaims “crypto assets are not enemies of the capital market” at Anbima Summit
+
+João Pedro Nascimento imento, president of the CVM - Brazil’s securities regulator, defended the crypto and digital asset industry in his opening address.
+
+He argued that there are “very good” agents and actors in the space and that “we need to bring these participants to the regulated market,” pointing out that crypto-assets can attract new investor profiles and innovative investment opportunities.
+
+(Valor Investe)
+
+Mercado Bitcoin lays off 8 percent of staff; to prioritize on “high impact” business lines in shake-up
+
+The exchange underwent another round of layoffs as the crypto bear market forces brokers to either cut costs or hemorrhage cash. The cuts came primarily from retail-focused areas like marketing and support, as the exchange will now refocus its energies on B2B services like tokenization, custody, infrastructure provision and Digital Real/Drex.
+
+The move was framed as a “consolidation of the operation” in which 45 employees (out of roughly 300 total) were let go. The company continues to build out its development and product teams. It said in a statement:
+
+“These advances took place in the middle of the crypto winter cycle, which shows the robustness of the operations of Mercado Bitcoin and which accredit the ecosystem to lead the development of the tokenized economy in the country.”
+
+MB last executed a similar round of layoffs in September 2022.
+
+(Bloomberg Linea) (Valor) (BlockNews)
+
+ABCripto: new crypto tax provision is unconstitutional
+
+The trade group is arguing that a push to increase taxes on crypto assets held in wallets outside the country is unconstitutional. The measure has been included in a piece of legislation to adjust the minimum wage.
+
+Daniel de Paiva Gomes of VDV - Vieira, Drigo, Vasconcellos e Paiva Gomes Advogados, arguing on behalf of ABcripto - Associação Brasileira de Criptoeconomia, wrote:
+
+“The inclusion of crypto assets, indiscriminately, in the category of financial investments is a controversial, inappropriate, illegal and potentially unconstitutional issue.”
+
+Paiva gave an extended interview to CoinTelegraph Brasil discussing in more depth. Worth a read if this subject is of interest to you.
+
+(Valor) (CoinTelegraph Brasil) (Livecoins)
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Hathor Labs, maintainer of the Hathor blockchain, named Volker Kuebler bler as its new CEO. Kuebler was previously CEO of Intellisophic, a Silicon Valley AI startup. He will be responsible for leading business strategy and management for the company. (Valor)
+Binance removed three BRL-denominated spot trading pairs from its exchange. The impacted pairs were BRL with MANA (Decentraland), ENJ (Enjin) and SAND (Sandbox). (Portal do Bitcoin)
+Paxos ’s head of Latin America Arnoldo J. Reyes outlined the company’s decision to focus heavily on the Brazil and Latam markets in an interview with Exame, arguing that Brazil is now an “incredibly important” market with the implementation of the Marco Cripto.
+
+"When there is clear regulation, there is a bigger market. In markets where regulators are still deciding, banks and fintechs are scared, they don't know what is legal or not. In the end, this strangles innovation. Regulation creates incentives for those who want to explore this market. The worst thing is when there is no regulation, because then there is no confidence for consumers."
+
+Exchange BITRECIFE announced that it is shutting down after five years in response to market conditions, including a decline in trading volumes and “operational difficulties”. (Valor Investe)
+With the launch of the Jacobi FT Wilshire Bitcoin ETF, the Netherlands now joins Brazil, Canada and Bermuda as the only countries with spot bitcoin ETFs available for trading. (Valor Investe)
+Real estate token issuer Dynasty Global has swapped out an office building on São Paulo’s Avenida Faria Lima in its portfolio for a luxury hotel in London. (Valor)
+Brazilian DeFi startup Zaros announced a R$2.75 million (US$550,000) funding round at a R$50 million (US$10 million) valuation. Founded by Guilherme Bettanin and Pedro Bergamini, Zaros aims to aggregate liquidity of DeFi and trading volume for on-chain derivatives. (Exame) (CoinTelegraph Brasil)
+B4, a Brazilian exchange dedicated to tokens linked to ESG projects, began operations last week. (CoinTelegraph Brasil)
+
+📱Adoption + Digital Real (aka DREX)
+
+InfoMoney has a useful new explainer guide to Drex
+Five new consortia installed nodes on the Drex pilot network this week, bringing the grand total to eight teams that are now able to validate transactions once the testing phase begins in September. The activated consortia include Caixa/Elo/Microsoft; BV Bank; BTG; Santander, F1RST and Toro; and Nubank. (Valor)
+Stone, Agibank and Efí were approved to join the Brazilian Association of Banks (ABBC) consortium in the Drex/Digital Real pilot project. Other banks already participating in the consortium include ABC Brasil, BMG, Bocom, BBM, BBC, Banrisul, BS2, Pan, Original and PagBank. (Valor)
+Drex will have low costs for users and might even be free, the Brazil Central Bank said:
+
+"an eventual associated cost will be related to the financial service provided by the offering institution. It will be up to the institution to define the cost for the service offered, following the regulation and considering the competitive environment, and may even be free or significantly less than the cost of a similar service prior to the adoption of Drex". (Exame)
+
+XP Investimentos chief economist Zeina Latif argued that a regime change atop the Brazilian Central Bank (current president Roberto Campos Neto’s term ends in December 2024) will not impact the bank’s financial innovation agenda.
+
+"The president [of the BC] makes a difference due to his leadership, but Drex itself was born into the body of the institution. Pix himself came from there. The institutionality is very strong". (Exame)
+
+Banking and payments experts who participated in a virtual event hosted by Blocknews and Cantarino Brasileiro argued that Drex will be as revolutionary to the Brazilian financial system as the introduction of Pix.
+Campari launched its blockchain-based Loyalty 3.0 app in partnership with Web3 consultancy TresPontoZero.io and GoBlockchain. The Campari Blockchain Passport offers a suite of benefits and experiences and is available on Apple and Android smartphones. (Portal do Bitcoin) (BlockNews)
+An influx of crypto enthusiasts is one of the reasons Lisbon has quickly become one of the most expensive cities in Europe for housing rental prices. (Portal do Bitcoin)
+The @Upland metaverse platform launched a fan token for singer Luiza Possi. (BlockNews)
+The São Paulo government plans to use blockchain to issue identity cards via a partnership with open source tech firm Red Hat. (CoinTelegraph Brasil)
+Portal do Bitcoin profiled Davidson Santos, a 22 year-old bitcoin developer from Minas Gerais who first deployed bitcoin code when he was 12 years old.
+The Regional Electoral Court of Amapá will begin using a new multicloud vendor that uses blockchain for data management. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+Credit card company Visa has joined ABcripto - Associação Brasileira de Criptoeconomia pto, the primary trade association and lobby group representing the digital asset industry in Brazil. Visa is currently a member of two Drex consortia - the XP consortium and the Bradesco consortium. Eduardo Abreu, VP of new business at Visa in Brazil said in a statement:
+
+“We are very happy to be part of ABCripto, an association focused on discussing the future, the challenges and innovations that digital currencies can bring to the financial market.” (Portal do Bitcoin) (InfoMoney) (Valor) (Exame)
+
+Magno Alves, a former footballer for Fluminense, Ceará and the Brazilian National Team lost R$32 million (US$6.5 million) in the Braiscompany collapse. The information was disclosed in a recent complaint filed by the Federal Public Ministry against the alleged pyramid. (InfoMoney)
+Celebrities Tatá Werneck, Cauã Reymond and Marcelo Tas were supposed to testify at the CPI committee on financial pyramids last Tuesday (August 15) but did not show up. They had been ordered to discuss their involvement in promoting the Atlas Quantum pyramid, with the committee asserting that the celebrities induced un-knowing retail investors into putting money into the pyramid. The company collapsed in 2019 causing an estimated R$7 billion (US$1.4 billion) in damages. However, Werneck and Reymond were able to obtain habeas corpus from the Supremo Tribunal Federal - which allowed them to be dismissed from testifying, while Tas simply didn’t show up (he was summoned as a guest and not a witness and therefore was not obligated to testify). (InfoMoney) (Portal do Bitcoin)Members of the CPI, including president Deputy Aureo Ribeiro were not happy about the celebrities’ absence and decided to show three videos of Atlas Quantum advertisements featuring the celebrities during the hearing.Ribeiro hinted that the committee use its authority to subpoena Werneck and Reymond’s bank records to dig for answersDeputy Paulo Bilynskyk, author of the proposal to formally summon Werneck and Reymond, said:
+
+“We will not give up our role to investigate. It's one thing to come and not respond, it's another to not show up at all. This is disrespect for 200,000 victims.” (Portal do Bitcoin) (InfoMoney) (Valor Investe) (Valor)
+
+In his CPI testimony, MSK Invest founder Glaidson Tadeu Rosa blamed the collapse of the company on a rogue employee who supposedly stole R$400 million (US$80 million) and promised to make customers whole. MSK promised up to 5 percent monthly returns before it stopped making payouts to ~3,500 investors in late 2021. (Portal do Bitcoin) (InfoMoney) (Valor Investe)The man accused of stealing the funds, Saulo Gonçalves Roque, talked to Portal do Bitcoin and claimed that the company indeed had a scheme to fudge accounting. “It was a real pyramid. Perhaps the most structured in the country.”
+Portal do Bitcoin reported on a Brazilian company called FX Winning suspected of operating an international pyramid scheme that ceased payouts to investors in February. The company has generated so much consternation that Mexican president Andrés Manuel López Obrador said in late July that one of the priorities for his administration was to investigate FX Winning. (Portal do Bitcoin)
+Brazil’s National Strategy to Combat Corruption and Money Laundering (known as the Portuguese acronym Enccla) for 2023 and 2024 will focus on new technologies and mediums such as cryptocurrencies and online gambling. The group will be chaired by Minister of Justice and Public Security Flavio Dino and Vice President Geraldo Alckmin. (Portal do Bitcoin) (Exame)
+InfoMoney ran a profile examining ex-Brazilian footballer Ronaldinho Gaúcho’s long involvement in cryptocurrency pyramids and other questionable schemes.
+
+
+
+
+

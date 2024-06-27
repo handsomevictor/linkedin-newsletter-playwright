@@ -1,0 +1,105 @@
+🇧🇷BCR #73: Brazilians Look to USD Stablecoins to Protect Against Devaluing Real
+Also: Binance's first employee in Brazil departs; UFC fighter Amanda Ribus teams up with Socios on fan tokens
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal!
+
+Welcome to the final edition of 🇧🇷Brazil Crypto Report for 2023! It’s been an incredible year+ building out this product. I want to take a quick moment to express my gratitude as I’ve enjoyed the opportunity to meet and interact with numerous readers personally over the last few months.
+
+While the market dynamics across crypto and macro more generally look quite grim at the moment, the thesis of BCR has remained unchanged: Brazil is the most overlooked crypto market in the world and will be major driver of global adoption in the coming years.
+
+Some BCR milestones from 2022:
+
+~2,000 total subscribers across Substack and Linkedin
+Readers in more than 20 countries
+~80,000 page views
+Average of ~1,150 views per newsletter
+31 podcast episodes published
+~4,000 podcast downloads
+
+That’s pretty exciting for a media product focusing on such a niche vertical. I’d like to send a special thanks to everyone who has supported me in this venture over the last 18 months, and I’m excited to continue building this throughout the bear market💪
+
+Have a great week everyone and thanks for reading!
+
+-AWS
+
+Binance’s First Brazil Employee Steps Down
+
+Mayra Siqueira, Binance’s first employee in Brazil, has stepped down from her role after three years at the company leading Brazil marketing efforts. She announced the transition via a Linkedin post.
+
+Her resignation comes amid a broader leadership change at Binance Brasil. (Relatively) recent hires include director of institutional relations Daniel Mangabeira, public relations director Carolina Matos and director-general Guilherme Nazar.
+
+Siqueira previously worked for the Brazilian brokerage Foxbit and intends to stay in the crypto industry, per Portal do Bitcoin.
+
+In related news, Mercado Bitcoin CEO Reinaldo Rabelo in a Linkedin post took aim at Binance’s tactics of hiring politically-connected individuals in the Brazil market, going so far as to compare the tactics to those used by FTX.
+
+"We do not believe in this model linked to politics. We believe in blockchain and new business models. This 'collusion' with the State is something we abhor. FTX adopted this model. Today, we know that it bought favors from many politicians around the world to hide their shenanigans. It came to what happened." (Livecoins)
+Mercado Bitcoin Releases 23 Theses for 2023
+
+Andre Franco and the Mercado Bitcoin research team put together 2023 predictions for the coming year.
+
+Binance will be the primary target of regulatory scrutiny
+The U.S. SEC will not approve a spot bitcoin ETF
+A return to “not your keys, not your coins”
+Advancements in zero knowledge proof technology will enable scalability and privacy in crypto
+Layer 2s will become the new honeypot for hackers
+
+🎙Catch the latest episodes of the 🇧🇷Brazil Crypto Report podcast
+
+1️⃣ Axel Blikstad, co-founder of BLP Crypto - Brazil’s oldest crypto fund manager, talked about his experience escaping the FTX collapse. (Spotify)
+
+2️⃣ Andre Franco, head of research at Mercado Bitcoin, joined to discuss the impacts of the FTX fallout on the Brazil crypto market. (Spotify)
+
+3️⃣ If you need a refresher on the crypto regulatory framework in Brazil and what PL 4401 /2201 means for the industry, I highly recommend having a listen to my episode with Isac Costa from August. (Spotify)
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Brazilians are using stablecoins to hedge against the devaluation of the Real, per a new study by crypto data provider Kaiko. The report, which examined transactions on Binance and Bitso, shows that more than half of the trading pairs involving the Real are with dollar-pegged stablecoins and that 50% of BRL trading volumes involve a stablecoin. Kaiko wrote in its report:
+
+“Since the 2021 bull market, stablecoin USDT has increased its share of real volume by 20%, at the expense of altcoins, which suggests that Brazilians are opting for stablecoin safety over altcoin speculation.” (Portal do Bitcoin)
+
+Crypto markets will see less fewer fundraising numbers and opportunities in 2023 due to the macro environment, though new use cases will likely emerge, Fuse Capital partner Dan Yamamura predicted in an interview with CoinTelegraph Brasil.
+Liquidity, low risk and high yields are reasons that may drive more Brazilian investors into tokenized assets, such as those issued by Mercado Bitcoin and Liqi, in 2023. (CoinTelegraph Brasil)
+Paulo Boghosian, co-head of crypto at TC, believes that crypto markets will see the beginnings of a recovery in the first half of 2023. (Livecoins)
+Hashdex sees DeFi fundamentals becoming stronger in 2023, it wrote in its end-of-year report. (CoinTelegraph Brasil)
+Andre Portilho, head of digital assets at BTG Pactual, sat down with Bloomberg Linea to talk through how the bank plans to expand its footprint in crypto.
+
+📱Adoption
+
+Trace Finance announced the launch of a geolocation app in Brazil that aims to offer cryptocurrency rewards to drivers. (CriptoFacil)
+TecBan, the company behind the Banco24Horas ATM network, is testing a new smart contract-enabled locker system for online shoppers that incorporates the digital real. The feature will ensure that the customer only pays for the product if it is verifiably received. The project is being developed within the scope of the Brazilian Central Bank’s LIFT Lab. (InfoMoney)
+Funai’s controversial indigenous cryptocurrency project was yet again the target of criticism by the federal government. (Portal do Bitcoin)
+UOL EdTech is launching a post-graduate course focusing on blockchain technology and crypto investing. (Livecoins)
+Fan token platform Socios.com announced the addition of UFC fighter Amanda Ribas as a brand ambassador. She will be the global face of the $UFC token. Felipe Ribbe, general manager of Socios.com in Brazil, commented:
+
+“We are happy and excited to have Amanda Ribas as a Socios.com Ambassador, as she will be a great representative of what Socios.com has created and offered to the UFC passionate community. This is another step towards that mission: to bring innovation, exclusive experiences and far-reaching benefits to all sports fans.” (CoinTelegraph Brasil)
+
+The office of the Attorney General of the National Treasury is seeking to hire candidates knowledge of cryptocurrencies, according to a job posting. (Livecoins)
+Transfero became one of the partners in Rio de Janeiro’s new innovation hub in Porto Maravalley. The project aims to provide education around new technologies to young people. Other sponsors include Lojas Americanas, Rede D’or and Afya. Rodrigo Stallone, Transfero’s director of new business, said in a statement:
+
+“Porto Maravalley is an important step, especially for the development of the economic vocation of Rio de Janeiro. Although the project is aimed at this city, Transfero has been looking at other regions, as we want to support other initiatives like this and promote technological inclusion for young talents in Brazil.” (CoinTelegraph Brasil)
+
+Crypto exchange Bitso sees five trends occurring in 2023 across Latin America: 1) more regulation in favor of crypto users and customers, 2) more companies and institutions using crypto technology, 3) crypto powered international transfers, 4) an open playing field for stablecoins, and 5) growing use of crypto for payments. (Exame)
+New small and medium-sized companies integrating into Pix is a key trend to watch in Brazil for 2023, argues the consultancy Capco. (BlockNews)
+
+🎮 NFTs, Gaming and Metaverse
+
+An NFT exhibit called Exposição Nordestina will be held in João Pessoa, in Paraíba, to bring together digital artists and collectors in the region. The first edition of the event will run until February 28. (CriptoFacil) (CoinTelegraph Brasil)
+Brazilian DJ Hash will perform in a New Year’s Open Metaverse event, of which the popular Punk 6529 is a founder. (CoinTelegraph Brasil)
+The Federal Public Ministry gave an ultimatum ordering Nemus Brasil Participações to cease selling land representing indigenous land reserves in the Amazon. Nemus claims to have purchased land across the Amazon and that it intends to create a DAO to fund social projects in the region. (Portal do Bitcoin)
+Lumx Studios CEO Caio Barbosa was named to Forbes Brasil’s 30 Under 30 list in the technology and innovation category. Lumx, an NFT design studio, has forged partnerships with retailer ReservaX, Coca-Cola, Ambev and Meta. (BlockNews)
+
+🏛 Public Policy, Regulation and Enforcement
+
+A portion of the 555 bitcoins stolen from a German businessman in Goias in 2020 ended up in a wallet owned by Edgar Acioli - a partner in a pyramid scheme known as Valour Invest. The theft occurred when the businessman’s wife was kidnapped and held hostage in the city of Anapolis. Acioli is also accused of arranging the murder of a lawyer in 2019. The news was revealed by Globo’s popular Fantastico news magazine program. (Portal do Bitcoin) (Livecoins)
+The CVM, Brazil’s securities regulator, intends to further accelerate debates on cryptocurrency and DeFi in Brazil, the agency said in a note released on December 26th. The discussions will take place within the CVM’s Financial Innovation Lab, with the objective of revisiting the roles and functions of traditional financial infrastructure. CVM President João Pedro Nascimento said in a statement:
+
+“It is increasingly important that we monitor and make good use of innovations, in order to create an environment of legal security favorable to the growth of the market and its integrity.” (InfoMoney) (Livecoins)
+
+Binance has kept a Brazilian investor’s funds locked up in its Earn program despite a court decision ordering the firm to release the funds. (Crypto Times)
+Brazil’s new crypto regulation law will provide protection and freedom to investors, argues attorney Artemio Picanco. (Crypto Times)
+Civil Police in Rio de Janeiro intend to deploy new tools to fight against the use of cryptocurrency by organized crime groups. (Livecoins)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

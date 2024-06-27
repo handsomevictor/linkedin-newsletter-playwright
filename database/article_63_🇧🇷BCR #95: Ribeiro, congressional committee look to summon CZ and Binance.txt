@@ -1,0 +1,91 @@
+🇧🇷BCR #95: Ribeiro, congressional committee look to summon CZ and Binance
+Plus: Senators push for asset segregation at Criptorama; 2 million Brazilians traded crypto in April
+
+Olá pessoal!
+
+Well that was a pretty rough week as you all know by now. I’m spinning up a couple of podcast interviews for next week with some guests who will help us break down the SEC’s lawsuits against Binance and Coinbase and understand what this all means for crypto markets for Brazil specifically.
+
+In the meantime, Saori Honorato at Portal do Bitcoin interviewed several experts in the Brazil market from Hashdex, Coinext and Viden Ventures about key implications for the Brazil market.
+
+Back home on the Brazil front, we were hoping for a decree from the Lula Administration formalizing the crypto law which was passed and signed last December. We didn’t get one unfortunately, apparently due to competing priorities within the administration.
+
+The law will go partially into effect June 20th if no decree is issued before then. If you want to go deeper, Bitso head of public policy Karen Duque spoke to Exame about how the absence of a decree is throttling the formation of a regulatory regime.
+
+With that, I’d like to welcome you to 🇧🇷Brazil Crypto Report for the week of June 5-9, 2023!
+
+-AWS
+
+🔥 Quick shout out to our partners at the BlockchainSP Festival and Digital Finance Brasil. These events will take place June 20-23 at the University of São Paulo and bring together crypto and TradFi professionals, students, hackers and investors from all walks.
+
+The team announced this past week that former Brazilian Central Bank President and current Binance advisor Henrique Meirelles will be the keynote speaker. 
+
+Record two million Brazilian investors traded crypto in April
+
+1.9 million individual citizens and 65,600 unique companies reported crypto trades during the month of April, per data from the Receita Federal - Brazil’s tax authority. These figures are up 23.8% and 6.5% respectively month-over-month.
+
+Total trading volume declared to the agency for the month was R$19.6 billion (US$4.2 billion), the highest number in two years.
+
+R$4.5 billion (US$922 million) in overseas trading volume was reported for the month as well, the largest figure ever recorded, while volumes on national exchanges fell by R$1.5 billion (US$307 milllion) month-over-month.
+
+(CoinTelegraph Brasil)
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report: Twitter | SubstackYouTube | Instagram | Spotify | Apple Podcasts
+
+Deputy Aureo Ribeiro says congressional committee will investigate Binance and CZ
+
+Ribeiro said at the ABcripto - Associação Brasileira de Criptoeconomia event in Brasilia last week that he intends to summon Changpeng Zhao and Binance for the special Parliamentary Commission of Inquiry that will examine cryptocurrency pyramids.
+
+He said he wants the exchange to open its books and show its financial health to the committee. He even indicated that he might even request banking and telephone records from people close to CZ:
+
+“We want to clarify everything that is being discussed. It is a company that operates in Brazil and we need to know how its financial health is. We don't want to be surprised as happened with other American companies like FTX.”
+“Breach of telematic, telephone, financial secrecy, and everything else. These are the prerogatives that a CPI has. The CPI has the advantage that it is not an invitation, it is a summons.”
+
+However, the CPI itself does not have authority to punish CZ, Binance or any other investigated entity, though it does have broad investigative powers.
+
+The Chamber of Deputies suspended the launch of the committee due to a shortened holiday week. The CPI is expected to be formalized next week and will look into high profile crypto pyramids like Atlas Quantum, Braiscompany and Trader Group (InfoMoney ran an expose on Trader Group, a R$33 million Espirito Santo based pyramid that promised 9-15% monthly returns)
+
+(CoinTelegraph Brasil) (InfoMoney) (Valor)
+
+Senators highlight need for asset segregation at Criptorama
+
+Senators Carlos Portinho and Soraya Thronicke emphasized the need for asset segregation to be included in any future regulatory regime in Brazil, particularly in light of the recent US SEC enforcement actions. Speaking at Criptorama, Portinho stated:
+
+“It is an amendment that I put and defended tooth and nail in the Senate during the course of the crypto milestone. Now Senator Soraya is bringing back this proposal and I think it is important, otherwise we will end up demanding equity and leverage that will concentrate the sector.”
+
+Specifically, Portinho stated that Congress was not “mature enough” to evaluate the bill as it was moving through the body last year. This likely resulted in lost opportunities to better understand and regulate the crypto sector, such as requiring asset segregation:
+
+"Parliament has a very special and difficult function, because technology is the instrument of the new generations, and the Senate especially is made up of more experienced parliamentarians, the vast majority of senators are from another generation.”
+
+Portinho also mentioned the need for legislation that would allow the public sector to enter the world of digital assets.
+
+Exame Valor
+
+CVM addresses asset tokenization controversy
+
+Bruno de Freitas Gomes, superintendent of securitization at the CVM, addressed a recent letter published by the agency indicating that it views most asset tokens as securities.
+
+In a talk at Criptorama, he noted the potential benefits of tokenization but highlighted the broader challenges that asset tokens bring from a supervision perspective:
+
+“The technology allows you to take something that is not possible to sell to a wider audience and sell it to that audience.”
+"And with that, it began to have several challenges. One of these was supervising, understanding this universe, and understanding that there is a world behind it that is investment, public financial investment opportunity for several investors, and this tends to take on the face of security. The token is the technological means, it itself is not security, what security is is what it represents, the financial asset.”
+
+Freitas added that the these factors led the agency to offer crowdfunding as an alternative and as a compromise, though this idea wasn’t well received by the market. The crowdfunding mechanism can bring tokens to the market in a traditional structure, he argued, without reducing the advantages and benefits of issuing a token:
+
+"The tokens are offered by exchanges, tokenizers and other means, have fixed or mixed remuneration, can be representative, backed or linked to credit rights, have interest payments dependent on cash flow and a remuneration defined by a third party.”
+
+He did point out that the CVM letter does not have force of law behind it and that it was a technical opinion motivated by complaints about the products.
+
+"Our objective is not to kill the use of technology, investor access. The objective is to understand this new market…What you can't do is continue operating outside of what the law provides, it's a risk. Anyone who wants to operate at risk can still operate." (Exame)
+🎙BCR Podcast: Bringing Trust to Brazil’s Crypto Economy with Jonathan Levin of Chainalysis
+
+I had the chance to sit down with Chainalysis co-founder and chief strategy officer Jonathan Levin in Brasilia to chat about how blockchain data services like Chainalysis can bring trust to Brazil’s emerging digital asset ecosystem. Have a watch below on YouTube or listen on Spotify
+
+Levin also gave a talk at the event about why on-chain analytics are a necessary piece of the digital asset regulation puzzle in Brazil.
+
+🎙Tokenizing Real World Assets with Alex Nascimento
+
+Alex Nascimento, MBA of 7 Visions Digital and UCLA joined the show along with guest host Antonio Neto to talk about his work tokenizing “real world” assets and why he’s bullish on security tokens as the next crypto bull market driver. Check it out on YouTube below or on Spotify or Apple Podcasts
+
+(NOTE: This Linkedin post is a shortened edition of the full Brazil Crypto Report newsletter. To catch the entire version as well as more content like this please subscribe to the full version on Substack)
+
+

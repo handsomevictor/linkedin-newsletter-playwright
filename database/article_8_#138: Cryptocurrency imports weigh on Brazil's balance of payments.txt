@@ -1,0 +1,119 @@
+#138: Cryptocurrency imports weigh on Brazil's balance of payments
+Plus: São Paulo supports NFT.Brasil, first-ever Lumx Hack takes shape
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+Welcome back to 🇧🇷Brazil Crypto Report for the week of April 29 - May 3, 2024.
+
+I am writing this with heavy heart right now thinking of everyone who has been impacted by the catastrophic floods in the south of Brazil, where more than 100,000 people have been displaced in Rio Grande do Sul.
+
+Among the cities severely impacted is Rolante, Brazil’s “Bitcoin City” that has one of the highest densities of merchants that accept the cryptocurrency.
+
+I will be contributing financially to relief causes and I would encourage you to as well — I will post some links in next week’s edition to reputable charities. If you have suggestions for which ones I should promote here please email me at aaron@brazilcrypto.io or hit me at @AaronStanley on Telegram.
+
+I’d also like to flag that BCR is a media partner for Ethereum Rio 2024, which is happening May 13-15 at Porto Maravalley. We’ll be discussing the EVM economy in Brazil, tokenization, DePIN, interoperability, community building, fundraising and more.
+
+Tickets are available at this link. You can use the code BCRETHRIO24 for a 50% discount. Hope to see many of you there!
+
+🔍What’s in this week’s BCR?
+
+Cryptocurrency imports are up 118% year-over-year and are having a noticeable impact on Brazil’s balance of payments
+The city of São Paulo is supporting NFT.Brasil as part of a broader innovation program
+Lumx and Ethereum Rio are teaming up to run the first-ever Lumx Hack hackathon. Winners will be announced at Ethereum Rio
+
+No new podcast this week sadly as I'm running a bit behind on these. In the meantime I'd encourage you to check out this interview I recorded for the Candid Capital podcast with Joshua Seerattan at Web Summit Rio 
+
+Have a great week everyone!
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+Crypto imports up 118%, weigh on Brazil’s trade balance
+
+Cryptocurrency imports reached US$1.7 billion in March, bringing the total for the first three months of the year to US$4.7 billion, according to data released by the Banco Central do Brasil. The figure is up 118% from the same period in 2023.
+
+For the 12 months leading up to March 2024, crypto imports totaled US$14.8 billion.
+
+For accounting purposes, the Central Bank treats cryptocurrency imports the same as the import of any other good. The volumes are now large enough to materially impact Brazil’s trade balance and balance of payments, observers claim. Sergio Goldenstein, chief strategist at Warren Investimentos, told Valor:
+
+“This number of cryptoasset imports is not negligible, on the contrary, it is a very relevant number, which is already weighing in the balance…If you have an outflow of US$1 billion to US$2 billion per month, you have a special weight on the scale, because it reduces the positive trade flow.”
+
+JP Morgan economists Cassiana Fernandez and Vinicius Moreira wrote in a research note that Brazil’s current account deficit rose from 1.2% of GDP in February to 1.5% in March due to a weaker trade balance.
+
+“Cryptocurrency imports reached US$1.8 billion in March, a record that meant that this specific line [of the current account] presented a deficit of 0.6% of GDP in the last 12 months.”
+Image credit: Valor
+
+As crypto becomes a more widely adopted asset class in Brazil, combied with the fact that virtually all cryptocurrency held by Brazilian investors is technically “imported”, the impact on Brazil’s balance of payments will likely continue to grow.
+
+Livio Ribeiro, a partner at BRCG Consultoria and associate researcher at the Brazilian Institute of Economics of the Getulio Vargas Foundation, explained:
+
+“Of this year’s total, around US$4.5 billion is related to the effect of cryptoactives…It is an item that is gaining gigantic importance. Are there reasons to think about material change in the future? No. That's why it must continue to accelerate, whether in the monthly cut or in the accumulated over 12 months.”
+
+Portal do Bitcoin CoinTelegraph Brasil
+
+City of São Paulo to sponsor NFT.Brasil 2024
+
+The city is kicking in R$5 million (US$1 million) to support Brazil’s largest NFT event, which takes place at the end of August.
+
+The second edition of NFT.Brasil  will feature panels, art exhibitions and a three-day hackathon, in addition to a digital metaverse space with virtual versions of popular attractions in SP.
+
+Humberto Martins, deputy secretary of innovation and technology, explained that the initiative is part of a broader mandate to further digitize public services and make SP a “smart city”. He explained the problem with the status quo to Valor:
+
+“Today, for innovative solutions, traditional processes do not allow building with those who demand the solution. You can only make an off-the-shelf purchase for products that are already established and available.”
+
+Skateboarder Bob Burnquist, one of the co-founders of NFT.Brasil, explained that the event will be a watershed moment for connecting commerce, culture and innovation in the city.
+
+“The metaverse is the website of the future. You can enter our space and your avatar enters portals for experiences in other metaverses, like mine, linked to the Skate Cuida project.”
+
+SPNegocios Web3News BeinCrypto Exame BlockNews CoinTelegraph Brasil
+
+Lumx and Ethereum Brasil teaming up for first-ever Lumx Hack
+
+The hackathon will take place over the next two weeks and features prizes from Chiliz, Scroll, Tansii Network and Filecoin. Winners will have the opportunity to present at Ethereum Rio, which takes place May 13-15.
+
+Afonso Dalvi, devrel at Lumx, said in a statement:
+
+“For Lumx, these hackathons represent a valuable opportunity. In addition to discovering new talents, we have the chance to observe professionals applying our technology in concrete projects, in collaboration with renowned partners who propose relevant challenges aimed at solving real problems in different sectors.”
+
+Lumx is a Brazilian blockchain solutions company and a portfolio company of BTG Pactual.
+
+Portal do Bitcoin Exame
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+British fintech Revolut will expand its operations in Brazil with local account and card services, as well as a Pix integration. The company first launched in Brazil in May 2023 and is seeking to find its niche in what’s regarded as a heavily saturated fintech market in the country. Glauber Mota, CEO of Revolut Brasil, explained:
+
+The main objective is to have a global platform with local services, and this is the way to make a competitive difference….When we look at our competition, some are a sales platform here in Brazil that uses banks serving abroad, others are banks only regulated in Brazil or a financial institution regulated in Brazil.” (Isto é Dinheiro)
+
+Bitcoin futures trading on the B3 exchange registered around R$356 million (US$70 million) per day in the first week after launch, with an average of 10,500 daily operations. By comparison, dollar futures contracts move around R$131 billion (US$25bn) daily with 2 million operations. (CoinTelegraph Brasil)
+CoinTelegraph Brasil interviewed OKX president Hong F. about the role of cryptocurrencies in digital finance.
+Meta Pool DAO launched a fund aimed at helping crypto projects and entrepreneurs in Brazil and Latin America. (CoinTelegraph Brasil)
+There are more Brazilians wagering on online casinos, sportsbooks and games like Jogo do Tigrinho than there are investing in traditional assets on the B3 exchange, according to the Raio X Investidor do Brasil survey from Anbima. (BeinCrypto) (CoinTelegraph Brasil)
+
+📲 Adoption
+
+Itaú, Nubank and Banco do Brasil are among the world’s most bitcoin-friendly banks globally, according to a new report by Finery Markets. (CoinTelegraph Brasil)
+Bitybank has launched a new Lightning Network payments option, making it the first national exchange to offer such a service. (BlockNews)
+Foxbit announced a donation campaign to assist families impacted by severe flooding in southern Brazil. (CoinTelegraph Brasil)
+A labor dispute between the Central Bank and its employees appears to have been resolved, with both sides reaching an agreement that grants a 10.9% salary increase in January 2025 and another 10.9% bump in May 2026. (BlockNews)
+The federal government released a new guide recommending the use of blockchain in construction projects in the country. (CoinTelegraph Brasil)
+Mercado Livre founder Marcos Galperin defended his company’s decision to hold bitcoin on its balance sheet in an interview with The Economist.
+Portal do Bitcoin profiled Brazilian UFC fighter Renato Moicano, who plugged Austrian School economics in a viral post-fight interview from April 13.
+
+His interview was undeniably the best free advertising that the Austrian School has ever received in its 150 year history:
+
+“I love private property, and let me tell you something, if you care about your fucking country, read Ludwig Von Mises and the 6 lessons of the Austrian Economic School - motherfuckers.”
+
+Since the segment, which was streamed live on ESPN and other streaming services, Moicano has seen his following among bitcoiners grow significantly — topped off with an appearance on the Anthony Pompliano podcast last week.
+
+Fernando Martines of Portal do Bitcoin profiled Jericoacoara’s bid to become Brazil’s version of El Salvador’s “Bitcoin Beach”. The experiment appears to be working, as one can purchase goods at the market, eat at a restaurant and buy popsicles and ice cream from street vendors using the cryptocurrency.
+
+🏛 Policy, Regulation and Enforcement
+
+A new rule from the Receita Federal stipulates that crypto investors who lend out their assets must pay up to 22.5% tax on the interest received for their 2024 income tax declarations. CoinTelegraph Brasil notes that the agency did not specify whether the measure is valid for investors who loan cryptoassets on national or foreign platforms. (BeinCrypto)
+Big Brother Brasil 2024 winner Davi Brito and his sister, Raquel, had their Instagram accounts hacked by criminals who used the accounts to promote cryptocurrency investment scams. (Portal do Bitcoin)
+The CVM issued a warning to the public about Smarttool Trading SC Limited, which is says does not have authorization to operate in Brazil as a broker in the Brazilan securities market. The company has engaged in brokering cryptocurrency and other assets. (CriptoFacil)

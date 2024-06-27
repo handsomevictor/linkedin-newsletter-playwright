@@ -1,0 +1,123 @@
+🇧🇷BCR #67: Vote on Crypto Legislation Expected This Week Amid FTX Fallout
+Investors assess damage as FTX domino effect continues to play out
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal!
+
+Never let a crisis go to waste. The old adage is at play once again as the FTX collapse has provided the tapa na bunda necessary to get the Brazil’s Chamber of Deputies to revisit crypto legislation that stalled last summer ahead of election season.
+
+Before we dive into that, I’d like to address an elephant in the room issue. There is a lot of reputation laundering going on across the industry, as previously respected individuals and entities are now trying to salvage their reputations after they coddled up too close to FTX and SBF.
+
+I’m not going to name names or try to dunk on anyone for doing that, but I want to take this opportunity to emphasize that this precise scenario is why I’ve tried to stay free of any conflicts of interest. I’ve turned away a fair amount of money for various sponsorship and affiliate opportunities because, while I’m bullish on the industry long-term, it’s currently full of land mines and it’s impossible to predict where or when you might step on one.
+
+Because I view Brazil Crypto Report as a long term project, I took the conservative approach instead of short-term money-grabbing, as accidentally associating myself with something that blows up would be bad for my long term credibility. I’ve seen too many YouTubers and opinion leaders promoting dodgy things like Celsius and BlockFi (and even FTX) now trying to cover their tracks. I don’t want to be in that position, nor do I want readers to think that I’m compromised in some way.
+
+For the record, I’ve been funding myself primarily by applying to various protocol and DAO grant programs - NEAR, Celo, HBAR, etc. At some point early next year I will look again into monetizing via sponsorships or a subscription model.
+
+Maybe this is all TMI and you don’t care but I just wanted to be upfront about that.
+
+Have a great week everyone,
+
+-AWS
+
+💣Voting Open for 🇧🇷BCR 2022 Most Influential 2022
+
+Today we’re opening voting for BCR Most Influential for 2022. Please open this Google Form and cast your vote for the three individuals whom you believe contributed the most to the Brazil crypto world this year. I probably left some important people off by accident so please write in anyone I may have missed. I will put out a Top 10 list at the end of the year with mini profiles on each person, similar to what I did for 2021.
+
+Crypto Legislation (PL 4401) Back on Camara Agenda This Week
+
+If there’s any reason for positivity post-FTX, it’s that crypto legislation (known as PL 4401) is now a top priority in the Chamber of Deputies. Chamber President Arthur Lira is said to have assured representatives of the Banco Central and CVM that he would advance the bill quickly.
+
+Indeed, PL 4401, also known as the Marco Crypto is on the Chamber’s agenda for this week and can be voted on as early as Tuesday (Nov 22), though being on the agenda doesn’t necessarily mean that the bill will be voted on.
+
+Aureo Ribeiro, the author of the legislation, told Valor:
+
+“I believe it will be voted on next week, because it is approaching the final stretch of the year and President Arthur [Lira] has committed to analyzing the issue in the current legislature. It is urgent that we have regulations for the cryptocurrency market”
+
+A strong push is mounting for the asset segregation provision to be re-included in the legislation. The text would require that client assets be held in a separate account. Bernardo Srur of ABCripto argues that customer injury would have been mitigated had FTX been required to keep those funds segregated. In the event of a liquidation, the client assets would be separated from claims held by other creditors.
+
+“They would have been stored, they would not have been used by the company,” he told Valor.
+
+Andre Portilho, head of digital assets at BTG Pactual, commented:
+
+"It has to have segregation. Since it is an exchange, it has to have this complete segregation, not using customer equity for anything, unless it is a product that the client enters and allows to use that equity, as with loan of shares. Without this express authorization, with a contract, the brokerage can never enter."
+
+The argument against the rule is that it would restrict those assets to be used for things like staking and decentralized finance yield generation products, though there are some who dispute the premise of this.
+
+Daniel Mangabeira, director of institutional relations at Binance, articulated the need for regulation in a talk at the Crypto House of Commons event on November 18, arguing that it is necessary to bring new players and opportunities to the industry.
+
+According to Exame, Mangabeira sees PL 4401 as a positive development and believes it is close to passage. He sees the asset segregation provision as problematic, however, because it is lacking definition around what that means in practice:
+
+"First, the bill does not define what segregation is. This creates legal uncertainty, and I wanted to understand what it means, because segregation can be many things."
+“[I]t requires segregation of financial resources and digital assets, but they are different things that require different things. It is important to understand what the segregation of digital assets means, because financial resources are not even the competence of exchanges."
+
+In an interview with CoinTelegraph Brasil, Aureo Ribeiro stated that he’s confident the asset provision measure will be reinserted into the final text:
+
+“I believe that we will overturn this amendment that includes segregation. Banks do not segregate equity, why should there be segregation of an asset that grows, that advances, that is a new way of seeing the world?”
+Assessing the Damage
+
+Numerous Brazil crypto funds and asset managers came forward publicly to disclose their position vis-a-vis FTX and FTT. Thankfully most had little to no exposure.
+
+BLP Crypto, one of the oldest crypto fund managers in Brazil, took a 0.5% loss due to FTT. It claims that it had 2.1% of its Genesis Block fund in FTT tokens at the beginning of the month but managed to transfer them out of cold storage after CZ’s infamous November 6 tweet saying that he would liquidate Binance’s entire FTT position. BLP was able to sell two-thirds of the tokens for $22.50 and the other third for less. The fund also had the equivalent of 0.1% of its assets in bitcoin on FTX. BLP wrote in a letter to shareholders:
+
+“We have managed the Genesis Block Fund for nearly five years and have a strict cap policy for our contractors. We also have policies that do not allow leverage and asset leasing to counterparties.”
+
+QR Asset, the manager of the QR Capital holding company, reported no exposure to FTX and that its assets are custodied in segregated cold storage accounts with Gemini and Coinbase
+
+“Both FTX and the broker/custodian and its utility token, the FTT, do not meet the necessary governance and eligibility requirements that the investment process adopted by QR Asset requires and, therefore, are not part of the asset manager's coverage universe.”
+
+Hashdex emphasized that it did not have exposure to FTX, that it does not carry out loan, leveraged or unregulated derivative operations, and that it utilizes a segregated cold storage custody service for its assets - including Coinbase Custody, Fidelity Digital Assets, BitGo Trust and Anchorage Digital Bank.
+Titanium Asset reported that its funds do not have any exposure to FTT token
+Lemon Cash, the Argentine fintech which commenced operations in Brazil earlier this year, withdrew the funds it had invested with Alameda Research on November 3 when CoinDesk published now infamous article flagging the dodgy positions on Alameda’s balance sheet. The company also published a proof-of-reserves audit last week. (Bloomberg Linea)
+Andre Portilho of BTG Pactual called the FTX collapse a case of history repeating itself, comparing its misuse of customer funds to similar practices employed by Brazilian brokers in the 1980s.
+
+As exchanges around the world have lined up around the question of transparency of reserves, players operating in Brazil have taken various positions on the idea, per reporting by InfoMoney
+
+Bitso promised to soon release a solvency audit that includes both assets and liabilities, stating: “So far, we've seen a greater tendency for companies to share some of their assets but not disclose their liabilities. And we don't think this is providing the adequate level of transparency that is needed right now.”
+Mercado Bitcoin will not adhere to the proof of reserves framework because it is “too limited” and doesn’t demonstrate that the assets correspond to actual customer balances. It is advocating for the aforementioned asset segregation rules.
+NovaDax did not specify whether the company would adopt proof of reserves but emphasized that it has procedures in place to handle mass withdrawals
+Foxbit has added frequent reserve attestations to its 2023 roadmap
+Bitget, which officially launched in Brazil last week with Pix deposits enabled, says it will disclose its proof of reserve attestation within a month. The Singapore exchange has signed on Lionel Messi as an endorser ahead of the world cup.
+Phemex will disclose an audit of its reserves in December
+
+Brazilian FTX Users Get Rekt
+
+Even though FTX did not have a formal presence in Brazil (no registered CNPJ), there are reports of hundreds and potentially thousands of Brazilian users who have money trapped on the exchange.
+
+A CoinGecko analysis shows Brazil as the 10th most impacted country by the failure in terms of monthly unique visitors to the FTX.com website between January and October and 2022.
+
+One customer from Rio Grande do Sul, interviewed by InfoMoney, has R$700,000 (US$130,000) trapped on the platform after he combined the profits made from the stock exchange with two bank loans and invested the sum in crypto on FTX.
+
+Another trader interviewed by InfoMoney, Juliano Prado Carvalho, 35, from Ribeirão Preto, says he was attracted to FTX’s trading tools and the quality of its product and its aura of security. He explained:
+
+“The FTX tool was very good for trading. We had a lot of confidence in her. In my mind, it was the same risk as putting money in Itaú. You can't imagine that tomorrow Itaú will declare bankruptcy”.
+
+Another investor who worked for 28 years at Itaú said he opened an account with FTX to buy a coin that he he was having trouble purchasing on a DeFi protocol. He was not able to withdraw in time and ultimately lost US$6,500 worth of coins.
+
+“I trusted the rankings of brokers [and opened an account with FTX]. I didn't trust MetaMask very much. It's too complex for those who aren't used to it. If you make a mistake, you lose everything, you had to do [the transfers] little by little”
+“There is no time to do anything, unfortunately. If you're a little more connected and follow the rumors, and understand the market well, there's time to leave. But those who work straight, in the madness of life back and forth, that is, 99% of people, will only see the damage after it happened.”
+
+Marcelo Rocha, an entrepreneur from Rio Grande do Sul, transferred 95% of his holdings from cold storage to FTX with the intention of making a series of trades over 15 days. Assets worth US$17,000 were frozen after the exchange stopped withdrawals. He says he learned to trade by following various influencers online who also recommended FTX.
+
+Hopes of Brazilian investors recovering these funds appear to be slim to none, particularly as FTX is not a formal entity in Brazil and the few staff representing the company in the region have resigned. Ricardo Kassin, a bankruptcy specialist, told InfoMoney that injured customers must wait for the US bankruptcy proceeding to see if Brazilians will be included in the list of creditors. Recouping the funds could ultimately take 5-10 years, he stated.
+
+Class Action Lawsuits: A Glimmer of Hope?
+
+Bloomberg Linea reports that Ray Nasser, CEO of Arthur Mining, is preparing a class action lawsuit in the US against FTX on behalf of funds and investors from Brazil, Argentina and other Latin American countries. He looks to bring together a group of investors that lost at least US$35 million. Nasser is working with Brics Strategic Solutions and to develop the strategy and legal basis for the action, which will likely be brought in Florida or potentially the Bahamas.
+
+Unrelated, Nasser did an interview with my friend Will Foxley the The Mining Pod to discuss bitcoin mining in Brazil. Worth a listen/watch.
+
+Brazilian supermodel Gisele Bündchen is among the FTX-endorsing celebrities to be named as defendants in a separate class action lawsuit from filed by investors seeking US$5m in damages. The case is also being filed in Florida. The plaintiffs in the lawsuit are being represented by superlawyer David Boies, who previously represented victims in the Theranos case and other notable scandals.
+
+BRZ Stablecoin Stabilizes After Breaking Peg
+
+BRZ, the real-pegged stablecoin issued by Transfero, which had close ties to FTX, has stabilized after two weeks of extreme volatility. FTX was by far the most liquid marketplace for the token, per CoinMarketCap.
+
+Source: Livecoins
+
+Thiago Cesar, CEO of Transfero, opined that while the FTX collapse will surely impact investor sentiment in Brazil, he doesn’t expect demand for the international payments use case to diminish. He told CoinTelegraph Brasil:
+
+“A good part of the volume of cryptocurrencies traded in Brazil comes from players who are willing to exchange their local currency for an internationally liquid asset denominated in dollars. So in that sense, the market is not going to go down because cryptocurrencies are just rails for that.”
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

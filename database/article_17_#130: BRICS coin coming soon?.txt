@@ -1,0 +1,148 @@
+#130: BRICS coin coming soon?
+Plus: Receita Federal releases new crypto tax reporting rules; Binance compliance chief pays a visit to Brazil
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+Welcome back to 🇧🇷Brazil Crypto Report for the week of March 4 - 8, 2024. I hope everyone is enjoying this fresh bull market!
+
+ICYMI my post yesterday - Ethereum Rio 2024 is back on and happening May 13-15. Brazil Crypto Report is excited to be an official media partner for the event and will be helping with the content curation alongside Ethereum Brasil.
+
+Our call for speakers is open until March 31 if you’re keen participate. If you’re interested in sponsoring please submit an inquiry through this typeform.
+
+Thanks for reading and have a great week everyone.
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🎙New podcasts
+
+For this week’s episode I am joined by Luca Cosivi, who is one of the organizers of ETHSamba and Rio Onchain Week - which takes place March 19-24 in Rio de Janeiro.
+
+Rio Onchain Week is a chain-agnostic, weeklong series of community-organized meetups, workshops and networking events - capped off by the second annual ETHSamba hackathon. Hope to see some of you there.
+
+There are still some last minute hackathon sponsorship opportunities available alongside Scroll, Ethereum Foundation, Ledger, Near and Intmax. If that’s of interest, you can have a look at the ETHSamba deck and hit up Luca on Telegram if you want to learn more.
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Receita Federal releases new crypto tax changes
+
+Brazil’s tax authority has released new rules for crypto asset reporting. Crypto traders and investors must now identify whether their crypto assets are stablecoins, altcoins or bitcoin.
+
+Taxpayers must also report the CNPJ (unique business identifier) of the entity that serving as the custodian for the crypto assets.
+
+Those holding cryptos in foreign brokerages will also see their declaration process change, pursuant to Law 14,754/2023, which was passed last year and created new rules for Brazilians with overseas assets. However, not all cryptos will be subject to this law. The agency said by March 15 it would issue further guidance on tax treatment for overseas crypto assets.
+
+José Carlos da Fonseca, national supervisor of the agency’s income tax program, said in an press conference:
+
+“Before you declared the cryptoactive and put a description. Now, you will be required to select what type of crypto you have. If it is an altcoin it will open a list, if it is a stablecoin it will open another list.”
+
+Portal do Bitcoin Exame BeinCrypto CoinTelegraph Brasil Livecoins
+
+The Receita Federal introduced the new rules in a YouTube presentation.
+
+BRICS to create blockchain-based payment system to rival dollar
+
+The BRICS group of countries (Brazil, Russia, India, China, South Africa) will work to build a blockchain-based payment system with the goal of increasing the bloc’s importance in the international monetary system and increasing settlement in non-USD currencies.
+
+Kremlin spokesman Yury Ushakov told Russian state news agency TASS:
+
+“We believe that creating an independent BRICS payment system is an important goal for the future, which would be based on state-of-the-art tools such as digital technologies and blockchain. The main thing is to make sure it is convenient for governments, common people and businesses, as well as cost-effective and free of politics.”
+
+Ushakov added that the system, called BRICS Bridge, would enable “economic and politics-free” payments for everyone, including governments and “ordinary people.”
+
+CoinDesk CoinTelegraph Brasil
+
+CVM extends exemptions for regulatory sandbox participants
+
+estar.finance, BEE4 and Vórtx QR Tokenizadora have received exemptions to operate in the CVM (Brazilian SEC) regulatory sandbox until 2026.
+
+Estar Finance operates a secondary market trading platform for fixed income and equity tokens. It has listed R$20 million (US$4 million) worth of assets since launching in March 2023.
+
+BEE4 is a blockchain-based over-the-counter marketplace for trading shares of small to medium-sized companies with up to R$300 million (US$60 million) in annual revenue.
+
+Vortx QR Tokenizadora issued the first tokenized debentures and tokenized bonds in Brazil.
+
+Valor
+
+Binance’s compliance chief visits Brazil
+
+Noah Perlman, Chief Compliance Officer at the world’s largest crypto exchange, passed through Brazil last week to meet with local partners and authorities in Rio de Janeiro and Brasilia.
+
+The visit comes several months after Binance reached a US$4.3 billion settlement with the US government over lapses in its anti-money laundering and counter terrorism financing practices. The settlement saw the ousting of Changpeng Zhao as CEO and the installation of a US government appointed “monitor” who will point any compliance flaws to authorities.
+
+Binance Brasil came under heavy pressure in Brazil last year during a special congressional investigation into financial pyramids. The committee asserted that most of the major crypto pyramid scheme operators in Brazil used Binance to send customer funds out of the country. The committee also urged the Central Bank of Brazil to reject Binance’s bid to acquire the Sim;paul brokerage - a move that would make a the exchange a regulated institution under the Central Bank.
+
+In an interview with Valor's Toni Sciarretta, Perlman explained that Binance has ramped up globally its investments on the compliance side of the business following the settlement, with an intent to minimize opportunities for jurisdictional arbitrage.
+
+Perlman elaborated:
+
+“We intend to have a globally consistent model, with real connection between teams. We have similar standards and processes, but we know that each region has specific issues. Therefore, we rely on local knowledge, ensuring compliance with all rules, requirements and expectations of regulators.”
+
+Further, having the monitor in place gives institutional counterparties and traders an extra degree of certainty that best practices are being adhered to, he explained:
+
+“There will probably be no other safer ‘crypto’ platform to operate on than ours in the next five years.”
+CVM’s case against Binance could take another 3 years
+
+A lawsuit against Binance by Brazil’s securities regulator could take several more years to complete, even though the CVM reckoned that the case “appears to be less complex” than matters normally considered by the agency.
+
+The maximum period of time for considering the lawsuit is 1,518 days, with 598 days already having elapsed. The agency disclosed the information to Fernando Martines of Portal do Bitcoin in a response to a freedom of information request.
+
+The CVM re-opened its case against Binance in July 2022 after it was revelealed that the exchange was continuing to offer derivatives products to Brazilian customers despite a stop order.
+
+Share via Whatsapp
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Hashdex's HASH11 crypto index fund registered R$128 million (US$25 million) in transactions on Tuesday, May 5 when bitcoin first breached its all time high. It was the fund’s highest daily transaction volume since January 2022.- Hashdex has seen 32,000 new shareholders enter its crypto ETFs since the beginning of the year, bringing its grand total to 227,000 total investors.- The asset manager’s total AUM has nearly doubled since the start of the year, jumping from R$2.8 billion (US$560 million) to R$4.1 billion (US$820 million).- Hashdex now manages approximately 75 percent of the crypto funds and ETFs in Brazil- Hashdex CIO Samir Kerbage explained to Valor:
+
+"We've been talking about this for some time that 2024 and 2025 are going to be very promising years within this natural market cycle. 2023 was very good, but still recovering; now it's going to be that 'bull market' moment with crypto is once again a 'hot topic'. In fact, this cycle is faster than we had imagined. We thought the record would only be in October, but it came now."
+
+What’s the better investment opportunity? Hashdex’s HASH11 ETF or the new Blackrock IBIT39 bitcoin ETF now trading on the B3? InfoMoney explores
+BTG Pactual is formally recommending that its clients allocate 0.5% to 1% of their investment portfolio to bitcoin and crypto assets. (Valor Investe) (Exame)
+Exchange Digitra.com has listed popular memecoin DogWifHat (WIF), enabling Brazilians to buy the token using a Pix transfer. (Livecoins)
+Brazil originated R$13.5 million (US$2.7 million) of inflows into crypto funds last week, according to data from CoinShares. (CoinTelegraph Brasil)
+Mercado Bitcoin launched Digital Variable Income real world asset tokens, with profitability linked to portfolios of sports and startup assets. CEO Reinaldo Rabelo explained in a statement:
+
+"Digital Variable Income not only diversifies the portfolio of those who invest, but also contributes to economic development by supporting the growth of startups from different sectors and even more exclusive markets, such as sports. With a significant volume transacted already At launch, MB aims to reach the R$100 million mark in origination in 2024.” (CoinTelegraph Brasil)
+
+Liqi Digital Assets intends to tokenize R$500 million (US$100 million) worth of real world assets in 2024, an effort that will be led by capital markets veteran André Pina. He said in a statement:
+
+“Liqi, with its work focused on tokenization, is a very promising company, because tokenization brings with it a whole opportunity, via the issuance of smart contracts, to resolve several of these obstacles that the market has always had and, thus, allow more democratized and transparent access.” (CoinTelegraph Brasil)
+
+Memecoin mania has hit Brazil, as many of the most searched coins by Brazilians on CoinGecko include memecoins like Yak, Pepe UWU, MAGA, Baby Doge Coin, etc.
+
+📲 Adoption
+
+Augusto Backes, a popular Brazilian crypto influencer, lost R$1 million (US$200,000) worth of crypto after falling victim to a phishing attack. (InfoMoney) (Livecoins) (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+Mercado Bitcoin announced that its custody and financial statements are now being audited annually by EY. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Solana Foundation is looking to double the number of Brazilian prize winners in its ongoing Global Hackathon, which will give away US$1 million in awards. (CriptoFacil) (CoinTelegraph Brasil)
+Banco do Brasil and Giesecke+Devrient are working to test offline payments using the Drex network. (Isto é Dinheiro)
+Banrisul, a bank owned by the state of Rio Grande do Sul, announced that it is partnering with Serpro to test new technologies such as oracles for the Drex environment. (CoinTelegraph Brasil)
+A Brazilian trader lost R$850,000 (US$170,000) in bitcoin after downloading a fake bitcoin wallet. (Livecoins)
+KriptoBR, the physical wallet reseller, is acquiring Cripto Planet, which is a popular t-shirt and accessories store in Brazil dedicated to cryptocurrencies. (Livecoins)
+Ripio Ventures is seeking 10 Web3 startups for its LAceladora blockchain accelerator program to build in the LaChain ecosystem. CEO Sebastian Serrano explained:
+
+“Last year’s edition was a great success and we are committed to continuing to contribute to the growth of the crypto ecosystem with this new edition of LAceleradora. While any entrepreneur with a Web3 project can apply, we are especially interested in those focused on DeFi, payments, gaming, NFTs, infrastructure and social.”
+
+“Women in Latin America are no longer afraid to invest in cryptocurrencies”, proclaimed Bitget managing director Gracy Chen in an interview with CoinTelegraph Brasil. She explained that more than a million female traders in the region are actively involved in digital asset trading.
+
+🏛 Policy, Regulation and Enforcement
+
+The Central Bank of Brazil formally named regulation of cryptocurrency markets as one of its top three priorities for 2024. (Portal do Bitcoin) (Livecoins) (Exame)
+Braiscompany co-founders Antonio Neto Ais and Fabricia Campos used cryptocurrencies to live in Argentina for a year before being arrested last week. (BeinCrypto)
+A victim of the Braiscompany pyramid filed a petition that the company be declared bankrupt and that the process of reimbursing creditors be initiated. The filing states:
+
+“When the scandal became public, the company's partners disappeared, having abandoned it without leaving anyone responsible, failing to comply with all contractual obligations with third parties, leading to the company's total inoperability and complete closure of its activities, with no doubt that the company The promoted party must have its bankruptcy declared by this Court.” (Portal do Bitcoin)
+
+The CVM has prohibited a company owned by Empiricus co-founder Marcos Elias from offering investment analysis services. The entity’s Institutional Investor Supervision body said that Contra Corrente was offering these services without regulatory authorization. (Portal do Bitcoin)
+The CVM also issued a R$637,000 (US$127,000) fine against a company that promised profits of 5% monthly returns via a trading robot. HSFX Trader, the entity, and its representative Humberto Alexandre de Figueiredo were named in the action. (Portal do Bitcoin)
+An attorney who was shot dead in Rio de Janeiro earlier this month was beginning to work in the online casino sector after previously representing a victim of the “Pharaoh of Bitcoins” Glaidson Acacio dos Santos. (Portal do Bitcoin)
+An influencer named @Filippe Barreto Sims was arrested for stealing R$4 million (US$800,000) from an elderly couple in Campo Grande. (Portal do Bitcoin)
+Police in Rio de Janeiro uncovered a clandestine electricity connection in Tijuca that was being used to power 16 bitcoin mining stations. (CoinTelegraph Brasil)
+
+

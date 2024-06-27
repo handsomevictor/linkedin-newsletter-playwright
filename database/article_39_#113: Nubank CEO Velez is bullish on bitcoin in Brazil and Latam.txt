@@ -1,0 +1,127 @@
+#113: Nubank CEO Velez is bullish on bitcoin in Brazil and Latam
+Plus: New Brazil data in Chainalysis Geography of Cryptocurrency 2023; CPI wraps up investigation into crypto pyramids
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of October 9 - 13, 2023! I hope you all got a brief adrenaline rush out of yesterday’s bitcoin ETF fake news fire drill and avoided getting rekt.
+
+This edition is the standard news rundown for the week, as I decided to devote Sunday’s edition to exploring the Binance/CPI situation in-depth.
+
+Today, we look at new Brazil data from Chainalysis’s 2023 Geography of Cryptocurrency Report, a remarkable interview with Nubank CEO David Velez, and the conclusion of the Brazil Congress’ investigation into cryptocurrency pyramids.
+
+Also, if you're reading this on Linkedin I highly recommend subscribing via Substack as well (free) for additional content on Brazil and Latam. Greatly appreciated 🙏
+
+As always, thanks for reading and have a great week!
+
+-AWS
+
+👊 Friendly reminder that if you enjoy this content, please consider following 🇧🇷Brazil Crypto Report across the web. It’s a free and easy way to support my work! Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🎙New podcast episodes
+
+If you want to better understand the CPI/Binance situation, I recommend having a listen to this episode with Portal do Bitcoin reporter Fernando Martines and Mercado Bitcoin executive Daniel Carneiro da Cunha.👇
+
+Also worth checking out this episode I recorded onsite at Blockchain.Rio last month in Rio with Sonica CEO Alexandre Adoglio.
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+CPI concludes, recommends indictments against 45 individuals
+
+The special congressional committee exploring financial pyramids officially concluded last week and published a final 500 page report of findings and recommendations on October 9.
+
+The final report proposed the creation of three new pieces of legislation that would impact the cryptocurrency market:
+
+The first would existing law to define and increase penalties for individuals who operate fraudulent pyramid schemes. A similar bill advanced in the Senate that would increase the penalty for operating a pyramid scheme to up to eight years in prison and hold responsible individuals who help to promote such schemes
+The second would create new rules for companies operating in the crypto space, including asset segregation requirements and a prohibition on offering derivatives products without CVM authorization.
+The third would regulate the hiring of digital influencers for advertising or marketing when there are benefits or advantages involved for both parties
+
+“The onerous contractual relationship between an influencer and his contractor — or contracts made by intermediaries — must be disclosed by means of a notice, in a clear and easily visible manner.”
+
+The committee also proposed new rules on frequent flyer loyalty programs in light of its unearthing of fraudulent behavior by 123Milhas, which in August suspended travel package deals purchased by customers, but that’s not crypto-related so we’re not going to dive into that here.
+
+The CPI also recommended indictments for 45 individuals (including the Binance execs which I discussed in Sunday’s post). Notable names on this list include:
+
+ex-Brazilian football star Ronaldinho Gaucho, though he rejected the committee’s accusations arguing that there exists “not even the slightest hint of proof of any illicit act” and that the committee is attempting to “gain the spotlight through the names of personalities.”
+“Pharaoh of Bitcoins” and GAS Consultoria owner Glaidson Acacio dos Santos
+Adriano Froes of OWS Brasil
+Antonio Inacio da Silva Neto and Fabricia Farias Campos of Braiscompany
+Glaidson Tadeu Rosa, Carlos Eduardo de Lucas and Christian Jardiel Guimaraes Braz of MSK Investimentos
+Matheus Muller Ferreira de Abreu, Rodrigo Marques dos Santos and Fabricio Spiazzi Sanfelice Cutis of Atlas Quantum
+Diorge Roberto de Araujo Chaves, Diego Ribeiro Chaves, Fabiano Lorite de Lima, Patrick Abrahao, Ivonelio Abrahao da Silva of Trust Investing
+Francisley Valdevino da Silva (aka “Sheik of Bitcoins”) of Rental Coins
+
+(Portal do Bitcoin) (Valor) (Valor) (Exame) (Exame) (BlockNews) (CoinTelegraph Brasil)
+
+Brazil institutional crypto flows down in 2023, says Chainalysis 
+
+Institutional demand for crypto in Brazil trended downward in the first half of 2023, according to preliminary data from Chainalysis’ 2023 Geography of Cryptocurrency Report. The decline was witnessed in the aggregate number of large institutional-sized transfers, and these transfers accounted for a smaller overall share of activity.
+
+However, these transfers began to trend upward again beginning in May.
+
+Still, professional and retail transaction volumes remained largely the same throughout the 12 month period observed. This is an optimistic signal that suggests institutional users will return in the next cycle , Chainalysis writes:
+
+“The data paints an optimistic picture for the Brazilian crypto market. Even in crypto winter, the so-called “middle class” of high-value crypto traders, along with basic retail users, stuck with the asset class.”
+
+Chainalysis also analyzed exchange order book data from popular Latin American exchanges to compare crypto purchases made with Brazilian Real vs Argentinian Peso. Argentinians had a strong preference for USDT stablecoins, whereas Brazilians for bitcoin, ether and altcoins. These findings aren’t surprising given the respective macro climates in these countries, but it is interesting to see the visual comparison.
+
+Nubank’s David Velez explains why he’s bullish on bitcoin in an interview with Fortune 
+
+Fortune had a remarkable interview with Nubank CEO David Vélez, in which he goes in depth into his views on bitcoin and blockchain.
+
+In just the last two years, Nubank has doubled its customer base in the country from 40 to 80 million and is currently the fourth-largest financial institution in Brazil. Due to this scale, the digital bank has become a massive onboarding vehicle for crypto. It enabled crypto buys on its platform in July 2022, and within 3 weeks had more than one million customers holding crypto on its platform. I've aggregated a few interesting nuggets from this interview that help us better understand Velez’s and Nubank's perspective on crypto:
+
+"We are generally bullish in the future of certain cryptocurrencies as investment products. We are believers in Bitcoin as an asset that consumers should invest behind, and therefore we offer a crypto investing platform."
+"We’re believers in offering either Bitcoin or even stablecoins of the U.S. dollar as a way for customers to invest behind and protect their savings."
+"We are also believers in the blockchain generally as a new technology that might open up disruption in several verticals in the economy," he said, highlighting Nubank's participation in Banco Central do Brasil's Drex CBDC project
+
+Regarding the timing of Nubank's foray into crypto (ie during the middle of crypto winter), Velez stressed the nuanced approach his team is taking:
+
+"We’re a bit late to the game, but we’re very focused on trying to differentiate what’s just pure speculation in the crypto world from what is real about the technology... We think Bitcoin is differentiated from everything else, and there are a couple of other tokens that make sense. We even launched our own token, Nucoin, which already over 8 million of our customers are using actively."
+
+Regarding Pix, Brazil's instant payment system launched in 2020, he says it is "probably the most successful payment infrastructure run by a government in history" and that it has positioned Brazil five years ahead of the US in terms of financial innovation 
+
+"I don’t think anybody understands that...I think it’s probably the biggest disruption, or one of the biggest disruptions, in financial services in the world...Eventually, global payments will be looking like a global Pix, where everybody has access to payments and everybody has access to digital cash."
+
+The full interview is quite remarkable and worth a read if you have a few minutes to spare.
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Crypto asset manager Hashdex has partnered with HMC CAPITAL to offer crypto fund products to institutional clients like pension funds, family offices and wealth managers. The partnership will help to distribute Hashdex’s flagship products, such as its HASH11 ETF, to a broader institutional client base. The partnership is timed to take advantage of CVM Resolution 175, which allows for the direct purchase of crypto assets by investment funds. Hashdex CIO Samir Kerbage told Valor:
+
+“We never ended up having much institutional attraction due to the lack of regulatory clarity…The environment is much more conducive than in the past and we are in the educational challenge phase so that investors understand the role that a crypto allocation can have in a traditional portfolio.”
+
+Lucas Gabriel Marins of InfoMoney has a good explainer on the current state of fixed income tokens in Brazil, particularly now that the Central Bank is expected to reduce its baseline Selic interest rate to 12.25% at the Central Bank’s next meeting.
+Crypto funds in Brazil saw an outflow of US$1.7 million during the week of October 2-6. (Portal do Bitcoin)
+BEE4, a platform for trading tokenized shares of SME companies, has traded more than 110,000 tokens - worth a combined total of R$2 million - since it launched roughly a year ago. The platform, which operates in the CVM’s regulatory sandbox, has enabled investments in food company Mais Mu and reproduction technology startup Engravida. (Exame) (CoinTelegraph Brasil)
+Mercado Bitcoin’s Fabrício Tota spoke to Gino Matos of CoinTelegraph Brasil about the Brazilian real world asset (RWA) tokenization ecosystem.
+
+“What made this market grow here in the country was our capital market structure and investor appetite. Brazilian investors have historically had an appetite for fixed income securities, due to high interest rates in Brazil. [...] An example are real estate funds which, although they are variable income investments, have characteristics of fixed income assets, and they have exploded in popularity.”
+
+Swiss startup Backed Finance AG issued the first security token on the Coinbase Base blockchain and is eyeing the Brazilian tokenization market with the hire of Bernardo Quintão as business development leader for Latin America. Quintao previously held roles at Mercado Bitcoin and Liqi. He told BlockNews
+
+“Backed chose Latin America, and specifically Brazil, for its first regional expansion, understanding that the country is at the forefront of global financial innovation, with a favorable regulatory environment, just like Switzerland.”
+🪙 Drex (formerly Digital Real)
+
+Central Bank President Roberto Campos Neto highlighted how Drex differs from other CBDC projects around the world during remarks at XXXIII Encontro de Lisboa, a meeting of central banks of Portuguese-speaking countries.He highlighted that the Drex solution of creating a token issued by a bank derived from a tokenized bank deposit is “easier and better” than solutions being proposed by other countries because it introduces the concept of tokenization, won’t disintermediate existing banks and will reduce the cost of doing business in Brazil.
+
+"It's a currency whose format is very different from what I see out there, because we understand that the main challenge of making digital currency was not to disintermediate banks.”
+"This generates modernization in terms of risks, asset management, funding, collateral management, so there is a very large positive externality for banks to start doing this.” (UOL)
+
+Central banks around the world are closely monitoring Brazil’s Drex pilot, revealed Rogério Lucca, head of the Banking Operations and Payment System Department at the Banco Central do Brasil (Deban) and coordinator of the Drex Forum.
+
+“Internationally, the Drex Pilot has been monitored by other central banks, multilateral bodies and international companies with the prospect that its development will address issues central to the development of the industry.” (CoinTelegraph Brasil)
+📱Adoption
+
+Fan token platform Socios.com is partnering with Italian sportscar manufacturer Alfa Romeo for an activation at the Brazilian Formula 1 Grand Prix, which will take place November 3-5 in São Paulo. (Portal do Bitcoin)
+180 stores in the city of Rolante, Rio Grande do Sul, now accept bitcoin as payment. (Portal do Bitcoin)
+Greentech firm BMV Global has created a platform for trading environmental conservation assets, using blockchain guarantee security and traceability. (CoinTelegraph Brasil)
+Brazil beer Public Good received a US$45,000 contribution from NounsDAO for a project to incorporate NFTs into its artwork and intellectual property. (BlockNews)
+
+🏛 Policy, Regulation and Enforcement
+
+US-based crypto tax startup TaxBit has joined ABCripto. (Portal do Bitcoin)
+A Pix scam that diverts Pix transactions has already tried to attack 6,000 Brazilians, according to a study by cybersecurity firm Kapersky. (Portal do Bitcoin)
+A Sao Paulo court denied two appeals submitted by Athletico Paranaense striker and former Fluminense Willian Bigode in response to a lawsuit filed by Palmeiras defender Mayke, who lost R$11 million in the crypto investment platform Xland in which Bigode was affiliated. (CoinTelegraph Brasil)
+
+

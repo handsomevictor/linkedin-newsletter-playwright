@@ -1,0 +1,100 @@
+🌎 Latam Crypto Report #7: Binance gets El Salvador crypto license
+Also: Argentina investigates Worldcoin; pro-bitcoin candidate takes 30% of vote in Argentina presidential primary 
+
+¡Hola a todos! 👋
+
+Welcome to the latest edition of the Latam Crypto Report.
+
+This week's post is by Kristin Majcher, a freelance journalist based in Bogotá, Colombia and former Latin America correspondent at The Block. Latam Crypto Report is a sister newsletter to Brazil Crypto Report.
+
+Please be sure to follow her on Twitter and LinkedIn and pass along any news stories she should be know about.
+
+Alright, let’s dive right in to this week’s news. We’ll examine Binance’s new licenses in El Salvador, and Argentina’s investigation of the Worldcoin project. We’ll also go through our usual rundown of regional crypto news.
+
+🎧 If you haven’t already, please be sure to have a listen to this week’s 🇧🇷Brazil Crypto Report podcast interview with Paysafe’s head of Latam Leandro Pereira on Spotify, Apple Podcasts, Amazon, Anchor or YouTube.
+
+🙏 Also, if you enjoy reading this content on Linkedin please consider subscribing on Substack. It's a better experience, you'll get additional content and it helps out a ton! 
+
+As always, thanks for reading. If you found this content to be helpful, please share this newsletter with friends and be sure to subscribe.
+
+-AWS
+
+Binance receives El Salvador licenses
+
+Global exchange Binance received a pair of licenses to operate in El Salvador, the company announced on August 8.
+
+Binance said El Salvador’s Central Reserve Bank granted the company both a “Bitcoin services provider” license and “the first non-provisional digital assets services provider license” in the country.
+The licenses allow Binance to expand its products in El Salvador and focus on tailored offerings, Daniel Acosta, Binance General Manager for Colombia, Central America, and the Caribbean said.
+Binance said it is the “first fully-licensed” crypto exchange in El Salvador. In April, Bitfinex received what it described as “El Salvador’s first-ever digital assets license” issued under the country’s new digital asset issuance law.
+Binance said it now has registrations in 18 markets globally. The company was sued by the U.S. Securities and Exchange Commission (SEC) in June, and made a deal with the regulator later that month to keep customer assets in the country until the lawsuit is resolved.
+
+Binance’s Latin America head Min Lin said:
+
+“This announcement comes after many months of dedication from our team to provide all information and proceed with the necessary due diligence required by the agencies, showcasing our commitment to the Salvadoran market and our users.”
+
+(CoinDesk, CoinTelegraph, Fortune, Decrypt, Blockworks, Binance)
+
+Argentina investigates Worldcoin
+
+Argentina’s Agency for Access to Public Information (AAIP) has started investigating Worldcoin, the project from OpenAI CEO Sam Altman offering people crypto in exchange for scanning their eyeballs.
+
+The agency said it is investigating how Worldcoin treats personal data in Argentina, with the aim of verifying its security measures within the context of laws protecting personal information.
+“The investigation will carefully analyze the processes and practices in relation to the collection, storage and use of personal data,” the AAIP noted in Spanish, adding that “appropriate steps will be taken to address any identified issues and ensure that the company complies with security and privacy standards.”
+Worldcoin told CoinDesk that the project is compliant with personal data laws in Argentina and other areas where it is available. However, Argentina is not the first government to scrutinize Worldcoin. Kenya’s government recently suspended its operations, and some European regulators are also looking into the project.
+AAIP said entities collecting personal data must register with the agency, among other things.
+The AAIP said the case has been gaining attention in recent weeks, as people around the country have been getting their faces and eyeballs scanned “in exchange for financial compensation.” This has happened in the city of Buenos Aires and its surrounding province, plus the provinces of Córdoba, Mendoza and Río Negro.
+
+(CoinDesk, La Nación, Livecoins, CoinTelegraph, The Block, Infobae, Exame, AAIP)
+
+MidJourney prompt: Argentina government officials investigate a company that scans people's eyeballs with a giant metallic orb
+🗞 Latin America Crypto News Rundown
+
+Here’s where we break down Latin America crypto headlines from the past few weeks, organized by country and region. If you don’t see a country listed, it’s simply due to the flow of news during a particular week.
+
+Regional News
+
+Bahamas-based Island Pay partnered with Circle to launch a new USDC wallet called CiNKO in Latin America. (Bloomberg, Crypto News, Circle)
+Bitso joined Stellar’s Anchor Network to expand international USDC payments between three Latin American countries and the world. (CoinDesk)
+Applications for Gitcoin Grants are open until August 15, with the Meta Pool Latam round offering $25,000 in DAI through a matching pool. The Latam round description states:
+
+Meta Pool and Gitcoin are contributing to a fund together along with other public goods maxis. This pool serves as a nexus for multiple projects that can access sustainable funding in a decentralized way. Staking reward fees from the first 1000 ETH delegated to the Meta Pool protocol will recirculate to budding builders from the rising economic powers in Latin America.
+
+Hardware wallet manufacturer Ledger is looking to expand in Latin America. (CriptoNoticias)
+
+South America
+🇦🇷 Argentina
+
+Ripio launched a dollar-pegged stablecoin called the Criptodólar (UXD) in Argentina and Brazil. (Bloomberg Línea, CoinDesk, El Cronista, Portal do Bitcoin) 
+Crypto influencer Fernando Pérez Algaba was found dead. (People, El País, La Nación, Portal do Bitcoin)
+Argentina’s Ministry of Economy announced a new energy cost increase for crypto miners. (Livecoins)
+Num Finance partnered with TruBit to expand access to the nARS stablecoin pegged to the Argentine peso. (Contxto)
+Authorities raided 23 offices and homes connected to CoinX World, La Nación reported. The platform, now defunct, has been under investigation for allegedly being a ponzi scheme. Presidential candidate Javier Milei was sued last year for allegedly promoting a scam after posting about CoinX on social media. (Infobae, La Nación, Portal do Bitcoin, CriptoNoticias)
+In a surprise showing, Milei got the biggest share of votes in Argentina’s presidential primaries on August 13. The far-right, pro-Bitcoin candidate won just more than 30% of the vote, much to the delight of bitcoiners on X/Twitter. (CoinDesk, Decrypt, El País)
+
+🇨🇴 Colombia
+
+Near Foundation partnered with Web3 social network Blumer, which provides its users with rewards tokens for watching ads, selling NFTs and performing crypto transactions on its mobile app. (CoinDesk, Near Foundation)
+
+🇵🇾 Paraguay
+
+Bitcoin miner Bitfarms is expanding its Paraguay operations. The company has secured two agreements to add up to 150 megawatts (MW) of hydropower capacity, CoinDesk reported. (CoinDesk, Seeking Alpha, The Crypto Times)
+Sazmining is opening a renewable bitcoin mining facility in Paraguay, which will use surplus energy from the Itaipu Dam. (The Block, Decrypt, Bitcoin Magazine, Sazmining, CoinTelegraph)
+Paraguay’s crypto community seems to be optimistic about the country’s incoming president, Santiago Peña. (BeInCrypto)
+
+🇵🇪 Peru
+
+A presidential decree in Peru now requires crypto exchanges operating there to comply with anti-money laundering requirements. (Portal do Bitcoin, CriptoNoticias)
+
+Central America & Mexico
+🇸🇻 El Salvador
+
+El Salvador’s bonds were up 62% in late July, during a six-month period when Bitcoin rose 79%. (CoinDesk)
+Bitcoin remittances to El Salvador dropped 16 percent during the first half of 2023, according to statistics from the central bank collected via the Chivo wallet.
+US$4 million in remittances were sent to El Salvador during the period, though only 1.2 percent used bitcoin. (CriptoFacil)
+
+🇲🇽 Mexico
+
+The U.S. Department of Homeland Security (DHS) is tracing cryptocurrency used by Mexican cartels. (NBC)
+Mexican neobank Albo has purchased fintech Delt.ai for $20 million. Albo offers crypto trading among its services. (Contxto, PR Newswire)
+
+

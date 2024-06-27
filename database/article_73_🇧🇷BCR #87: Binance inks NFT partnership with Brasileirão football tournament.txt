@@ -1,0 +1,86 @@
+🇧🇷BCR #87: Binance inks NFT partnership with Brasileirão football tournament
+Plus: Central Bank to include tokenized public debt in Digital Real pilot; another Brazilian crypto fund shutters
+
+(NOTE: in light of the ongoing kerfuffle between Twitter, Substack and other social media platforms that threaten distribution channels, I'd encourage readers to subscribe to Brazil Crypto Report on Substack to ensure you're receiving everything!)
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of April 10-14, 2023! I paid my taxes this weekend so feeling relieved until next April 🙏
+
+You may have seen that our sister 🌎Latam Crypto Report publication is ramping up in an effort to cover the region more broadly. It is written by my friend Kristin Majcher, who until recently was the Latin America correspondent for The Block.
+
+Be sure to take a look at this if you’re looking to learn more about the region beyond Brazil. Feedback is always welcome on how we can make this better/more useful.
+
+🚨Also, if anyone is planning to be at Consensus in Austin later this month I’d encourage you to stop by the Filecoin Network Base side event, which we’re hosting April 24-26 ahead of the main Consensus event which officially runs the 27-28th.
+
+☕️ I’m also helping to spin up a Brazil/Latam Builders breakfast for one of the Consensus days with Conor from Ethereum Brasil. Details to come but please try to stop by if you’re in town!
+
+-AWS
+
+Central Bank unveils new Digital Real pilot details
+
+At a public workshop hosted last week in Brasilia, the bank confirmed that it will include federal government bonds in its Digital Real CBDC and tokenization system.
+
+This means that three products in total will be tested in the pilot: the Digital Real CBDC, the tokenized real and the federal public bond.
+
+Rogério Lucca, head of the BC’s Banking and Payment System Department, said the proposal to include government bonds in the test was reviewed and approved by the National Treasury. He stated:
+
+“A requirement tested on the platform will be asset fragmentation, that is, [the ability to] transact up to 1 cent of a real, or one hundredth of a federal government bond,
+
+The tokenized bonds will be issued inside of Treasury Digital Wallet housed on a private DLT. Marcus Sucupira, Deputy Chief Department of Open Market Operations, said during the workshop:
+
+“We will limit, at first, to the currency, without expanding the BC electronic liabilities, we will allow bank deposits to incorporate the retail transaction capacity of end customers and, in order to ensure and test DVP transactions [ Delivery versus payment], we proposed that the asset to be traded is the federal public title, something with what the Treasury agreed.” (Valor Investe) (BeinCrypto) (InfoMoney)
+
+One of the primary motivations driving the Digital Real is the tokenization of the Brazilian economy and financial system. Of concern to the Central Bank is the organic growth of the tokenization market in the country, particularly that these assets continue to be settled using private digital currencies outside of the government’s purview. Lucca stated:
+
+“For distributed technology and tokenized assets, we don't have an infrastructure. What happens is that, often, when you have the development of tokenized assets, these transactions end up having to be settled through private stablecoins, bringing uncertainty to the national financial system.”
+Binance inks partnership with Brazilian Football Confederation (CBF)
+
+The exchange will launch the first NFT in the history of the Brasileirão. The NFT Season Pass will provide fans with access to exclusive benefits and experiences, such as access to a new gaming platform called Fanverso, lower trading fees on Binance and discounts on CBF Academy School of Business and Management courses.
+
+The NFTs will be available to Binance users at no cost upon passing KYC verification.
+
+CBF president Ednaldo Rodrigues said in a statement:
+
+"During my management at the head of the CBF, we sought to connect with all forms of interaction with the fan. And it would not be different in this partnership with Binance. Bringing technology, combined with the emotion of football, will give us even more options for approaching and engagement with new audiences and different fan profiles."
+
+Guilherme Nazar, Binance’s managing director for Brazil, commented:
+
+“We are honored to partner with the CBF and we are sure that this historic launch will allow more Brazilians to feel closer to their clubs and learn about cryptocurrencies, so that they can take advantage of what this technology has to offer.”
+
+(CoinTelegraph Brasil) (Livecoins)
+
+KPTL shutters its crypto funds
+
+Brazilian asset manager KPTL is closing its crypto funds due to operating difficulties in light of the collapse of Signature and Silvergate banks and returning funds to shareholders.
+
+The Bohr Arbitrage Crypto Fund was an arbitration vehicle - first launched in 2020 - that used algorithms dedicated to operating crypto derivatives through an offshore structure. KPTL also shuttered Long/Short Fund LP, similar to Bohr, and Lupa Web3 Fund LP - which invested in NFTs, decentralized finance, games and metaverse.
+
+In total, the three funds had US$10 million in assets but as much as US$55 million during the height of the bull market in 2021. While run by Brazilians, the funds were headquartered in the Cayman Islands.
+
+Brazilian crypto fund manager Giant Steps also wound down its funds earlier this year, citing the FTX collapse.
+
+Renato Ramalho, KPTL CEO, commented:
+
+“The priority was to protect the investment and liquidity of investors. Despite everything, we had excellent results in this vertical, but the operation could become more risky. That's why we took the proactive decision to close the funds and it wasn't easy, not least because this month Bohr would deliver 4% profitability”
+“It has nothing to do with performance, mathematical modeling, demand, it was not our team's problem either. We are without financial infrastructure to serve our audience. We depended on banks to move our audience's accounts.”
+
+(Valor) (InfoMoney)
+
+CVM says Binance may have committed “crimes of public criminal action”
+
+In a lawsuit filed against the exchange, the agency said that regarding Binance, it found “the existence of evidence of the crimes of public criminal action”. The original report was sent in December of last year to Attorney General’s office in the State of Såo Paulo.
+
+When contacted by InfoMoney, the Attorney General’s office could not provide any further information.
+
+🎙Recent 🇧🇷Brazil Crypto Report podcast episodes
+
+You’ve probably noticed that I’ve been ramping up podcast content lately. If you have particular requests about topics or guests you’d like to see on the show please let me know. Also please give me a subscribe/follow on your favorite podcast platform - it helps greatly!
+
+Also, if you are a service provider/operator/investor looking to enter Brazil, a Brazilian company looking to expand your presence internationally, or an exchange operating in the Brazil market - I want to interview you!
+
+1️⃣ Rony Szuster from the Mercado Bitcoin research team joined to discuss the Shanghai and Capella upgrades which were executed on the Ethereum network last week. (Spotify, Apple Podcasts)
+
+2️⃣ Bitso Brasil’s Daniel Vogel and Thales Freitas joined to talk about the exchange’s first two years of operation in Brazil, culminating last month in a payments institution license being granted by the Brazilian Central Bank. (Spotify, Apple Podcasts, YouTube)
+
+3️⃣ Juliana Walenkamp of BitGo shared how the world’s largest regulated crypto custodian is expanding its service offerings in Latin America (Spotify, Apple Podcasts, YouTube)

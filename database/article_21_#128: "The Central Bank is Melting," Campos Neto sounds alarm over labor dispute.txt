@@ -1,0 +1,155 @@
+#128: "The Central Bank is Melting," Campos Neto sounds alarm over labor dispute
+Plus: Braiscompany CEO Antonio Neto Ais discovered in Argentina
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+Olá pessoal!
+
+Welcome back to 🇧🇷 Brazil Crypto Report  for the week of February 19-23, 2024.
+
+I hope everyone had a great weekend and is ready for what looks to be an exciting few months in crypto land.
+
+Highlights from this week’s edition:
+
+🙀 A labor dispute at the Banco Central do Brasil hit a high water mark last week after a 48 hour employee strike, delaying an important announcement and prompting the bank’s president to sound the alarm
+
+🤝 CVM President João Pedro Nascimento to said that crypto assets “are not enemies of the capital market” in a interview
+
+🏋️♀️ After fleeing the country a year ago, Braiscompany CEO Antonio Neto Ais has reportedly been located working out at a gym on the outskirts of Buenos Aires. Recall that Neto Ais was Brazil Crypto Report’s 2023 “Villain of the Year”
+
+Also, if you’re hanging around ETH Denver this coming week feel free to shoot me a ping. I’ll be at the Filecoin booth in the main venue during the day and floating around side events by night. Filecoin Foundation is also hosting an ecosystem showcase side event on March 1 from 5-9pm which you are cordially invited to. You can register here
+
+💡A few new upcoming local events for your radar:
+
+99 Capital and the Verified USD Foundation are are hosting a meetup at the MAAC—HUB in São Paulo on March 7.
+Rio Onchain Week is happening March 19-24 as a DevConnect-like series of community events, with the ETHSamba hackathon as the flagship.
+I’m excited to be attending my first-ever Solana Supermeet in Brasilia on March 19, where I hope to see some of you 👊. There are also Supermeets this coming week happening in Recife, Vitoria and Belo Horizonte.
+
+Thanks for reading and have a great week everyone.
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🎙New podcasts
+
+This week I chatted with Coinbase's Fabio Tonetto Plein, who heads up the exchange’s operations in the Americas outside of the USA. We discuss Coinbase’s product rollout and go-to-market strategy in Brazil. This episode is not to be missed, as Coinbase has the potential to massively shake up Brazil’s crypto scene if it executes correctly.
+
+Lucas Gabriel Marins of InfoMoney also had a profile of Plein and Coinbase’s objective to offer users around the world a 5 percent yield on USDC stablecoin holdings.
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+“The Central Bank is Melting,” Campos Neto says after 48 hour employee strike
+
+Central Bank President Roberto Campos Neto is sounding the alarm over employee dissatisfaction at his institution, which reached a high water mark last week after a 48 hour strike.
+
+Disgruntled over low pay and the lack of a career plan, seven employees are reportedly leaving the bank per day for other opportunities in government and the private sector.
+
+“The Central Bank is melting,” Campos Neto stated during the inauguration of Supreme Court minister Flavio Dino on February 23, highlighting the urgency of the situation.
+
+The collective action now has support from 40 department heads throughout the bank, including Campos Neto.
+
+Over the weekend, a group of high-profile private sector lawyers issued an open letter highlighting the importance of the Central Bank and calling for a resolution to the dispute. Signers of the letter include Bruno Balduccini, Bruno Meyerhof Salama, Camila Goldberg and others.
+
+The Central Bank union recently rejected a proposal from the government to increase salaries by 13 percent by 2026. Instead, employees are asking for a 36 percent increase and career restructuring.
+
+Last week’s strike delayed the release of an important economic forecast report.
+
+The dispute also calls into question the timelines of two critical projects related to Brazil’s digital asset economy: the Drex pilot (expected to conclude in May) and VASP regulation (expected to be finalized in the second half of the year).
+
+To make matters worse, employees at the CVM (Brazil's SEC) have followed suit and begun to suspend certain agency services in a push for better salaries.
+
+The CVM’s employee union said in a statement:
+
+“The growing dissatisfaction of the body's staff is motivated by the lack of responses from the federal government to the list of demands presented in September 2023, especially given the advances in negotiations for other federal public service careers, such as those that are part of the Central Bank of Brazil and the Tax Authorities.”
+
+Money Times Jota Valor Brazil Journal
+
+Roberto Campos Neto (via Money Times)
+Meet ABTOKEN: Brazil’s newest crypto trade association
+
+The Brazilian Association of Asset and Blockchain Tokenizing Companies, known as ABToken, was launched last week with the objective of representing companies in the asset tokenization space.
+
+ABToken’s objectives include development of a self-regulatory code, events and partnerships, weighing in on new laws and standards, and mapping out the tokenization ecosystem in the country.
+
+The group will be run by Regina Pedroso, and its initial cohort of members includes Droom Digital, Cultinvest Asset Management, goBlockchain, FitBank, Infratoken, M&H Consultoria, Veirano Advogados and IUSTO Blockchain.
+
+The group is expected to reach 100 members of all sizes in its first year.
+
+BlockNews CoinTelegraph Brasil
+
+Fiesp - Federação das Indústrias do Estado de São Paulo and Binance team up on concept paper promoting blockchain adoption
+
+The Federation of Industries of the State of São Paulo, known as FIESP, published a concept paper discussing how blockchain technology can be used across various applications and industries while improving operational efficiencies.
+
+The paper is part of a partnership between FIESP and Binance. You can read the Binance press release about the announcement here.
+
+Renan Cruvinel, CAMS, legal director at FIESP (which you can think of as the Brazilian version of the US Chamber of Commerce) and former head of compliance at Binance in Brazil, said in a statement:
+
+"Fiesp's initiative is of great importance because this technology can be applied by different sectors of the industry in order to reduce risks, costs and increase productivity and profits, making São Paulo and Brazilian industry more competitive.”
+
+Exame CriptoFacil CoinTelegraph Brasil
+
+Cryptos are an investment opportunity not a threat, says CVM President Nascimento
+
+João Pedro Nascimento, president of the Brazilian SEC, said that his agency will increase communication with crypto ecosystem companies this year to better understand the role of tokenized securities products.
+
+In an interview with Estadão’s E-Investidor, explained:
+
+“Cryptoassets are not enemies of the capital market and they can attract new investor profiles and different investment opportunities in the segment…
+
+He also wants to see 10 million new retail investors registered on the B3 stock exchange by 2027, and discussed the recent move to ease access to investing in FDICs (Credit Rights Investment Funds) and investments abroad via CVM Resolution 175.
+
+Share via Whatsapp
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Rivool Finance is preparing a proof of concept to tokenize Agribusiness Receivables Certificates (CRAs), Rural Product Notes (CPRs) and other types of debt to facilitate foreign investor access to Brazil’s agribusiness market.- The assets will be tokenized, and then packaged into funds that will be themselves tokenized and distributed in Switzerland- The initial PoC is expected to raise R$20 million (US$4 million) to R$40 million (US$8 million)- Tiago Piassum Theodoro, CEO of Rivool Finance, told Valor:
+
+“We have already worked on the origination of private credit with the main players in Brazil in securitization. The next step is to tokenize these assets with the international distribution channel.”
+
+Patex CEO Ricardo Da Ros detailed the blockchain’s strategy to become an epicenter for Web3 innovation in Latin America. He explained to CoinTelegraph Brasil:
+
+We are launching our entire ecosystem in Brazil now. Patex is a company focused on Latin America, and Brazil is our first big market. Right now, our main focus is Patex as an ecosystem.
+
+The exchange Digitra.com is launching a new passive income program called Crypto Dividends that compensates users who use the platform to trade and store their cryptocurrencies. (CoinTelegraph Brasil)
+The price of Nucoin, Nubank’s loyalty token, fell by 37 percent over the last month, prompting complaints from holders on X/Twitter. (Exame)
+The Ribus token saw a significant jump in liquidity after being listed on the international exchange MEXC. (Portal do Bitcoin)
+A new survey by Yubb Brasil shows that Brazilian investors have taken a heightened interest in cryptocurrencies over the last several weeks. (Exame)
+
+📲 Adoption
+
+São Paulo’s city government has activated its Municipal Blockchain Network, which is to be used for various services offered to citizens as a means of increasing efficiency and transparency. According to Metasix, the company implementing the system, more than 5,000 registration keys have been issued to senior citizens and people with disabilities who receive government assistance. Cleiton Jorge, director of Metasix Tecnologia, explained the benefits of the system:
+
+“Bookkeeping using cryptographic hashes guarantees immediate tracking of citizen demands, with minimal data exposure, through the alphanumeric token generated in the block registry.” (Portal do Bitcoin)
+
+EuroMoney examined opportunities in Brazil’s open banking space in light of Drex and incoming crypto asset regulation
+Chainalysis is hiring a public sector account executive in Brazil
+Neymar’s former club Paris St. Germain announced that it will run a validator node on the Chiliz blockchain. Chiliz has emerged as a popular chain for clubs to issued so-called “fan tokens”. (Valor)
+Brazil now has more establishments that accept bitcoin payments than El Salvador, where the cryptocurrency is legal tender, according to the BTC Map “Bitcoin is Here” project.- The city of Rolante, in Rio Grande do Sul, has 194 locations that accept bitcoin payments - more than anywhere else in the world- Porto Alegre also has 102 locations that accept bitcoin (CoinTelegraph Brasil) (Livecoins) (CoinTelegraph Brasil)
+
+XP co-founder Pablo Spyer called bitcoin a “bubble” while also stating that he invests in cryptocurrency during a recent interview on the popular Flow Podcast. (Livecoins)
+Caixa Econômica has launched a new “concurso” (a test by which federal employees are hired) to bring on 4,000 new workers. The test will require knowledge of bitcoin, blockchain and cryptocurrencies. (CoinTelegraph Brasil)
+Unicamp professor and bitcoin hater Jorge Stofli returned X/Twitter after a long hiatus to argue that investing in bitcoin is “stupid”
+
+🏛 Policy, Regulation and Enforcement
+
+The location of Braiscompany CEO and fugitive Antonio Neto Ais has been potentially uncovered by attorney Artêmio Picanço, who is representing victims of the pyramid scheme.- Earlier this month, a Brazilian court sentenced Neto Ais to 88 years in prison for operating Braiscompany as a cryptocurrency pyramid scheme. He fled the country in February 2023 shortly before Federal Police raided the company’s headquarters in Paraiba- Picanço conducted an investigation on social media and reckons that Antonio is in the Argentine city of Tigre, 40 km outside of Buenos Aires. He went to Brasilia last week to present a dossier of evidence that he has compiled regarding Neto Ais’s whereabouts- He reckons that Neto Ais appears wearing a Celtics jersey and a Lakers jersey in the image and video below. The video was made by a personal trainer at Viken Gym in Tigre. (Portal do Bitcoin)
+
+artemiopicanco
+
+Cointelegraph Brasil points out that the Central Bank does not require traditional banks to segregate customer assets in the same way it wants to require crypto brokerages to do. (CoinTelegraph Brasil)
+A crypto investment dispute between two former football teammates is boiling over. Gustavo Scarpa, a player for Atlético Mineiro, lost R$ 6 million (US$1.2 million) in an alleged cryptocurrency pyramid scheme called Xland Holding operated by former teammate Willian Bigode. Scarpa is in the middle of a legal action to recover his funds. He explained:
+
+“The process is against everyone. Against Willian, Willian's company, the cryptocurrency company. Against them all. I believe that I will be reimbursed for all the money I lost, nothing more than fair.” (Portal do Bitcoin)
+
+A new bill was introduced in the Câmara dos Deputados to abolish the use of paper money in all financial transactions in Brazil. It was introduced by Deputy Reginaldo Lopes of Minas Gerais. (CoinTelegraph Brasil)
+Brazilian crypto tax expert Ana Paula Rabello writes about the taxation logistics of buying cryptocurrencies on a foreign brokerage and then selling them on a domestic platform. (Livecoins)
+Ana Paula also addresses some confusion around whether Coinbase is an international or domestic brokerage in Brazil. (Livecoins)
+Former Brazilian football legend Ronaldinho Gaucho was acquitted in a case regarding his involvement in the 18k Ronaldinho pyramid scheme. The judge determined that Ronaldinho was a victim of the scheme as well, with the company partners using his name and image to attract investors. (CoinTelegraph Brasil) (Portal do Bitcoin)
+After a six year long case, Brazilian exchange FlowBTC Corretora de Criptomoedas achieved a victory in a court case against Caixa Economica for freezing its bank account in 2018. (CriptoFacil)
+
+

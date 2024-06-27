@@ -1,0 +1,57 @@
+🇧🇷BCR #59: Brazil Jumps to 7th on Global Crypto Adoption Ranking
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Bom dia pessoal!
+
+I hope everyone had a great Merge week!
+
+After collecting some feedback from various readers the last few weeks, I’ve decided to add a new section to this weekly newsletter focusing on crypto developments elsewhere in Latin America.
+
+I’ve thought about this for a while but was reluctant mainly because I just don’t know as much about the other Latam countries as I do about Brazil. But there seems to be interest from readers and the only way to learn is to just start and figure it out as I go.
+
+With that, I wanted to flag two CoinDesk articles that I thought did a great job of highlighting two critical Latam stories - El Salvador and Argentina.
+
+The reason I’ve always tried staying away from El Salvador stuff is that media coverage of it always seems to be heavily slanted in a particular direction. Mainstream media takes the view that the whole experiment is a scam being imposed on the population by a reckless authoritarian president; crypto media homerists and bitcoin curmudgeons on Twitter view President Nayib Bukele as a hero at the same level as Simon Bolivar. In this context, one has to assume that everything you’re hearing is just propaganda and not reflective of reality.
+
+That said, I really enjoyed this David Morris piece that examines El Salvador’s bitcoin experiment one year in, entitled 1 Year of Bitcoin in El Salvador: The Bad, The Good, The Ugly. This is probably the most well thought through and balanced take on El Salvador I’ve seen in some, if not ever, so definitely recommend taking a look.
+
+The next is a piece by Leah Callon-Butler about a recent visit to Argentina where she examines the relationship between locals and stablecoins amid ongoing economic uncertainty and inflation.
+
+Thanks to everyone for reading and I hope you enjoy this week’s edition!
+
+-AWS
+
+🎙Also please check out my latest podcast episode with Camila Rioja, head of Latam at Celo Foundation. We talked about the growing Celo ecosystem in Brazil and Latin America, dove into the concept of “regenerative finance” and discussed the Celo community’s various grants programs for those interested in getting involved. Check it out on Spotify here!
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Brazilian crypto asset manager Hashdex was approved to launch a bitcoin futures ETF in the United States. The product, called the Hashdex Bitcoin Futures ETF, was developed in partnership Teucrium Trading and Victory Capital. Notably, its the first such bitcoin ETF in the US to be registered under the Securities Act of 1933, which allows funds to invest in assets that are not considered securities. Hashdex CEO Marcelo Sampaio commented:
+
+
+
+
+“This launch shows our commitment to bringing products and services with exposure in regulated digital assets with security and innovation. It is a significant milestone that addresses the specific needs of individual and institutional investors in the United States and around the world.” (Valor) (CoinTelegraph Brasil) (InfoMoney)
+
+Xtage, the cryptocurrency trading platform of broker XP, announced 18 year financial veteran Marcos Horie as its CEO. He will lead Xtage’s digital business offerings. He told Valor in an interview:
+
+
+
+
+“The initial results bring positive surprises. Our research shows that customers who bought crypto with us liked it. The next steps will be in terms of evolving the features in the app. Thus, we believe that we can greatly speed up the operation and serve even more customers who have crypto on other exchanges and want to bring it here.”
+
+US exchange Coinbase representatives met virtually with executives from the Banco Central. It is unclear what specific topics were raised, though CoinTelegraph Brasil reports that regulation of the crypto market and Digital Real development were discussed. Attending the meeting on behalf of Coinbase was Tom Duff Gordon (VP of International Policy), John Medel (Public Policy Manager), Fabio Plein (director for Coinbase Brazil) and Ivo Corrêa, a partner at XVV Advogados. Renato Dias de Brito Gomes, director of organization of the financial system and resolution, represented BACEN. (Portal do Bitcoin)
+Bitfinex announced that Brazilian customers can now withdraw BRL through the platform using Swapix, a gateway that allows USDT to BRL conversions via the Tron blockchain. Rocelo Lopes, founder of SmartPay - which launched Swapix, commented:
+
+"The partnership has existed since the launch of Swapix but now with the new update it will be possible to convert Tether within the web platform and receive in Reals in the banking app." (CoinTelegraph Brasil)
+
+A new report by blockchain infrastructure firm Paxos concludes that crypto adoption is outpacing the rest of the world largely due to Brazil’s outsized presence and growth. (CoinTelegraph Brasil)
+Mercado Bitcoin CEO Reinaldo Rabelo posted an extensive note on Linkedin about “mistakes and hasty decisions” made during this latest bull market that have forced the firm to undergo two rounds of layoffs since the market collapsed earlier this year.
+Singapore-based crypto exchange Bybit affirmed that it is continuing its operations in Brazil and complying with a CVM order to prohibit derivatives trading for Brazilian users. CEO Ben Zhou reaffirmed his commitment to the Brazilian market, commenting:
+
+“We are committed to building our business in the Brazilian market and intend to continue in the market in the long term, working together with the appropriate regulatory bodies.” (MoneyTimes) (Portal do Bitcoin) (Valor) (Livecoins) (InfoMoney)
+
+Mercado Bitcoin and Urca Trading launched a new token linked to a basket of energy trading contracts between Urca and its customers. 60,000 of the ENER02 tokens will be made available at a unit price of R$100 with expected annual return of 18%. (Portal do Bitcoin)
+By integrating directly with Pix, the BRL has become the first official currency that can be transacted through Metamask. The familiarity that the Brazilian public now has with digital money via Pix means that cryptocurrency adoption should only increase from here. (CoinTelegraph Brasil) (Exame)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report to catch the full version of this newsletter and additional content!

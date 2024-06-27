@@ -1,0 +1,77 @@
+🇧🇷BCR #80: Digital Real passes critical milestone
+Plus: Authorities appeal to Interpol to track down Braiscompany founders; Ripio launches new Web3 wallet
+
+This newsletter is an abridged version of this week's full 🇧🇷Brazil Crypto Report which is hosted on Substack. If you enjoy this content please consider subscribing and following the Substack version where you can find more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Olá pessoal!
+
+Huge welcome to 🇧🇷Brazil Crypto Report for the weeks of February 20-24, 2023! I hope everyone had a fun Carnaval week.
+
+Wanted to flag quickly that if you’re going to ETHDenver you should check out the Filecoin Virtual Machine Hackerbase on February 28 and March 1. You can get a sneak peak at how the FVM (set to launch in mid-March) will bring smart contracts and user programmability to the Filecoin blockchain. This will enable a number of new use cases like DataDAOs, decentralized finance on Filecoin, programmable storage deals and, ultimately, compute-over-data functionality that enables Web2 scale use cases to the Web3 world.
+
+Enough shilling! Now onto the content! Have a great week everyone!
+
+-AWS
+
+Digital Real Passes Critical Interoperability Test
+
+A major Digital Real test involving transactions processed on a public blockchain was successfully completed. It was an important step towards the goal of creating a CBDC that allows for real-time low-cost settlement, enables interoperability with open networks and provides sufficient traceability, privacy and compliance to meet regulatory requirements.
+
+In the pilot project, developed by Mercado Bitcoin and Stellar Development Foundation within the confines of Banco Central’s LIFT Lab, DvP (delivery versus payment) transactions were simulated on Stellar’s open, public blockchain using a prototype version of the Digital Real.
+
+According to those involved, the project was successful because it demonstrates that a tokenized Brazilian payment system can be linked directly to the world of public blockchains and decentralized finance services.
+
+Fulvio Xavier, responsible for special projects at MB stated:
+
+“Our thesis was to prove that it is possible, viable and safe to carry out transactions with digital assets using a representation of the real on public networks. The Central Bank is always concerned with understanding what happens when [transactions] leave its hands.”
+
+According to Valor, the test involved all steps of the transaction, such as registering and verifying KYC information and using Stellar network tools to issue and manage assets, wallets, keys and settlement.
+
+The test also met another key objective: that it be simple enough for use by a user with no prior experience with digital wallets and cryptocurrency.
+
+Also involved in the test were Cheesecake Labs, who provided design and engineering support; ClearSale for fraud prevention and credit scores; and CPQD foundation, which provided telecommunications research.
+
+More Digital Real coverage in Brazil’s mainstream press
+
+Nathalia Grant of Folha de São Paulo wrote a nice overview of the Central Bank’s Digital Real project, which is expected to be fully rolled out in 2024.
+
+Specifically, the article focuses on the utility of programmable money and how this would ostensibly give citizens more control over their money. It uses the example of a parent transferring funds to a minor that can only be used for pre-ordained items.
+
+Rodrigoh Henriques, head of innovation at Fenasbac and coordinator of the Central Bank’s Lift Challenge - a lab that incubates Digital Real use cases, told Folha:
+
+"Programmability is not just about time, but about function. It can be on a specific date, for a specific person, as long as something has happened before, at a combined rate".
+
+Notably, Henriques states that BC has identified through Lift that certain use cases simply aren’t shovel ready and will take more time to develop. This is true of offline payments, which can be processed even when the payor or payee is not connected to the internet.
+
+Once a main focus of the project, offline payments have been moved to the back-burner. Henriques explained:
+
+"We are clear that this dual offline functionality is important in the digital real, but it is not a priority in the Brazilian CBDC solution now because it would require a level of testing and complementarity with other technologies."
+Braiscompany owners still on the run; authorities appeal to Interpol
+
+A federal court in Paraíba ordered the preventive detention of Antonio Neto Ais and Fabrícia Campos, the co-owners of Braiscompany - the R$1.5 billion (US$289 million) cryptocurrency pyramid that stopped making payments to investors late last year.
+
+In addition, the court asked that the executives be included on Interpol’s wanted list. Both Neto and Campos have been on the run since February 16, when Braiscompany’s offices were raided by federal police.
+
+There are speculations that Neto is in Argentina, per location data from an Instagram post. He has apparently since disabled location tracking on his phone.
+
+The court ruled that “the necessary steps be taken to issue the arrest warrants and their inclusion in red dissemination, then forwarding the set of documents to the Superintendence of the Federal Police in Paraíba to request the dissemination to Interpol”.
+
+“No one in charge” at Braiscompany, says lawyer
+
+A letter sent to company employees by a lawyer representing the firm, and obtained by Portal do Bitcoin and other journalists, asserts that Braiscompany is directionless and leaderless with Neto and Campos fleeing authorities.
+
+Orlando Penha, of the firm Orlando Virginio Penha & Associados, who represents the company, told employees:
+
+“The company, by choice, does not have directors able to respond to administrative inquiries, since everything was communicated directly by Messrs. Antônio Neto and Fabrícia Campos, who are now on the run.”
+“As has always been reported, the law firm does not have the power to give any guidance regarding the direction of the company, especially since it has not even been asked to file a judicial reorganization or bankruptcy action, nor has it received information about possible funds from the company capable of make the company recover.”
+
+The letter also instructed employees to seek private legal assistance for individual guidance, to stop posting on social media and to cease signing any new contracts on behalf of the company. There are speculations that a mass firing of Braiscompany employees is in the works.
+
+Other Braiscompany updates:
+
+Federal Police blocked R$15 million (US$2.9 million) worth of funds in accounts linked to Braiscompany accounts on Binance. The block impacts the individuals registered to the accounts and not legal entity.
+Braiscompany’s 2022 balance sheet (as reported by the company) shows that it had R$774 million (US$149 million) in customer funds at the year’s end. The figures were delivered to Paraíba authorities in response to a civil investigation launched against the company by the Public Ministry.
+The Public Ministry stated that it had some “good news for investors” in that it had found some funds that can potentially be recovered and returned to clients.
+While Neto and Campos remain on the run, some trollers crafted masks in his likeness deployed them during Carnaval
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

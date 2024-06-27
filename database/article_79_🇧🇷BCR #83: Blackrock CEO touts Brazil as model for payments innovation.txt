@@ -1,0 +1,65 @@
+🇧🇷BCR #83: Blackrock CEO touts Brazil as model for payments innovation
+Plus: Hashdex rings bell at NYSE; asset segregation rules in danger?
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the weeks of March 13 - March 17, 2023!
+
+I’m happy to say that I finally got my phone number reinstated after getting SIM-swapped last week. Not a pleasant experience at all but it was a nice reminder to implement 2FA across the board.
+
+🎙Be sure to have a listen to my latest podcast with Maurício Magaldi where we discuss the future of asset tokenization in Brazil, regulation and a bunch of other fun stuff. Have a look on YouTube below, and you can listen on Spotify as well.
+
+I also wanted to reflag another recent episode I recorded with Gustavo Cunha about the Brazilian Central Bank’s Digital Real CBDC. Definitely worth a listen if you’re not fully up to speed on this project.
+
+Thanks everyone for reading and I hope you have a great week!
+
+-AWS
+
+(This newsletter is an abridged version of this week's full 🇧🇷Brazil Crypto Report. If you enjoy this content, please consider subscribing to the Substack version for more news, commentary and interviews exploring the Brazil crypto ecosystem)
+
+Larry Fink cites Brazil as a model of payments innovation
+
+In his annual letter to investors, the Blackrock CEO cited Brazil as an example of a country that has made great strides in payments innovation, while bemoaning the fact that the United States is falling behind in this area. Blackrock is the world’s largest and most influential asset manager, with over US$8 trillion in AUM.
+
+The letter states:
+
+“In many markets, such as India, Brazil and parts of Africa, we are witnessing a giant leap forward in digital payments and cost reduction and financial inclusion. In contrast, many developed markets, including the United States, are lagging behind in innovation, leaving payment system costs much higher.”
+
+Fink also touted the potential benefits of asset tokenization as a means to “drive efficiency in capital markets, shorten value chains, and improve cost and access for investors.”
+
+Ethereum Rio 2023 happening March 28-30
+
+This year’s event will feature two days of mainstage programing, instructional workshops and a Web3 Impact bootcamp focused on evangelizing young people about the opportunities presented by Web3. Among the confirmed attendees include participants from the Complexo do Chapadão and Rochina communities, with an expectation of representative from several more.
+
+Carol Santos of Ethereum Brasil, the organizer, told CoinTelegraph Brasil:
+
+“We are building an ecosystem, these people need to have their voices recognized, their projects built. For a systematic change to happen, the only way is education. How are these young people going to empower themselves with a technology and use it in their favor, if they don't even know about it?
+“If there is at least one young person from each community at the event willing to pass the knowledge on, it is enough to create a snowball effect”
+Fate of asset segregation rules still uncertain
+
+The Brazilian Central Bank may not have the legal cover to require crypto brokerages to segregate assets and may need a legislative remedy in Congress to obtain this mandate. This provision was left out of the crypto bill that was signed into law in December, but the market’s expectation was that the Central Bank would include this in its regulatory framework.
+
+Speaking at an event last week hosted by Veirano Advogados, Central Bank attorney Humberto Cestaro stated that the institution has yet to make a decision on the matter. Further, he stated that Congress may need to revisit the topic for the bank to have full authority to require this:
+
+“To have a solid legal foundation, the segregation of assets needs to come by means of law. In some bill that is being discussed in Congress, this topic may be included”.
+
+Folha de S. Paulo reported last December that the Central Bank would indeed impose asset segregation on brokerages as soon it was formally nominated to be the regulator for the industry.
+
+🗞Brazil Crypto News Rundown
+
+Crypto asset manager Hashdex rang the opening bell at the New York Stock Exchange last Wednesday to celebrate the six-month anniversary of its Bitcoin Futures ETF. (Portal do Bitcoin)
+Hashdex also assured clients that it had no exposure to Silicon Valley Bank, Silvergate Bank or Signature Bank. The company said in a statement:
+
+"We use multiple bank accounts, at different institutions, for our funds. In general, given that each Hashdex fund is fully allocated in crypto assets, the remaining dollar balances in bank accounts are marginal. Our main use for US bank accounts is receive contributions, pay redemptions and settle crypto asset transactions." (InfoMoney) (Valor Investe)
+
+Many Brazilian crypto investors are being taken by surprise by the Receita Federal’s recent changes to crypto reporting rules. The tax authority has been cross-referencing declarations made by exchanges with individual taxpayer filings.
+When taxpayers fill out their income tax declarations, the cryptocurrency sections come already pre-populated with data reported by brokerages pursuant to Normative Instruction No 1,888 (an measure that requires exchanges to report their users’ crypto transactions to the Receita Federal)
+Any user with more than R$5,000 in cryptocurrency holdings is required to report the amount on their return, irrespective of whether they used a national or international exchange to acquire the assets.
+International exchanges like Binance that do not have a Brazilian CNPF registration are not required to report customer transactions to the RF (a point of significant contention within the industry!). Therefore, amounts traded on these exchanges will not be reflected in the pre-populated balances on customer tax statements.
+In some cases, these pre-filled balances reflect accounts from exchanges that the user either forgot about or didn’t realize would be immediately reported.
+
+"I thought they were only going to take the exchanges, but cryptocurrencies that I had in digital banks and payment fintechs are also in the statement. Now it's time to call an accountant and see what can be done". (CoinTelegraph Brasil)
+
+35 of the most 50 profitable multimarket funds in 2023 in Brazil have exposure to digital assets, according to Mais Retorno. (CoinTelegraph Brasil)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

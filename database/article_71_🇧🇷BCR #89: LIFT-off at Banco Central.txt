@@ -1,0 +1,101 @@
+🇧🇷BCR #89: LIFT-off at Banco Central
+BC's LIFT Day showcases Digital Real use cases as CBDC pilot ramps up
+
+(NOTE: This is an abridged version of this newsletter. I'd encourage readers to subscribe to Brazil Crypto Report on Substack - which is my primary distribution channel - to ensure you're receiving everything!)
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of April 24-28. It was great meeting a bunch of readers and seeing some old friends at Consensus week in Austin - many thanks to everyone who stopped by to say hi at the Filecoin Network Base side event, at the Protocol Village stage inside the main event or at the Brazil Builders Breakfast I co-hosted with Conor Brady from Ethereum Brasil.
+
+The main event was more US-focused than it has been in years past, mainly because all of the crises impacting the crypto markets at the moment are germane to the US. I’ve been lobbying the CoinDesk Consensus team hard to take a more international approach next year as that’s where all of the smart money in crypto is focusing now. We’ll see what comes from that.
+
+I’m not able to attend Web Summit Rio unfortunately as I have some personal things to take care of in the US but it appears to be shaping up to be a pretty cool event. Look forward to hearing/seeing what folks think of it.
+
+This past week’s news was all about the Central Bank’s LIFT Day, so let’s dive right into that.
+
+-AWS
+
+Banco Central hosts Digital Real LIFT Day
+
+The Banco Central do Brasil hosted its largest-ever Digital Real-focused event on April 25th in partnership with FENASBAC. Hosted at the Banco Central headquarters in Brasília, the event convened its nine LIFT Lab cohort participants to showcase the pilot projects and use cases they’ve been developing over the last year.
+
+The Digital Real will be the third pillar in the Central Bank’s innovation agenda - the first two being Open Finance and Pix.
+
+Below are some of the highlights:
+
+Santander
+
+Santander Brasil showcased its prototype for tokenizing cars and real estate in a bid to minimize bureaucracy in the purchase and sale process. The project would ideally allow for instant vehicle transfers using the Digital Real. Evandro Camilo, leader of digital products at Santander Brasil, told InfoMoney:
+
+“Issued the purchase and sale order of a vehicle, for example, the transfer of ownership would happen automatically.”
+
+However, the main challenge with such a system, he points out, is ensuring interoperability between all the parties involved - including Santander, the Central Bank, transportation and real estate authorities, buyers/sellers and marketplaces. Camilo explained:
+
+“It is not an easy task to perform. It would be the integration of 27 Detrans (DMVs) notary offices, real estate registry offices, among other entities.”
+Mercado Bitcoin
+
+MB, in a consortium with Stellar, Clear Safer, Cheesecake Labs and CPQD, demo-ed its project that allows a user to sell a tokenized precatory directly to a buyer using its the MBRL stablecoin.
+
+@Fúlvio Xavier, head of special projects at MB, told Portal do Bitcoin that the most important step in the project was creating a digital identity with the necessary certifications so that the user can transact while respecting KYC/AML.
+
+Capitual and TecBan
+
+The Smart Cabinets project used a private Ethereum network to create a package locker system whereby the financial transactions are carried out only once the buyer enters the code and physically picks up the package from the locker. @Luiz Fernando Lopes, digital platforms manager at TecBan, commented:
+
+“We noticed that this increases the efficiency of logistical processes and guarantees the delivery of the financial value negotiated through the validation and finalization of the delivery, which in this case is represented by the closing of the closet door.”
+Visa
+
+Visa and its partners Agrotoken, Microsoft and Sinqia presented a blockchain-based programmable financial platform that allows farmers to finance and sell crops
+
+Vert
+
+Vert created a similar cash programmability system for financing rural small and medium sized enterprises, with an auction system that involves settlement in Digital Real, cash or tokens.
+
+Fireblocks
+
+The infrastructure provider built a liquidity pool for tokenized assets such as public securities, giving financial regulators greater control over pool participants, risk calculations and exits
+
+Itaú’s DeFi Liquidity Pool
+
+Perhaps the most interesting and noteworthy project from the cohort is Itaú’s DeFi-inspired liquidity pool - compatible with Digital Real. Itaú is considered the largest bank in Latin America so this is quite a significant development.
+
+Yukiko Dias of the Itaú product team explained:
+
+“It is a liquidity pool built on a blockchain that allows investors to contribute pairs of Real and Dollar tokens in exchange for a return, generating the necessary liquidity so that other customers can swap between these tokens almost instantly.”
+
+Customers are able to deposit stablecoins into a special account that facilitates conversions from one crypto to another without directly connecting a buyer and seller. Liquidity providers earn yield in the form of fees paid on each transaction. The platform does however require users to go through identity verification but theoretically offers a higher level of security. The prototype was tested on both the Ethereum and Stellar blockchains.
+
+According to Itaú, the yield generated by the model is on par with yields offered by leading DeFi platforms on the market currently. Dias told InfoMoney:
+
+“Our goal was to assess whether we could use the structures of decentralized finance to bring some benefit to the traditional financial system, and understand whether we could build a viable business model for those customers who would like to monetize their cryptoassets.”
+
+Itaú also presented a project enabling offline payments via Pix using a QR code. Such a development would reduce physical money in circulation and allow for greater Pix adoption in areas without internet or mobile connectivity.
+
+LoveCrypto
+
+LovePay’s LIFT finalist project allows a user with a wallet on the @Celo blockchain to buy treasury bonds registered on the Digital Real network.
+
+Edmilson Rodrigues, CEO of LoveCrypto, commented:
+
+“Real Digital will be magical, a new PIX moment in the Brazilian economy.”
+Next steps
+
+The BC announced that the application period is open from May 2-12 for groups looking to participate in the Digital Real pilot. 10 spots are available for institutions that meet the BC’s requirements. Applications should be submitted to the pilot.rd@bcb.gov.br email address.
+
+Cryptocurrency startups, however, will be left out of this specific cohort unless they join consortia with at least one institutional participant in the national financial system. The BC’s Fabio Araujo explained:
+
+“We want to have diversity and we look forward to having participants in the crypto environment, but we know that they cannot participate alone.”
+
+The Bank also published rules and procedures governing the Digital Real pilot and established an executive management committee to oversee its development.
+
+The Bank’s next Digital Real focused event will be a series of workshops held on May 16 in Brasilia in conjunction with Fenasbac. More information can be found here.
+
+🎙Recent 🇧🇷BCR Podcast episodes
+
+If you are a service provider/operator/investor looking to enter Brazil, a Brazilian company looking to expand your presence internationally, or an exchange operating in the Brazil market - I want to interview you!
+
+1️⃣ Bruno Ramos de Sousa, Hashdex’s head of US and Europe, joined to discuss the history of crypto ETFs and the road ahead for one of the Brazil crypto market’s crown jewels. (Spotify, Apple Podcasts)
+
+2️⃣ Cláudio Goldberg Rabin, editor-in-chief at Portal do Bitcoin, joined to help us better understand what’s happening with the ongoing probes into Binance’s derivatives offerings. Apologies the audio isn’t great on this (Spotify, Apple Podcasts)
+
+3️⃣ Jorge Borges, head of Latam sales at Fireblocks, joined to talk about the unicorn crypto infrastructure provider’s expansion efforts in the region. (Spotify, Apple Podcasts)

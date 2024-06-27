@@ -1,0 +1,51 @@
+BCR #46: Binance Drops Brazilian Fiat Onramp Amid KYC Policy Changes
+Also - XP to launch BTC and ETH trading in July; Brazilians ❤️ NFTs
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Fala pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of June 13-17. It’s getting pretty ugly out there in the markets. I hope everyone’s staying safe and liquid given all the chaos right now.
+
+🏛 We didn’t see any movement on crypto legislation in the Chamber of Deputies last week. However, the bill is on the Chamber’s agenda and could be voted on as early as today. A passing vote would seal the deal and send the bill to President Jair Bolsonaro’s desk to be signed into law. We’ll be watching closely 👀
+
+💰Binance abruptly announced that it is dropping Capitual, its payment servicer and fiat onramp, in exchange for a local provider “to be announced soon”. The surprise announcement came amid reports from customers that Binance had suspended BRL withdrawals via Pix and Ted on its platform, citing updates to the Banco Central’s KYC policies. Other foreign exchanges including Kucoin experienced similar service disruptions due to the change.
+
+The news was first reported by Portal do Bitcoin citing reports from customers, who received the following message from the exchange’s help desk.
+
+“Our BRL deposit and withdrawal channel via PIX and TED is experiencing instability due to the update of Policies introduced by BACEN – Central Bank of Brazil. Deposits and withdrawals through this means are blocked, but don't worry, you can still use other methods to withdraw and deposit.”
+
+In a press release, Binance stated that users could still transact via Binance’s peer-to-peer system and that withdrawals could be processed through a “sell to card” option for Visa. Binance also stated that it will be taking legal action against Capitual, though it’s unclear what the nature of the dispute is.
+
+"[Binance] will promote a smooth transition in the coming weeks and that it is taking all necessary measures, including legal related to Capitual, to ensure that users are not adversely affected by the change".
+
+KuCoin and Huobi, foreign exchanges that also use Capitual, continue to use the vendor. Capitual said in a statement that the two exchanges
+
+“adjust their systems to the changes that have occurred and the services provided to their users in transactions with reais happen regularly…In the case of Binance, Capitual awaits information on this suitability."
+
+Amid the confusion, KuCoin put out an announcement it is now the first major exchange to accept deposits and withdrawals in reais following the enactment of. the new KYC rules. KuCoin CEO Johnny Lyu said in a statement:
+
+“We are proud to be the first exchange to comply with the new PIX regulations and support our Brazilian users to deposit and withdraw BRL normally.” (Livecoins)
+
+I’ll give another update on this story in next week’s edition.
+
+Before I dive into this week’s news review I wanted to share a quick team photo from the Ethereum Brasil breakfast last week in Austin at Consensus. It was a great opportunity to meet a bunch of new people from the Brazil scene. Thanks to Conor and Sabrina from the ETH Brasil team for organizing!
+
+Another follow up to Consensus, Paulo Alves of InfoMoney had an excellent write up and produced a really great video with highlights and interviews from the event. Definitely worth a watch. He interviewed several stakeholders from the Latam region and he even managed to find a gringo who speaks Portuguese quite well 👏👏👏
+
+🎙 Be sure to check out the most recent BCR podcast with Daniel Vogel, CEO of Bitso, which we recorded onsite at Consensus 2022. You can listen to the episodes in your browser and on Spotify.
+
+🙏 Thanks to our partners at HBAR Foundation for supporting 🇧🇷 Brazil Crypto Report! If you're a Latam entrepreneur or developer with an up-and-coming project or idea and need some support, take a look at the HBAR grant program. They're seeding projects focused on DeFi, fintech, NFTs, sustainability and so much more. They also offer a plethora of other resources to help builders bootstrap. Do yourself a favor and check them out! 👊
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+XP will enable bitcoin and Ethereum purchases for customers starting in July. The decision was made after internal surveys showed that half of the company’s clients had some form of exposure to cryptocurrencies. Lucas Rabechini Amaral, director of financial products at XP, commented:
+
+"Of this total of 50% who already had investments in cryptocurrencies, 88% wanted to do so through XP, as it is an environment they already know and trust." (CoinTelegraph Brasil)
+
+InfoMoney/CoinDesk Brasil examined the trend of Latin American crypto exchanges offering some of the highest yield rates in the world on crypto investments. Some exchanges like Bitso offer as much as 15% on stablecoins - much higher than is found in more developed markets. Lemon offers 13% on Dai and 12% on USDC to its Argentine customers, and it previously offered 18% to users who staked UST via Anchor, raising concerns about where exactly these yields are coming from.
+The B3 exchange announced that is developing a futures contract with exposure to bitcoin, to be launched later this year. The product will trade at 10% of the price of bitcoin. (CoinTelegraph Brasil)
+Lemon Cash, an Argentine exchange, will launch in Brazil in late July and offer users a direct integration with Pix that allows users to load their personal account via Pix and convert to their preferred crypto via a swap tool, and vice versa. (CoinTelegraph Brasil)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report to catch the full version of this newsletter

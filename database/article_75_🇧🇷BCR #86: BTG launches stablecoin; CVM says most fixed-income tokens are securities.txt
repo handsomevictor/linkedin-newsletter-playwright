@@ -1,0 +1,120 @@
+🇧🇷BCR #86: BTG launches stablecoin; CVM says most fixed-income tokens are securities
+Plus: digital asset ETFs were B3 exchange's best performing products in Q1
+
+(NOTE: in light of the ongoing kerfuffle between Twitter, Substack and other social media platforms that threaten distribution channels, I'd encourage readers to subscribe to Brazil Crypto Report on Substack. This is where I will continue posting the majority of my content) 
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of April 3-7, 2023! Hope everyone’s doing well - I was pretty sick all week and still trying to recover. Thankfully I was able to muster up enough energy to capture what was a big week in the Brazil crypto world.
+
+If anyone is planning to be at Consensus in Austin later this month I’d encourage you to stop by the Filecoin Network Base side event, which we’re hosting April 24-26 ahead of the main Consensus event which officially runs the 27-28th. 
+
+-AWS
+
+🔥BTG Pactual launches dollar-pegged stablecoin
+
+BTG Pactual, Latin America’s largest investment bank, announced the launch of its own US dollar-pegged stablecoin last week. The BTG Dol, as it is called, will be available to users of the bank’s Mynt crypto brokerage platform for a minimum investment of R$100 (~US$20).
+
+The BTG Dol will be the world’s first-ever retail stablecoin issued by a financial institution, the bank asserts. I haven’t fact-checked this claim, but I don’t know of any other examples of banks issuing coins targeted to retail customers.
+
+Other banks have dabbled in the stablecoin realm for institutional clients, however. The National Australia Bank has a stablecoin pegged to the Australian dollar which is used for settlement between large corporate clients. JPMorgan has its JPM Coin, but again that’s a permissioned payment rail and account ledger solution for institutions.
+
+BTG Dol coin will run on Polychain, the Ethereum-compatible sidechain network that has been adopted by other major brands like Nubank. Reserves are managed at a 1:1 ratio by the bank’s digital assets unit
+
+Andre Portilho, BTG’s head of digital assets, highlighted that the stablecoin provides an easy simple way for Brazilian customers to access US dollars and "dollarize part of their equity in a simple, efficient and secure manner."
+
+“We see a demand to create a dollar-referenced stablecoin, with all the advantages of digital currencies, but issued by a regulated financial institution, with governance and that meets the capital requirements. It is an interplay between the traditional financial system and the new digital economy.”
+
+The announcement got some nice pickup on crypto Twitter, most notably from Caitlin Long. 
+
+Mynt, which launched last summer, now supports 22 cryptocurrencies, including Circle’s USDC - another dollar-pegged stablecoin.
+
+Why a Stablecoin and Why Now?
+
+So what advantage does the BTG Dol offer in a crowded dollar stablecoin market? BTG sees its own reputation and status as a TradFi company as providing a unique layer of trust that other stablecoin issuers cannot offer. Marcel Monteiro, head of operations at Mynt, commented:
+
+"The fact that it is issued on blockchain by a publicly traded company, which is strictly regulated by traditional market bodies, guarantees layers of security that are unusual in the crypto market, offering investors seeking exposure to the dollar an alternative that is not only practical, but very reliable"
+
+In his Caverna Cripto newsletter (which you should subscribe to if you read Portuguese), Mercado Bitcoin’s Lucas Pinsdorf identifies three potential reasons for why BTG decided to launch this product now:
+
+A gap in the market given the litany problems that the three predominant stablecoins (USDC, USDT, BUSD) have faced recently
+Strong demand for Brazilians seeking dollar exposure amid rising interest rates in the US and macroeconomic uncertainty in Brazil
+Rising interest rates means that stablecoin issuance has become a very lucrative business model (if you’re able to manage the occasional liquidity crisis!). Taking dollar deposits, issuing stablecoins against those dollars and then parking the dollars in government bonds that pay 4-5% yield is a pretty nice hustle.
+
+I’ll be interviewing Portilho from BTG on my podcast later this month so we’ll get a chance to hear straight from him directly
+
+CVM says most fixed income tokens are securities
+
+Brazil’s securities regulator characterized so-called digital fixed-income tokens as securities in a newly unveiled interpretation, leaving many market participants surprised and frustrated.
+
+These tokens can represent anything from invoices and receivables to football players’ future earnings to crypto-asset staking products, and typically offer monthly returns of as much as 1.5 percent.
+
+These tokens have generated interest among investors in light of increases to the benchmark Selic interest rate, which have prompted a search for products that generate monthly yields north of one percent.
+
+These fixed-income tokens had previously occupied a regulatory grey area, but have seen a large amount of interest and experimentation particularly from platforms like Liqi Digital Assets and Mercado Bitcoin/2TM, which have combined to issue R$200 million (US$40 million) worth of tokenized assets since 2019. MB alone has issued 76 such products in that timeframe.
+
+Issuers of these tokens will need to properly register them as a securities offering under penalty of a stop order.
+
+While the letter does not lay out new specific rules or guidance, it implies that digital asset platforms and token issuers will likely need to bring securitizers into the issuance process. It does lay out several parameters for what types of token the CVM deems to be a security:
+
+the promise of a fixed or variable income to the investor
+representation of receivables or debt securities
+the form of a standardized investment
+involvement of an intermediary
+the existence of a public offering, even if not explicitly advertised.
+
+Bruno de Freitas Gomes, superintendent of securitization supervision at the CVM, told Valor Econômico:
+
+“We have seen fixed income tokens on platforms, which characterize a public offering, which fit the concept of security. For this reason, we made the guidance in order to mitigate possible irregularities and misconduct.”
+
+The CVM did leave the door open for smaller offerings of less than R$15 million (US$3 million) via a crowdfunding exemption, though this option has several limitations - such as the inability to trade assets on a secondary market.
+
+Daniel Coquieri, CEO of Liqi, told InfoMoney that his firm is still assessing the interpretation and has temporarily ceased all new token offerings.
+
+“We are evaluating the letter, we have a technical divergence between the regulator and the market. It's time to analyze and try to better explain the arguments that we already had. We have already had several conversations with the regulator. But obviously we are going to respect the CVM's mandate. For a moment, let’s stop all offers.”
+
+Mercado Bitcoin said it is engaging with the agency to reach a “better understanding” of the letter.
+
+Industry Reaction: Not Thrilled 😡
+
+ABcripto - Associação Brasileira de Criptoeconomia, a trade group, argued that the characterization could derail the country’s nascent tokenization market and render the business model of tokenizers unfeasible. Further, it claimed the CVM did not take into consideration the arguments presented by tokenizers nor does it provide sufficient time for service providers to adapt.
+
+Bernardo Srur, CEO of ABCripto, told Valor:
+
+"The rule is good for bringing security, but the way it was put, it could even make the tokenization market completely unfeasible."
+
+But the CVM’s new position can be construed as positive in the sense that it brings clarity to an area that was previously murky.
+
+Marcelo Shima Luize, a partner at Eick Haber Pacheco Advogados, told Valor that the interpretation:
+
+“brings reasonably clear guidelines to those who operate token offerings with regard to the need – or not – for structuring public offerings of these securities and, therefore, without doubt carries with it the desired legal certainty the activity that inspires and calls for innovation”.
+
+But others aren’t convinced: Isac Costa of Warde Advogados said that the guidance creates a number of new hurdles for the industry by imposing the traditional public offering regime and infrastructure on digital asset issuers, most notably in the realm of new compliance costs.
+
+Erik Oioli, partner at VBSO, said that the interpretation will “paralyze the development of this industry - since the regulation of the capital market is not yet adapted to offers of tokenized assets.”
+
+"The solution proposed by the CVM - carrying out operations via crowdfunding - is unsatisfactory due to the limitations imposed on the platforms and will not contribute to the development of the market.”
+
+Liqi’s Coquieri argued that the crowdfunding alternative presented by the CVM does not sufficiently address the unique requirements of tokenization:
+
+"It's wanting to use a norm that was not created for this. We have the Central Bank with an agenda of innovation and tokenization with the digital real. The CVM has to look at this more carefully and maintain dialogue with the market."
+
+ABCripto’s Srur also highlighted that the crowdfunding option nullifies any potential benefits unlocked by secondary market trading, noting that any company desiring this liquidity would need to apply to the CVM regulatory sandbox:
+
+“The main point of tokenization is to allow secondary trading. If the company wants to do the secondary, it has to, necessarily, ask for a sandbox waiver, and the sandbox cycle is not open, which would require more license time.”
+Counterpoint: Nothing to see here 🤷 ♂️
+
+Other observers are of the opinion that the CVM letter doesn’t, in fact, change anything.
+
+Isadora Postal Telli of Souto Correa Advogados argues that the focus of the letter is on curbing scams and not necessarily issuing new guidance. He told InfoMoney:
+
+“The new orientation does not innovate, but it reinforces the understanding already expressed by other CVM bodies that the mere digitization of an asset is not enough to mischaracterize the original nature of that asset.”
+
+Marcos Rocha, partner and crypto specialist at Veirano Advogados, told BlockNews that the letter is basically a warning shot aimed at digital asset exchanges
+
+"to ensure that the tokens traded on their platforms do not infringe the laws on the public offer and distribution of securities."
+👷 ♂️Go deeper on asset tokenization
+
+🤓Valor ran a helpful explainer article on asset tokenization and why financial institutions in Brazil are exploring this area.
+
+“In general, the idea of tokenization appeals to banks because of the possibility of removing intermediaries from the process of issuing a financial asset. Instead of hiring an institution to carry out the issuance process, another for custody, another for settlement and yet another for debt distribution, the company interested in raising funds could issue tokens through a smart contract, automating all these steps.”

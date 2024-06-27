@@ -1,0 +1,147 @@
+🌎LATAM Crypto Report #11: Wrapping up 2023's biggest news
+Also: Argentina recognizes crypto for settling contracts, El Salvador's 'bitcoin bond' gets regulatory approval
+
+¡Hola a todos! 👋
+
+Welcome to our final edition of the 🌎Latam Crypto Report for 2023.
+
+It has been quite a year since we launched the 🌎 Latam Crypto Report (LCR) in March. As we look toward wrapping up 2023, we want to give a huge shoutout to everyone who has followed, shared and liked this newsletter. Thank you for your support and huge thanks to Kristin Majcher for authoring this newsletter throughout the year.
+
+With developments such as the crypto-friendly libertarian Javier Milei winning Argentina’s presidency and Tether’s moves to start bitcoin mining in the region, Latin America continues to be a crucial market for crypto. We’re thrilled to continue to bring you the most comprehensive and reliable news as we turn our calendars to 2024.
+
+Since it’s the holidays, we’ll do things a little differently this week. We’ll first unwrap our top 10 crypto moments of the year, focusing on the biggest stories we’ve covered in Latin America since our launch. Then, we’ll review our usual rundown of news items by country.
+
+As always, thanks for reading. If you found this content to be helpful, please tell your friends and be sure to head over to our Substack page to subscribe to the full version. 
+
+The LCR team wishes every one of you a happy, safe and relaxing holiday season 🎄 Hit subscribe, and we’ll see you in the same place next year.
+
+Top 10 Latam Crypto Stories of 2023
+
+(Traxer via Unsplash)
+
+We know best-of lists tend to be overplayed this time of year. But since we’ve put together 10 previous editions of the LCR we couldn’t help but assemble the biggest news highlights all in one place.
+
+Here are 10 key crypto moments from 2023, each chosen from one edition of the LCR and listed in chronological order.
+
+LCR#1: Latin American startups feel collapse of crypto-friendly banks
+
+When we launched our first edition of the LCR, the hot topic was the collapse of tech-focused Silicon Valley Bank (SVB) and crypto-friendly banks Silvergate Bank and Signature Bank. SVB in particular was one of the few US-based banks willing to work with founders and startups in the region.
+
+Latitud founder Brian Requarth told Reuters at the time:
+
+"This touched (almost all) venture-backed companies in Latin America.”
+
+Thiago Cesar , then the CEO of Transfero Group, explained the impact on crypto brokers:
+
+“Most crypto exchanges lost their U.S. dollar rails.[...] It impacted the alternative FX market in LATAM fueled by crypto.”
+
+(LCR# 1, March 19)
+
+LCR#2: El Salvador Grants Bitfinex Securities a Digital Asset License
+
+In April, El Salvador finally granted Bitfinex Securities a digital asset license to issue tokenized assets through its exchange based there.
+
+The license is a key step in making El Salvador’s so-called bitcoin-backed “Volcano Bonds” a reality.
+
+(LCR#2 , April 14)
+
+LCR#3: Argentina’s central bank restricts crypto for fintechs
+
+Argentina’s central bank doubled down on its stance that financial institutions can’t offer crypto services in May, issuing a statement saying that payment service providers were prohibited from offering services with unregulated currencies like digital assets. This impacted popular platforms like Ualá, Bind Pagos, MercadoPago, Personal Pay, Mobbex, Nubi, Modo and Pomelo.
+
+The notice came almost exactly a year after it told financial institutions that they could not offer crypto services. We’ll be anxiously waiting to see if this regulation survives Milei’s motosierra in 2024. (LCR#3, May 5)
+
+LCR#4: Latin American users sent estimated $3.6 million in crypto to China-based shops for fentanyl production: Chainalysis
+
+The fight against fentanyl trafficking was one of the biggest news stories of 2023, and a Chainalysis investigation highlighted crypto’s role. Latin America proved to be a nexus for this activity, as crypto addresses in the region sent nearly $3.6 million in crypto to chemical shops in China. (LCR#4, May 26)
+
+LCR#5: Volcano Energy sources $1b in commitments for El Salvador bitcoin mine
+
+One of 2023’s most interesting stories was that Tether plans to spend about $500 million in the next few months to enter the world of crypto mining. While Bloomberg reported that number in November, we caught some hints about the company’s ambitious plans earlier in the year. In late May, Blockworks reported that Tether was eyeing Uruguay to launch a mining operation, and CoinDesk reported that the company was also investing in a new bitcoin mining site in El Salvador. The public-private partnership behind the site, Volcano Energy, announced it sourced $1 billion in commitments for a 241 megawatt (MW) bitcoin mine powered by wind and solar energy. (LCR#5, June 21)
+
+LCR#6: Binance axes Argentine Football Association sponsorship
+
+Binance ended a five-year partnership with the Argentine Football Association (AFA) after just a year, CoinDesk reported. The crypto company claimed the soccer organization had breached its contract, though the breakup occurred in the leadup to Binance’s US$4.3 billion settlement with authorities - a time when certain partners were distancing themselves from the exchange. LCR#6, July 19)
+
+LCR#7: Argentina investigates Worldcoin
+
+As the Worldcoin project made its way around the Southern Cone to register users by scanning their eyeballs, Argentina’s Agency for Access to Public Information (AAIP) announced that it had started an investigation. “The investigation will carefully analyze the processes and practices in relation to the collection, storage and use of personal data,” the AAIP noted. (LCR#7, August 15)
+
+LCR#8: Binance says goodbye to Mastercard partnership, launches remittance service
+
+Several news outlets reported that Binance and Mastercard would be ending their crypto card partnership on September 22, affecting cardholders in Argentina, Brazil, Colombia and Bahrain.
+
+(LCR#8, September 5)
+
+LCR#9: Chainalysis: Brazil, Argentina and Mexico lead Latam crypto adoption
+
+Chainalysis revealed that Brazil, Argentina and Mexico placed in the top 20 on the company’s 2023 Global Crypto Adoption Index. Brazil came in 9th, Argentina in 15th and Mexico in 16th place. For more context about this incredible Chainalysis report, check out Aaron’s interview with research director Kimberly Grauer👇. (LCR#9, October 14)
+
+LCR#10: Crypto-friendly, libertarian Javier Milei to become Argentina’s next president
+
+Capping off an exciting year of news was crypto-friendly Javier Milei’s surprise win during Argentina’s presidential elections. In our last version of LCR, we dug into Milei’s stance on crypto and the policies he hopes to implement. We plan to follow this story closely in 2024, and already have some breaking news on the topic to share below in our news roundup.
+
+For more color on how what the Milei election means for Argentina’s crypto industry, you can check out Aaron’s interviews with Ripio CEO Sebastian Serrano no, Bitso Argentina CEO Julian Colombo and Bitcoin Argentina co-founder Daniel Rybnik. (LCR#10, November 22)
+
+Honorable Mentions
+
+These stories were also significant and worth a mention when recapping 2023.
+
+Latin America’s leading travel website Despegar to accept crypto (LCR# 1, March 19)
+Argentina Approves Bitcoin Futures (LCR#2 , April 14)
+Binance Expands into Argentina (LCR#2 , April 14)
+Bitfinex expands in Latin America with Orionx investment (LCR#4, May 26)
+Argentina’s Lemon Cash Expands to Five Latam Countries (LCR#4, May 26)
+Ripple partners with Colombia’s Central Bank (LCR#5, June 21)
+New LATAM blockchain LaChain launches (LCR#6, July 19)
+Bitfinex launches regional P2P crypto platform (LCR#6, July 19)
+Binance receives El Salvador licenses (LCR#7, August 15)
+Circle and Mercado Pago to offer USDC in Chile (LCR#8, September 5)
+El Salvador’s first bitcoin mining pool launches (LCR#9, October 14)
+Buenos Aires to use ZK proofs for digital identity (LCR#9, October 14)
+Credix secures $60 million credit facility for Latam expansion (LCR#10, November 22)
+
+🗞Latin America Crypto News Rundown
+
+Here’s where we break down Latin America crypto headlines from the past few weeks, organized by country and region. If you don’t see a country listed, it’s simply due to the news flow during a particular week.
+
+Regional News
+
+Maximiliano Hinz is now Bitget’s growth director for Spanish-speaking Latin America markets and Spain. He was previously Binance’s general director for the region. (Forbes Argentina)
+“Latin America’s well-established market demand, policy support and widespread dollar usage make the region a natural fit for broader stablecoin adoption,” stablecoin issuer Circle wrote in a new report. (Circle)
+A Bitget survey found that 89% of Latin America’s crypto investors plan to increase their investments next year. (Criptonoticias, Cointelegraph, Portal do Bitcoin)
+Xapo Bank CEO Seamus Rocca explains the country’s strategy for merging traditional banking with crypto in a pair of interviews. (Brazilian Report, The Block)
+
+South America
+🇦🇷 Argentina
+
+President Milei’s first crypto-related policy move made headlines when Foreign Affairs Minister Diana Mondino tweeted that bitcoin (and any other type of crypto) can be used to settle contracts in Argentina. “We ratify and confirm that in Argentina contracts can be agreed in Bitcoin,” one of her Spanish-language tweets said. (Livecoins, Cointelegraph, The Block, Criptofacil, Portal do Bitcoin, BeInCrypto, Valor)
+Milei has threatened to close Argentina’s central bank, but can he actually do it? B2V Crypto’s Alexandre Vasarhelyi, CFA, CGA offers some insights. (Cointelegraph)
+Ripio CEO Sebastián Serrano predicts why he thinks stablecoins will continue to be important in Argentina, regardless of whether Milei’s plan to dollarize comes to fruition. (Cointelegraph)
+Argentina’s fintech chamber presented Milei with a new crypto regulation proposal. (UOL, Criptonoticias, Cointelegraph)
+
+🇨🇱 Chile
+
+A Chilean court ruled against crypto exchanges Buda.com, CryptoMarket and OrionX in a dispute against banks after their accounts were closed. (Contxto)
+
+🇨🇴 Colombia
+
+Colombia’s president Gustavo Petro recently met with blockchain experts, including JAN3’s Samson Mow. The group discussed applying blockchain to areas including health and labor. (Gustavo Petro via X, Bitcoin.com, Soy Hodler)
+
+🇻🇪 Venezuela
+
+Bloomberg Línea explains the factors behind the decline of Venezuela’s crypto ecosystem. (Bloomberg Línea)
+
+🇸🇷Suriname
+
+Suriname president Chan Santokhi met with Samson Mow, a bitcoiner who is CEO of the firm JAN3, to discuss strategies for integrating bitcoin into the local economy. (BTC Times)
+
+Central America & Mexico
+🇸🇻 El Salvador
+
+El Salvador’s long-awaited “bitcoin bond” received regulatory approval from the country’s Digital Assets Commission (CNAD), the country’s National Bitcoin Office tweeted. “We anticipate the bond will be issued during the first quarter of 2024,” the tweet stated. (Portal do Bitcoin, Decrypt, CoinTelegraph, BeInCrypto)
+El Salvador recently passed a law to provide fast-tracked citizenship to foreigners who make bitcoin donations to certain government programs, Reuters reported. In a December 7 press release, Tether said it was launching the “Adopting El Salvador Freedom Visa Program” with the government. According to that announcement, those wishing to get the visa leading to citizenship must make a “non-refundable $999 USD deposit in Bitcoin or USDt.” This amount then goes toward the $1 million equivalent needed in those cryptocurrencies to secure that visa. (Reuters, Portal do Bitcoin, Cointelegraph, Cointelegraph, Livecoins)
+Nayib Bukele requested a leave of absence and effectively resigned to run for president again in February, made possible by a 2021 constitutional court decision that reinterpreted an earlier ban on consecutive terms. (CoinTelegraph, Financial Times, Reuters)
+Bukele said on Dec. 4 that the country’s bitcoin investments were profitable as bitcoin reached about $42,000, but clarified that he did not plan to sell. (CoinDesk, Portal do Bitcoin, Criptofacil)
+
+

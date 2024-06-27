@@ -1,0 +1,133 @@
+#131: Brazilian firms have tokenized R$1 billion of assets
+Plus: 15% tax on overseas cryptos takes effect; Campos Neto to start his own fintech?
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+🎉 Welcome back to 🇧🇷Brazil Crypto Report for the week of March 11 - 15, 2024. I hope you enjoyed the first pullback of this bull market and managed to avoid getting liquidated.
+
+As an aside, if you happen to have knowledge about the next Solana memecoin that’s going to 100x, please drop me a line.
+
+On a serious note, I’ll be hanging out at Rio Onchain Week this Wednesday and Thursday - I hope to see some of you there. Feel free to shoot me a note if you’ll be around.
+
+🔍What’s in this week’s BCR?
+
+15% tax on overseas crypto holdings comes into effect
+Vórtx QR wins authorization to tokenize and trade non-securities
+Central Bank chief Roberto Campos Neto wants to start a fintech in Miami when his term expires
+Brazilian firms have tokenized more than R$1 billion in assets since 2019, a new analysis finds
+
+Have a great week everyone!
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🎙New podcast!
+
+This week’s podcast episode is a cross-over with Vance from 🌴My Latin Life, which is a platform devoted to helping gringos navigate life in Latin America. We talked about how tech, crypto and remote work more generally post-2020 have opened up a wide new range of lifestyle options for people traditionally confined to North America or Europe.
+
+As a gringo myself who splits time between North and South America, I’ve found Vance’s content to be super helpful and relevant.
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Overseas cryptos to be taxed at 15%, per new Receita Federal Rule
+
+The Receita Federalpublished Normative Instruction 2,180, which is related to an offshore taxation law passed late last year. The law calls for cryptocurrencies held on overseas platforms (ie not registered in Brazil) to be assessed a 15% tax.
+
+Importantly, a cryptocurrency’s “location” is defined as the physical location of the custodian or institution that trades the asset. This definition is made irrespective of where the issuer of the asset is located.
+
+Diogo Olm Ferreira of VSBO Advogados explained:
+
+"Since the proceedings in the National Congress, several people - including Caio Malpighi and I in an article for Valor - have indicated the practical difficulties of (i) satisfactorily defining “virtual assets” and (ii) establishing a consistent criterion for geographically situating the location of these assets, considering, in many cases, the lack of need for a custodian or centralized records."
+
+CoinTelegraph Brasil Portal do Bitcoin BlockNews Livecoins
+
+If you want to go in more depth on this new tax rules, you can check out this Portal do Bitcoin op-ed by Daniel de Paiva Gomes and Eduardo de Paiva Gomes 
+
+I will also have a podcast interview with crypto tax expert Thiago Barbosa Wanderley coming out later this week that explores these changes.
+
+Vórtx QR authorized to tokenize and trade non-securities on its platform
+
+Vórtx QR Tokenizadora became the first over-the-counter marketplace in Brazil authorized to tokenize and trade securities and non-securities.
+
+The tokenizer has been operating in the CVM regulatory sandbox since April 2022 and has tokenized R$212 million (US$42.4 million) worth of assets. However, it was limited to debentures, shares of closed-end investment funds, and real estate and agribusiness receivables certificates.
+
+Now, Vórtx will be able to tokenize bank securities, trade bills, court orders and commercial notes, and make them available in its trading environment.
+
+CEO Fernando Carvalho explained in a statement
+
+“Market data demonstrates significant growth in other asset classes, in addition to those we already have authorization to tokenize. This innovation will generate the democratization of access and the creation of new trading environments with more liquidity and lower costs for these assets.”
+
+Brazil BlockNews CoinTelegraph Brasil
+
+Post-BC, Campos Neto eyes starting a fintech in Miami
+
+Roberto Campos Neto, president of the Central Bank of Brazil, is considering moving to Miami once his mandate concludes at the end of this year to launch his own fintech startup, Bloomberg Linea reports.
+
+Fake News: Itaú is not suing Changpeng Zhao
+
+A fake Valor news article circulated on social media this week asserting Itaú, Brazil’s largest bank, was suing former Binance CEO Changpeng Zhao for teaching people to make money easily and thus cutting into the profits of big banks.
+
+Valor issued a statement explaining the content was fake:
+
+“Valor did not publish this content. It is a montage made with the newspaper's logo and which also uses fake images of what would be a program from CBN Rio, a radio station that is also part of the Globo group. The material also uses images of Bianca Santos, who is in fact an anchor at CBN Rio, but has never interviewed Zhao.”
+👏Brazilian firms have tokenized R$1 billion worth of assets
+
+An analysis by Lucas Gabriel Marins of InfoMoney shows that Brazilian companies tokenized R$1 billion (US$200 million) worth of assets between 2019 and January 2024.
+
+Roughly 6,000 total projects issued tokens during this period for everything from human-assisted reproduction clinics to debentures for parking concessions and motel debts.
+
+Share via Whatsapp
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Brazilian crypto funds saw inflows of US$17.5 million during the first week of March, according to CoinShares data. (Portal do Bitcoin) (BlockNews)
+2TM CEO Roberto Dagnoni highlighted how tokenization is the natural evolution of the Brazilian financial system at Fintech Summit 2024 in São Paulo. He said during his panel:
+
+“As Roberto Campos Neto [BC president] has said, all contracts and all financial assets will be tokenized, they will be on-chain, I think this is the main personal concept for us to record, this is the business change that is presenting itself.”
+
+Brazilian RWA platform Ribus launched its Ribus rewards program that compensates holders of the RIB utility token. (CoinTelegraph Brasil)
+Google Trends data shows that searches for the term “bitcoin” reached a new record in Brazil, surpassing the highs of 2021 and 2017. The states that recorded the most searches were Tocantins, Pará, Roraima, Maranhão and Mato Grosso. (Livecoins)
+
+📲 Adoption
+
+The state of São Paulo is using blockchain as the underlying tech for its new digital vehicle transfer service, which went live on March 12. The solution will speed up and simplify the process of buying and selling cars in the state.Governor Tarcisio Freitas celebrated the occasion at a public event by explaining that the state is fully committed to digitalization.
+
+"Our commitment as a technology hub, and for driving the State's digital transformation projects, is to make services more accessible, through innovative solutions, to make life easier for São Paulo residents"
+
+While the documentation issued by Prodesp , the state-owned technology that developed the solution, doesn’t specifically mention blockchain, the entity confirmed to Portal do Bitcoin that it does feature the tech:
+
+“The system developed in partnership by Prodesp and Detran-SP for TDV in the Poupatempo app features blockchain technology.”
+
+The popular ticketing platform Sympla announced the launch of a secondary market for tokenized tickets via a partnership with Lumx. (BlockTrends)
+Binance is having problems distinguishing people who are twins using its facial recognition, including the Massi twins who run a popular investing YouTube channel called “Gemeos Investem.” A Folha de S. Paulo report identified 11 reports on Reclame Aqui of people who are twins and unable to access their Binance accounts due to the facial recognition software.
+Blockchain education platform BlockTrends launched its BlockTrends Pro product, which provides 17 courses on crypto to subscribers. (Livecoins)
+Banco do Nordeste do Brasil announced that it has joined the Drex pilot project, specifically the TecBan consortium that also features companies like Grupo Foxbit, Parfin, nTokens, CPQD, AWS and several others.(CriptoFacil)
+7.8 million bitcoins, almost 40% of total circulating supply, are deemed to be lost, according to Glassnode. The total value of these lost bitcoins is estimated to be 5x the value of Petrobras. (InfoMoney)
+Internet Computer Protocol has launched a Brazil hub to bring blockchain education to schools and universities across the country. The project is being led by Modular Crypto co-founder Joao Pedro Kury (Portal do Bitcoin)
+Mercado Bitcoin will give away one bitcoin to a customer using a Polygon-based smart contract lottery. (Portal do bitcoin)
+This week’s ETHSamba a hackathon will give away US$24,000 in prizes to the winners. 
+The city of Rolante in Rio Grande do Sul now has 196 establishments that accept bitcoin as payment. With a population of 20,000, this means that the city has one establishment for every 102 inhabitants. (CriptoFacil)
+Satsconf, Brazil’s largest bitcoin event, will take place November 8-9 in São Paulo. (Livecoins)
+
+🏛 Policy, Regulation and Enforcement
+
+Crypto.com has joined ABcripto - Associação Brasileira de Criptoeconomia as a new member. Recall that Crypto.com recently inked a partnership with BTG Pactual to distribute the BTG Dol stablecoin. Alain Yacine, president of Brazil and Latin America at Crypto.com, said in a statement:
+
+“Being part of the ABcripto association is an extension of our commitment to the Brazilian market and the progress of its regulatory framework. Brazil maintains a vibrant digital asset community and a solid institutional framework, and we are excited to contribute further through ABcripto.” (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+A São Paulo court has accepted a complaint against the founders of MSK Invest brought by the Public Ministry, meaning that Carlos Eduardo de Lucas and Glaidson Tadeu Rosa are now defendants in the case. MSK was an investment scheme involving cryptocurrencies that promised investors 5% gains per month. (Portal do Bitcoin)
+A scammer stole photos of Ike Levy, a Brazilian photographer and influencer, had his photos stolen from his Facebook and Instagram profiles and then used in a love scam that stole US$200,000 in bitcoin from a 70 year old retired Australian. (Portal do Bitcoin)
+A new website uses a fake conversation with Brazilian model Yasmin Brunet to lure people into a scam crypto investment website. (BeinCrypto)
+Brazil’s Senate approved a bill that creates a framework for the electronic games industry in the country. Such a law could advance adoption of play to earn games. (CoinTelegraph Brasil)
+
+
+
+
+
+
+
+

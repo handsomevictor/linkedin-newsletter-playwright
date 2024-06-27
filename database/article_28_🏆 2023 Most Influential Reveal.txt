@@ -1,0 +1,152 @@
+🏆 2023 Most Influential Reveal
+With your input, we identified the 10 individuals who had the most impact on the Brazil crypto and digital asset world in 2023
+
+Olá pessoal!
+
+Appreciate everyone who took the time to participate in the BCR 2023 Most Influential series, and we’re excited to release the final list to you here today. Super grateful to everyone who has supported BCR in some way during 2023, and wish you all a great Christmas and holiday season heading into 2024.
+
+-AWS
+
+How did we determine this list?
+
+BCR solicited input and suggestions from across the community to create a preliminary top 50 list of individuals who had the most impact on the Brazil crypto world in 2023.
+
+We identified names from across the spectrum: YouTubers and content creators, policymakers and regulators, builders and entrepreneurs, who are working on areas like Drex, gaming, community building, trading, investing, etc.
+
+We released those names to the public in late November for a vote to help us arrive at a top 10.
+
+The goal of this format is to ensure that this isn’t simply a popularity contest, but rather to create an accurate snapshot of Brazil’s digital asset world in 2023. So we weighed the public vote along with how much each individual objectively contributed to the overall ecosystem, with the goal of keeping a broad representation of contributions, roles and worldviews.
+
+Big congratulations to the winners! I will be releasing podcast interviews with hopefully all of these individuals over the next 1-2 months.
+
+You can check out the podcast edition of this rundown as well with myself and Antonio👇
+
+Top 10 of 2023
+Rafael Castaneda - CastaCrypto
+
+Castaneda emerged in 2021 as one of the top Portuguese language content creators and community builders focusing on crypto and Web3.
+
+With his background as a “techno-philosopher”, cryptologist and 20+ years as a software engineer, Casta quickly differentiated himself from many of the other “influencers” from that era that simply grifted NFTs and memecoins (only to disappear once those trends died off). His content is refreshingly insightful and technical, yet grounded in reality and accessible to the average “crypto curious” investor.
+
+He also operates the Casta Guilda, which is an educational community for those keen to better understand technology, narratives, market cycles and more. His community is highly engaged, demonstrated by the fact that Casta received far and away the most votes of anyone for this Most Influential project.
+
+Helo Passos - CEO at Trexx 
+
+A diehard gamer and entrepreneur since her youth, Helo has become the torch bearer for the Brazilian blockchain gaming ecosystem.
+
+After discovering Axie Infinity in October 2020, she spent the next two years building up an Axie community of 30,000 users - the largest in Latin America.
+
+In January 2023, she founded Trexx - which is a startup focused on building a broader blockchain gaming ecosystem in the region by supporting game developers and then bootstrapping communities around them.
+
+Her 2023 highlight came at Ethereum Singapore, where Trexx won first place in a Public Goods hackathon against 120 other teams. During the event, a certain Vitalik Buterin even came over to meet Trexx - which was the only Brazilian team to participate.
+
+While 2023 was a down year for blockchain gaming overall, this figures to be an explosive area in the next market cycle, so fique atento and keep an eye on what Helo and Trexx are building.
+
+José Augusto de A. Antunes Filho (Guto Antunes) - Head of Digital Assets at Itaú Unibanco 
+
+Itaú is one of the largest, oldest and most prestigious banks in Brazil and Latin America. It is also one of the most innovative and forward thinking banks globally as it relates to digital assets.
+
+In early December, Itaú launched a crypto brokerage for retail customers with a bitcoin and ether offering that will be expanded to include other assets in the coming year. The bank is also building out crypto custody and asset tokenization solutions, has been heavily involved in the Drex pilot, and even launched a tokenized receivables fund in partnership with Liqi Digital Assets and Oliveira Trust.
+
+Antunes is the man behind the curtain for all of these initiatives. Having previously held executive roles at 2TM/Mercado Bitcoin and Crypto.com (and traditional finance before that), he brings the necessary crypto know-how and understanding of the Brazilian banking system to lead Itaú into the tokenization age.
+
+Fabio Araujo - Drex Coordinator at Banco Central do Brasil 
+
+Araújo has been the public face of the Central Bank’s Drex/Digital Real initiative throughout 2023.
+
+As readers will surely know, Drex is an extremely ambitious project that aims to rewire the plumbing of Brazil’s entire financial system. It seeks to implement an innovative hybrid retail/wholesale CBDC system within a tokenization environment that will eventually house blockchain-native versions of all financial assets.
+
+Executing a project of such scale and ambition is no easy feat, as getting the 16 participating consortia onboarded onto the Drex testnet this year proved. The project has been met with some delays, which isn’t entirely unexpected, but it still has unresolved privacy and scalability questions.
+
+With bank president Robert Campos Neto’s term expiring at the end of 2024, the pressure is on to turn the sweeping vision of Drex into a reality that benefits Brazilian society. If Araújo and his team prove successful, then Drex becomes easily the most interesting blockchain implementation on the planet - one that will surely be replicated by central banks everywhere.
+
+Patricia Stille - CEO at BEE4 
+
+XP-veteran Patricia and BEE4 make the list for successfully launching Brazil’s first blockchain-based platform for tokenized equity.
+
+BEE4 is an environment that facilitates the issuance and secondary trading of tokenized shares of small and medium-sized companies, with annual revenues of between R$10 million (US$2 million) and R$300 million (US$60 million).
+
+Such a platform has long been a “Holy Grail” use case for blockchain entrepreneurs, and there is a graveyard of visionaries - many with massive war chests - who saw the opportunity but couldn’t make it work.
+
+Built on Quorum and operating in the CVM Regulatory Sandbox, Patricia and her team just may have cracked the code. They executed a handful of successful issuances in 2023, and then enlisted Genial Investimentos and Itaú Unibanco as distribute the shares originated on the platform to their private banking and retail clients.
+
+Whether Patricia and her team can carry the momentum forward in 2024 as Brazil moves toward a tokenized financial system will be a key theme to watch.
+
+Guilherme Nazar - Director General at Binance Brasil
+
+Nazar, the nephew of Lula’s Finance Minister Fernando Haddad, assumed Binance’s Brazil country manager role in late 2022 after a distinguished career building out Uber’s operations in Brazil and a stint at real estate technology platform Loft.
+
+At the time he assumed job, Binance was riding high following CZ’s roof-raising visit to Brazil earlier in the year and the collapse of its primary competitor FTX.
+
+However, 2023 proved to be the year that many of Binance’s chickens came home to roost - both globally and in Brazil. The exchange found itself embroiled in a congressional investigation into financial pyramid scheme operators that ran off with absurd amounts of money from Brazilian crypto investors. The committee pinned much of the blame for this activity on Binance, and Nazar was tarred and feathered publicly (even though he wasn’t around when the illicit activity allegedly occurred).
+
+Despite all of that, Binance is still the king of Brazil’s crypto castle. Its opponents were unable to inflict a fatal wound when they had the chance, and the exchange appears to have turned the page following its US$4.3 billion settlement with the US government and the removal of CZ as CEO.
+
+Binance’s continued presence in the Brazilian market will be a key narrative for 2024.
+
+Federal Deputy Aureo Ribeiro
+
+Ribeiro has been the key crypto-friendly politician in Brazil for several years now, as he was one of the key figures behind the crypto bill that was signed into law in December 2022.
+
+In 2023, he re-emerged as the driving force behind a special committee in the Chamber of Deputies (CPI) tasked with uprooting and investigating financial pyramid schemes, with a particular interest in those that involved cryptocurrencies.
+
+The CPI lasted 3.5 months and dug into many of the larger-than-life pyramid schemes that fleeced Brazilian investors and tarnished the local digital asset industry. Atlas Quantum, KriptaCoin, GAS Consultoria - just to name a few. The committee also heavily prodded the inner workings of crypto firms operating in Brazil, and expanded into other pyramids that didn’t involve crypto at all like 123Milhas.
+
+It’s too early to assess the full impact of the CPI, but the effort does appear to have helped clean up the image of Brazil’s crypto industry - an effort that should pay significant dividends in the years to come. None of this would have been possible without Ribeiro championing the cause, which earns him a slot on this year’s list.
+
+Bernardo Srur - CEO at ABcripto - Associação Brasileira de Criptoeconomia
+
+When Srur assumed the leadership of ABCripto in early 2022, it was a small trade group with a handful of crypto exchanges in its member ranks. The organization was primarily focused on lobbying Congress to pass legislation to regulate cryptocurrencies, which was ultimately signed into law in late 2022.
+
+With that accomplishment in its back pocket, ABCripto was able to broaden its remit and its member ranks in 2023. It now has more than 40 member companies, domestic and foreign, from all segments of the digital asset industry - including several big name banks and payment companies like Itaú, Visa and Mastercard. Enlisting names like these is no small accomplishment given the tensions we are seeing in other parts of the world between crypto and financial incumbents.
+
+In 2023, ABCripto also conducted a census of Brazil’s crypto industry, rolled out an important compliance credentialing program, hosted several important industry events and more. Most importantly, it has become the unified front of Brazil’s digital asset industry on matters of public policy, advocacy and education.
+
+Srur makes the list for transforming ABCripto from a small lobby shop into a fully-operative trade association.
+
+Rocelo Lopes - CEO at SmartPay
+
+Rocelo is a serial entrepreneur and OG in Brazilian bitcoin and crypto circles. Among other endeavors, he was the first to operate a commercial bitcoin mining facility in South America.
+
+He makes the cut this year for his work building out his Swapix product and Truther wallet. These tools allows users both Brazilians and gringos to send and receive USDT payments using Brazil’s Pix instant payment network - no bank account required.
+
+This is one of the most powerful tools that I’ve ever seen that fulfills the true promise of crypto by letting individuals operate in the day-to-day financial system while maintaining full control of their money.
+
+Matheus Moura - CEO at BRLA Digital 
+
+Matheus and his team started off the year with the goal of launching a CVM-regulated crypto fund for accredited investors. Mid-year, as they neared the necessary approvals, they uncovered a niche in the crypto-fiat gateway space and pivoted their business overnight.
+
+After returning all of the investor money previously committed to the fund, the team got to work building a new BRL-pegged stablecoin called BRLA and a set of APIs aimed at helping companies (foreign and domestic) onboard Brazilian customers and create products accessible local users via BRL, BRLA, USDC and USDT conversions using Pix .
+
+With this product suite, Matheus and his team stormed onto the Brazil crypto scene in the second half of the year, raising a R$3 million seed investment led by former Binance CFO Wei Zhou and closing several deals with notable projects targeting Brazilian users.
+
+2022 Winners
+
+I’m throwing in a retroactive section here looking back to 2022, as we conducted a Most Influential survey for that year but weren’t ultimately able to publish due to time commitments and unforeseen circumstances.
+
+Maurício Magaldi - Podcast Host at Blockchain Insider; Head of Product at Input Output (IOHK) Midnight
+
+Magaldi is a staple of Brazil’s blockchain ecosystem. He has been creating his BlockDrops podcast every week since 2019 discussing blockchain-related business news in Portuguese, and for the last two years he has been the host of the prestigious English-language Blockchain Insider podcast. In 2023, he took on a new role as Head of Product at IOHK Midnight, which is a Cardano side chain.
+
+Camila Rioja - Head of Latam at Celo Foundation
+
+Camila was the top vote-getter in the 2022 survey for her work as the Latam lead at Celo Foundation. She stepped away from that role in 2023 to take a sabbatical, but stayed busy by helping to organize two government sponsored Web3 hackathons in Brazil and working the global speaking circuit.
+
+Daniel Coquieri - CEO at Liqi Digital Assets
+
+Coquieri and the Liqi team have been pioneers in the asset tokenization race for several years now. While Liqi delivered some big wins in 2023, the CVM threw a curveball in the spring when it published a not-so-favorable opinion on fixed income tokens that changed the short-term calculus for tokenizers. Liqi closed out the year with a consolidation around its crypto-as-a-service offering while it continues doing tokenization work for enterprises.
+
+Villain of the Year
+Antonio Neto Ais - CEO at Braiscompany
+
+Antonio Neto Ais joins the non-prestigious ranks of the Brazil Crypto Report Villain of the Year awards. The 2022 award went to Francisley Valdevino da Silva (aka “Sheik of Bitcoins”), with Glaidson Acácio dos Santos (aka “Pharaoh of Bitcoins”) claiming the trophy in 2021.
+
+Braiscompany was a pyramid scheme investment company set up in the state of Paraíba in northeast Brazil. It was an impressive operation that was able to attract R$1.5 billion (US$300 million) from more than 10,000 investors, including many local political and business elites, with the promise of 7-15 percent monthly returns.
+
+Investors began to voice complaints in late 2022 that they were unable to withdraw assets from the platform, and by February 2023 the scheme had completely collapsed. But by the time Federal Police raided Braiscompany’s headquarters in Campina Grande and freeze the principals’ bank accounts, Neto was long gone. He sold off many of his mansions and luxury goods before fleeing the country.
+
+His current whereabouts are unknown, but he is believed to be in Argentina based on some Instagram posts where he forgot to turn off the location tag.
+
+For fleecing 10,000 Brazilian investors of R$1.5 billion reals and getting away with it (for now), Antonio Neto Ais is 🇧🇷Brazil Crypto Report’s 2023 Villain of the Year.
+
+

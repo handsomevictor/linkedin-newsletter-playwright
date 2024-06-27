@@ -1,0 +1,130 @@
+#124: Solana Foundation expands in Brazil
+Also: agribusiness giant Bunge invests in Agrotoken; tokenizer Hamsa ramps up Brazil operation
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for December 26 - January 5th. I hope everyone had a pleasant Christmas and New Year’s. 
+
+I made the trip up to São Jorge in Chapada dos Veadeiros for New Year’s with the family to do some trekking and see some waterfalls. I highly recommend visiting here if you’re into outdoorsy stuff. 
+
+With crypto markets coming back to life, I’m very excited to see what unfolds in the Brazil crypto ecosystem in 2024 and excited to take this journey with all of you.
+
+Quick housekeeping note - the week of January 15th I will be in Davos for World Economic Forum helping to put together the Filecoin Foundation activation. If you’re going to be there on the ground (or know people who will be around) please hit me up on Linkedin - always great to connect in real life.
+
+Have a great week everyone.
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🎙New podcast
+
+For the first podcast of the new year I am joined by Helo Passos, who is a rising star in the world of Web3 gaming. She made the Forbes Brasil 30 Under 30 list for 2023, as well as the BCR Top 10 Most Influential list. 
+
+We talk about her experience building Latin America’s largest Axie Infinity community, her current startup Trexx - which facilitates blockchain game communities and development, and her predictions for the Web3 gaming sector for 2024. Definitely worth a listen!
+
+Tokenizer Hamsa taps Henrique Teixeira to lead Brazil expansion
+
+US-based real world asset tokenizer Hamsa announced its formal arrival in Brazil on December 26th with a new headquarters in São Paulo. Teixeira, who previously led Brazil operations at Ripple and Ripio, assumes the role of Director General for Latam. He said in a statement:
+
+“Thanks to the central bank’s progressive approach, Brazil is a world leader in terms of digitizing our financial system. This makes it the perfect location for Hamsa to offer its innovative technology and global connectivity.”
+
+Also joining the company is Francisco Prestes, who was previously head of innovation at Banco ABC Innovation Labs. He will be responsible for leading AI operations and engineering in the region. The company currently has 13 staff in Brazil and plans to hire between 30 to 40 more by the end of 2024. 
+
+Hamsa is a participant in the Brazilian Central Bank’s Drex pilot, and has already tokenized US$3.2 billion worth of assets such as real estate, receivables, bills and stablecoins.
+
+Teixeira told Valor that he expects to Brazil to see R$200 billion (US$40 billion) worth of tokenized assets in the next two to three years.
+
+Portal do Bitcoin Valor BlockNews
+
+Solana Foundation announces US$10 million investment in Brazil
+
+The non-profit arm responsible for overseeing the Solana ecosystem announced the expansion of its Brazil team and operations. It has expanded into the country via its “super teams” which lead learning initiatives, development of applications and services and paid work for 700 members and 10,000 participants. 
+
+Solana views Brazil as a key market for expansion in 2024 as it looks to promote more initiatives around artificial intelligence, tokenization and art. 
+
+Diego Dias, head of Latin America and Brazil at Solana Foundation explained that the super team began as a DAO supporting community development and now acts as an extension of the Solana Foundation supporting global expansion efforts. 
+
+“Our intention at the Solana Foundation is to have an ever-decreasing influence on the ecosystem and empower our community to lead the future of Solana.”
+
+Valor Portal do Bitcoin CoinTelegraph Brasil
+
+Receita Federal clarifies international crypto tax changes
+
+The revenue service published guidance explaining how cryptocurrency holdings outside of the country will be taxed at a rate of 15 percent. Specifically, Brazilians will need to fill out a new form to declare all income arising from capital investments abroad. 
+
+The document states:
+
+"Financial investments made abroad directly by individuals continue to have their taxable income determined at each income realization event, using the cash basis, and are now taxed once a year, in the DAA. The rate is 15%.”
+
+However, the Receita Federal stated that not all cryptocurrencies are subject to the law, and that further guidance on this matter will come at a later date. 
+
+"Will all virtual assets be considered as financial investments abroad? No. Law No. 14,754, of 2023, refers to the regulation of the Special Secretariat of the Federal Revenue of Brazil the rules for classifying virtual assets as financial investments abroad."
+
+CoinTelegraph Brasil InfoMoney
+
+Agribusiness giant Bunge leads Agrotoken’s US$12.5 million pre-Series A round 
+
+One of the world’s largest agribusiness companies is showing interest in agriculture-related tokenization efforts with an investment from its Bunge Ventures arm. 
+
+Recall that in late 2023, Agrotoken announced a partnership with Polkadot to tokenize agricultural commodities using a parachain. It also partnered with Banco do Brasil’s agribusiness platform to allow producers to purchase inputs using tokenized assets. 
+
+Eduardo Novillo Astrada (h), CEO and co-founder of Agrotoken, explained in a statement:
+
+“We conclude 2023 with this investment, which is the best way to end an incredible year. We are very happy to incorporate Bunge as an investor because this demonstrates the solidity of our technological infrastructure and the path we are building with the creation of new solutions.”
+
+Other investors in the round include Visa, Borderless Capital, Xperiment Ventures, Beagle Capital and more. 
+
+CoinTelegraph Brasil
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Valor Investe nicely recapped one of 2023’s key trends - the entrance of traditional finance and consumer facing companies like Nubank, Magalu, Itaú and others into the crypto brokerage world. 
+Crypto funds in Brazil saw some of the highest profitability in 2023 compared to other traditional types of funds. Funds managed by Hashdex, B2V Crypto, QR Asset and others posted returns of 130 percent or more during the period. BLP partner Axel Blikstad, CFA explained to Valor: 
+
+“After surviving 2022, our second ‘crypto winter,’ the four-year cycle appears to work like a Swiss watch and we hope to repeat the performance looking forward. But nothing is certain or guaranteed.”
+
+Bitso Brasil CEO ⚡️Thales Freitas expects to see growth on the asset tokenization front in 2024 in Brazil, along with new payments use cases and infrastructure, continued wealth building, and heightened security and regulation. The Mexico-based crypto exchange now has 1.7 million customers in the country. Freitas said: 
+
+“In Brazil in 2024, I think tokenization will come with everything. We will start to see the reality of some assets being issued directly on the blockchain network. The big advantage is that you can divide this asset into tiny amounts and transferring it will be much easier, reducing the transaction cost.” (Exame)
+
+Asset tokenization startup AmFi released its first public offering of digital fixed income tokens available to the general public. The tokens were created in partnership with Stockash, a fintech that advances stock options to executives. The total offering is for R$215,000, with the tokens returning 26.68 percent annually. The offering comes after the startup spent five months to adapt to the CVM’s guidance on the subjectAmFi CEO Paulo David told Valor: 
+
+“We now have the opportunity to speak openly to thousands of people about our tokenized products, which yield much more than traditional assets. We believe that operations with tokenized receivables in general have a great impact on the Brazilian economy, providing more liquidity, profitability, transparency and security for originators and investors” (CoinTelegraph Brasil)
+
+Brazilian crypto investment funds saw an outflow of US$23 million worth of funds during 2023. (Portal do Bitcoin)
+BLP Crypto chief investment officer Alexandre Vasarhelyi, CFA, CGA argued that the turning point in the 2023 crypto market came in July when Blackrock CEO Larry Fink defended bitcoin during a television interview. (InfoMoney)
+Digital bank Revolut is reorienting its Brazil strategy to focus on customers looking for more exposure to foreign currency and investment products. (Bloomberg Linea) 
+BTCC Exchange, one of the oldest bitcoin exchanges in the world, is expanding into five new regions including Brazil. (CoinTelegraph Brasil)
+Blackrock revealed that Brazilian fixed income is one of its primary investment assets. Russ Koesterich, an asset manager at the firm, 
+
+“Brazilian real interest rates are very high, we think they are attractive compared to other emerging markets. We also see opportunities on the debt side in Mexico, another emerging market that we like. We have less exposure to equities, in part because we are more cautious about China.” (CoinTelegraph Brasil)
+
+Banco Itaú sees a “virtuous cycle” for bitcoin playing out in 2024, digital assets lead Guto Antunes explained in an interview with Exame. 
+MB Startups launched a new variable income token linked to Formula One driver Emmo Fittipaldi’s earnings. (CoinTelegraph Brasil)
+Hashdex has been meeting with the SEC and is ramping up its marketing in the US in anticipation of a bitcoin ETF approval this month. (CriptoFacil)
+
+📲 Adoption
+
+With several core challenges to be overcome, 2024 will be the defining year for the creation of Drex, argues Fenasbac innovation director Rodrigoh Henriques. (Exame)
+The Lift Lab, administered by Fenasbac, released the Lift Papers - a digital magazine of 18 papers focusing on the Drex project. 
+Microsoft carried out more than 120 test transactions on the Drex testnet using a privacy solution built by the company. The solution adds another potential privacy tool to be utilized within the environment, in addition to Zether, Starlight and Parchain. Microsoft is a member of the Brazilian Banking Association (ABBC) consortium. Euricion Murari Soares de Pinho, director of innovation and services at ABBC, explained:
+
+“As Microsoft is part of our consortium and is developing confidential computing work, our node was born with confidentiality. We have already built our entire node within this infrastructure.” (CoinTelegraph Brasil)
+
+BTG Pactual looks to maintain its leadership position in the Brazil crypto market in 2024. (Exame)
+Influencer Murilo Duarte, better known as “Favelado Investor”, disclosed that he now earns R$20,000 (US$4,000) a month in cryptocurrency related income despite being initially skeptical of the asset class. (Portal do Bitcoin)
+A spot bitcoin ETF in the US, the growth of the Solana ecosystem, bitcoin halving, the Brazilian Central Bank’s regulatory movements and the Drex ecosystem were cited as catalysts for 2024 by Brazilian crypto market experts interviewed by Portal do Bitcoin.
+Brazil could have 11 million bitcoin investors in 2024, argues CoinEx business development manager Pedro Gutierrez. (Exame)
+PlanetaryX, part of the Sthorm ecosystem, launched a tranche of Biome Conservation assets. These are RWA tokens linked to biomass preservation efforts in the state of Amazonas. (CoinTelegraph Brasil) 
+CriptoFacil profiled Bruno Oliveira, also known as Sucateiro Cripto, who has been collecting and recycling cans and using the proceeds to stack satoshis.
+89 percent of Brazilians plan to invest more in cryptocurrencies in 2024, according to a study published by Binance. (CriptoFacil)
+
+🏛 Policy, Regulation and Enforcement
+
+A court denied a request to transfer “Pharaoh of Bitcoins” Glaidson Acacio dos Santos from a federal penitentiary in Paraná to a prison in Rio de Janeiro. (Portal do Bitcoin)
+Popular bitcoin accountant Ana Paula Rabello published a list of 35 questions and answers about new taxation rules for cryptocurrencies held overseas. (Portal do Bitcoin)
+Initiatives by the Central Bank and CVM to outline the country’s crypto market in 2023 were instrumental in laying the groundwork for what could be an eventful 2024. (CoinTelegraph Brasil)
+
+

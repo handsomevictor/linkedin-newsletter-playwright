@@ -1,0 +1,120 @@
+#116: Brazil's Bitcoin ETFs Outperform 📈
+Plus: Drex to integrate with "traditional" public blockchains; financial influencers still love crypto
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of October 30 - November 3, 2023! 
+
+I hope everyone was able to get their fix of Sam Bankman-Fried drama these last couple of weeks. The whole thing was pretty ridiculous in my opinion, but like everybody else in the industry I was unable to look away. There hasn’t been a trial in the US with that much fanfare and media coverage since O.J. Simpson. 
+
+Anyways, now that its over and justice has been served we can all get back to work. 
+
+Before we dive in, I’d like to highlight a special Drex-focused virtual event that the team at Exame is putting together. The sessions run all week (Nov 6-10) and feature a great lineup of speakers and topics at a critical moment, so definitely worth tuning in if you can. 
+
+Thanks for reading and have a great week!
+
+-AWS
+
+P.S. - if you are reading this via a Linkedin newsletter, please consider subscribing on Substack to get full access to content
+
+👊 Friendly reminder that if you enjoy this content, please consider following Brazil Crypto Report across the web. It’s a free and easy way to support my work! Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🎙New podcasts
+
+This week I was joined by Daniel de Paiva Gomes , a parter at VDV - Vieira, Drigo, Vasconcellos e Paiva Gomes Advogados and one of Brazil’s leading experts on cryptocurrency taxation. 
+
+We discuss at length a bill advancing through Brazil’s Congress that seeks to impose a 15% capital gains tax on crypto assets held overseas. We also address several of the misconceptions and misunderstandings regarding what the legislation would actually change should it become law. Daniel also shares why he believes Brazil’s crypto taxation regime is among the world’s best. 
+
+If you’re looking for another expert take on this tax legislation, I’d recommend taking a look at this blog post from Ana Paula Rabello.
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Crypto ETFs outperform TradFi alternatives in 2023
+
+Eight of the ten best-performing ETFs trading on Brazil’s B3 Exchange so far in 2023 are comprised of crypto assets, according to an analysis by Levante - Ideias de Investimento. 
+
+Leading the way are the bitcoin-only ETFs operated by QR Asset Management , Hashdex x and Itaú Unibanco, which are up roughly 90 percent over the year. Several products made up of a basket of cryptos like Hashdex’s HASH11 cracked the top 10. Hugo Montan, crypto analyst at Levante, told Valor: 
+
+“HASH11’s lower performance than single-asset ETFs is directly due to the moment in the market cycle, in which bitcoin’s dominance expands as investors’ risk appetite is still reduced in the face of low existing liquidity.”
+Scaling Drex
+
+Valor ran an important article this week discussing potential scaling challenges that the Drex CBDC project will likely face when it enters the phase of issuing tokenized reals. 
+
+For context, Pix currently processes more than 20 billion transactions per year - equating to 2,000 to 3,000 transactions per second. Hyperledge Besu, the DLT platform chosen for the Drex pilot, has a maximum of just 700 transactions per second. Just by itself, Pix has more than 700 companies registered as payment initiators.
+
+While the Banco Central do Brasil has not included a scalability test as part of the Drex pilot, Thiago Segantini Nogueira of banco BV V explained that his institution and other participants in the pilot are preparing for one anyways:
+
+“Blockchain requires additional processing due to cryptography, so scale becomes a problem if it is similar to Pix.”
+
+While the current phase of the pilot is focused primarily on addressing privacy challenges, the scalability challenge will be just as, if not more, difficult to solve, said Marco Zanini, CEO of digital security firm DINAMO Networks:
+
+“We have no idea of the actual volume. If you tokenize receivables in digital real, a gigantic volume of transactions will pass through this network, and the more different assets you tokenize on the Drex network, the greater the volume.”
+
+Parfin has been developing a solution using its Parchain blockchain in which each bank that functions as a Drex validator node would process up to 15,000 transactions per second on its own permissioned chain. These transactions would then be batched and sent through to the Drex mainnet. Parfin CTO Alex B. explained:
+
+“Parchain plugins allow every financial institution to have a blockchain connected to the Hyperledger Besu master blockchain. Each of these networks will be behind the bank's firewall, so that only when the transaction passes from one bank to another will the operation be sent by Besu, but even this connection is carried out with post-quantum cryptography.”
+Drex to integrate with “traditional” blockchains
+
+Integrating with Ethereum and other public chains will be one of key priorities for the Drex project in 2024, project coordinator Fabio Araujo said at a recent event hosted by Blocknews and Cantarino Brasileiro. 
+
+Drex is currently built on Hyperledger Besu, a permissioned chain that is compatible with the Ethereum Virtual Machine and can therefore run smart contracts built for Ethereum.
+
+This integration with public chains will be controlled by the bank and have appropriate AML controls. Araujo explained: 
+
+“Naturally, we will allow the issuance of the Drex token in public environments through a regulated agent of the Central Bank. This way, the BC has control over who issues the issue.”
+
+The bank has been running tests with different applications and protocols, including DeFi money market platform Aave, to ensure interoperability is preserved. 
+
+Araujo added that the bank is in discussion with the CVM, Brazil’s securities authority, about how to register assets on the Drex platform, and that the bank’s Interdepartmental Tokenization Group will release a report on this subject at the beginning of 2024. He explained:
+
+“This is a very important point: how to tokenize (assets) to be used in the (Drex) environment and how to interoperate with other environments. It is a point to be addressed in 2024.”
+
+Araujo also stated in his talk that the bank will launch its first public consultation for regulating cryptocurrencies this month (November)
+
+Exame CoinTelegraph Brasil BlockNews
+
+Bloomberg profiles BTG, Itaú digital asset push
+
+The piece showcases how Brazil’s largest banks are preparing for a future financial system that is built on and powered by the blockchain-based Drex environment. 
+
+Additional favorable changes in the Brazil landscape include a move by the CVM to allow funds to invest as much as 10% of their AUM in crypto assets, opening the door for potentially significant inflows. 
+
+José Augusto de A. Antunes Filho (Guto Antunes), head of digital assets at Itaú, explained: 
+
+“Brazil’s central bank has realized that there is a new investor, who is native to the digital market. There is a socio-generational change taking place, and banks need to be ready for it.”
+
+Itaú recently rolled out a digital asset custody product that it plans to make available to retail investors soon. The bank now boasts a digital assets team of 66 people, up from just 10 two years ago. 
+
+BTG Pactual now has a digital assets team of 30 with plans to expand. “All areas will have to be ready to implement this infrastructure in the bank’s operations,” explained Andre Portilho, BTG’s head of digital assets. 
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Gear Ventures, a fund that has Mercado Bitcoin founders Gustavo Chamati and Mauricio Chamati ti among its partners, invested R$10 million (US$2.04 million) into a Minas Gerais cybersecurity startup called @Pacific. (Valor Pipeline) (Portal do Bitcoin)
+Arthur Mining will sell bitcoin at US$23,000, roughly the cost of mining one bitcoin currently, to members who purchase a subscription that grants access to this price for five years. (BlockTrends)
+Brazilians withdrew R$24.5 million (US$5 million) from crypto funds during the week of October 23-29, according to data from CoinShares. (CoinTelegraph Brasil)
+
+🪙 Drex
+
+The TecBan Drex consortium executed its first successful token issuance and interbank transfer in a transaction that involved Banco Arbi, Bradesco and Banco ABC. (Valor) (BeinCrypto)
+Financial asset registrar CSD BR is teaming up with CBOE Digital, the digital assets division of the Chicago-based options exchange to create a working group studying asset tokenization in Brazil, particularly within the Drex environment. (Valor)
+
+📱Adoption
+
+Satsconf, Brazil’s largest bitcoin-only conference, convened enthusiasts in São Paulo from November 2-5. The conference featured several side events, including a 5k race on Avenida Paulista. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Socios.com partnered with CENTAURO to promote its first edition of Fan Fest, an experience inside São Paulo’s Ibirapuera Arena that allows fans to utilize their fan token holdings for various attractions. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Brazil’s Ministry of Health wants to use blockchain technology to protect from hacks against the agency’s information systems. (Portal do Bitcoin)
+Cryptocurrencies were the most discussed products by financial influencers in Brazil during the first half of 2023, according to a study from ANBIMA. Roughly 26 percent of influencers’ posts discussed crypto. However, the overall quantity of crypto content produced was down from the second half of 2022. The Anbima report states: 
+
+“Although digital currencies remain the most popular asset among finfluencers, the production of content about them decreased by 18% compared to the second half of 2022”
+
+Additionally, new rules from Anbima governing influencer relationships come into effect on November 13. These rules require creators to disclose when content is advertising for a brand. Institutions contracting influencers are also responsible to ensure the “veracity of the information disclosed and its completeness, so as not to lead the investor into error” (Portal do Bitcoin)
+A cold wallet controlled by GAS Consultoria transferred 10 bitcoins to a centralized brokerage account, according to data from analytics firm BlockSeers. The transaction is believed to have been executed by Mirelis Yoseline Dias Zerpa, wife of Glaidson Acacia dos Santos (aka Pharaoh of Bitcoins). (Portal do Bitcoin)
+
+🏛 Policy, Regulation and Enforcement
+
+Actor Cauã Reymond has sued cryptocurrency pyramid scheme Atlas Quantum for improperly using his name. Reymond advertised for Atlas in 2018 for a contracted period, but the business is still using the actor’s name and images in its advertising materials, according to the complaint. (InfoMoney) (Portal do Bitcoin) (CoinTelegraph Brasil)
+Chamber of Deputies President Arthur Lira forwarded Bill 4173/23 to the Senate and urged Senate President Rodrigo Pacheco to take up the legislation quickly. The bill would tax overseas crypto holdings at a 15 percent clip. (CoinTelegraph Brasil)
+Police in Rio de Janeiro arrested Gilson Ramos Vianna, partner of the “Prince of Bitcoin”, for operating the AC Consultoria cryptocurrency pyramid scheme. (Portal do Bitcoin) (CoinTelegraph Brasil)
+The mayor of Campina Grande signed a new law that officially makes Braiscompany founder Antonio Neto Ais a “persona non grata”, after the collapse of his scheme harmed thousands of city residents. (Portal do Bitcoin)
+Brazil’s Public Ministry will pay up to R$6.4 million (US$1.3 million) for a blockchain analytics program, per a recent bidding notice issued by the agency. (Portal do Bitcoin) (CoinTelegraph Brasil)

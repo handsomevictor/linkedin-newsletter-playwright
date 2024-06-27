@@ -1,0 +1,45 @@
+🇧🇷BCR #42: CZ, Brian Armstrong Meet with Brazil Central Bank President
+Plus, Brazilian retail land grab intensifies as Nubank, XP, BTG Pactual and Banco Itaú announce crypto products for the masses
+
+This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow for news, commentary and interviews exploring the Brazil crypto ecosystem (it's free - no excuses!).
+
+👋 bom dia friends,
+
+Crazy week! Hope everyone is holding up okay. I have a lot to say about what’s gone on the last few days in crypto with regards to this Terra/UST situation, but in the spirit of civility (and because they are outside the scope of this newsletter) I’m going to keep those opinions to myself for now. TLDR is that if Michael Saylor starts selling his bitcoin, then I’ll start panicking.
+
+🏦 The Banco Central do Brasil is in the crypto news cycle again as CZ and Binance representatives met with BCB President Roberto Campos Neto on Friday to discuss “institutional matters”. No other details about the meeting were offered.
+
+Representing Binance was Changpeng “CZ” Zhao himself; Matt Shroder, VP of International Expansion and Daniel Mangabeira, who was recently hired by Binance away from Bitso and is becoming the face of the company in Brazil.
+
+🔥 Not to be outdone, Coinbase CEO Brian Armstrong will be meeting with Campos Neto on Monday, May 16 as the firm looks to build out its presence in the country.
+
+The meeting comes fresh off the announcement of its Coinbase Brasil entity. To kickoff, Coinbase held a live virtual recruiting event on Thursday, May 12 aimed at drawing in developers. I popped in for a little bit to see what the experience was like. It kicked off with a 10 minute bumper video (with Portuguese subtitles) talking about Coinbase’s mission and its belief in crypto, featuring CEO Brian Armstrong and other executives.
+
+Former CTO Balaji Srinivasan was also featured heavily in the promo. Given that he left the company in May 2019, we can conclude that this video is at least 4 years old (might be time to update that!)
+
+Three Brazilian Coinbase employees then discussed their experience working for the company, explained the interview process and then took questions from the audience about how to best prepare for the interview. I’m not a dev so it wasn’t really my jam, but attendee engagement seemed pretty good based on the questions being asked via Slido - seemed there were at least 50 who were actively participating.
+
+The key point here, as InfoMoney’s Paulo Alves points out in a good column, is that new crypto brokers, whether they be foreign like Coinbase or domestic like Nubank, XP, BTG Pactual and now Itaú (who are all launching crypto offerings this summer), are not being deterred by the stranglehold that Binance and Mercado Bitcoin currently have on the Brazilian market. Will they regret launching retail-focused crypto investment products into what looks like the beginning of a bear market? We shall see…
+
+🏔 Side note, I’ll be in Davos the week of May 22-26 for the World Economic Forum. If anyone is going to be around please ping me and we’ll meet up. Filecoin Foundation (my day job) is organizing a hosting a big event space in the church directly across the street from the WEF Congress Center. It’s a a big partnership with CNBC, CoinDesk, Global Blockchain Business Council and others. We’re open to the public all week during the day, and just ask that people register. Also hosting a big kickoff reception on Sunday evening the 22nd that’s open to the public. Feel free to stop by and say hi if you’ll be around.
+
+-AWS
+
+🎙Also be sure to check out the most recent BCR podcast with Kristin Majcher, Senior Correspondent for Latin America at The Block - a leading crypto news, research and data outlet. We chat about her introduction to crypto via a Ripio ad on the Buenos Aires subway in 2019 and how that led to her covering crypto full-time in the region. You can listen to the episode in your browser and on Spotify.
+
+Next up in the queue are podcasts with Ze Paulo, president of Crypto Jr. in Brazil, and Conor Brady, founder of Ethereum Brasil and the organizer of Ethereum Rio and the upcoming Ethereum São Paulo - which will be held August 17-18. Keep an eye out for those!
+
+🙏 Thanks to our partners at HBAR Foundation for supporting 🇧🇷 Brazil Crypto Report! If you're a Latam entrepreneur or developer with an up-and-coming project or idea and need some support, take a look at the HBAR grant program. They're seeding projects focused on DeFi, fintech, NFTs, sustainability and so much more. They also offer a plethora of other resources to help builders bootstrap. Do yourself a favor and check them out! 👊
+
+💣 Trending Cryptos in Brazil
+
+Here’s a weekly snapshot of trending cryptocurrencies in Brazil as of May 13, 2022, per data provider CoinGecko. Not surprisingly, Terra is this week’s most trending currency, with Sweatcoin down slightly from last week but still cracking the top 10.
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Nubank, Brazil’s largest digital bank which has 54 million users in the Latam region, will enable bitcoin and ether trades for all users by the end of July
+XP, the largest brokerage in the Brazilian market with 3.5 million users, intends to launch its crypto trading platform next month.
+Bitso launched its Bitso+ service which offers customers up to 15% yields on bitcoin and stablecoins
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report to catch the rest of this newsletter

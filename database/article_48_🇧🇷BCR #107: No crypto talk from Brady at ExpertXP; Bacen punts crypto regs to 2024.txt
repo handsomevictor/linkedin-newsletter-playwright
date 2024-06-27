@@ -1,0 +1,156 @@
+🇧🇷BCR #107: No crypto talk from Brady at ExpertXP; Bacen punts crypto regs to 2024
+Plus: CVM rejects Binance settlement proposal; first interbank Drex transaction executed
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for August 28-Sept 1, 2023.
+
+You probably saw that NFL football legend Tom Brady was a keynote speaker at the @ExpertXP 2023 conference in São Paulo over the weekend. The event is advertised as one of the largest finance and investing conferences in the world.
+
+Unfortunately for the crypto crowd, Brady didn’t address the elephant in the room issue, which was his association with failed crypto exchange FTX. Recall that Brady and his then wife Brazilian supermodel Gisele Bundchen were “ambassadors” for the exchange run by Sam Bankman-Fried, who is currently in a New York prison.
+
+Image via MidJourney
+
+My random/bizarre connection to all of this: Back in May 2021, when I was program director for CoinDesk's Consensus conference, I booked Brady and SBF to make their ambassadorship announcement at our event. It was months’ worth of painful back and forth with their respective PR agencies, but at the time it was a huge win for me professionally and for the CoinDesk/Consensus brand. It was also a huge win for FTX, as the Brady deal was the catalyst that got a bunch of their other celebrity deals over the finish line (Stephen Curry, Shaquille O’Neal, Naomi Osaka, etc.)
+
+In retrospect, the Brady deal was the ultimate top signal and sign that this industry had completely overheated. Fast forward two years: crypto markets are in the tank, FTX was revealed to be a pyramid, Tom and Gisele are divorced, SBF is in prison and Tom has lawsuits from aggrieved customers piling up but refuses to talk about the incident publicly (probably on the advice of his lawyers, but still). The good news here is that when you’re at rock bottom there’s nowhere to go but up!
+
+On a separate note, BCR would like to pay our respects to Cláudio Goldberg Rabin, who is departing his post as editor of Portal do Bitcoin after six years. He’s contributed enormously to the growth of the Brazil ecosystem, never wavered in his commitment to hold the big players accountable and has been a supporter of BCR since Day 1. We wish him success on his next endeavors.
+
+Thanks for reading and have a great week everyone!
+
+-AWS
+
+🔥 Friendly reminder to please consider subscribing to 🇧🇷Brazil Crypto Report on Substack if you enjoy this content
+
+🎧 For this week’s podcast interviews I am joined by Mayra Siqueira, Brazil community manager at Algorand Foundation, and Maria Gabriela Damiani, technical advisor to the president at the CVM.
+
+Friendly reminder to have a listen to our new BCR week in review podcast, where Antonio Neto and I dissect the biggest Brazil crypto news stories of the week in 15-20 minutes.
+
+🎧 You can find all of our podcast content on the Brazil Crypto Report feed: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Crypto regulation to come in 2024, per Central Bank
+
+Otavio Damaso, a director of regulation at the Banco Central do Brasil , said that the institution would unveil its crypto regulatory and licensing framework in the first half of 2024, rather than the end of this year when many were expecting. He added that a public consultation should be opened before the end of 2023.
+
+The comments came during Damaso’s testimony before the CPI committee on financial pyramids in Brazil’s Chamber of Deputies. He added that the framework the bank is preparing is in line with recommendations from the International Monetary Fund, Financial Stability Council and Financial Action Task Force.
+
+Damaso also pushed for asset segregation in his testimony, urging Congress to act and give the bank the legal authority it needs to implement the rule.
+
+“Total shielding would be very welcome in the legislation. We are studying how we can do it, naturally without the quality that would exist if it were in the legal framework, but how we can work some kind of segregation to prevent the entity's resources from mixing with the investor's resources. Will this give full security to the investor? No. The only thing that would provide full security would be the legal device [legislation].”
+
+(Portal do Bitcoin) (Valor) (BlockNews) (Exame) (CoinTelegraph Brasil)
+
+Hashdex enters the US bitcoin ETF race
+
+I covered this a bit last week, but it’s significant enough to warrant a deeper look. Hashdex, in conjunction with New York Stock Exchange, came up with a clever maneuver that would convert its US bitcoin futures ETF into a mixed product consisting of spot bitcoin, bitcoin futures and cash.
+
+The move offers a novel way of addressing the SEC’s concerns of price. manipulation in the bitcoin market. Instead of entering a surveillance sharing agreement like rival applicants have done, Hashdex will use the Chicago Mercantile Exchange’s bitcoin futures curve to derive the fund’s net asset value. It would also buy and sell physical bitcoin using the CME’s Exchange for Physical Transactions.
+
+The key takeaway here being that these bitcoin transactions would be subject to CME’s market surveillance. The CME market has been approved by the SEC to be the pricing baseline for the four bitcoin futures ETFs currently operative in the US. If the SEC is comfortable with CME surveillance for bitcoin futures, it should presumably be comfortable using that same data to underpin this proposed fund.
+
+Why is this important? Hashdex has a reasonable chance of sneaking ahead of Blackrock, Ark, Fidelity and Grayscale in race for a bitcoin ETF in the US.
+
+The Hashdex team hosted a helpful Twitter space that went into what exactly they are trying to do and how it could succeed.
+
+(Financial Times) (Blockworks) (InfoMoney) (Decrypt)
+
+Itaú and BTG execute first Drex transaction; questions surrounding
+
+Itaú Unibanco and BTG Pactual, two of Brazil’s largest banks, executed the first Drex (aka Digital Real) interbank transfer using Drex prototype tokens. Andre Portilho, head of digital assets at BTG, stated:
+
+“The beauty of the network is that it doesn't need all the nodes to function. The nodes can now interact
+
+José Augusto de A. Antunes Filho (Guto Antunes), head of Itaú Digital Assets, added:
+
+“It was the first exchange in the interbank layer of the digital real. It served to make basic operations more tangible.”
+
+The success comes as six of the 14 consortia involved in the pilot have yet to successfully install their nodes on the Hyperledger Besu permissioned blockchain network. In particular, some consortia have found it difficult to meet the bandwidth requirements necessary to access the National Financial System Network (RSFN). The connection speed required by the bank for normal operations is 4 megabytes per second, versus 10 mbps required for Drex. A source inside on consortium told Valor:
+
+“Hyperledger Besu is very simple, you can install everything in five minutes. The hard part is connecting to the RSFN with this minimum bandwidth requirement. Everyone is asking to increase the bandwidth.”
+
+The bank told Valor in a statement:
+
+“Some participants did not have the required availability and, therefore, are in the process of resizing their access links to the RSFN”
+
+These pain points, along with labor disputes at the Central Bank, prompted the bank to postpone from August 14 to November 3 the deadline for configuring nodes on the network and the start of tokenization tests from September 11 to December 4.
+
+CVM Rejects Binance Settlement Proposal
+
+The CVM rejected a settlement proposal from Binance and B Fintech that would end an investigation into the exchange’s alleged irregular offering of derivatives products to Brazilian customers. The exchange proposed a R$2 million payment, but ultimately the agency balked:
+
+“The collegiate understood that the conclusion of the term of commitment would not be opportune and convenient, having decided to reject the proposal.”
+
+In a note to press, Binance said:
+
+“Although it expected a different result, Binance reiterates its deep respect for the decision of the collegiate, and reinforces that it will continue to offer its services following the highest standards of conduct and in strict compliance with what the regulatory authorities determine.”
+
+The CVM issued a stop order against Binance in 2020 for illegally offering derivatives in the country. Binance complied with the order, but the CVM recently re-opened the case after it was revealed that Binance was allowing Brazilian customers to access the products by switching the language on the interface from Brazilian Portuguese to Portuguese from Portugal.
+
+(InfoMoney)
+
+CPI Updates
+
+Former Brazilian footballer Ronaldinho finally appeared before the committee to testify about his role in an alleged crypto pyramid scheme called 18k Ronaldinho. His appearance came after he ghosted the committee three consecutive times, prompting CPI leadership to ask the courts to force him to testify. He forcefully denied his involvement in the scheme.
+
+“I was never a member of 18k Ronaldinho. The partners are Rafael Nunes and Marcelo Lara, who misused my name to create the corporate name of this company. I wanted them to be caught because they used my name, they tarnished my name. What I want most is for them to be caught so that I can clear my name. And if one day I can do something to help people who have been deceived, I will.”
+
+(Valor) (Portal do Bitcoin) (InfoMoney)
+
+The committee voted to subpoena banking, tax, telephone and data records of Midas Trend, a Bahia-based crypto investing scheme that used an "arbitration robot” (Valor)
+The owners of 123Milhas, Ramiro Júlio Soares Madureira and Augusto Júlio Soares Madureira, ignored two summons to testify before the committee, prompting a federal court to prohibit them from leaving the country and coerce them to testify. (R7 Noticias) (InfoMoney) (Portal do Bitcoin)
+Deputy Caio Vianna is requesting that representatives from airlines Azul, Latam and Gol also be summoned to testify. (Portal do Bitcoin)
+The directors of HotMilhas and MaxMilhas, which belong to the same owners as 123Milhas, have been summoned to testify. Additionally, the committee summoned Nelson Benavides Mateus, who is the representative of Booking.com in Brazil to discuss alleged payment delays to Brazilian hotels. (Valor)
+A move to summon Jair Renan Bolsonaro, son of the former president, was rejected by the committee. (Valor) (Portal do Bitcoin)
+Arthur Lira, president of the Chamber of Deputies, warned that he will not extend the operating period for any of the four CPI committees currently in action. (Valor)
+The committee has requested the unsealing of bank records for 20 individuals thus far. (CoinTelegraph Brasil)
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Fintech PicPay will make 75 investment funds available to a select base of customers starting in September. Available funds offer fixed income, multimarket, equities, private credit and cryptocurrencies from asset managers like Ibiuna, AZ Quest, Alaska, Absolute and Hashdex. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Mercado Bitcoin announced a new partnership with the financial education network Invight. (Portal do Bitcoin)
+Coinbase appears poised to begin complying with Normative Instruction 1888, which requires that transactions of Brazilians be reported to the Receita Federal, Brazil’s tax authority. (Portal do Bitcoin)
+Banco do Brasil and AgroToken are partnering to integrate tokenized commodities into the bank’s Broto agribusiness platform. The initiative will allow farmers to tokenize their crops and then use those tokenized assets to purchase machines, fertilizers and other agricultural inputs on the Broto platform. (CoinTelegraph Brasil)
+
+🪙 Drex (formerly Digital Real)
+
+Microsoft’s zero knowledge and hardware encryption tools could offer a solution to Drex’s privacy concerns, based on previous experience working on the Australian CBDC project (which used the Quorum blockchain instead of Hyperledger Besu) earlier this year. (Valor)
+InfoMoney published predictions from nine industry executives about what Drex will look like in practice.
+Drex will be a featured topic at Blockchain Rio Festival, held September 12-14 in Rio. The DigiFi Buildathon will also be occurring with support from Lido, NEAR and Ripio, with the goal of exploring solutions built on the Drex framework. (CoinTelegraph Brasil)
+Drex and programmable money more broadly will unlock “giant value”, Visa vice president Fernando Amaral said at ExpertXP:
+
+“How many times do we need to sell goods of greater or lesser value, and we are left in this situation: do I pass the good or pay first? If we multiply this moment of insecurity by the number of transactions, the potential [of Drex] to unlock value is gigantic.” (InfoMoney)
+
+Cristiano Maschio analyzes Drex through the “6D Exponential Curve” as termed by Peter Diamond in an Exame op-ed.
+The Central Bank published a Pix vs Drex explainer video on its BC Te Explica YouTube channel
+
+📱Adoption
+
+Pacto Energia opened a small bitcoin mining facility in Ceará as a way to use excess energy generated from a local hydroelectric plant. The technology was provided by Imagine Capital, which installed a container of mining hardware next to the facility under a revenue share contract. CEO Rodrigo Ferreira F. Pedroso said that his expectation is that mining bitcoin represents the equivalent of selling energy at a price of R$200 per megawatt hour, while the current electricity price floor in the open market is R$69 per MwH.
+
+"We made lemonade out of that lemon and now there's a perfect storm going on. The price of bitcoin is rising, the price of energy on the free market is falling and there are machines available around the world after China banned bitcoin mining…"For us, it's better to mine bitcoin than to sell energy on the free market.” (Valor)
+
+Brazilian blockchain solution provider Parfin among the finalists for a financial technology competition hosted by the Bank for International Settlements. The firm will present its Parchain blockchain - which features zero knowledge and homomorphic cryptography - at the event, called TechSprint, in early September. (Valor)
+A Brazilian team won three awards at the Ethereum Argentina hackathon last month. (CoinTelegraph Brasil)
+Should airline miles be tokenized? Mercado Bitcoin’s Patricia Nakamura assesses how a tokenized loyalty program could work in a Portal do Bitcoin op-ed.
+Brazilian YouTuber Ivan Bianco lost $60,000 worth of crypto after he accidentally leaked several of his personal passwords during a livestream on his Fraternidade Crypto channel. (Portal do Bitcoin)
+Luiz Barsi, a prominent investor known as the Warren Buffett of Brazil, doubled down on previous criticisms of bitcoin, saying that it is a “new way of taking people’s money” and that bitcoin “doesn’t exist”. (Exame)
+The NEXT Accelerator program, run by FENASBAC and the Central Bank, chose 13 startups for its latest four month cohort. Selected startups include Lumx Studios, Pods Finance and Cryptum. (BlockNews)
+Card issuer Elo is working closely with tokenization startups such as Tokenverse and CCONSENSUS as part of the NEXT Accelerator. (BlockNews)
+
+🏛 Policy, Regulation and Enforcement
+
+CVM President João Pedro Nascimento reaffirmed his desire to bring the crypto economy into the regulated market in an interview with InfoMoney
+
+ABcripto - Associação Brasileira de Criptoeconomia president Bernardo Srur laid out how a tax reform package working through the Congress would negatively impact the crypto industry in an interview with Exame.
+The CVM fined Glaidson Acácio dos Santos, aka “Pharaoh of Bitcoins” R$102 million (US$20.6 million) for offering unregistered securities. Additionally, Glaidson and his wife Mirelis Yoseline Diaz Zerpa were banned from trading in the Brazilian securities market for 8.5 years. (Valor)
+Zerpa appeared on a Times Square billboard in New York last week promoting the launch of her music on Spotify. (Portal do Bitcoin)
+
+Bybot creator Gustavo de Macedo Diniz, also known as the Engomadinho do Bitcoin, deleted all of his social media profiles and disappeared with R$70 million (US$14 million) of customer funds. The Bybot scheme claimed to deliver sizable returns via cryptocurrency arbitrage trading techniques. Two deputies on the CPI have requested that he be summoned to testify before the committee. Criminal faction PCC is reportedly seeking R$30 million to be returned to the group and is monitoring the whereabouts of Engomadinho’s family members. (Portal do Bitcoin)
+Not to be outdone, Engomadinho also promoted himself with a Bybot ad on a Times Square billboard before disappearing.
+
+Fintech platform Loopi has joined trade group ABCripto. (Portal do Bitcoin)
+Civil Police in Santa Catarina launched Operation Wallet against an organization accused of operating a drug trafficking scheme with cryptocurrencies. (Livecoins)

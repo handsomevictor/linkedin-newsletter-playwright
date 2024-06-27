@@ -1,0 +1,184 @@
+#117: Nucoin has 13 million users eight months after launch
+Also: 2023 Most Influential voting is live; Does a 'Drexit' from the Central Bank threaten Brazil's Digital Real ambitions? 
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of November 6-10, 2023!
+
+Before we dive in this week, I have two quick house keeping items:
+
+📖 2023 Reader Survey - if you enjoy BCR, please take two minutes of your time to respond to this reader survey. This will help us get a better understanding of how we can continue to add value for our audience 🙏
+
+🏆 2023 Most Influential Voting - voting is now open for the 2023 BCR Most Influential series. 2023 was a banner year for the Brazil crypto world, and we need your help identifying the 10 individuals who had the most pronounced impact on the market over the year. Voting is live at this link! Results will be published in mid-December. 
+
+Questions? Comments? Feedback? Feel free to respond to this email, find me on Linkedin or ping me at @AaronStanley on Telegram. 
+
+👊Also, please do give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram if you don’t already. And be sure to subscribe to BCR on Substack for more content like this! 
+
+Thanks for reading and have a great week! 
+
+-AWS
+
+🎙New podcasts
+
+This week I was joined by Paxos Chief Revenue Officer Michael Coscetta scetta to discuss the blockchain infrastructure giant’s new PayPal stablecoin and its expansion into Brazil and Latin America.
+
+I also chatted with Chainalysis director of research Kimberly Grauer about how Brazil fared in her recent 2023 Geography of Cryptocurrency report. 
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+😬 Could ‘Drexit’ and staffing woes throttle Bacen’s Digital Real ambitions?
+
+Staffing woes at the Brazilian Central Bank combined with heightened recruiting efforts by the private sector are throttling the bank’s day to day operations and potentially threatening the entity’s ability to rollout its ambitious Drex project 
+
+While the Drex project becomes more prominent and figures to be the foundation of Brazil’s future financial system, Bacen talent is being aggressively recruited by private sector companies that offer high salaries and lofty positions to individuals capable of managing the transition to the Drex environment.
+
+The most prominent example of this trend was fintech specialist Bruno Batavia departing the bank to take a job with venture capital firm Valor Capital. 
+
+This poaching trend is compounded by larger staffing and labor problems at the bank. While the institution can technically have up to 6,470 employees, it currently only has 3,300 active employees - with 692 set to retire by 2027. 
+
+Though the bank has been in discussions with the federal government to hire more employees, it has been unable to secure the authorization needed to re-staff appropriately. The bank will open a consurso, a public test that government agencies use to recruit and hire staff, for 100 vacancies in January, 2024. However, that’s hardly enough to fill the gap, and those new employees wouldn’t even start work until early 2025. FWIW the bank’s last concurso was in 2013 when it filled 500 vacancies.
+
+The end result is a mountain of problems relating to employee morale and satisfaction. As detailed by Folha de S. Paulo, the bank has been grappling with ongoing demands from employee unions that urgent steps be taken to improve the staffing situation.
+
+The National Union of Central Bank Employees (Sinal) issued a press release earlier this month highlighting the dissatisfaction of Bacen employees and lack of dialogue with the federal government.
+
+Many staff are apparently running for the exit in a movement nicknamed “Drexit”. According to Sinal, 157 Bacen employees recently signed up for a concurso being held by the Chamber of Deputies.
+
+Sinal explained in a press release: 
+
+"In the IT Department of the BC alone, there are 19 employees, including a subunit head and six coordinators, who intend to take the exam. Such an exodus could cause chaos in the authority. The BC is transforming into a luxury training center, in which newly hired civil servants qualify through various training and practices, but are then captured by the private sector and some other public bodies because of the latter's high salaries."
+
+It’s worth noting that Central Bank employees are compensated quite well compared to the population at large. An analyst (senior role) at the bank makes anywhere from R$20,000 to R$30,000 (US$4,000 - $6,000) per month. Still, union leaders argue that bank staff earn less than what they would make working similar careers in the private sector other parts of the federal government.
+
+Natacha Rocha, president of the National Association of Analysts of the Central Bank of Brazil (ANBCB), said in a statement:
+
+"In relation to similar careers, we earn less. This is the case of the Federal Revenue Service and the Attorney General's Office itself, which works together with Central Bank analysts and earns more, having opened up this asymmetry since 2016.”
+
+Why is this all a problem? Sinal is threatening a strike for later in November if conditions do not improve, illustrating the critical nature of the situation:
+
+ "If the government's negligence continues, the indication of a strike, for an indefinite period from the second half of November, may be presented to the category. A strike is a possibility among Central Bank employees.”
+
+Recall that the Drex pilot has already been delayed by several months due to staffing and unrelated technical issues. In August, the LIFT Lab, the sandbox where many of the Drex use cases were incubated, was suspended indefinitely due to human resource constraints.
+
+BCR will continue to monitor these developments.
+
+CoinTelegraph Brasil Valor
+
+👏 Nucoin reaches 13 million users in eight months
+
+The loyalty coin issued by digital bank Nubank has reached 13 million registered users, according to a newly launched block explorer tool that provides real-time information on number of wallets and transactions, price and liquidity.
+
+The tool indicates that there are 3.75 billion total Nucoins in circulation at unit a price of R$0.09 (US$0.02), equating to a total market cap of roughly R$350 million (US$71 million). The Nucoins live on the Polygon blockchain. 
+
+Fernando Czapski, general manager for Nucoin, explained: 
+
+“For the first time we show the public how much our ecosystem has already grown, reaching more than 13 million registered users – each with their own wallet address on the blockchain – in just 8 months after its launch.”
+
+Valor
+
+Bacen releases initial crypto regulation strategy
+
+The Central Bank released its preliminary guidelines for the future regulation of cryptocurrency brokerages in Brazil. The move comes ahead of a public consultation that is expected to be announced shortly. 
+
+The idea presented is that the regulatory structure to include three normative acts, two resolutions and a normative instruction. Paulo Portuguez, a partner Jantalia Advogados, explained in a statement:
+
+“The first resolution will be to deal with general concepts of VASPs, defining the scope of application and object of VASPs, definitions of concepts for the purposes of the standard, for example, what are the criteria and modalities of VASPs, what type of operation will can be explored or not.”
+
+BlockNews BeinCrypto Livecoins CoinTelegraph Brasil
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Luiz Barsi, known as the “Brazilian Warren Buffett”, said in an interview that cryptocurrencies are a “fantasy” and that people should instead buy banking and energy stocks. (Portal do Bitcoin)
+Visa has led a pre-seed investment round in Argentine startup Agrotoken focusing on tokenizing agricultural commodities. It recently conducted its first round of tokenizations in Brazil. Eduardo Novillo Astrada (h), co-founder and CEO of Agrotoken, commented:
+
+“We are very happy for the trust that Visa places in us because it demonstrates, once again, the solidity of our offer and the path we are opening…This investment allows us to expand our objectives, our offer and focus on the challenges that lie ahead, allowing us to move towards a new future of financial solutions and payment methods for the agro-industrial ecosystem.” (Portal do Bitcoin)
+
+Tokenized shares of Plamev Pet, a veterinary health plan company, are now trading on the BEE4 platform, which operates inside the CVM regulatory sandbox. It is the third tokenized asset now trading on the exchange, which provides a blockchain-based secondary marketplace for shares of small and medium-sized entities. (Valor)
+QR Asset Management’s QR Blockchain Assets II fund, recorded a 22.5% increase during the month of October, ranking as the top performing Brazilian crypto fund for the month. Portfolio manager Theodoro Fleury, CFA stated:
+
+“The result was driven by the recovery scenario in the cryptoactive market in October, a month in which Bitcoin performed 28.81% and had a positive impact on the fund's portfolio.” (Portal do Bitcoin)
+
+Coinbase announced that it will delist MCO2, the native token of the climatech startup MOSS. (CoinTelegraph Brasil)
+Lumx (formerly Lumx Studios) has acquired Omnes Consulting, a software development and edtech focusing on Web3 services and products. (Valor)
+Galactic Holdings, controller of the crypto exchange TruBit, raised R$30.5 million (US$6 million) in a Series A round to offer new services focused on Latin America. These offerings include OTC, local payments and remittances, and solutions for retail and institutional investors. The round was led by Galaxy Interactive and Dragonfly. TruBit CEO Maggie Wu said:
+
+"We are committed to further expanding our presence in more countries in Latin America, with the aim of making cryptocurrency services accessible to everyone for their daily needs, in the simplest and most convenient way.” (Valor)
+
+Mercado Pago has added three new crypto tokens to its offerings: Chainlink (LINK), Uniswap (UNI), and Litecoin (LTC) (CoinTelegraph Brasil)
+Brazilian investors withdrew R$230 million (US$47 million) from crypto funds during the week of October 30 and November 5, according to data from CoinShares. (CoinTelegraph Brasil)
+CoinTelegraph Brasil’s Gino Matos analyses why Defi adoption in Brazil dropped from 2022 to 2023 in the latest Chainalysis global adoption report
+A new partnership between Tanssi and Kona Finance, a company created by Transfero Group and Fuse Capital, seeks to bring new asset-backed DeFi opportunities to the region. (CoinTelegraph Brasil)
+Brazil is the fourth largest spot bitcoin ETF in the world, per a report by CoinGecko. (CriptoFacil)
+
+Source: CoinGecko
+🪙 Drex
+
+RTM, a company controlled by B3 and ANBIMA , announced the launch of a Drex test network in partnership with BB Chain. The network functions as a sandbox that simulates the Drex mainnet environment and is available as a SaaS product for institutions participating in the Drex pilot. (CoinTelegraph Brasil) 
+Artificial intelligence will be the next layer of Brazilian financial innovation, Central Bank president Roberto Campos Neto revealed during a seminar hosted by fintech DrumWave:
+
+“The idea is to connect the four blocks: Pix, open finance, internationalization of the currency and we arrive at Drex. For us, with ‘tokenization’, we have reached a new dimension of financial intermediation.
+
+In another surprising revelation, Campos Neto stated that a Central Bank financial aggregator app will soon replace all of the private banking apps in the country. This app will be the “icing on the cake” of the bank’s financial innovation agenda
+
+“In a year and a half, two years, there will no longer be a Bradesco, Itaú app. It will be an aggregator app that, through Open Finance, will give access to all accounts.” (CoinTelegraph Brasil)
+
+Speaking at the Valor Capital Group Summit in New York, Campos Neto said that Brazil’s central bank is seeking to get closer to blockchain technology even as other banks are seeking to distance themselves. He said:
+
+“I see many central banks wanting to distance themselves from the blockchain sector and what we are trying to do is exactly the opposite, we want to get closer. And that is why our digital currency is the tokenization of a deposit, because from the moment the bank captures this deposit in the form of a token we interact with the DeFi sector in a much more productive way.” (Exame)
+
+The development of Drex could reduce the attractiveness of other types of cryptocurrencies, CVM president João Pedro Nascimento stated during a recent seminar. (Livecoins)
+Microsoft’s PhD. João Paulo Aragão Pereira spoke at length with Exame about the company’s involvement in the Drex project 
+Rodrigoh Henriques, head of innovation at FENASBAC, sees Drex as the “third piece” of the modernization of the Brazilian financial system. In an interview with Exame, he explained:
+
+"Pix allows you to make instant transactions, that's its key. With Real Digital, you'll be able to make programmable transactions. It will accept certain conditions to be executed, bringing smarter transactions. Otherwise, people will think they're making a Pix The difference between electronic money, which is Pix, and digital money, which is Real Digital, is really subtle and only becomes clear in the idea of programmability.”
+
+Drex will not be the last piece of the Central Bank’s innovation agenda, Joao Andre Pereira, head of regulation at the bank, told Exame in an interview. 
+
+“So yes, it is very true, I tell you with all the certainty in the world. This is the only certainty beyond death. This is the belief that it is not the last regulation. It’s not the last piece of the puzzle, but it’s an important piece.”
+
+Loopipay is developing at “Drex as a service” solution to simplify entrance into the Drex environment. (Exame)
+Exame also demystified nine myths about the Drex project with Luiz Fernando R. Lopes of TecBan 
+Exame had several other interesting interviews about the Drex ecosystem for its special virtual event with Banco do Brasil, Santander Brasil, Visa and Mastercard, GoLedger, Dinamo Networks, Banco Inter, Bradesco
+
+📱Adoption
+
+Hashdex has hired Valérie Cadier Adem as its new head of business development and marketing. She was a part of the asset manager’s original founding team and had previous stints at XP, Nubank and Itaú. (Valor)
+OKX announced Guilherme Sacamone as its new Brazil country manager. He previously held stints at Crypto.com, PicPay and Facebook. (CoinTelegraph Brasil)
+Satsconf, Brazil’s largest bitcoin-only conference, convened more than 700 attendees in Sao Paulo for its third edition, held November 2-5. (Portal do Bitcoin)
+Binance announced a cryptocurrency trading competition offering autographed t-shirts from Series A football clubs autographed balls from the Brasileiro Assai 2023 tournament. (CoinTelegraph Brasil)
+CoinTelegraph interviewed Lumx commercial director Lugui Tillier about bitcoin and ordinals
+The Brazilian federal government disbursed R$23 million (US$4.7 million) to develop a ‘national blockchain observatory’ devoted to advancing blockchain research and applications. (CoinTelegraph Brasil)
+The Association of Advertising Professionals (APP Brasil) launched a blockchain-based platform called InspireIP that offers a copyright registration to protect against plagiarism. (CoinTelegraph Brasil)
+Brazil’s Federal Audit Court (TCU) is evaluating the use of blockchain technology to monitor government spending on contracts and bids. (Portal do Bitcoin) (CoinTelegraph Brasil)
+A Brazilian team called Firethree was one of the winners in the Solana Global Hyperdrive hackathon, announced at Solana Breakpoint in Amsterdam. The Solana Foundation also announced that it is expanding its efforts in the region. Diego Dias, head of Latam at Solana Foundation, said in a statement: 
+
+“The Solana Foundation is investing in Latin America and Brazil is a very important point in this movement. We congratulate all the winners, especially the Brazilians who put Brazil on the Solana map.” (CoinTelegraph Brasil) (Portal do Bitcoin)
+
+A new Amazon Prime Video film features a plot about an Argentine cryptocurrency investor who is kidnapped working as a nanny in Rio de Janeiro. (Portal do Bitcoin)
+
+🏛 Policy, Regulation and Enforcement
+
+Three pieces of crypto-related legislation proposed by the CPI committee on cryptocurrency pyramids could be approved by the end of this year by the Chamber of Deputies, Deputy Aureo Ribeiro (who served as president of the committee) told ValorThe bills would require segregation of client assets by crypto brokerages and increase penalties on individuals who operate pyramid schemesRibeiro told the newspaper that he is talking to Chamber president Arthur Lira about getting the bills passed by the end of the yearRibeiro also denied allegations that the committee was “persecuting” Binance, noting that the exchange is facing similar questions in other jurisdictions around the world.While the CPI committee recommended that the Central Bank deny Binance’s attempted purchase of the Sim;paul brokerage for compliance reasons, Ribeiro suggested that the bank should approve the deal if Binance is able to produce all of the required documentation. If successful, the acquisition would make Binance an entity regulated by the Central Bank. Ribeiro explained:
+
+“Binance has problems in several jurisdictions around the world. It would be strange if it wasn’t only in Brazil.
+
+In a response to CoinTelegraph Brasil, Binance insisted that it transfers ficuciary resources in a regulated and compliant process and pays applicable taxes, and that allegations to the contrary are made in bad faith.
+
+“As highlighted numerous times, Binance operates in full accordance with Brazil's regulatory scenario and maintains permanent dialogue with local authorities to develop the sector in Brazil and around the world.”
+
+The Central Bank conceded that it does not have the legal authority to require crypto brokerages to segregate customer assets, and that any such rules related to this must come from Congress. Antonio Guimaraes , a consultant in the bank’s Standards Department, said at an event in Brasilia:
+
+“We could not establish under the legal framework a privilege (asset segregation) for certain groups of creditors, even if they are the clients themselves. This has to be the role of the National Congress, and I think the congress has acted very well in this sense.” (InfoMoney)
+
+The Central Bank published a clarifying statement saying that until formal regulations are published, virtual asset service providers in Brazil can still operate even without prior authorization. It reads:
+
+“Until the normative act on the matter comes into force, virtual asset service providers will be able to operate independently of prior authorization from this Central Bank of Brazil.” (Valor Investe) (CoinTelegraph Brasil)
+
+Brazil joined the so-called Crypto Asset Reporting Framework, a group of 47 countries agreeing to adopt new policies to combat tax evasion with cryptocurrencies by 2027. (Portal do Bitcoin)
+A man from Santa Catarina was sentenced to five years in prison for stealing R$690,000 (US$140,000) via a cryptocurrency pyramid scheme. (Portal do Bitcoin) (Valor)
+Brazilian traders seeking to recoup their funds from the FTX bankruptcy aren’t optimistic about getting their money back anytime soon. (InfoMoney)
+The Ministry of Justice and Public Security presented proposals on how police should seize and custody cryptocurrencies. (Portal do Bitcoin)
+
+

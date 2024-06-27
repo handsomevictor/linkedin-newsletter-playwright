@@ -1,0 +1,115 @@
+#137: Nubank greenlights crypto withdrawals
+Plus: likely Campos Neto successor at BC is bearish on Drex; Citi says Brazil leads in digital money adoption
+
+Olá pessoal!
+
+Greetings from Lisbon and welcome back to 🇧🇷Brazil Crypto Report for the week of April 22-26, 2024.
+
+No podcast this week as unfortunately, but I’ll have some several episodes from Web Summit Rio coming out next week so stay tuned for those.
+
+In the meantime, worth having a look at this interview that Michael Saylor did on his recent trip to Brazil with Digitra.com CEO Rodrigo Batista. Any conversation with Michael Saylor is an intense journey down the bitcoin rabbit hole — this one is no exception👇
+
+I also want to flag that BCR is excited to be a media partner for Ethereum Rio ‘24, which is happening May 13-15 at the Xian Rio. We’ll be discussing the EVM economy in Brazil, tokenization, DePIN, interoperability, community building, fundraising and more. 
+
+Tickets are now available at this link. You can use the code BCRETHRIO24 for a 50% discount.
+
+🔍What’s in this week’s BCR?
+
+Likely Campos Neto successor at Bacen is bearish on Drex
+Nubank enables crypto deposits and withdrawals
+Citi says Brazil leads Latin America in digital money adoption
+Adoption of stablecoins, not cryptos, is growing in Brazil, argues Campos Neto
+
+Have a great week everyone!
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+Likely Campos Neto successor Galipolo casts shadow over Drex
+
+Gabriel Muricca Galípolo, Director of Monetary Policy and at the Banco Central do Brasil and likely successor to current bank president Roberto Campos Neto, called into doubt the bank’s innovation agenda and the future of the Drex project.
+
+At the Upload Summit in São Paulo on April 24, he described the bank’s innovation agenda as “challenging” and commented on the technical difficulties facing Drex:
+
+"Not even the biggest companies in the world in the technology sector were able to offer [solutions] in a way that would be adequate."
+
+Galípolo is one of the names being floated to replace Campos Neto when his term expires at the end of 2024.
+
+CoinTelegraph Brasil
+
+Nubank greenlights crypto deposits and withdrawals
+
+NuCripto holders of bitcoin, Ethereum and Solana will be able to deposit crypto into and withdraw their cryptos from the platform. This is a big step because it gives users the ability to self-custody the coins they acquire on the platform. 
+
+The company announced that starting April 22 it would begin progressively enabling the functionality, with the end goal that all users of the crypto trading product will be able to deposit and withdraw coins. It said in a statement:
+
+"If you don't see the Send or Receive crypto options in your app, don't worry. We are gradually releasing this functionality to ensure a better experience for you."
+
+CoinTelegraph Brasil Livecoins CriptoFacil
+
+Citi: Brazil leads Latam in digital money adoption
+
+A new report from Citi placed Brazil as the most advanced country in Latin America in terms of digital money — taking into account government and private sector support, digital payment solutions and usage by the population.
+
+Driss Temsamani, director of digital business for Citigroup in Latin America, told Valor:
+
+“The Brazilian population adopts new technologies and is prepared for what is new.”
+
+Brazil ranked ahead of Argentina, Chile, Mexico and Colombia in the report.
+
+Campos Neto: Stablecoins, not cryptos, are growing in Brazil
+
+The Central Bank president spoke about the growth in stablecoin adoption that he’s observed across the region and argued that this is much more common than usage of other crypto assets.
+
+Speaking at an event hosted by Legend Capital in São Paulo, he explained:
+
+"What is growing is not cryptocurrencies, but what we call stablecoins. People are understanding that they are a cheap way to have an account in dollars because, of stablecoins, 99.9% are dollars. There are countries that you have a currency that is not convertible and people want to have an account in dollars. Today, if you want to have an account in dollars and you are Brazilian, you need to have a high volume of resources, but you can buy stablecoins and, in a certain way, you’ve opened a digital dollar account.”
+
+He also noted that confidence in “stable cryptocurrencies” suffers from a lack of assurance that the assets are properly backed:
+
+"Research shows that people want to have an account in dollars, but they are also afraid of stablecoins, as they do not believe in the collateral, because they do not know if there is actually a dollar on the other side of the transaction. If you had a stablecoin with more transparency and segregation of accounts, I think it would grow much faster."
+
+CoinTelegraph Brasil
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Digitra.com, a crypto exchange, is offering new rewards to users who provide liquidity via a new liquidity pool mechanism similar those that exist in DeFi native environments. The model is intended to stimulate liquidity for real world asset tokens launched via the CVM’s crowdfunding model — which is expected to create an upswell of demand for RWAs in Brazil. CEO Rodrigo Batista explained:
+
+“We created a kind of liquidity pool in which part of what is charged in trading fees remains there regardless of the order.
+
+Metrix, an asset manager that has a data-driven cryptoasset fund, has hired Glauco Bronz Cavalcanti as a senior advisor to its business. Cavalcanti is a former partner at B2V Crypto, Brazil’s first crypto fund. (Valor)
+The launch of bitcoin futures on the B3 exchange has had a positive impact on bitcoin’s perception in Brazil, according to analysts ordered by Portal do Bitcoin.
+Portal do Bitcoin provided a deeper look into the history of BitcoinToYou, which is Brazil’s oldest bitcoin exchange but froze customer withdrawals earlier this month, prompting a flood of complaints on ReclameAqui. The report reveals a number of questionable associations and business dealings by the company and its founders.
+Bitybank listed six new memecoins on its platform: PEPE, SHIBA, BONK, BRETT, DEGEN and WIF. (CoinTelegraph Brasil)
+Mercado Bitcoin announced the launch of a new RWA token linked to Modest Cobranças, an intelligent default management platform. (CoinTelegraph Brasil)
+Holders of the Santos token earned R$6 million (US$1.2 million) in payouts tied to the transfer of Neymar to the Al-Hilal Saudi Club, under the FIFA Solidarity Mechanism. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Brazilian asset tokenizer Tokeniza has partnered with Moonbeam Network, a Polkadot parachain, with plans to launch judicial assets, inheritances, startups, investment clubs and more on-chain. (Valor)
+
+📲 Adoption
+
+The Brazilian Football Confederation (CBF) is partnering with Binance to give away free NFTs from the Brasileirão Betano tournament. NFT holders will have exclusive benefits related to the tournament, as well as discounts on Binance trading fees and courses. Guilherme Nazar, Binance’s director general for Brazil, said in a statement:
+
+"We developed the Brasileirão Betano NFT with the CBF with the aim of increasing interactivity between fans and the championship teams, and we have seen that this was a pent-up demand that is now being met by the only NFT of a Brazilian championship. We do not have There is no doubt that the benefits it offers are of great value to football fans, and that is why the Binance product team is dedicated to bringing new advantages, which we intend to announce throughout the championship. There is still a lot to come" (CoinTelegraph Brasil) (Exame) (BeinCrypto)
+
+A three meter high statue of Satoshi Nakamoto taming a bull was inaugurated in São Paulo during the Mercado Bitcoin halvening party. The statue is on display at the Distrito cowork hub. (Portal do Bitcoin) (CoinTelegraph Brasil)
+The Central Bank of Brazil and the Bank for International Settlements launched the fifth version of the G20 TechSprint competition, which is focused on finding sustainable financial solutions and is open to anyone in the world. The winner of each category will win a prize of US$25,000. (BlockNews)
+BRICS countries continue work on building a stablecoin-based settlement system, Russian Deputy Minister of Foreign Affairs Sergei Ryabkov said during an interview on BRICS TV. It is still unclear what such a system would look like. (Livecoins)
+The Drex project provides a "new way of seeing money and using financial services”, argues Eliseu Tudisco of PwC Brasil in a new report. (Exame)
+TBD, which is part of Block - a group of companies created by Jack Dorsey, launched its tbDex product in Brazil in hopes of creating a “layer of trust” in decentralized transactions, CEO Mike Brock explained. (Exame)
+Bitybank appointed Bárbara Rocha as its new chief marketing officer. (CoinTelegraph Brasil)
+Bitso announced a new payment solution targeted at online gaming companies looking to do business in the Brazil market. (CoinTelegraph Brasil)
+A new book about “Pharaoh of Bitcoins” Glaidson Acácio dos Santos will be adapted for cinema in 2025. (Portal do Bitcoin)
+The city of São Paulo will have a space in the NFT Brasil metaverse through a partnership between the city and skateboarder Bob Burnquist. He explained:
+
+"We are activating City Hall in our metaverse. We are remodeling our digital space using Unity, which allows gamification. This City Hall space will be similar to what we have in NFT Brasil and which allows learning and activations to occur beyond of the event period or a specific time." (CoinTelegraph Brasil)
+🏛 Policy, Regulation and Enforcement
+
+The CVM issued a stop order against Axia Investments, an investing platform that offers trading in cryptocurrencies, forex, equities and other assets. (CoinTelegraph Brasil)
+Laelya Longo of Valor had a good report discussing some of the challenges associated with the Receita Federal’s modified crypto tax reporting guidelines.
+South African national Johannes Steynberg died while under house arrest in Goias. He had been arrested in Brazil for operating a R$5 billion (US$1 million) pyramid scheme known as Mirror Trading International. He was awaiting judgment on an extradition request back to South Africa. (Portal do Bitcoin)
+A Brazilian investor lost R$100,000 in two hours after falling victim to a crypto scam online, as reported by Jornal da Record.
+A Brazilian veterinarian named Thiago Oliveira who extorted R$10 million (US$2 million) worth of cryptocurrencies from an Asian businesswoman was released from prison. (Portal do Bitcoin)
+
+

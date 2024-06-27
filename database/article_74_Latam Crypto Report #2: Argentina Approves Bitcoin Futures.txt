@@ -1,0 +1,124 @@
+Latam Crypto Report #2: Argentina Approves Bitcoin Futures
+Also: Binance launches fiat onramp in Argentina; El Salvador awards first digital asset license; Mercado Libre expands in Chile
+
+¡Hola a todos! 👋
+
+Welcome to the second edition of the Latin America Crypto Report!
+
+Thanks for joining us again for another newsletter full of the biggest crypto news we’ve seen in the region over the past few weeks.
+
+Just to recap, I’m Kristin Majcher, a freelance journalist from the U.S. who has been based in Latin America for the past few years. Please follow me on Twitter and LinkedIn if you’d like, and feel free to drop me a line whenever you see crypto news in the region worth covering.
+
+For those of you just catching up, this newsletter serves as a sister publication to Aaron’s Brazil Crypto Report and seeks to aggregate and analyze key crypto developments playing out in Latin America. This publication is built upon the thesis that Latin America is a massively overlooked center for crypto adoption that deserves more attention.
+
+This week there’s no shortage of those developments — after a relatively slow news cycle kicking off 2023, crypto news in Latin America seems to be picking up. This week we’ll dive into regulatory updates in El Salvador and Argentina, expansion news from Mercado Libre and Binance and how a reported restructuring of Venezuela’s crypto superintendency appears to be playing out.
+
+So, grab a coffee, mate or your drink of choice and join us for a rundown of the most important crypto happenings in the region.
+
+El Salvador Grants Bitfinex Securities a Digital Asset License
+
+After more than a year-long wait, El Salvador has granted Bitfinex Securities a digital asset license to issue tokenized assets through its exchange based in the Central American country.
+
+The license has long been seen as a key step in making El Salvador’s so-called bitcoin-backed “Volcano Bonds” a reality. The government had originally planned to launch the first bond last March but put the plan on hold, citing market conditions following the Russian invasion of Ukraine.
+
+El Salvador finalized a new digital asset framework law in January, which paved the way for Bitfinex to receive a digital asset service provider license there.
+
+“We are delighted to be the first company to be awarded this license. It will enable Bitfinex Securities to facilitate the issuance and secondary trading of assets with clearly defined rights and obligations as outlined in the new digital asset regulatory regime”, Bitfinex group CTO @Paolo Ardoino said.
+
+(CoinDesk, Bitfinex Press Release)
+
+Argentina Approves Bitcoin Futures
+
+Argentina also saw some big regulatory news in its crypto sector this week, with its National Securities Commission (CNV for its name in Spanish) approving a bitcoin futures contract to trade on the Grupo Matba Rofex exchange that lists futures and options.
+
+The CNV said the futures contract will be based on Matba Rofex’s bitcoin index, which uses pricing information from different providers. The agency achieved the approval through an innovation hub it launched a year ago, according to an official statement:
+
+“As part of its strategic innovation agenda, the CNV authorized the regulation of futures contracts on the Matba Rofex Bitcoin Index, with negotiation and settlement in Argentine pesos and without delivery of the underlying asset.”
+
+(CoinDesk, BeInCrypto, CoinTelegraph)
+
+🗞 Latin America Crypto News Rundown
+
+This is where we break down Latin America crypto headlines from the past few weeks, organized by country and region.
+
+Regional news here is split into three areas — South America, Central America & Mexico and the Caribbean. We’ll also look at stories that affect the region as a whole.
+
+Each category includes a list of countries by alphabetical order. If you don’t see a country listed, it’s simply due to the flow of news during a particular week.
+
+Regional News
+
+Adults in four Latin American countries — Colombia, Argentina, Chile and Mexico — are more optimistic about the potential of crypto as a payment method than their U.S. counterparts, according to Morning Consult surveys. (Morning Consult).
+A Visa executive in Latin America shares five crypto trends. (CoinTelegraph)
+
+South America
+Argentina
+
+Binance has expanded into Argentina, providing on- and off-ramps to purchase crypto with the local peso currency. It will work with a local partner to enable the transfers, Reuters reported.
+
+Argentine users will be able to load their wallets with pesos and trade a small selection of cryptocurrencies, including BTC, ETH, EOS, BNB and several stablecoins
+
+Crypto purchased with pesos on Binance comes at a steep price, with the price of BTC and ETH nearly double the spot price on the Binance.US platform
+
+The exchange does not yet offer peso-denominated trading pairs
+
+Previously, Binance had only operated in Argentina as a peer-to-peer platform matching buyers and sellers. (Reuters, Blockworks)
+
+Argentina’s tax authority, AFIP, detected “irregularities” in the statements of 184 taxpayers who did not properly declare the balances in their virtual wallets for the 2021 fiscal year. The amount in question reportedly totaled more than USD$7 million. (Livecoins, Bitcoin.com, AFIP)
+Argentine authorities detained four people who committed fraud against the crypto exchange Buenbit, according to local news outlets. While Infobae and others calculated damages amounting to about US$800,000, Buenbit CEO Federico Ogue tweeted that numbers reported by news outlets “are not correct” without giving an additional figure. The fraud did not have an impact on Buenbit’s customer balances or operations, he added. (Infobae, Portal do Bitcoin, Criptonoticias)
+Argentine low-cost carrier Flybondi is issuing e-tickets as NFTs, thanks to an expanded partnership with TravelX. The so-called “NFTickets” are built on the Algorand Technologies blockchain. (CoinDesk, TravelX, Blockworks)
+Argentina has faced cryptocurrency fraud totaling $104.5 million in the past two years, according to a report from Infobae citing research from Chainalysis (Infobae).
+
+Chile
+
+E-commerce heavyweight Mercado Libre has expanded its crypto trading feature to Chilean customers. Mercado Libre is partnering with Latin America crypto platform Ripio to provide bitcoin (BTC) and ether (ETH) trading in Chile through its Mercado Pago digital wallet.
+
+Chilean users will be able to trade BTC and ETH with a minimum of purchase of 50 Chilean pesos (roughly 6 cents in USD)
+
+More than 2 million users have traded crypto on Mercado Pago in Brazil since launching in December 2021. The service is also available in Mexico
+
+Matías Spagui, senior director of Mercado Pago in Chile, said in a statement:
+
+“Entering the crypto business is another step to continue transforming and expanding access to financial services in Chile and Latin America…Through this new service, we seek to give millions of Chileans access to the crypto world in an educational, secure and simple way, in order to generate greater financial inclusion.” (CoinDesk, BeInCrypto, Livecoins)
+
+Chile’s central bank denied reports that it has given a new crypto exchange called Bitcoin 360 permission to operate in the country. (BeInCrypto, Univision).
+
+Colombia
+
+Argentina-based crypto exchange Ripio is partnering with Colombian digital wallet FinZi to allow its users to buy, sell and store crypto. FinZi has more than 13,000 users, Colombian news outlet La República reported. (La República, Forbes Argentina, Portal do Bitcoin)
+BeInCrypto reported that more than 600 establishments in Colombia accept crypto, citing figures from the South American country’s tax authority. The news outlet put together a handy guide for how to find these places. (BeInCrypto).
+
+Panama
+
+The @Inter-American Institute for Cooperation on Agriculture (IICA) met with Panama’s Ministry of Agricultural Development to discuss a blockchain-based pilot project aimed at reducing greenhouse gas emissions and production costs for the country’s rice industry. (BeInCrypto, El Capital Financiero).
+
+Paraguay
+
+Authorities uncovered an illegal crypto mining farm in Ciudad del Este, Paraguay that reportedly stole more than the equivalent of $200,000 in electricity. (BeInCrypto).
+
+Peru
+
+Peru’s central bank announced it has completed the initial research phase for a possible central bank digital currency (CBDC). The CBDC would still have to go through several stages before becoming anywhere near ready for public use, including proof-of-concept, prototype, pilot and production stage. (CriptoFacil, CoinTelegraph)
+
+As Peru’s CBDC presentation states:
+
+“This research stage started with a stock-taking of the current payments system, which served to identify that low financial inclusion and lack of interoperability are the most important elements limiting the development of digital payments in Peru, and it is possible that a CBDC contributes significantly to solving these problems.”
+
+Peruvian fintech @Máximo will launch a crypto card in the third quarter of 2023, its CEO Isabel Palao said in an article from Peruvian business media outlet Gestión. It will launch the card in partnership with MasterCard and Binance. (Gestión, BeInCrypto)
+
+Venezuela
+
+Venezuela’s crypto superintendency Sunacrip appears to be undergoing a major restructuring following the arrest of former crypto superintendent Joselit Ramírez.
+
+According to the Venezuelan news outlet Últimas Noticias, Ramírez was one of the public officials reportedly arrested by the country’s national anti-corruption police last month. He was reportedly removed from his post by President Nicolas Maduro himself, Decrypt pointed out, citing that local news outlet.
+
+Últimas Noticias said the authorities are “investigating the disappearance of $3 billion from the sale of Venezuelan oil” that did not seem to officially make it onto government ledgers.
+
+The government then published a decree on March 17 in an official gazette to restructure Sunacrip. That restructuring board is being led by Anabel Pereira Fernández, according to media reports in Últimas Noticias and El Diario.
+
+Central America & Mexico
+El Salvador
+
+El Salvador’s president Nayib Bukele sent a bill to Congress to remove taxes on technological innovations. (CoinTelegraph, Reuters)
+El Salvador’s Bitcoin Office announced Jimmy Song and Pierre Rochard and two instructors for its CUBO+ education program focused on bitcoin. (BeInCrypto)
+El Salvador’s holdings are still down 29% despite Bitcoin gains, Bloomberg reported.(Bloomberg)
+The Wall Street Journal and Spanish newspaper of record El País examine the role of Max Keiser and Stacy Herbert in El Salvador’s Bitcoin adoption. (The Wall Street Journal, El País)

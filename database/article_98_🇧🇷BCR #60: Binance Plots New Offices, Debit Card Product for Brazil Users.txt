@@ -1,0 +1,82 @@
+🇧🇷BCR #60: Binance Plots New Offices, Debit Card Product for Brazil Users
+Plus: Six exchanges raided in Federal Police operation; Bit2Me shutters its Brazil expansion plans; Fluminense fan token launches this week
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Bom dia pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of Sept 19-23.
+
+You may have seen Bloomberg Linea published its Top 500 Most Influential of Latin America list. It’s a pretty long list, but I combed through it and picked out the most relevant crypto names:
+
+Augustin Carstens - former Bank of Mexico governor and current general manager of the Bank of International Settlements. He has become a key figure (some would say antagonist) in the conversation around global crypto regulations and central bank digital currency development
+
+Barbara Gonzalez - assumed the role CEO of Bitso Mexico in June 2022, previously global CFO for the platform, managed the fundraising that allowed the exchange to reach unicorn status in 2021
+
+Daniel Mangabeira - Binance’s senior director for institutional relations in Latam, with previously stints at Uber and Bitso. He is the key figure leading Binance’s on the ground efforts in Brazil and around the region
+
+David Vélez - CEO of Nubank, which recently launched its crypto platform and onboarded one million crypto users in just three weeks.
+
+Fira - a 27 year old crypto and NFT artist from Colombia who has represented the country at several international exhibitions
+
+Gilson Finkelsztain - CEO of the B3 exchange, Brazil’s largest. B3 has been flirting with crypto and digital assets for some time now and is expected to launch bitcoin futures product later this year. B3 is also exploring custody and tokenization solutions
+
+Monica Taher - a public official in the Secretariat of Trade and Investments in El Salvador, she has been leading the formation of a Bitcoin and Blockchain Cluster in the country
+
+Neymar - Neymar became a big catalyst for NFT adoption in Brazil after he purchased two Bored Ape NFTs in January of this year (they have since plummeted in value) and used one of them for his social media profile picture.
+
+Reinaldo Rabelo - CEO of Mercado Bitcoin, Brazil’s first crypto unicorn which was valued at US$2.2bn in the summer of 2021 before crypto winter began. It was reportedly an acquisition target for Coinbase earlier this year but the deal fell apart over valuation concerns
+
+Thanks to everyone for reading and I hope you enjoy this week’s edition! -AWS
+
+Federal Police Raid Six Crypto Exchanges in Anti-Money Laundering Operation
+
+Federal Police in Brazil executed 101 warrants and raided six crypto exchanges, four banks and three accounting offices in a massive anti-money laundering investigation called Operation Colossus. Police suspect that a group of traders arbitraging cryptocurrencies moved more than R$61bn through the formal banking system over a four year period by purchasing the coins in the US, Hong Kong and Singapore, and then selling them in Brazil.
+
+A freezing of R$1.25bn (US$237m) worth of funds was also ordered by a São Paulo court as part of the operation. Specific names of the entities raided were not disclosed. The police report claimed:
+
+“The investigations showed that part of the documentation presented to the banks has indications of misuse of purpose. The documentation in question was intended to hide the national origin of the values, since, according to information, American exchanges did not accept the purchase of crypto-assets with resources from Brazil.” (CoinTelegraph Brasil) (Portal do Bitcoin)
+Binance Rolls Out Office Plans, Hints at Debit Card Product for Brazil Users
+
+Binance is setting up two co-work offices in São Paulo and in Rio de Janeiro for its approximately 150 employees in the country. Employees will be able to choose whether they want to work in-person or remotely. The exchange also intends to set up a formal office space in the next 12-18 months.
+
+The company’s Global Vice President and Regional Director Matthew Shroder explained that Binance is in the process of becoming a payments institution regulated by the Banco Central. He told O Globo:
+
+“Currently, Brazil does not require this type of license, but we are anticipating future requirements based on the regulations that are being approved. We are being proactive to ensure that even before the new regulations go into effect, we meet the prerequisites to operate as a crypto exchange.”
+
+Shroder also explained that a debit card product that allows users to spend crypto in local currency is on the roadmap for Brazil. Binance launched this product in Argentina last month, via a partnership with Mastercard, and it has been well received. While Shroder wouldn’t commit to a specific release date, he explained:
+
+“The first results we are seeing in Argentina are that the product is being very successful. We are evaluating what the next markets will be and there are certainly regulatory requirements to follow and negotiation with partners. But given the size of the Brazilian market and its importance to Binance, Brazil is undoubtedly at the top of the list of upcoming markets for this product. I'm confident we'll have something soon.”
+
+In other Binance news, Daniel Mangabeira - Binance’s Latin America head of Institutional Relations - highlighted the company’s position on regulations in the region while speaking at the MKBR22 event, hosted by B3 and Anbima. Namely, he stated that while regulations need to exist, they should not be too tight:
+
+“If we don't have a legitimation that allows, above all, that innovation continues to exist, that we don't have many ties in this environment”, he said, referring to the challenges for the sector to grow in Brazil."
+
+Mangabeira also spoke to “the issue of legitimation, which involves a lot of regulatory political debate. In Brazil it is something that we are experiencing intensely. I find it very commendable, at least this inclination towards this debate, I find it very positive”.
+
+Should this “legitimation” not occur, he said, it will not be possible to “settle the foundations so that we actually have a crypto-economy future”. (Portal do Bitcoin)
+
+Bit2Me Restructures Brazil Expansion Plans
+
+Crypto winter has claimed another victim. Spanish crypto exchange Bit2Me has scaled back its plans to enter the Brazilian market after commencing operations in April of this year. The exchange laid off around 20 Brazil-basd staff, with the remainder of the local staff now reporting directly to the head office in Spain.
+
+Bit2Me Brazil country manager Ricardo da Ros told Valor:
+
+“Due to negative market conditions, the company decided to restructure its entry into Brazil. Now it has few employees and will work more gradually.”
+
+da Ros, a Brazil crypto veteran who has previously worked with Binance, Crypto.com and Ripio, offered more color in a Linkedin post.
+
+🎙 Be sure to catch the latest episodes of the 🇧🇷Brazil Crypto Report podcast.
+
+1️⃣ This week, I had the chance to interview Credix CTO Maxim Piessen. Credix is building a decentralized credit marketplace and is one of the most exciting DeFi startups operating in Brazil right now. Definitely worth a listen!
+
+2️⃣ I also hosted Renata Rodrigues, who leads global community and education efforts at Paxful - the peer-to-peer bitcoin marketplace that recently eclipsed 10 million users worldwide. We discussed Paxful’s efforts to bring bitcoin education to underbanked communities in Brazil.
+
+3️⃣ Also be sure to check out this episode with Camila Rioja, head of Latam at Celo Foundation. We talked about the growing Celo ecosystem in Brazil and Latin America, dove into the concept of “regenerative finance” and discussed the Celo community’s various grants programs for those interested in getting involved.
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report to catch the full version of this newsletter and additional content!
+
+
+
+
+

@@ -1,0 +1,61 @@
+BCR #44: Layoffs Hit Brazil Crypto Market as Winter Sets In
+Plus, Banco Central worker strike puts Digital Real on hold; Itaú launches tokenized securities; Crypto.com and Binance top crypto app downloads
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow for news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal,
+
+Quick housekeeping note - I’m in Austin, TX this week for CoinDesk’s Consensus conference, so if you’re also attending please do reach out and say hi. Also, Filecoin Foundation will be putting on our first-ever in-person summit on Wednesday in Austin so you should definitely stop by that as well. It’s waitlist only at this point but lmk and I’ll get you in 😜
+
+- AWS
+
+Time to hunker down for another crypto winter. We were in denial for a long time. I was personally flirting with expanding cycles theories and other ways to convince myself that there might be another “Up Only” rally around the corner. But it appears we’ve finally run out of steam and hit peak capitulation.
+
+With that means some painful belt-tightening, and this week was marked by announcements of layoffs and hiring retracements across the industry - including major players like Gemini and Coinbase. Brazil’s nascent crypto scene wasn’t spared, as 2TM - parent company of Mercado Bitcoin - let go of 90 employees. Bitso laid off 80 employees companywide last week. Argentina-based Buenbit laid off 45% of its staff. I expect to see some more carnage in the coming weeks as no turnaround is in sight.
+
+Layoffs suck. There’s no way to around it. I was laid off from one of my first crypto gigs during the 2018 winter after 8 months on the job. It was a total debacle that left me at rock bottom. It sucked, but I’m much stronger, wiser and more resilient now so I’m thankful for everything I learned and all the people that helped me out.
+
+The great thing about working in crypto and Web3 is that people are super supportive and helpful, and there is always work to be done. If you’ve been impacted and there’s anything I can to help you get back on your feet please do reach out. I would also encourage everyone to take a look at this list of people who were let go from Bitso and see if there’s anyone you might be able to help out (I believe there is a similar one for Mercado Bitcoin employees but I don’t recall where it resides).
+
+🏦 Lots of news out of the Banco Central this week. Most notably, the Banco Central announced that it is delaying Digital Real testing until 2023 due to an ongoing strike by bank employees, who are demanding a 27% salary readjustment. Because of this, the CBDC’s official launch range is now pushed back to late 2024. The announcement about the delay was made by project lead Fábio Araújo during a webinar hosted by Febraban, a bank trade group. He said, per CoinTelegraph Brasil: 
+
+“We had the intention of starting the pilots [tests] maybe later this year, but the strike delayed the schedule a lot. Anyway, in 2023 and, for a good part of 2024, we will have the pilots running and the conditions to be sure of the launch of the digital currency in the second half of 2024.” 
+
+It was also revealed that the Digital Real will likely include “circuit breakers”, withdrawal locks and other automatic means to interrupt withdrawal operations to prevent bank runs during time of crisis. The revelation came in an article penned by Araújo and published by the Bank for International Settlements. This ability to freeze withdrawals and implement “conversion restrictions”, as well as the lack of transparency around these initiatives, drew the criticism of many in the community who are concerned about CBDCs being used as a means of advancing state control over a population.
+
+The Banco Central will also present new legislation that would “improve” upon the bills that passed in the Senate and Chamber of Deputies recently by regulating the performance of crypto brokers in the country. During a hearing before the Chamber of Deputies, President Roberto Campos Neto explained:
+
+“In our PL, we are going to start regulating brokerage firms. Before, it was not under Central Bank regulation. Now we are going to regulate the brokers. And by regulating the brokers, we will know if they have ballast or not. We are also going to ask brokers to have a head office in Brazil.”
+
+The “head office in Brazil” comment was presumably directed at Binance, which critics point out is not domiciled locally though it insists it will make Brazil it’s Latam hub. Campos Neto was also critical of a potential monopoly across the global crypto industry monopoly that consolidates around a handful of large exchanges and custodians, saying:
+
+“Blockchain is a technology that is here to stay, but we have seen a great concern with cryptoassets. One problem is the concentration of custody, with 80% of cryptocurrencies being concentrated in four companies.” 
+
+🎙 Be sure to check out the most recent BCR podcasts with Conor Brady, founder of Ethereum Brasil, about his upcoming Ethereum São Paulo event (which is now happening Sept 27-29) and Ze Paulo, president of Crypto Jr. in Brazil, about building a crypto talent pipeline in the country. You can listen to the episodes in your browser and on Spotify.
+
+🙏 Thanks to our partners at HBAR Foundation for supporting 🇧🇷 Brazil Crypto Report! If you're a Latam entrepreneur or developer with an up-and-coming project or idea and need some support, take a look at the HBAR grant program. They're seeding projects focused on DeFi, fintech, NFTs, sustainability and so much more. They also offer a plethora of other resources to help builders bootstrap. Do yourself a favor and check them out! 👊
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Ripio launched its premium service Ripio Select in Brazil. The platform provides crypto liquidity for both individual and corporate investors at competitive prices with a simple operation, including a white-glove team able to assist with bespoke needs. Ripio Select offers a multitude of different assets and requires a minimum investment of US$5,000. (CriptoFacil)
+Itaú became the first bank in Brazil to trade tokenized securities, via a new partnership with Vórtx QR Tokenizadora using the Hathor blockchain
+Vórtx was one of the companies selected to issue tokenized securities in the CVM regulatory sandbox.
+12 asset issuers will be initially selected to participate in the project, with Itaú BBA and a credit fund managed by QR Asset will be the first.
+The launch opens a new avenue for medium-sized companies to raise funds, while giving investors a chance to diversify their portfolio.
+Caio Viggiano, Managing Director of Fixed Income at Itaú BBA, said
+
+“This operation, in addition to being innovative, is a milestone for the capital market, as it materializes the entire digital transformation process that the financial world is going through. Tokenization brings numerous opportunities for diversification and product offering, while allowing investors to have broader access to financial assets, a movement that we value around here.” 
+
+Crypto trading volumes on centralized exchanges in Brazil for 2021 were R$300bn (US$62.8bn), 50% of the total volume for all products combined traded on the B3 Exchange. The total value of variable income investment products such as stocks, funds, BDRs and ETFs traded on the B3 for the year was R$600bn. The R$300bn figure is also equivalent to 27% of total savings accounts deposits for the year. (CoinTelegraph Brasil)
+Monthly bitcoin trading volumes were up 52.5% from April to May primarily due to the Terra/UST crash, per data from CoinTraderMonitor. Brazilian exchanges moved 33,673 bitcoins during the month, with Binance making up more than half of that volume (~52%) and bitPreço comprising 15.5%. However, volumes for May 2022 were down 36% from May 2021.
+
+Brazil’s B3 exchange received authorization from the CVM, the country’s securities authority, to launch a digital asset trading company. B3DA, or B3 Digital Assets Serviços Digitais, as the company is known, intends to offer services for the purchase and sale of digital assets and other infrastructure plays. B3 insisted, however, that this will be a business-to-business offering and won’t directly compete with retail crypto brokers. (CoinTelegraph Brasil) (Valor Investe) (Portal do Bitcoin)
+Nubank CEO David Vélez ruled out layoffs and reaffirmed its commitment to allocating 1% of its reserves in bitcoin, which he said is a good investment in the long-term. He noted the growing interest in crypto he’s seen in Brazilian consumer behavior over the last 12-24 months:
+
+“Basically, we see the money leaving savings accounts and flowing into cryptocurrency platforms in Brazil. It’s a product that has lots of interest.” (Bloomberg Linea)
+
+A new partnership between OKX and Foxbit enables the purchase of Tether stablecoins using Pix for users with an OKX account. Foxbit Gateway, as the product is known, automatically converts the reals to the desired asset. Foxbit received a R$110m (US$23m) investment from OK Group (parent company of OKX) in February. (Portal do Bitcoin)
+BRZ, the real-pegged stablecoin developed by Transfero Group, is now available on Finery Market - which describes itself as the first global crypto-native multi-dealer platform. Institutional and corporate investors will be able to trade BRZ/USDT and BRZ/BTC pairs, with Swiss-based FinchTrade serving as the liquidity provider. (CoinTelegraph Brasil)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report to catch the rest of this newsletter

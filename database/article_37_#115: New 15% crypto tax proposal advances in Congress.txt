@@ -1,0 +1,180 @@
+#115: New 15% crypto tax proposal advances in Congress
+ABCripto releases first industry census; CVM to ramp up scrutiny of crypto industry
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of October 23-27, 2023! I hope everyone had a great weekend. 
+
+I was grateful for the opportunity to catch up with several readers last week at a Ripple happy hour event last week in São Paulo. I had the chance to present about my work covering the Brazil ecosystem and meet new folks from across the industry. It’s exciting to see how momentum is continuing to build in the region. Big thanks to Silvio Pegado and the Ripple team for organizing. 
+
+
+
+
+ Thanks for reading and have a great week!
+
+-AWS
+
+👊 Friendly reminder that if you enjoy this content, please consider following 🇧🇷Brazil Crypto Report across the web. It’s a free and easy way to support my work! Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🎙New podcasts!
+
+This week I was joined by Lucas Giorgio and Matheus Moura, co-founders of BRLA Digital and builders of Brazil’s newest real-pegged stablecoin: BRLA. The Last week, the team announced a pre-seed round of R$3 million (US$600,000) led by ex-Binance executive Wei Zhou and SimpliPay founder Rodrigo Benez.
+
+The stablecoin is part of BRLA Digital’s suite of onramp solutions tailored for crypto companies looking to onboard Brazilian customers and build products targeted at local users. 
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Chamber of Deputies approves 15% tax on overseas crypto holdings
+
+Legislation that expands the taxation of offshore financial holdings was approved by Brazil’s Chamber of Deputies. This package includes a 15 percent taxation rate on cryptocurrencies.
+
+The tax targets Brazilian users of offshore crypto exchanges such as Binance, Coinbase, Bitget, Crypto.com and others. If passed by the Senate and signed into law, it would come into effect in 2024. 
+
+The original text of the bill sought a tax rate as high as 22 percent on crypto assets. An amendment was filed during the process seeking the exclusion of digital assets, but it was ultimately rejected. 
+
+Guilherme Peloso Araujo, a tax expert at the firm Carvalho Borges Araújo, commented:
+
+“It hits hard on individuals who have investments in Binance and others abroad.”
+
+The Receita Federal would need to define which cryptocurrencies will be subject to this tax and the actions that would trigger a tax event. 
+
+Digital asset tax specialist Dayana Uhdre identified several problems with the proposal, primarily a lack of differentiation between types of tokens: 
+
+"The proposal talks about virtual assets, but it could differentiate between payment tokens, utility tokens and security tokens. Under legislation needs to resolve this, because they are different things.”
+
+Attorney Daniel de Paiva Gomes also pointed out several unanswered questions in the legislation, telling Portal do Bitcoin: 
+
+“Will cryptoassets cover any type of native cryptoasset for the functioning of a blockchain? So I ask: will utility tokens, which give access to goods and services and are not financial assets, be placed within the concept of cryptoassets as comparable to financial applications?”
+
+The text now goes to the Senate. 
+
+Valor CoinTelegraph Brasil InfoMoney 
+
+CVM to intensify scrutiny over crypto industry
+
+The CVM, Brazil’s securities regulator, is beginning a new initiative to map out the different institutions that operate in the digital asset space within the country. The move comes as part of a broader effort to heighten its monitoring of companies operating in the industry and their activities. 
+
+Beginning the week of October 30, the agency will begin sending letters to 64 market participants inquiring about their respective roles, structures and how they fit in the overall market. These inquiries will be followed by onsite technical visits at certain entities. 
+
+The project is part of the agency’s 2023 Risk-Based Supervision plan, which includes a heavy focus on the digital asset industry, and the CVM will use the information to guide and define its regulatory policy and supervisory actions.
+
+Vera Simões, superintendent of strategic risk supervision at the agency, explained: 
+
+“We want to know the terrain, who works and what is offered. Our intention is to understand how the market works, how it is organized, who the main actors are and what the main risk mitigators are.”
+
+Another motivation for initiative is provide more clarity to the market on token offering classifications.
+
+“The CVM has been receiving inquiries about token offerings being characterized as securities or not. Being close and communicating efficiently with market agents is one of the ways to ensure correct action and security in the capital market”
+
+It’s worth noting that the CVM has faced significant staffing and resource challenges in recent years, so this initiative should help the agency to better stay on top of market participants and developments given its current constraints. 
+
+Valor InfoMoney 
+
+ABCripto releases crypto industry census
+
+Trade group ABcripto - Associação Brasileira de Criptoeconomia released its first ever industry census exploring Brazil’s dynamic digital assets market. The report is based on a survey sent to companies in the market in June 2023
+
+Some key findings
+
+68 percent of respondents are awaiting regulations from the Central Bank
+32 percent currently have some form of operating license from the Central Bank or CVM
+14 percent currently operate with payment institution licenses
+49 percent of the businesses surveyed began to operate during the pandemic
+The vast majority of companies are located in the state of São Paulo 
+
+The most common types of services offered by crypto firms are intermediation and trading, and infrastructure like custody, settlement and crypto-as-a-service.
+
+ABCripto CEO Bernardo Srur said:
+
+“The census gives us a more concrete scenario of the characteristics of the cryptoeconomy in Brazil, which is very relevant at the current time of technology advances and regulatory discussions”
+
+You can read the English language summary of the report here, and the full version of the report here.
+
+ABCripto partners with São Paulo economic development agency
+
+ABCripto also inked a partnership with SP Negocios, the city’s investment and export promotion agency to help promote technological and economic development in the city, including accelerator programs and educational initiatives. 
+
+Michael Sotelo Cerqueira ∴, head of new business and innovation at SP Negocios, said in a statement:
+
+“We have a series of actions and studies underway for the crypto sector, looking at mapping opportunities, supporting events and communicating aimed at the public. The partnership with ABcripto will give us strength to move forward in transforming São Paulo into a cryptoeconomy hub”
+Binance tried to block vote on CPI report, committee rapporteur says
+
+In an interview with Portal do Bitcoin, Federal Deputy and CPI rapporteur Ricardo Silva doubled down on the committee’s findings on Binance. He argued that the exchange had committed financial crimes and tax evasion, while enabling crypto pyramid scheme operators to launder investor money out of the country using the platform:
+
+“Binance was used for the crime. The CPI showed all the pyramids, incredibly all, had operations with Binance. All of them. There wasn't one that did not.”
+
+He also revealed some last minute drama as Binance ramped up pressure to block a vote on the final report. 
+
+Binance pressed until the last day for a non-vote on the report. They were looking for a deputy to ask for a review to block the report. They tried, called the office, pressured deputies not to vote. There were deputies who came to talk to us about the possibility of requesting a review because Binance put pressure on it. There was pressure from Binance. But they didn’t succeed.”
+
+Silva also emphasized that he’s optimistic about the fate of the four pieces of legislation recommended by the CPI in the Congress, due to his leadership in the PSD party and Deputy Aureo Ribeiro’s position atop Solidariedade. 
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Shares of Hashdex’s HASH11 ETF, the second-largest on Brazil’s B3 exchange, soared by 10 percent in a single day as enthusiasm for a bitcoin ETF in the US heats up. Hashdex portfolio manager João Marco Braga da Cunha told InfoMoney:
+
+“Despite the market's anticipation, it can be expected that the approval of the ETF will, in fact, start an even greater appreciation cycle. It is important to remember that we are just six months away from the estimated date of the next halving, which could further enhance this effect.”
+
+Loopi launched a new Real-pegged stablecoin called BRLX, making it possible to buy the coin using Pix directly from Metamask or another wallet.
+Transfero Group launched a new mobile application that provides a connection between crypto and everyday financial transactions. CEO Márlyson Silva said in a statement: 
+
+“Transfero App is the best option for those looking for simplicity and agility in the banking and crypto market. With it, users can deposit reais, crypto or even convert more than 17 cryptos in a quick, easy, secure way and wherever they are.” (CoinTelegraph Brasil)
+
+Tokenized carbon credits backed by sustainable rural bonds issued by Soma Sustentabilidade can now be traded on the CoinLivre platform. The CLCC token allows for remuneration of carbon currently stored in rural property reserves, using a technology that measures the carbon equivalent of preserved areas. CoinLivre CEO Fábio Matos told Valor: 
+
+“This is an auditable, secure technology where smart contracts can be registered with all the characteristics of negotiations, predicting the rights and duties of the parties.”
+
+Prosegur will open a physical bunker in São Paulo for custodying its hardware wallets, with the objective of creating a highly secure, regulated environment that is out of the reach of hackers and disconnected from the internet. The company has another such bunker in Madrid, where it is headquartered. The bunker will have six integrated layers of security. José José Ángel Fernández Freire , corporate director of innovation at Prosegur, explained: 
+
+“It is a room with a suitcase without internet connection and which will only have armed transport carried out by authorized people.” (Valor) (BlockNews) (Exame)
+
+Mercado Bitcoin launched its MB Prime Services, a trading and custody platform aimed at institutional and B2B audiences. (Portal do Bitcoin) (CoinTelegraph Brasil)
+VAAS , a Brazilian blockchain analytics startup, raised a pre-seed funding round of R$10 million (US$2 million) led by ABSeed, Fuse Capital l and Honey Island. The company is building a product suite focused on cryptocurrency transaction monitoring and combatting Pix scams, which have become a major issue over the last year. Vaas’s Floripa-based founding trio previously built a 3D decoration startup called DcoraIt expects to launch its AI-powered blockchain transaction monitoring platform in November. (Pipeline) (CoinTelegraph Brasil)
+Representatives from crypto asset manager Hashdex met with the US Securities and Exchange Commission on October 13 to discuss its new hybrid spot bitcoin/bitcoin futures ETF proposal. The filing has been recognized as a backdoor maneuver to address the agency’s concerns over market manipulation in the bitcoin spot markets. You can view the full presentation slide deck here. (CoinTelegraph Brasil)
+Mercado Bitcoin listed the Safira token, a real-world asset that corresponds to cash flows from energy trading operations, in a partnership between MB and Grupo Safira (Portal do Bitcoin) (CoinTelegraph Brasil)
+The Receita Federal, Brazil's tax authority, published a graph demonstrating the “dizzying” uptake in USDT usage in the country vis-a-vis bitcoin and other altcoins. 
+
+“This change [Bitcoin exchange for USDT] deserves attention, as it could have significant implications for the tax and regulatory scenario for cryptocurrencies in the country.” (Portal do Bitcoin) (CriptoFacil)
+
+The mood among Brazilian crypto investors shifted from fear to expectation over the last week due to the surge in the price of bitcoin, according to data from Emotional Climate Reports. (CoinTelegraph Brasil)
+
+🪙 Drex 
+
+Central Bank President Roberto Campos Neto discussed Pix, Open Finance and Drex during a presentation called “The Payments Revolution in Brazil, a Model for the World” at an event hosted by Americas Society/Council of the Americas in Miami. (Valor Investe)
+Digital bank BS2 successfully executed its first Drex testnet transactions between three wallets (Universo do Seguro)
+The Central Bank has a "commitment to the tokenization of the economy", Drex coordinator Fabio Araujo said during a presentation at the Blockchain Finance Brasil event, adding that the "the risk of the project not being implemented is very low.” However, the issue of privacy is still presenting several problems that have not been “well addressed”, he explained:
+
+"It is still difficult to bring a system to the Brazilian population before solving this. We already have the infrastructure base, the question is to comply with the LGPD [General Data Protection Law]." (Exame)
+📱Adoption
+
+Registrations are now open for the Hackathon Web3: Tokenization of the National Treasury, which is being promoted by Serpro, the publicly-owned technology company. The hackathon is seeking use cases involving tokenized public securities in a government to government, government to business and government to citizen context. The challenge will distribute R$138,000 in prizes. (Serpro) (CoinTelegraph Brasil) (Livecoins)
+The Brazilian Volleyball Confederation launched an NFT collection, with the collectibles different types of claimable prizes, in conjunction with Tero Labs. (CoinTelegraph Brasil)
+The Receita Federal, Brazil’s tax authority, revealed that it is using artificial intelligence tools to monitor cryptocurrency activity in the country, with an emphasis on identifying where tax collection efforts should be focused. 
+
+“The Receita Federal system makes use of modern data processing techniques, artificial intelligence and complex network analysis. This tool has just gained new functionality designed to represent relationships between operators, which should facilitate analysis in the search for tax irregularities.” (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+Mercado Bitcoin and the Vasco da Gama football club announced a new partnership that uses artificial intelligence to create new team jerseys. (Portal do Bitcoin)
+Portal do Bitcoin profiled a man in São Paulo state known as the “Crypto Scrap Dealer” who uses money he earns from collecting and recycling metal cans to buy crypto, with hopes of someday owning a full bitcoin. 
+Two professors from the Getulio Vargas Foundation, Eduardo Diniz and Jéfferson A. Colombo, won an international award from the University Blockchain Research Initiative for their work in the areas of financial innovation and inclusion. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+Joao Andre Pereira, head of regulation at the Banco Central do Brasil, again expressed the need for a legislative solution to the asset segregation question. In an interview with Exame, he said:
+
+“The issue of asset segregation is something very relevant, we have been looking at it in BC. We have ways of dealing with it without asset segregation, but this has a much higher cost. It is important that there is an adjustment to the law. Asset segregation is positive and is something that should be done.”
+
+Pereira also provided additional color on the amount of time he has spent interfacing with market participants discussing the incoming regulatory framework, which is expected to be unveiled mid-2024. He explained:
+
+“We talk a lot with the market, but I don't think I've ever talked as much with non-regulated entities as in recent months to understand the issue and build regulation that is efficient and allows for development and at the same time we create conditions and limits so as not to have major problems. We are designing this regulation very close to the market.”
+
+CVM superintendent Daniel Maeda said that he is impressed by the maturity of the crypto industry in Brazil following a tumultous 12 months of collapses and bankruptcies. Speaking at the Blockchain Finance Brazil event in São Paulo, he explained: 
+
+“Despite being a complex and very volatile sector, the reaction of investors was very good for the product even during declines, such as FTX. Our industry shielded itself very well…There was a loss of assets, because the price of assets fell, but customers did not come to complain to the CVM.” (Valor)
+
+“Pharaoh of Bitcoins” Glaidson Acacio dos Santos bought a R$3.9 million (US$782,000) jet in July 2021 with the help of a former ally of drug kingpin Pablo Escobar named Ricardo Rodrigues Gomes, aka “Piloto”. The plane arrived in Brazil in November 2021, two months after Glaidson, founder of the GAS Consultoria pyramid scheme, was arrested by Federal Police. (Valor) (Portal do Bitcoin)
+Palmeiras footballer Mayke Rocha Oliveira is seeking more money back from Athletico Paranaense striker Willian ‘Bigode’, who is accused of cheating fellow players out of millions of reais with cryptocurrency investments. Mayke originally claimed to have lost R$7.8 million (US$1.5 million), but now claims a loss of US$8.5 million. (Portal do Bitcoin) (InfoMoney) (CoinTelegraph Brasil)
+The Rio de Janeiro Public Ministry and state civil police launched an action against the “Prince of Bitcoin”, serving four arrest warrants and six search and seizure warrants in Campos dos Goytacazes. The prince’s company allegedly offered 15-30 percent monthly returns on cryptocurrency investments. (Portal do Bitcoin) (InfoMoney)
+A cryptocurrency theft carried out by a hacking is a state crime, even if it is proven that the criminal was based in another country, according to precedent established by the Superior Tribunal de Justiça. (Portal do Bitcoin)
+The CVM issued a public warning and ordered the suspension of irregular actions being undertaken by the broker 4XC, which offers cryptocurrency trading services among other products. (CriptoFacil) (Livecoins)
+Binance participated in a financial intelligence workshop for Civil Police in the state of Pernambuco. (CoinTelegraph Brasil) (Livecoins)

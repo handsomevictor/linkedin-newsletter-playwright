@@ -1,0 +1,91 @@
+🇧🇷BCR #97: ex-Bacen president Meirelles stands with CZ and Binance
+Plus: Itaú joins ABCripto; Brazil's new crypto law comes into effect; MB + Caixa Digital Real consortia revived
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of June 19-23, 2023. I hope everyone had a better week than I did - been pretty sick the last few days but crypto in Brazil never sleeps so alas I’m still here.
+
+Let’s kick this thing off
+
+-AWS
+
+Subscribe now
+
+🤝 Foe becomes Friend: Itaú joins ABCripto
+
+Itaú Unibanco, the largest bank in Brazil and Latin America with more than 70 million customers, became the first TradFi bank to join ABcripto - Associação Brasileira de Criptoeconomia, a trade association and lobby group representing the crypto industry. ABCripto president Bernardo Srur said in a statement:
+
+“The bank will contribute with attributes that are its brand in the market, such as extensive knowledge, technology and innovation. It is a relevant partnership that will provide new opportunities for investment and evolution for Abcripto, stimulating innovation and financial inclusion.”
+
+Itaú has strengthened its ties to crypto over the last year. It launched a bitcoin ETF in partnership with Galaxy Digital last November (BITI11 on the B3 exchange), announced plans to offer crypto custody services later this year, made a strategic investment in asset tokenization firm Liqi and began to act as a distributor for various crypto funds.
+
+Previously, Itaú had taken a more hostile approach to the industry by closing bank accounts of customers and companies involved in crypto.
+
+José Augusto de A. Antunes Filho (Guto Antunes), head of digital assets at Itaú, said:
+
+“We believe in the potential of the cryptoeconomy as a transforming agent in the global financial market and we recognize the importance of being engaged in this ecosystem. By joining ABCripto, we put Itaú Unibanco in direct contact with the main players and specialists in the sector, which will allow us to exchange experiences and actively contribute to the development and regulation of the cryptoeconomy in Brazil.”
+
+(Valor) (Portal do Bitcoin)
+
+🏛 Brazil’s Marco Crypto law takes effect
+
+The law, passed last December, officially came into effect on June 20th after a six month grace period. Here are the practical immediate impacts:
+
+Virtual assets are now officially defined as “the digital representation of value that can be traded or transferred by electronic means and used to make payments or for investment purposes”
+Financial crimes committed using digital assets are now subject to 4-8 years imprisonment
+The Lula Administration has officially named the Banco Central do Brasil and CVM as regulators over the industry. Both agencies will now work to create a regulatory structure and licensing process overseeing their respective mandates.
+The BC announced this week that it will hold an open forum to solicit feedback from the public. "The regulation is under construction and we intend to hold a public consultation to hear society before releasing the definitive rule,” the bank stated. The bank will be the primary regulator overseeing virtual asset service providers in the country.
+The CVM will have authority over digital assets that have the characteristics of securities (ie determined by the Howey Test) although the law does not directly address the question of when a crypto asset is or is not a security
+The main point of contention from here on out will be the question of asset segregation. This requirement was stripped from the final legislation, but the Central Bank has signaled that it will try to include this in its regulatory structure.
+However, there are significant questions as to whether the bank has the legal authority require this without a specific legislative mandate
+Binance and other overseas exchanges have pushed back on asset segregation requirements and will presumably continue to do so
+There are still concerns among investors about what the new law means for taxation of crypto assets in Brazil and whether traders can continue to use foreign exchanges. I recommend the below video (in Portuguese) with InfoMoney’s Paulo Alves and Fireblocks advisor Nicole Dyskant for more info
+
+(Portal do Bitcoin) (CoinTelegraph Brasil) (Valor) (InfoMoney)
+
+💪 Meirelles advising CZ on regulatory woes, stands with Binance
+
+@Henrique Meirelles, the former Central Bank president turned Binance advisor, argued that Binance is not being singled out in the US, but rather that the SEC had left the crypto market “fully liberated” in recent years and was forced to take action aggressively. This dynamic is quite different from Brazil. In an interview given at the BlockchainSP/Digital Finance Brasil event, he stated":
+
+“Brazil is regulating before problems happen. It's different from the SEC, which is prosecuting and looking to punish those who abused regulation earlier.”
+
+Meirelles also denied rumors that he would be severing ties with Binance as enforcement actions against the exchange globally continue to pile up.
+
+“I don't have any executive position at Binance, I'm on the advisory board and the idea is to make suggestions that may or may not be followed by the company. There is no major concern on the board.” (Valor)
+
+Indeed, the former Finance Minister continues to advise Binance CEO Changpeng Zhao on how to handle its ongoing regulatory problems in both the US and Brazil, including a summons to testify before a new congressional investigative committee (CPI) focusing on crypto pyramids.
+
+He also said that it is “normal” for company executives to be asked to testify before a committee such as the CPI, particularly given Binance’s size.
+
+Meirelles also elaborated on his role on Binance’s Advisory Board during trying times. His position remains resolute given that he sees crypto and the underlying tech as “the path of the future”. Per Portal do Bitcoin, he stated that the purpose of the board is to minimize any spillover impact that the regulatory tightening in the US might have on other markets in which the exchange operates.
+
+“I am part of a board that presents suggestions. It is nothing of direct participation in the company. And in this regard, I, along with the other members of the board, have been making suggestions that it is up to the company to adopt or not,”
+“[Binance] has been facing difficulties in the United States, but the Board is making suggestions for exactly that to be resolved and addressed. And mainly not to expand to other countries and that there are no problems in other regions of the world.”
+
+Meirelles also spoke to BeinCrypto about how cryptocurrencies and tokenization can have a positive impact on Brazil’s agribusiness industry, and by extension the country’s trade balance.
+
+He also took the opportunity to highlight how the US is falling behind with regards to crypto assets, calling the SEC’s actions “excessive”. He added:
+
+“We are seeing the United States still lagging behind in terms of crypto assets. Even more so considering that the SEC is entering a phase of lawsuits, of judging cryptocurrencies that they consider to be proceeding wrongly and misguidedly.”
+👻 Back from the Dead: Mercado Bitcoin and CAIXA Digital Real consortia are approved
+
+After being passed over during the initial selection, MB’s proposed consortium - which included 万事达卡, Genial Investimentos, Sinqia and CERC - was approved by the Central Bank on Thursday June 21 following an appeal.
+
+The Central Bank excluded consortia that did not have at least one regulated financial or payment institution involved, and Mercado Bitcoin received its payments institution license from the Bank on June 2nd after the original selections were announced.
+
+MB’s Fabrício Tota told Valor:
+
+"Our participation validates the Central Bank's intention to bring innovation to the financial system with those who had already been working with this technology and not just with the incumbents who appropriated it."
+
+Caixa’s consortium also includes Microsoft and Cartão Elo, the card brand, with the aim of testing the programmability of tokenized money in recurring payments.
+
+The re-emergence of MB and Caixa brings the total number of participants up to 16. Another 20 rejected participants have until June 30 to win their appeals to be included in the pilot program, Rafael Bianchini - the BC’s financial risk regulation coordinator- stated Friday (Valor). He also added that the node installation on the for the Digital Real test network will begin at the beginning of July.
+
+🎙New 🇧🇷BCR Podcast Episodes
+⚖️ Measuring crypto sentiment in Brazil with André Salem
+
+Cryptum CEO André Salem joined the show to to discuss a new survey that his team commissioned interviewing more than 1,000 Brazilian retail and professional investors on their views toward crypto, tokenization, Digital Real and more. Lots of nice nuggets in here so definitely worth a listen.
+
+You can read the full report here and listen on Spotify, Apple or Google podcasts or on YouTube below.
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the Web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts

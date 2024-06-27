@@ -1,0 +1,126 @@
+#122: Brazil's crypto regulatory conversation takes a big leap forward
+Plus: New CEO Teng says Binance will be a fully regulated institution in Brazil
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of December 11-15, 2023
+
+Big news this last week as the Banco Central do Brasil finally released its much-anticipated public consultation on crypto asset regulation. This has been in the works for several months and has been eagerly awaited by the market. Initial feedback from the market has been quite positive.
+
+Also, huge thanks to everyone who came out to the inaugural Multichains Brasil meetup in Curitiba last week. I had a great time connecting with folks from the Polkadot Brasil, NEAR Protocol , Zcash Foundation, Algorand Foundation and Hedera HbarSuite ecosystems. Hoping to be involved in more of these in the future.
+
+Friendly reminder to subscribe/follow to 🇧🇷 Brazil Crypto Report on Substack and Linkedin for more content exploring this exciting crypto ecosystem
+
+-AWS
+
+🎙New podcast
+
+This week I talked to Seamus Rocca, CEO of Xapo Bank. You’re probably familiar with Xapo as one of the OG bitcoin custodians and its founder Wences Casares as one of the key figures in the early days of bitcoin’s adoption curve. Xapo has evolved into a full-service bitcoin-native bank and has been engaging heavily Latin America, particularly via a new partnership with Lightspark to use bitcoin’s Lightning Network for cross-border payments.
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Central Bank launches much-anticipated public consultation
+
+The Brazilian Central Bank released its much anticipated public consultation on crypto regulations late Thursday.
+
+The consultation seeks input from the public on 38 detailed questions pertaining to eight general areas of regulation. The most noteworthy of these address the thorny issue of asset segregation, but there are numerous oother questions about less polemic topics like data security, key management, curation of assets, transitions and grandfathering, etc.
+
+For now, it appears that getting the asset segregation issue right reigns supreme. Rodrigo Caldas de Carvalho Borges of Carvalho Borges Araújo Advogados told Valor:
+
+“Asset segregation is a topic widely defended by the market, aiming at greater investor protection, however, it will be important to evaluate the way in which it will be implemented, since any inclusion via an infra-legal standard may be the subject of questions regarding its legality.”
+
+Submissions from the public are due January 31.
+
+The BC will use the responses to help formulate a draft regulation that will be put out to the public for a second consultation in the middle of 2024. The final version will be implemented following this second consultation.
+
+Many observers lauded the BC’s mature approach, arguing that both the questions being asked and the means by which the process is being conducted showcase the bank’s commitment to getting things right. It’s noteworthy that this is the first time the BC has launched a public consultation in the form of a questionnaire like this; typically the process is to release a draft regulation and then invite public comment.
+
+Attorney Nicole Dyskant told Valor:
+
+“What the most active industry already knew is public: the BC team studied the topic in depth and surgically placed the most relevant points in the sector for society’s contribution, such as asset segregation, custody, travel rule, PLD/FT, among others”
+
+For more detail on the public consultation and bank’s approach, I highly recommend having a listen to this interview I recorded on Friday with Alessandra Carolina Rossi Martins, a partner at Machado Meyer Advogados.👇
+
+🙏 Alessandra and her team also kindly provided an English translation of the consultation document.
+
+BC details crypto regulation principles in live webinar
+
+The Central Bank also hosted a live webinar event last Monday in which it laid out several key tenets of how it is approaching crypto regulation.
+
+The key takeaway is that the regulation will create different sets of rules for different segments of operators. This means that traditional cryptocurrency exchanges (VASPs) and incumbent financial institutions that wish to offer crypto to their customers will be subject to different requirements, because banks, for example, that offer crypto trading are not necessarily VASPs.
+
+Antônio Marcos Guimarães, a consultant in the bank's Financial System Regulation Department, explained:
+
+“there will be a specific regulation for VASPs and one for incumbent entities that can provide the service and (which will determine) how it can be provided and which (institutions) can provide the service. In principle, entities such as Payment Institutions, for example, would not be entities aimed at intermediating crypto assets.”
+
+One of the key takeaways from this was the revelation that the regulator will use its powers to steer consumers toward using brokers based in Brazil, given the complexities of regulating offshore exchanges.
+
+Guimarães elaborated:
+
+“We are betting that people are aware that, when investing in a VASP outside the national territory, they will have a much worse regulatory framework. Including from a judicial point of view, to sue the company for possible inappropriate conduct”
+
+The bank will look to crack down on scenarios in which investors are able to arbitrage by fleeing to platforms that operate out of jurisdictions with lighter touch regulations.
+
+Guimarães also explained that there will be different sets of rules for crypto exchanges/VASPs and incumbent banks and financial institutions already regulated by the Central Bank that wish to offer crypto assets to customers.
+
+Though, both sets of entities will be held to the same compliance standards as traditional financial institutions:
+
+“In terms of combating money laundering, VASPs will have to have the same compliance controls as large banks…There will be no differentiation of rules based on the size of Vasp, but rather due to the complexity of the activity.”
+
+He also explained that there will be a specific framework for crypto cross-border payments and remittances, and that these will be regulated together with the foreign exchange market.
+
+Regulation will be further differentiated by other segments, including companies that offer fiat on and off-ramps from Brazilian real into cryptocurrency, and companies that offer under-the-hood “crypto as a service” type products.
+
+Peer-to-peer transactions made via crypto will not be prohibited nor subject to the bank’s regulations, but decentralized finance platforms will: “There will always be entity behind DeFi applications to be held responsible,” Guimarães said.
+
+You can see the full live webinar that the bank hosted on Monday below 👇
+
+Richard Teng: Binance will be a fully regulated institution in Brazil
+
+New Binance CEO Richard Teng said that there is no “plan B” in Brazil other than to become a fully regulated digital asset platform in the country. In practice, this means following through with its plans to acquire the Sim;paul brokerage despite local opposition - most notably from the CPI congressional committee on financial pyramids, which recommended that the Central Bank block the deal.
+
+In an interview with Valor, Teng explained:
+
+“We choose to be responsible players. We want to have deep engagement with authorities, policymakers and regulators. We want to play a significant role locally in all jurisdictions in which we operate so that regulators have more control and the crypto ecosystem can become even more vibrant in the future.”
+
+A former regulator himself, Teng acknowledged the inherent problems with crypto exchanges operating in regulatory gray zones and said that regulators should do take the necessary steps to work with these players to bring them into the regulated landscape.
+
+Teng assumed the Binance CEO role last month after Changpeng Zhao was forced to step down as part of the exchange’s US$4.3 billion settlement with the US government. The leadership change comes as Binance’s dominance in the market has gradually slipped over 2023, with its market share of spot trading volume falling from 55 percent to 30 percent since the start of the year.
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Mercado Bitcoin created a securitization company to enable the issuance of so-called “fixed income tokens”. The move comes after the CVM deemed earlier this year that many of these tokens are, in fact, securities and need to be issued in accordance with traditional frameworks.These tokens can represent everything from receivables to energy contract to debts originated by court orders.MB expects to originate R$1 billion (US$200 million) worth of such assets in 2024Reinaldo Rabelo, CEO of MB, said that the tokenization company will take over the “back office” functions of the securitization process, pursuant to opinions issued by the CVM:
+
+“After the scare passed, we understood the CVM’s intention to bring security to the market. The way [tokenization] was being done, the ballast was loose and no one was responsible for this risk. In our case, it was tied to a vehicle that immobilized those receivables.” (Valor)
+
+Digital private pension broker Saks will begin distributing a new pension fund called SulAmérica Hashdex Prev FIC FIM that features 20 percent of its assets in cryptocurrencies via a partnership with Hashdex. Hashdex chief investment officer Samir Kerbage explained:
+
+“Pension funds have already consolidated themselves as a gigantic market in Brazil. However, there are still few options with exposure to crypto assets in this segment. Our proposal is to offer a solution for investors to navigate this dynamic market. We are talking about an investment category with high long-term appreciation potential and which has a potential tax benefit and very attractive taxation.” (Valor)
+
+Safra launched a crypto fund for accredited investors called SAF Cripto Selection. (BlockNews)
+Mercado Bitcoin generated R$40 million (US$8 million) in investment offers for early stage companies via its MB Startups program. (Portal do Bitcoin)
+B2V Crypto's 100 FIM IE fund was the highest yielding multi-market fund in the five years leading up to April 2023, returning 687 percent in that time period - 2x as much as the next highest.(BlockNews) 
+
+📲 Adoption
+
+The Brazilian government announced the winners of the Web3 Hackathon that focused on solutions for tokenizing bonds. The event attracted 64 teams and 600 registrants that competed across five different challenges between November 17 and December 5, with R$138,000 worth of prizes (US$28,000). (Portal do Bitcoin) (BlockNews)
+Google is still prohibiting advertisements from crypto brokers in Brazil even though it recently loosened such restrictions in the US. (Exame)
+Efí and BS2 executed their first interbank transaction using the Drex testnet. (Exame)
+Banco BMG also announced that it had executed its first issuance and transfer of Drex. (CriptoFacil)
+Fuse Capital and Transfero Group announced the launch of Stakease, a new platform for staking stablecoins. (CoinTelegraph Brasil)
+Luiz Parreira, CEO of the Brazilian bitcoin wallet startup Bipa, argued that Binance’s transition away from CZ as CEO marks a new era for the crypto industry in a Portal do Bitcoin op-ed
+Green Go Capital, a project created by Brazilian developers that is working with Bitfinex and Binance, received a VASP license from the National Digital Assets Commission of El Salvador. (CoinTelegraph Brasil)
+Brazil could have 11 million bitcoin investors in 2024, argued Pedro Gutierrez, CoinEx’s business development manager for Latam. (CoinTelegraph Brasil)
+Moonbeam Network announced a partnership with the World Jiu Jitsu Certifier to issue jiu jitsu certifications on the blockchain. (CoinTelegraph Brasil)
+A Brazilian startup called Pegaê distributed more than 1,000 NFTs to the community of a beauty blog called Things de Diva. (CoinTelegraph Brasil)
+Defi project Pods Finance announced that it will begin working with Brazilian companies on asset tokenization initiatives. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+The Superior Tribunal de Justiça ruled that the case of “Pharaoh of Bitcoins” Glaidson Acacio dos Santos should be judged at the federal level, rather than at the state level as his lawyers had sought. (CoinTelegraph Brasil)
+ABcripto - Associação Brasileira de Criptoeconomia announced the addition of Tupix Capital as a member, bringing its total member count to 40. (Portal do Bitcoin)
+The Finance and Taxation Committee in the Chamber of Deputies hosted a hearing exploring the issue of asset segregation in the context of crypto asset regulation. (Portal do Bitcoin)
+The CVM issued a R$240 million (US$49 million) fine against the bankrupt estate of the crypto investment company InDeal and its partners and administrators for allegedly operating a cryptocurrency pyramid scheme. (CoinTelegraph Brasil)
+President Lula approved the controversial tax reform law that mandates a flat 15 percent capital gains tax on cryptocurrencies held or traded overseas. (CoinTelegraph Brasil)
+The Brazilian federal government opened a public consultation on the use of blockchain in its National Digital Government Strategy. (CoinTelegraph Brasil)

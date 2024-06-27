@@ -1,0 +1,63 @@
+🇧🇷BCR #45: Consensus 2022 Highlights; Crypto Legislation Drama in Brazil
+Federal Deputy Expedito Netto strips Senate language that would have effectively barred foreign exchanges like Binance from operating in the country
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow for news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal,
+
+I always enjoy CoinDesk’s Consensus conference every year because it presents a snapshot of the entire crypto industry at a given point in time. This year was a bit frothy and overly shitcoiny at times, spiced with a bit of dread that we’re in for a rough patch (which is indeed playing out). But what I enjoyed most was the enthusiasm and breadth of the builders and the international vibe of the event - there were participants from more than 100 countries and you could feel the global vibe and excitement permeate throughout the festival.
+
+I truly enjoyed the opportunity to meet crypto folks from the Latam region in person, and it was great to see Brazil-focused companies like Transfero, Parfin, Bitso, Mercado Bitcoin highlighted on the global stage.
+
+Back to the Brazil front, we have extremely big news regarding Brazil’s crypto legislation that looks set to pass and be signed to law shortly.
+
+Expedito Netto, a Federal Deputy and rapporteur for the bill in the Chamber of Deputies, rejected the Senate’s additions to the bill’s text. Most notably, he rejected added language that would have effectively blocked foreign exchanges like Binance from operating in Brazil. The clause stipulated that only exchanges domiciled in the country with the CNPJ at the time of the bill’s enactment would have been entitled to a 180 day period to adapt to the new rules spelled out in the legislation.
+
+Netto struck that provision under the argument that the rules must be the same for companies that were not previously registered in the country. This means that both domestic and foreign exchanges will be subject to the same 180 day period to comply with the new law.
+
+“There is no way to demand that,” Netto told Valor regarding the discrepancy. “The deadline has to be the same for everyone.” He added:
+
+“It's better if I put less pressure on brokers, with a cleaner, simpler project that makes it very clear with transition rules so that everyone can participate, so that no one is harmed.”
+
+A provision that would require companies to make suspicious transaction reports to the COAF (financial crimes agency) was removed from the text as well. Netto went so far as to say that
+
+“COAF does not have the capacity today, as far as I know [to receive and analyze the reports that would be sent by brokers]“.
+
+Netto said that the combination of the CNPJ registration provision and the COAF reporting requirements “prevents international companies from coming to Brazil at this time.” The Senate text stated that only companies that had the CNPJ and COAF documentation could use the 180 day window to comply with the other provisions in the law.
+
+There appears to be evidence that Binance and other overseas exchanges succeeded in swaying Netto on this point. Readers of Brazil Crypto Report will know that the back and forth struggle between domestic and foreign exchanges in the legislative process thus far. Domestic exchanges have argued that Binance is skirting local rules and thereby able to offer lower costs to customers, which has therefore allowed Binance to secure dominant position in the Brazil market.
+
+Netto also struck down a provision that requires asset segregation, which could prevent exchanges from offering more sophisticated products to clients. This rulemaking would therefore fall on the regulator assigned to oversee the crypto market.
+
+He also rejected a provision that would remove taxes on the importation of crypto mining equipment, arguing that the tax issue requires its own standalone bill. He confirmed that the Banco Central would be the regulator appointed by the Executive Branch to oversee crypto markets, a move that markets had long assumed.
+
+The bill stands to go to a vote possibly this week in the Chamber of Deputies. If approved, it would go to President Jair Bolsonaro to be signed into law. We’ll be watching this closely here and will have an update next week.
+
+🙏 Thanks to our partners at HBAR Foundation for supporting 🇧🇷 Brazil Crypto Report! If you're a Latam entrepreneur or developer with an up-and-coming project or idea and need some support, take a look at the HBAR grant program. They're seeding projects focused on DeFi, fintech, NFTs, sustainability and so much more. They also offer a plethora of other resources to help builders bootstrap. Do yourself a favor and check them out! 👊
+
+At the Valor Crypto Summit in Rio last week, Banco Central President Roberto Campos Neto gave an extensive talk on how his agency would regulate the space and also on the Digital Real rollout. Most importantly, he indicated that his agency would regulate crypto exchanges and brokers to ensure that customer purchases are, in fact, backed by verifiable crypto assets. He said at the summit, hosted by Valor Capital Group:
+
+“People aren't buying crypto, they're buying certificates that supposedly have a crypto [asset] behind…The BC will regulate the exchange [of crypto assets] to ensure that whoever sells something has it.”
+
+Campos Neto also shared that he believes systems that enable tokenization with verified ownership and value transfer are the true innovation of these technologies:
+
+“What is at the center of the debate is not cryptocurrencies or CBDCs, but the tokenization of the economy. You add value and trade things in the form of tokens.”
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report to catch the full version of this newsletter
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Valor Capital Group, one of the largest venture capital firms operating in Brazil, says it will deploy US$100m in new funding to seed investments in the blockchain and crypto ecosystem. (Valor Investe)
+A quantitative crypto fund run by Titanium, a Brazilian crypto asset manager, was up nearly 7% from January to May of this year, even as the price of bitcoin fell by 31% over that same time frame and many other passively managed crypto funds such as the HASH11 ETF have incurred heavy losses. (Valor Investe)
+MB Digital Assets, the asset tokenization arm of Mercado Bitcoin, is listing a new consortium quota token CSCONS03, which have an estimated annual yield of 18%. More than 17,000 tokens will be available with a unit value of 100 BRL. It’s the 8th such batch of tokens released by MBDA. (CoinTelegraph Brasil) (Portal do Bitcoin)
+Hashdex added DOT, the native token of the Polkadot blockchain, to its HASH11 crypto ETF. The product now has 11 crypto assets in its basket. (CoinTelegraph Brasil) (Portal do Bitcoin)
+Foxbit is giving away 50,000 Hathor tokens to commemorate its listing on the exchange. Until now, the token had only been listed on CoinEx and Kucoin. (CoinTelegraph Brasil) (Portal do Bitcoin)
+Mercado Bitcoin listed OP, the native token of the Layer 2 Ethereum scaling solution Optimism. (Portal do Bitcoin)
+In an interview with Valor, Nubank CEO David Vélez said his company has several teams working on blockchain and cryptocurrency projects, and that Nubank will continue to invest in these technologies in the coming years. (CoinTelegraph Brasil)
+Coinbase reaffirmed plans to commence formal operations in Brazil later this year despite a hiring freeze and layoffs of more than 1000 employees. “Brazil remains a priority market for us and we are on track for our launch in the country,” the company stated. (CoinTelegraph Brasil) (Exame)
+Binance has staffed up in Brazil with a pair of former executives from Uber and Airbnb. Daniel Mangabeira Mantas, who spent 7 years at Uber and a brief stint with Bitso, will serve as the main spokesperson for the exchange in Brazil with the title Director of Institutional Relations. Carolina Matos joins as Binance’s head of Public Relations in Latam after stints at Twitter and Airbnb. (Portal do Bitcoin)
+The number of crypto trading reports made by Brazilian investors trading on foreign exchanges halved in just one month, per data from the Receita Federal. Brazilians declared R$178m (US$35m) worth of foreign trades in March, versus just R$75.5m (US$15m) in April. This reporting is pursuant to Normative Instruction No. 1,888 which requires Brazilians who move more than R$30,000 per month on an overseas exchange to declare to the RF. (Portal do Bitcoin)
+Mercado Bitcoin is rebranding to simply “MB”, with the goal of improving the overall customer experience and making it easier to understand that it offers other services beyond crypto trading. The rebrand is accompanied by a restructuring of the businesses in 2TM’s portfolio. (Portal do Bitcoin)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report to catch the full version of this newsletter

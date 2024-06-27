@@ -1,0 +1,120 @@
+LATAM Crypto Report #12: OKX Lands in Argentina
+Also: Honduras bans banks from crypto trading, Bitso releases crypto usage report
+
+Hola a todos! 👋
+
+Welcome to our first edition of the 🌎Latam Crypto Report for 2024! We hope you had a nice holiday break and are ready to jump into our latest roundup of crypto news from all over Latin America.
+
+If this is your first time reading this newsletter, let me quickly introduce myself. I’m Kristin Majcher, a freelance journalist based in Bogotá, Colombia. You’re reading the 🌎 Latam Crypto Report, a sister newsletter to Aaron Stanley’s 🇧🇷 Brazil Crypto Report
+
+Feel free to follow me on Twitter and LinkedIn to share any tips about crypto news in the region, or just say hello.
+
+It has been a minute since we’ve delved into the news, so you may want to tune into a recap of last year’s biggest stories here to catch up.
+
+In this edition, we’ll cover crypto exchange OKX touching down in Argentina, Honduras banning crypto trading, Bitso’s new Latin America crypto usage report, and much more. So sit back, grab a snack, 🌮🍕🥪 and dig into the latest news.
+
+OKX Lands in Argentina
+
+Crypto exchange OKX announced the launch of its platform and Web3 wallet in Argentina earlier this month.
+
+OKX, which reports having more than 50 million users worldwide, said it will offer Argentines its crypto exchange, OKX P2P peer-to-peer platform, and non-custodial Web3 wallet for NFTs and DApps.
+The exchange “customized an intuitive Argentina-localized trading platform spanning popular crypto assets with deep liquidity,” OKX Argentina Country Manager Alejandro E. stated in an announcement.
+OKX, which launched in Brazil last November, calls the Argentina expansion “a vital step in unlocking the potential of crypto across Latin America.”
+The exchange will join several others already operating in Argentina, including Binance, Bitso, @Ripio and Lemon Cash.
+
+“The immense promise of crypto and blockchain is expanding across Latin America, and Argentina represents a crucial launch pad for our regional growth strategy." — OKX President @Hong Fang
+
+(Forbes Argentina, Cointelegraph, BeInCrypto, DiarioBitcoin, The Paypers, El Cronista, Clarín)
+
+🎙ICYMI - catch Aaron’s new podcast interview with OKX Chief Innovation Officer Jason Lan and Director General for Brazil Guilherme Sacamone.
+
+Honduras Bans Banks from Crypto Trading
+Photo by Edgard Josue on Unsplash
+
+In stark contrast to neighboring El Salvador, the Central American country of Honduras has banned its financial institutions from operating with cryptocurrencies.
+
+Honduras’ financial regulator (CNBS) issued a February 9 circular, which prohibits institutions under its purview “from maintaining, investing, intermediating or operating with cryptocurrencies, crypto assets, virtual currencies, tokens or any other similar virtual asset.”
+Institutions cannot allow customers to use these platforms to carry out crypto operations and must warn customers of the possible risks of using cryptocurrencies through their financial education programs, the document explains.
+The financial watchdog notes that these currencies have not been issued or authorized by Honduras’ central bank. It argues that because Honduras does not have any specific legislation about crypto or virtual assets, consumers are “exposed to fraud, operational and legal risks due to their use, including that their acceptance could cease at any time since people are not legally obliged to transact or recognize them as a means of payment.”
+This isn’t the ideal news heading into this year’s ETHLatam conference, hosted in Honduras on March 13-14
+
+(Reuters, Decrypt, Livecoins, BeInCrypto)
+
+Bitso Releases LatAm Crypto Usage Report
+
+Mexico-based crypto exchange Bitso released an extensive new report outlining crypto adoption in Latin America based on numbers from its platform. Here are some of the main findings:
+
+Bitcoin and stablecoins were the most-purchased assets in local Latin America markets on Bitso’s platform, with bitcoin making up 38% of crypto acquired in the second half of 2023 and US-dollar pegged stablecoins (USDT and USDC) representing 30%.
+USDT and USDC stablecoins were purchased nearly five times more than other digital assets in Argentina in the second half of 2023, making up about 60% of purchases through Bitso’s platform. Meanwhile, Bitcoin purchases in Argentina were 13% during that period.
+In Colombia, stablecoins made up 31% of Bitso purchases in the second half of 2023.
+Women across the region are becoming more interested in crypto, Bitso’s data showed. Colombia had the highest number of women using the company’s platform at 33%.
+
+(Bitso, BeInCrypto, CriptoNoticias, CoinDesk, Financial IT)
+
+🗞 Latin America Crypto News Rundown
+
+Here’s where we break down Latin America crypto headlines from the past few weeks, organized by country and region. If you don’t see a country listed, it’s simply due to the news flow during a particular week.
+
+Regional News
+
+Seychelles-based exchange Bitget has been leveraging its partnership with a familiar face to expand in Latin America: Argentine soccer legend Lionel Messi. (Finance Magnates, Bitcoin.com)
+InSight Crime delves into a new anti-money laundering index from the Basel Institute on Governance, examining to what extent crypto plays a role in the challenges facing Latin American and Caribbean countries. (InSight Crime)
+Layer 1 blockchain platform Aptos Labs partnered with smartphone manufacturer JamboPhone. The $99 device is “designed to unlock the digital economy for users in Africa, Southeast Asia, and Latin America,” Aptos announced. (Decrypt, The Block, Aptos Foundation)
+Binance said its Binance Pay volumes increased 61% in Latin America in 2023. The global exchange also separately announced its recent participation in workshops organized by INTERPOL and other authorities in Latin America. (Cointelegraph Brasil, Binance, Criptofacil)
+Possible Bitcoin prices after halving could force some miners to move outside the US, Cointelegraph reported. (Cointelegraph)
+Visa announced a partnership with Ingresse and Symbiotic to launch a new payment system in Latin America, with the technology landing in Brazil first. (Cointelegraph Brasil)
+
+South America
+🇦🇷 Argentina
+
+An apartment owner in Rosario signed a contract stipulating bitcoin as the payment method, following a sweeping decree recently issued by President Javier Milei that allowed residents to use alternative payment methods for contracts. (Página 12, La Nación)
+A new report from local platform Lemon Cash Brasil examines crypto adoption and regulations in Argentina, noting that more than 10 million crypto asset accounts are open in the country. (Lemon via X, Infobae, El Cronista, A24)
+President Javier Milei is reportedly preparing an urgent decree aimed at regulating crypto trading platforms. (La Nación, Bitcoin.com, El Cronista, BeInCrypto, Diario Bitcoin)
+A new platform called Cocos Crypto launched in Argentina, allowing users to purchase Bitcoin, Ethereum, USDT, USDC and DAI. (Forbes Argentina)
+CryptoMarket’s head of global strategic alliances Guillermo Escudero offers his take on where Argentina’s crypto market is heading now that Milei is president. (Cointelegraph)
+Escudero added that Argentines reportedly are using “secret” peer-to-peer exchanges to buy US dollar-denominated stablecoins. (Cointelegraph)
+A local Buenos Aires supermarket was raided in an international scam involving $500,000 worth of crypto. (Infobae, La Nación)
+Sixty percent of Argentine crypto purchases through Bitso were for dollar-based stablecoins Tether (USDT) and Circle (USDC), CoinDesk noted (CoinDesk)
+Energy company Tecpetrol reportedly boosted oil production significantly at the Vaca Muerta formation thanks to crypto mining. (Bitcoin.com, Criptofacil)
+
+🇨🇴 Colombia
+
+Authorities arrested a Colombian accused of allegedly robbing more than a million dollars in crypto from a US tech company where he worked. (El Espectador, Infobae, Portafolio, CriptoNoticias)
+A report from Colombia’s tax authority says that Colombia has more than 680 establishments accepting crypto payments. These include large supermarkets and stores including Éxito, Carulla, Jumbo, Metro, Falabella and the popular delivery app Rappi. About 15% of the establishments accepting crypto are in Medellín, El Colombiano reported. (Pulzo, El Colombiano)
+Colombian DeFi platform Tropykus formed a partnership with crypto platform Mountain Protocol to launch DeFi projects in the region. BeInCrypto)
+Colombia Fintech’s President Gabriel Santos called for crypto regulation in the country. (Cointelegraph)
+Finance Minister Ricardo Bonilla said the country’s crypto regulation is advancing at the World Economic Forum annual meeting in Davos Switzerland. (La República, CriptoNoticias, Infobae, Criptofacil).
+
+🇵🇾Paraguay
+
+Paraguay’s state national electricity administration (ANDE) took action against bitcoin mining farms operating clandestinely. (CriptoNoticias, Criptofacil)
+The new Paraguayan Blockchain Chamber is considering developing a proposed law that would strengthen the sector. (Cointelegraph, La Clave)
+
+🇵🇪Peru
+
+The Lima Stock Exchange announced it would list three bitcoin exchange-traded funds (ETFs): iShares Bitcoin Trust (IBIT), VanEck Bitcoin Trust (HODL) and Invesco Galaxy Bitcoin (BTCO). (CriptoNoticias, Cointelegraph, Diario Bitcoin, BeInCrypto)
+Experts from Peru and several international countries discussed the future of fintech regulation and innovation at the recent Peru Crypto & Digital Assets Summit 2024. (Revista Gana Más)
+
+🇻🇪 Venezuela
+
+After six years, Venezuela’s government cryptocurrency known as the petro has met its end. The cryptocurrency was introduced to avoid US sanctions, but ended up not having a very wide use case and became involved in a large-scale corruption scandal, Agence France-Presse (AFP) reported. Funds in the virtual wallet for the petro will be converted to the local bolívar currency, AFP added. (BBC, Portafolio, CoinDesk, BeInCrypto, El Tiempo)
+The Venezuelan spouse of Brazil’s so-called “crypto pharaoh” Glaidson Acácio was reportedly arrested in the U.S. by Brazil’s Federal Police. (BeInCrypto, O Globo)
+
+🇨🇱 Chile
+
+CriptoSummit, a new conference focused on crypto and DeFi, will take place in Santiago on March 20. The event is organized by Blockchain Summit LatAm. (CriptoNoticias, Cointelegraph)
+
+Central America & Mexico
+🇸🇻 El Salvador
+
+Bitcoiner Nayib Bukele was overwhelmingly reelected as El Salvador’s president, and his Nuevas Ideas party now has a congressional supermajority. (Cointelegraph, CoinDesk, Associated Press, Fortune)
+Bitfinex Securities local entity started operating in El Salvador, the securities token platform announced on January 31. The long-awaited launch comes about a year after the country adopted a digital asset framework, which paved the way for Bitfinex to receive a provider license last April. (CriptoFacil, Cointelegraph, The Block)
+Crypto remittances in El Salvador fell 19.1% in January 2024 compared with the same month in 2023. (BeInCrypto, Criptofacil)
+El Salvador’s National Commission of Digital Assets authorized the company E-Grains to launch a $100 million public offering with the digital, soy-backed token $ESOY. (Forbes Centroamérica, Cointelegraph)
+Vice President Félix Ulloa told Reuters that the government is planning to move forward with its plans to construct Bitcoin City and launch bitcoin-backed bonds. (Reuters, BeInCrypto)
+
+🇲🇽 Mexico
+
+A survey from Mexican crypto exchange Bitso showed that 40% of respondents would positively view a candidate who presented a plan to adopt crypto, several outlets reported. Contxto reported that the company is planning to propose regulatory updates for the country’s crypto sector. (Cointelegraph, El Economista, BeInCrypto, Contxto)
+Bitso also found that crypto usage in Mexico increased 18% in the second half of 2023. (Expansión)
+Telecommunications giant Telefónica partnered with Nova Labs for a pilot project to launch mobile hotspots in Mexico City and Oaxaca using the Helium Network. (CoinDesk, Telefónica).

@@ -1,0 +1,109 @@
+🇧🇷BCR #70: Brazil Fan Token Plummets as Seleção is Knocked out of World Cup
+Also: 42,000 businesses purchase crypto in October; CVM ramps up its messaging on crypto asset regulation
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal!
+
+Welcome to Brazil Crypto Report for the week of December 5-9 - 2022. Gonna dive right in here as I spent the last 48 hours traveling to back to Brazil! Have a great week everyone and thanks for reading as always!
+
+-AWS
+
+🏆World Cup Fan Token Watch 📉
+
+The jury remains out when it comes to fan tokens being a thing or not. ARG, the only such token representing a team still in the tournament (Argentina), is up 16% over the last seven days, but everything else is down only as Brazil and Portugal were both eliminated in quarterfinal play.
+
+BFT, the fan token representing the Brazilian National Team, plummeted 60% as Croatia scored a painful tying goal in the last minute of overtime and then defeated Brazil on penalty kicks, and then fell further in the days following the match.
+
+The bright side is if you’re bullish on the Seleção in 2026 then now might be a good time to scoop these up at a nice discount 💩
+
+You can track my fan token portfolio on CoinMarketCap here.
+
+🎙Catch the latest episodes of the 🇧🇷Brazil Crypto Report podcast
+
+1️⃣ Axel Blikstad, co-founder of BLP Crypto - Brazil’s oldest crypto fund manager, talked about his experience escaping the FTX collapse. (Spotify)
+
+2️⃣ Andre Franco, head of research at Mercado Bitcoin, joined to discuss the impacts of the FTX fallout on the Brazil crypto market. (Spotify)
+
+3️⃣ If you need a refresher on the crypto regulatory framework in Brazil and what PL 4401 /2201 means for the industry, I highly recommend having a listen to my episode with Isac Costa from August. (Spotify)
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Nearly 42,000 Brazilian companies transacted with digital assets in October, according to new data from the Receita Federal - Brazil’s tax authority.
+The figure is up from ~40,000 companies in September and ~38,000 in August, and it is seven times higher than October 2021.
+However, the number of unique CPFs (ie individual people) who reported crypto transactions during the month was 1.3 million, down 15% from the prior year period.
+The total volume of cryptocurrencies transacted for October was R$12.1 billion (US$2.3 billion), up 2.1% from the previous month. (CoinDesk) (Portal do Bitcoin) (Exame) (CoinTelegraph Brasil)
+All of the world’s assets will be digital in ten years’ time, Hashdex CEO Marcelo Sampaio proclaimed at an event hosted by Itaú Unibanco, arguing that it is incomparably cheaper to create an asset in “tokenized” format than via traditional means.
+
+“It's something revolutionary that can solve any problem that needs critical mass. The world of decentralized finance is very vibrant and it is one of the disruptive waves that it is difficult for the status quo to fight against”. (Valor)
+
+Sampaio also argued that 2022 has been a banner year for digital asset development in Brazil and elsewhere despite the negative headlines. This is particularly true given the passage of PL 4401/2201 last month which creates a regulatory framework for crypto businesses in the country. Speaking during a webinar hosted by Hashdex, he stated:
+
+“2022 was a very good year for cryptocurrencies and 2023 will be better.” (CoinTelegraph Brasil)
+
+Santander issued R$40 million (US$ 7.6 million) in tokenized debentures for Indigo, a parking management company, marking the first time the bank has used blockchain technology for issuing debt securities. The operation was conducted in partnership with Vórtx QR Tokenizadora within the regulatory sandbox of the CBM - Brazil’s securities regulator. Sandro Marcondes, director of capital markets at Santander Brasil, stated:
+
+“We believe that the use of new technologies has the potential to further develop the fixed income market.” (InfoMoney) (Exame)
+
+Crypto exchange Bybit, which formally launched in Brazil earlier this year, has limited withdrawals for non-KYC-ed users. (Portal do Bitcoin)
+
+📱Adoption
+
+Itaú Digital Assets is pivoting toward custody and away from tokenization in the near term as it finds its place in the crypto market, executive Eric Altafim told BlockNews. The focus on custody is more technically and commercially practical, as there are more immediate monetization opportunities involved. It intends to roll out an institutional proof of concept in the second half of 2023.
+Google Pay received authorization from the Banco Central to function as a payment institution, specifically to initiative transactions. (BlockNews)
+Cassio Krupinsk, CEO of asset tokenizer BlockBR, had an op-ed in Portal do Bitcoin discussing some tangible applications for tokenized assets.
+Exchange Bitget is partnering with Banco Capitual to allow users to carry out BRL transactions for different types of trading. Capitual COO Gustavo Rezende commented:
+
+“There is great interest from exchanges in expanding their operations in our country and we are investing in technology to offer evolution with multiple applications, including the crypto market.” (Portal do Bitcoin)
+
+Digital wallets account for one fifth of fraud losses in Latin America, according to a new study by LexisNexis Risk Solutions. (Portal do Bitcoin)
+The fact that Crypto.com is a main sponsor of the 2022 World Cup is an encouraging sign for mainstream acceptance of the asset class, argues Fuse Capital partner Jose Bernandes. (CoinTelegraph Brasil)
+2TM Group has paid out ~R$3 million to holders of the Vasco da Gama token since launch in late 2020. Token holders receive payouts related to the FIFA Solidarity Mechanism that compensates football clubs for developing players. 2TM executive Vitor Delduque commented:
+
+“Vasco's token brought great joy to all participants. The Club got a good amount of money and we made a nice distribution. The investor has already seen almost 3 million reais paid for this token. The mechanism was so successful that we are expanding to other countries.” (CriptoFacil)
+
+Brazilian NFT specialist Caio Vicentino used the popular new OpenAI platform to write code for a new cryptocurrency mixer. (CriptoFacil)
+Foxbit Pay announced a partnership with Paris 6, a São Paulo bistro, allowing the restaurant to accept payment in bitcoin and cryptocurrencies. (Crypto Times)
+The FTX crisis has revived the traumas inflicted by previous cryptocurrency scams like Unick Forex and InDeal on investors in Rio Grande do Sul, CoinTelegraph Brasil reports.
+Cruzeiro transfered nearly R$1 million to token holders, per the FIFA Solidarity Mechanism, pursuant to the signing of Ederson by Atalanta of Italy.(CoinTelegraph Brasil)
+Binance and Santos FC hosted an exclusive online chat last week with legendary players from the Brazilian National Team. Also, Livecoins reports that Santos may profit R$100 million (US$18.8 million) from its Binance sponsorship, which the club may use to build a new stadium.
+Bitso and Zro Bank were among the recipients of awards at the 2022 edition of Banking Transformation Award, held by Cantarino Brasiliero focusing on financial innvation. (BlockNews)
+A recent string of layoffs at XP has impacted employees working in the company’s cryptocurrency arm, with some BlockNews sources suggesting that as much as half of the division’s employees were let go.
+
+🎮 NFTs, Gaming and Metaverse
+
+Netspaces, a platform for creating, trading and managing digital properties has sold 400 NFTs linked to the deed and registration of a commercial property in Porto Alegre. NFT holders are entitled to receive a portion of the rent received on the property. (CoinTelegraph Brasil)
+The second edition of CervejaVerso, a collectible Brazilian beer with an accompanying set of NFTs, is now available. A 473 ml can of CervejaVerso costs R$39.99 and comes with an exclusive NFT. (CriptoFacil)
+Beer producer Ambev launched a new Web3 game called Crypto Titans in early November, built on the Solana network. Crypto Titans NFTs have since reached a floor price of 3.1 SOL, representing a growth of more than 4x. (CriptoFacil)
+Housi announced an immersive experience in conjunction with Princess Aiana, the first Brazilian hair stylist to host a fashion show in the metaverse. (CoinTelegraph Brasil)
+Brazilian startup Monnos launched a fractional NFT system in Decentraland, allowing token holders access to a fraction of virtual land. (CoinTelegraph Brasil)
+
+🏛 Public Policy, Regulation and Enforcement
+
+The Chamber of Deputies released the final version of PL 4401/2021, which past in late November and now heads to the president’s desk for signature. The final version does not differ much from the approved text but does contain some additional mandates for the regulator chosen by the Executive Branch to oversee the industry, widely expected to be the Central Bank. (CriptoFacil)
+Cassio Gusson of CoinTelegraph Brasil aggregated some helpful industry reaction to the PL’s passage.
+The CVM, under its new head João Pedro Nascimento, expects to share crypto regulatory duties with the Banco Central and that he’s been having conversations with the entity regarding how to divide the responsibilities. He also highlighted the need for asset segregation rules for crypto exchanges to better protect customers. Per Valor Investe, he stated at an event hosted by Itaú:
+
+“The CVM will have an angle of action. I imagine that we will share functions with the Central Bank. The two houses will go hand in hand for the development of the cryptoeconomy.”
+“I see that there are a lot of crypto skeptics. As a regulator of the capital market, it is not up to likes or dislikes, but to bring discipline so that these products can be developed within values that adhere to constitutional principles, preventing crypto and some applications of tokenization from serving as a mechanism for currency evasion and financing of terrorism.” (InfoMoney)
+
+However, crypto asset regulation was left off of the CVM’s formal agenda for 2023, Valor reports, as the PL still needs to be signed into law by President Jair Bolsonaro. Nascimento articulated that he intends to introduce more guidance in 2023 and that its priorities may change as the situation unfolds.
+
+“We still have no way to place crypto assets now if the law has not yet been sanctioned. Our regulatory agenda may undergo modifications and the crypto theme will certainly see signposts this year,”
+
+Daniel Coqueiri, CEO of Liqi, argued that the CVM’s approach to cryptocurrencies and tokenized securities is well-intentioned and well-informed in a CoinTelegraph Brasil op-ed.
+Rodrigo Caldas de Carvalho Borges had a good op-ed in Exame arguing that the recently passed PL, after seven years of deliberation, represents a huge step forward for the crypto market in Brazil.
+A CoinTelegraph Brasil op-ed argues that the passage of PL 4401/2201 gives Brazilian exchanges the advantage of regulatory clarity in a world of uncertainty.
+A judge has denied requests for the leaders of the Trust Investing bitcoin pyramid scheme to be released. The individuals were arrested on October 19 by Federal Police, accused of siphoning off R$4 billion (US$763 million). One of the leaders, Patrick Abrahão, is the husband of Brazilian pop singer Perlla. (Portal do Bitcoin)
+CVM Superintendent Antonio Berwanger rejected the notion of “confidentiality” with regards to security token holders. Speaking at a BNDES Day event, he stated:
+
+“We also have the situation of confidentiality that we in the regulated market cannot live with. Someone has to come along to fulfill certain functions, I can't put myself in a position where technology purely alone can talk to that reality.” (CoinTelegraph Brasil)
+
+A São Paulo restaurant featuring gold-plated meat is owned by promoters of a cryptocurrency pyramid scheme called DD Corporation that promised investors 250% annual returns. As many as 44,000 individuals were impacted with an estimated loss of R$300 million (US$57 million). (Portal do Bitcoin) (CoinTelegraph Brasil)
+Portal do Bitcoin examined what incoming Minister of Finance Fernando Haddad has said about bitcoin and blockchain technology. While he is critical of using bitcoin as legal tender ala El Salvador, he has made use of the tech during his political campaigns.
+A Rio de Janeiro delegate named Daniela dos Santos Rebelo Pinto is being investigated for allegedly receiving bribes from Glaidson Acácio dos Santos, aka the “Pharaoh of Bitcoins”, operator of the GAS Consultoria bitcoin pyramid scheme. The delegate is suspected of taking money from Glaidson when she worked at the Civil Police Fraud Office. (Portal do Bitcoin)
+Portal do Bitcoin sat down with GAS Consultoria attorney Ciro Chagas about the present state of the case.
+In “Operation Stop Loss”, Federal Police arrested a group of scammers who impersonated traders, moving allegedly R$60 million and harming several hundred victims across three states. The culprits pretended to be financial advisors and investors and claimed that they would invest the victims’ money in crypto and other assets. (CriptoFacil)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

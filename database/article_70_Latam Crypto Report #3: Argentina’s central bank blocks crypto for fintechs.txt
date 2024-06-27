@@ -1,0 +1,109 @@
+Latam Crypto Report #3: Argentina’s central bank blocks crypto for fintechs
+Also: Mastercard standards to help Latin America cross-border transfers
+
+(NOTE: This is a special edition of our new Latam Crypto Report newsletter. If you enjoy this content, please head over to Brazil Crypto Report on Substack - which is my primary distribution channel - and subscribe to o ensure you're receiving everything with everything!)
+
+¡Hola a todos! 👋
+
+Welcome to another news-packed edition of the Latin America Crypto Report.
+
+Thanks for joining us again for another newsletter full of the biggest crypto news we’ve seen in Latin America over the past few weeks.
+
+For those of you just joining us, I’m Kristin Majcher, a freelance journalist from the U.S. who has been based in Latin America for the past few years. Please follow me on Twitter and LinkedIn if you’d like, and let me know when you see crypto news in the region worth covering.
+
+This week we’ll deep dive into an announcement from Argentina’s central bank that appears to restrict fintech companies’ ability to offer crypto, as well as how a new standards initiative from Mastercard might lead to new opportunities for U.S. - Latin America cross-border transactions.
+
+Argentina’s central bank restricts crypto for fintechs
+
+Almost exactly a year after prohibiting financial institutions from offering crypto services, Argentina’s central bank (BCRA) now appears to be keeping fintechs from offering crypto services as well.
+
+On May 4, the central bank issued a statement saying that companies designated as payment service providers (PSPCP) are prohibited from offering services with unregulated currencies like digital assets.
+
+BCRA says in its announcement:
+
+“Payment service providers that offer payment accounts (PSPCP) may not carry out or facilitate operations with digital assets, including crypto assets, that are not regulated by the competent national authority and authorized by the Central Bank of the Argentine Republic (BCRA). The regulation, therefore, prevents PSPCPs from carrying out these types of operations themselves or offering to initiate them from their applications or web platforms.”
+
+This story is still developing, and we still have to see how this affects fintechs in practice. Nonprofit ONG Bitcoin Argentina responded in a Twitter thread, calling the measure “surprising and without consultation.”
+
+Argentina’s fintech chamber also responded, saying it “rejects” the regulatory change in its own thread.
+
+
+
+
+The measure would apply to several fintech providers in the country, Bloomberg Línea reported. These include: Ualá, Bind Pagos, MercadoPago, Personal Pay, Mobbex, Nubi, Modo and Pomelo.
+The BCRA said “offering or facilitating” refers to the “availability of automated purchase buttons for the user. Interested persons must carry out the operation on their own.”
+The central bank said it aims to “mitigate the risks” that digital asset operations could pose for people as well as the national payment system.
+The news comes about a year after the Central Bank blocked financial institutions from letting their customers complete operations with digital assets.
+The measure comes as Argentina’s annual inflation rate recently topped 104% — one of the highest rates for any country worldwide.
+
+[Ambito, Forbes Argentina, Decrypt, Cointelegraph)
+
+Mastercard standards could help facilitate Latin America cross-border payments
+
+A new program from Mastercard that seeks to provide a common set of standards for public blockchain networks could broaden the options for cross-border transactions between the U.S. and Latin America.
+
+Mastercard says its so-called “Crypto Credential” will help bring standards across blockchain networks. According to Mastercard’s head of crypto Raj Dhamodharan:
+
+“Mastercard Crypto Credential will establish a set of common standards and infrastructure that will help attest trusted interactions among consumers and businesses using blockchain networks.”
+
+One of these use cases is cross-border payments from the U.S. to Latin America. Mastercard says that wallet providers Bit2Me, Lirium, Mercado Bitcoin and Uphold will collaborate on “an initial project to enable transfers between the U.S. and Latin America and the Caribbean corridors.”
+The card company said it will also be working with companies including Aptos Labs, Ava Labs, Polygon Labs and The Solana Foundation to implement the new standards, with use cases including NFT verification, ticketing and payment solutions for businesses.
+The Crypto Credential will include aliases for sharing wallet addresses, metadata and the use of CipherTrace’s technology “to help verify addresses and support Travel Rule compliance for cross border transactions.”
+
+Walter Pimenta, Mastercard’s executive VP for product and engineering in the Latin America and Caribbean region, said in a press release:
+
+“Latin America and the Caribbean is among the top regions for digital assets adoption and remittances leveraging digital assets as means of value exchange. Mastercard Crypto Credential could help to address key challenges that have traditionally hindered mainstream usage of this type of use cases, driving more industry players to join this space in a meaningful way.”
+
+(The Block, CoinDesk, BeInCrypto, Mastercard)
+
+🗞 Latin America Crypto News Rundown
+Regional News
+
+Stablecoin usage is growing in Latin America to guard against inflation, experts said in a CoinDesk chat featuring Argentina-based exchange Belo and others. (CoinDesk)
+Crypto exchange Gemini is launching a derivatives platform that residents of several Latin American and Caribbean countries (as well as others outside the region) will be able to use. These include Argentina, Bahamas, Bermuda, British Virgin Islands (BVI), Brazil, Cayman Islands, Chile, El Salvador, Panama, Peru, Saint Lucia, Saint Vincent and the Grenadines and Uruguay. The platform will not be available in the U.S. (The Block, Gemini)
+Latin America crypto platform Ripio has integrated the Lightning Network into its ecosystem. (Portal do Bitcoin, Livecoins, Cointelegraph)
+Bitso’s CEO Daniel Vogel offers an update on how crypto can impact Latin America’s $130 billion remittance market during the recent Web Summit in Rio de Janeiro. (Fortune)
+Nubank has reached 80 million customers in Brazil, Mexico and Colombia (Nubank).
+
+South America
+Argentina
+
+In a fascinating feature story, Rest of World documents the downfall of a “celebrity crypto pastor.” (Rest of World)
+Bitcoin reached a record high price against the Argentine peso amid the currency’s devaluation. (Cointelegraph)
+The Block’s Nathan Crooks explains why many Argentines are still opting to get fiat currency from illegal exchange houses instead of using crypto. (The Block, The Scoop Podcast)
+Crypto usage is rising in Argentina despite the International Monetary Fund’s stance against it, Forbes contributor Javier Bastardo reports. (Forbes).
+Startups like Ucrop.it are “revolutionizing” the agriculture industry by using blockchain, artificial intelligence and biotechnology in Argentina, Microsoft reports. (Microsoft, BeInCrypto)
+
+Ecuador
+
+Three out of every 10 Ecuadorians with an active bank account have purchased cryptocurrencies, a study from Spanish consulting firm Analistas Financieros Internacionales (AFI) and Minsait Payments shows. (La Hora)
+
+Paraguay
+
+CoinDesk recently examined the impact of bitcoin mining in Paraguay in its Markets Daily Crypto Roundup podcast, as well as the major roadblocks miners are facing there.
+
+Uruguay
+
+Uruguay’s public utility company, UTE, has launched renewable energy certificates for blockchain-based projects. These certificates “ensure that a certain number of megawatt-hours of electrical energy, produced in a period, have been generated from renewable sources,” Ámbito reported. (Ámbito, BeInCrypto)
+Venture capital investor Tim Draper said during a recent crypto event in Montevideo that Uruguay finalizing a legal framework for cryptocurrencies would “attract the attention of the entire world,” BeInCrypto reported. The country’s lower house approved a proposed digital asset law in December, which now would need approval from the Senate. (BeInCrypto)
+
+Venezuela
+
+According to a report from CriptoFacil, Venezuela has deactivated close to 75,000 ASICs for bitcoin mining. (CriptoFacil)
+Venezuelan news outlet Impacto Venezuela reported that authorities seized about 15,000 bitcoin mining machines from three warehouses, which were allegedly tied to illegal operations. (Livecoins)
+Check out our previous LCR to get caught up on what has been happening with Venezuela’s crypto industry.
+
+Central America & Mexico
+El Salvador
+
+Local economists weigh in on whether it’s the right time to launch bitcoin-backed bonds in El Salvador, predicting that their scope would end up being very limited. (ElSalvador.com)
+El Salvador’s Central Bank Research Network released a report on the evolution of nationwide, electronic payment system Transfer365. Users have saved nearly $32 million in commission payments since its launch in June 2021. (BeInCrypto)
+
+
+
+
+El Salvador’s president Nayib Bukele tweeted on May 4 that he had signed an act into law that eliminates all taxes on “technology innovations, software and app programming, AI, computer and communications hardware manufacturing.” (Investing, Criptofacil)
+
+Guatemala
+
+Strike has expanded its “send globally” cross-border payment feature to Guatemala through a partnership with local wallet app Osmo. The transfers will use the Bitcoin Lightning Network to send U.S. dollars to Guatemala residents, which will receive those funds in the local Quetzal currency. Guatemala residents received more than $18 billion in remittances last year, AFP reported. (Strike, BeInCrypto, PaymentsJournal).

@@ -1,0 +1,46 @@
+🇧🇷BCR #91: A record 1.6 million Brazilians traded crypto in March
+Plus: Brazil well-represented at FT crypto conference in London; Hashdex hosts Twitter Spaces with Michael Saylor
+
+(NOTE: This Linkedin post is a shortened edition of the Brazil Crypto Report newsletter. I'd encourage readers to subscribe to the full version on Substack) 
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of May 8-12, 2023.
+
+I hope everyone is doing well. I’m glad to be back in Brazil for a bit after driving a U-Haul truck across the US last week - it’s been a while since I’ve drank so many Red Bulls in such a short period. I was able to catch a business class upgrade on the flight back to SP so that helped with the recovery!
+
+It was another eventful week in the Brazil crypto world so let’s dive in. Have a great week everyone.
+
+-AWS
+
+A record 1.6 million Brazilians traded crypto in March
+
+In March 2023, data from Brazil's tax authority, Receita Federal, revealed that 1.6 million Brazilians reported cryptocurrency trades, marking the highest total since records began in 2019. However, this figure likely underrepresents the actual number of cryptocurrency trades, as it excludes many transactions on foreign exchanges like Binance.
+
+Additionally, a record 61,300 individual companies (CNPJs) reported engaging in crypto trades during the same month.
+
+Interestingly, stablecoins such as USDC, USDT, and BUSD accounted for 83 percent of the total traded volume for the month, which amounted to R$15.8 billion. This reported volume represented a 32 percent increase compared to the same period in the previous year .(Exame) (InfoMoney) (Valor Investe) (Valor)
+
+Private sector proposals for Digital Real testing begin to roll in
+
+Several major banks, fintechs, and credit unions have submitted proposals to participate in the testing phase of the Digital Real, which is set to begin in May. According to Valor, some notable participants that have submitted thus far include Bradesco, Itaú, Banco do Brasil, Sicoob, Sicredi, Mercado Bitcoin, BV, and ABBC (Association of Brazilian Banks).
+
+The Central Bank has opened ten vacancies for private sector participation but may increase this number based on project demand. Participants will be selected based on their technical capacity in blockchain technology and their relevant experience.
+
+The testing of the digital real will cover various segments, including wholesale and retail, as well as the negotiation of National Treasury bonds.
+
+While XP, Genial, BTG Pactual, Santander, Safra, Nubank, and Caixa (with the Elo banner) were mentioned as potential participants, there is no confirmation of their involvement at this stage. The selection process prioritizes technical expertise and the ability to contribute to the testing phase. The first meeting of the forum is scheduled for June.
+
+Brazil’s crypto ecosystem gets a shoutout in Fortune
+
+Leo Schwartz, a crypto regulatory reporter for Fortune who attended and moderated a session at Web Summit Rio earlier this month, wrote a nice piece about what he learned about Brazil’s emergent crypto economy.
+
+The article, entitled Brazil’s unlikely bid to become a global crypto hub, includes quotes from CVM, Hashdex and Parfin representatives and concludes stating that:
+
+With the U.S. preparing for yet another congressional hearing on digital asset legislation, Brazil’s progress is one more sign that crypto is a global story.
+Brazil well-represented at Financial Times Crypto and Digital Assets Summit
+
+The FT conference in London included several representatives from the Brazil crypto industry.
+
+Hashdex’s Bruno Ramos de Sousa spoke on a panel entitled “The Future of Trading and Investment Strategies”
+QR Capital’s Fernando Carvalho, Nicole Dyskant of Fireblocks and Renato Dias de Brito Gomes of the Banco Central spoke on the panel “Are cryptocurrencies a viable solution to financial inclusion in Latin America?”

@@ -1,0 +1,114 @@
+🇧🇷BCR #103: IMF praises Digital Real
+Also: Sheik of Bitcoins pleads the fifth at CPI hearing on financial pyramids
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for July 31-August 4, 2023. I hope everyone had a great weekend.
+
+If you haven’t checked out the Brazil Crypto Report podcast yet, I recommend taking a look when you can. Right now, my approach is to do long form, English language interviews with a variety of people who touch the Brazil digital asset ecosystem in some form.
+
+For this week’s episode, I was joined by Rai Auad who is a popular Web3 content creator and educator in Brazil. Definitely worth a watch/listen 👇
+
+🎧 Spotify | Apple Podcasts | Amazon | Anchor
+
+Thanks so much for reading and have a great week!
+
+-AWS
+
+IMF praises Brazil’s Digital Real initiative
+
+The International Monetary Fund praised the Brazilian Central Bank and the Digital Real project in its annual Article IV consultation, which issued by the entity’s Executive Board. The report even devotes a full section to the topic:
+
+“Directors commended the successful initiatives on the instant payment system Pix and Open Finance environment, as well as the plans for the Digital Real, while underscoring the importance of being mindful of potential financial stability risks related to digitalization.”
+MidJourney prompt: a team of IMF bureaucrats examining Brazil's central bank digital currency
+
+For context, the IMF Article IV Consultation is an annual assessment evaluating the economic and financial policies of its member countries that identifies potential risks and offers policy recommendations.
+
+The report lauded the bank’s track record with prior innovations like Pix and Open Finance, while foreshadowing the Digital Real as the next big project on the roadmap.
+
+“The next planned major innovation is the Digital Real, a wholesale CBDC. The goal of the CBDC is to provide a secure platform for the private sector to create innovative solutions using new technologies. End-users will only have indirect access to the Digital Real through regulated financial and payment institutions, mitigating the risk of financial disintermediation.”
+
+The authors highlight the Digital Real’s novel design and note that it is quite unique among CBDC projects globally.
+
+“Unlike other CBDC projects, the RD is conceived as a ‘smart’ platform that promotes innovation. In most countries, plans to introduce a CBDC pursue a combination of objectives, including promoting financial inclusion; making payment systems more competitive, resilient and cost-effective; and improve cross-border payments.”
+“Over time, the new platform will require the digital representation of more real-world assets to enable a transition towards more token-based financial services. Such a transition would need to be gradual and supplemented with changes in the legal and regulatory environment, so tokens fulfil their functions reliably without jeopardizing consumer protection, financial stability, and market integrity.”
+
+The report notes that the key policy goal of the initiative is to facilitate the migration to a tokenized world by “enabling a trading environment for a diverse set of tokenized assets”. This transition will require changes to Brazil’s legal framework to ensure a “bridge to reality”.
+
+“some types of tokens need additional legal provisions to ensure that holders have an actual right over a real-world asset or service.”
+
+The authors highlighted other risks related to the project including scaling challenges, funding risks, compliance with privacy laws and reputational and operational risks.
+
+The full report is 99 pages long and can be downloaded here.
+
+CPI on financial pyramids approves 156 witnesses; “Sheik of Bitcoins” pleads the fifth
+
+The Parliamentary Committee of Investigation (CPI) focusing on cryptocurrency pyramids formally approved summons for 156 witnesses to testify before the committee. The witnesses include a mix of subpoenaed individuals, along with invited guests and experts.
+
+Portal do Bitcoin reports that Federal Deputy Alfredo Gaspar has been under “intense pressure” to withdraw his summons of numerous individuals who have had a business relationship with Binance - including representatives from financial services firms like Capitual, Bankly, Latam Gateway, Banco BS2 and Méliuz. Gaspar stated:
+
+“We have just approved hundreds of summons, there has not been a complaint of dissatisfaction. I got to know the lobby of these institutions in recent days and I find this request to withdraw from the agenda very strange, because it is a simple invitation to clarify the relationship with Binance.”
+“Binance has used each of these companies, in different periods, to evade foreign exchange, with very strong suspicions of money laundering.”
+
+Portal do Bitcoin has a full list of the approved summons here.
+
+😒 In other CPI news, the much-anticipated testimony of “Sheik of Bitcoins” Francisley Valdevino da Silva on Thursday, August 3, proved to be a bust. The Sheik, mastermind of the R$4 billion Rental Coins pyramid, exercised his constitutional right and did not answer any questions after his opening statement (given via videoconference), in which he said none of his actions were illegal and criticized the Curitiba Public Ministry:
+
+“It is not new that the excessive accusations of Curitiba's accusers undermine regular sectors of the economy.”
+
+The session lasted just 17 minutes, and deputies on the committee were not amused. Deputy Gaspar said:
+
+“I wanted to ask if he remained silent while robbing the Brazilian people of more than R$4 billion.”
+
+(Portal do Bitcoin) (Valor) (Valor Investe) (CoinTelegraph Brasil) (Livecoins)
+
+MidJourney prompt: Sheik of Bitcoins refuses to testify during a hearing in front of a Congressional committee
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Binance has eliminated fees for all BRL trading pairs in a special promotion until the end of August. However, the exchange “reserves the right to disqualify the user’s reward eligibility if the account is involved in any dishonest behavior (e.g. money laundering, illegally mass registered accounts, self-trading or market manipulation).” (Portal do Bitcoin)
+Brazilians invested US$2 million (R$10 million) into crypto funds during the week of July 24-30, according to data from CoinShares. (CoinTelegraph Brasil)
+SMU had its provisional license in the CVM sandbox extended by 12 months as it eyes international expansion. The project, in partnership with Digitra, NTokens and Demarest Advogados creates a secondary market for investment crowdfunding liquidity. Live in Brazil, SMU looks to trade security tokens across Latin America - becoming a type of “Latin America Nasdaq”, per CEO Diego Perez. (Valor)
+Brazilian token crowdfunding platform AmFi launched seven new pools with the expectation of reaching more than 500 investors and 20 originators. and plans to debut another 12 before the end of the year. (CoinTelegraph Brasil)
+
+📱Adoption + Digital Real
+
+Brazilian banks are viewing programmability as the killer application of the Digital Real. Anderson Bandeira, technical leader at Itaú Digital Assets, said during a webinar organized by DINAMO Networks:
+
+“Programability is the thing that changes the most with the digital real. The digital real can generate many opportunities and there are pains that could be solved, such as the reversal of operations on d + 1, a case that other participants must have thought about.” (Valor)
+
+Brazilian carbon technology firm Greener has partnered with the European Carbon Offset Tokenization Association to promote the use of blockchain technology in carbon credit markets. (Portal do Bitcoin)
+13 out of 20 of Brazil’s Series A football clubs have their own digital assets, per a survey commissioned by Lumx. Co-CEO Caio Barbosa said in a statement:
+
+“The traditional offer, which gives fans access to games at reduced prices and discounts on official products, continues to generate value. However, the emergence of digital assets, more precisely fan tokens, has the potential to redefine the way clubs interact with their fan base through even more exclusive experiences.” (CoinTelegraph Brasil)
+
+The Bahia arm of the Brazilian Bar Association has created a commission on blockchain, cryptocurrencies and decentralized finance. (CoinTelegraph Brasil)
+Colégio Notarial do Brasil said that it reached one million digital certificates notarized via its NotaryChain e-notary platform. (CoinTelegraph Brasil)
+Former Brazilian footballer Roberto Carlos is launching his own celebrity token on the Most.Fans platform. Holders will be able to exchange the tokens for activities like business breakfasts, video calls or visiting a football game. Carlos said the token is an effective way prioritize fan requests and inbounds:
+
+"Each day, myself and many of my friends receive thousands of requests from fans and we simply don't have time to deal with it. This project has eliminated all the routines, bringing great value to me and my fans.” (CoinTelegraph Brasil)
+
+Exame had a good profile of El Vino, a startup creating a comprehensive platform for wine experiences, content and investment using NFTs and its Vinocoin token.
+The University of Sao Paulo law school is curating a new book on crypto assets and money laundering. (Valor)
+Cryptocurrency payments still represent an extremely small slice of total payments volume in Brazil. (BlockNews)
+Osten Games announced the testing phase of its Data2073 game, which is a Web3 game involving collectible cards with a play to earn component. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+ABcripto - Associação Brasileira de Criptoeconomia announced Ambify as a new member, bringing the trade’s membership to 30 companies. (Valor)
+Podcaster and influencer Monark apparently used bitcoin to circumvent a fine levied by the Supremo Tribunal Federal. (BlockTrends) (Livecoins)
+A judge denied a request from footballer Gustavo Scarpa garnish the salary of former teammate Willian Bigode to settle a portion of a R$6.3 million debt incurred through the Xland pyramid scandal, in which cryptocurrencies were used to attract new recruits. (InfoMoney)
+The Court of Justice of São Paulo ordered Binance and B Fintech, its local entity, to refund 0.3 bitcoin to a customer who had cryptocurrencies stolen from his portfolio. (CoinTelegraph Brasil) (BeinCrypto)
+A trio of Brazilian entertainment personalities that had connections to the infamous Atlas Quantum bitcoin pyramid have been requested to appear in front of the CPI, a special congressional committee examining financial pyramids.
+The presence of TV presenter Marcelo Tas and actors Cauã Raymond and Tatá Werneck were requested by Federal Deputy Paulo Bilynskyj.
+The celebrities were hired to promote Atlas Quantum in various capacities in 2018 and 2019. (Portal do Bitcoin)
+The committee also is reportedly looking to subpoena YouTuber and former São Paulo state deputy Arthur do Val, who was one of the few individuals able to withdraw bitcoins from Atlas Quantum before it collapsed in 2019. (Portal do Bitcoin) (InfoMoney)
+CPI president Aureo Ribeiro requested the release of banking, tax and telephone records for GAS Consultoria operator Glaidson Acacio dos Santos and his wife Mirelis Yoseline Diaz Zerpa. (Portal do Bitcoins)
+The Superior Tribunal de Justiça denied a request for former Atlas Quantum partner Fabricio Spiazzi Sanfelice’s assets be confiscated and used to make customers whole. (Portal do Bitcoin)
+João Pedro Nascimento, president of the CVM, said that he hopes to see 10 million unique investors on the Brazilian stock exchange by 2027. (InfoMoney)
+Civil Police and the Receita Federal executed seven search and seizure warrants in São Paulo against a group of gang accused of using cryptocurrency to launder money. (CoinTelegraph Brasil) (Livecoins)
+
+

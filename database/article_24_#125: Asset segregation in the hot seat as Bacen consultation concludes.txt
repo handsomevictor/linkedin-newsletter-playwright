@@ -1,0 +1,205 @@
+#125: Asset segregation in the hot seat as Bacen consultation concludes
+Plus: Receita Federal finds 25,000 Brazilians who didn't declare bitcoin on their taxes; Hashdex hits bitcoin ETF roadblock in US
+
+Olá pessoal!
+
+Welcome back to 🇧🇷Brazil Crypto Report. I hope everyone had a good holiday season. We’re returning to our standard weekly publishing schedule after a busy January and then some much needed time off.
+
+I made the trek to Switzerland for World Economic Forum last month where I helped put together Filecoin Foundation’s activation on the Davos Promenade, networked like crazy and snuck in a few ski outings.
+
+I was fortunate to run into a bunch of awesome Brazil crypto folks like Andre Portilho from BTG Pactual and Sophia Lopez from Kaleido while I was on the ground!
+
+As you all know, crypto in Brazil never sleeps so there’s lots to catch up on - let’s dive in!
+
+Have a great week everyone. 
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on Substack, X/Twitter, Linkedin, Instagram 
+
+🎙New podcasts!
+
+ICYMI I published two must-listen podcast episodes over the last couple weeks with Rocelo Lopes and Rafael Castaneda (aka Casta Crypto).
+
+Rocelo is one of the OGs of Brazil’s bitcoin scene and was the first commercial-sized bitcoin miner in Latin America. Castaneda, Brazil’s resident crypto giga-brain, sits down for a mind-bending conversation about technology and ethics, digital nation states, the modular vs monolithic blockchains, and more
+
+🎧 As a reminder, you can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Bacen consultation ends with no easy solution in sight for asset segregation
+
+The comment window for the Banco Central do Brasil's much-anticipated public consultation on digital asset regulations closed January 31. A total of 240 comments were submitted to some 38 questions posed to the public by the bank. The submissions came from a mix of crypto exchanges, banks, law firms, trade associations, payment processors, other financial infrastructure operators and highly passionate community members.
+
+As expected, the specific issue of asset segregation was the most fiercely debated in the submitted comments. There exists a wide consensus that a rule requiring asset segregation is necessary, but actually implementing this will be tricky.
+
+💡 Recall that a rule that would have required crypto brokerages to segregate customer assets was removed from the legislation that was ultimately passed into law in late 2022 after the FTX collapse.
+
+The issue has proven to be a thorn in the side of its proponents since then. The Central Bank explored ways to incorporate the rule into its forthcoming regulatory framework, but there are significant concerns regarding the constitutionality of this maneuver. This means that a legislative remedy is likely the only way that such a rule could withstand legal challenges.
+
+Indeed, one of the bank’s goals in putting forth this consultation was to help find a solution to this asset segregation problem. But it’s not clear that we are any closer to an easy fix.
+
+Numerous parties submitted comments in support of new legislation that would institute this requirement in one form or another. For example, B3, Cielo and ANBIMA argued in favor of a new bill that would require greater transparency and treat crypto brokerages the same way as traditional financial institutions with regards to custody and deposit questions.
+
+Mastercard argued that new legislation must cover “even if indirectly, the liability of entities that provide private key custody services, bringing their responsibility closer to that of an ordinary asset custodian”.
+
+Crypto exchanges Coinbase, Mercado Bitcoin oin and CoinEx Global also submitted comments in favor of an asset segregation rule.
+
+Also supportive, BTG Pactual warned against overreach, arguing that overly rigid rules could “could prevent the market from developing and creating new products and services”.
+
+What about Binance?
+
+Binance, which is widely credited with stripping the asset segregation provision out of the crypto regulation bill before it became law, stated in its comments that it supports asset segregation in principle and currently maintains all of its client assets in separate brokerage accounts.
+
+However, the world’s largest exchange argued against a hard asset segregation rule, instead advocating for a more “holistic approach” so as to not impede efficiency gains native to blockchain tech. This approach would include concepts like proof of reserves. It wrote:
+
+“Although traditional finance generally requires the segregation of services, which generates the multiplication of necessary intermediaries, the combination of services in a Vasp results in greater efficiencies that benefit end users, which is an element of distinction that any regulatory structure must take into account. into account.”
+What comes next?
+
+The bank will use the 200+ comments to help it formulate a draft regulatory framework. It will then seek feedback on the proposal from the public in a second consultation, which is expected to be released this spring. The final infralegal framework is expected to be finalized in the third quarter of this year.
+
+In the meantime, expect to see more momentum for new enabling legislation in the Brazilian Congress in the coming months.
+
+As Diego Perez z, president of ABFintechs, explained to Valor:
+
+“It is important that this issue is addressed in a law so that we have sufficient legal certainty to demonstrate how effective this asset segregation would be.”
+
+If you want to read for yourself the various comments submitted (all in Portuguese), you can find the full list here. Fabrício Tota of Mercado Bitcoin also had a good opinion take in his E-investidor column for Estadão that’s worth a read.
+
+Valor InfoMoney Exame Portal do Bitcoin CoinTelegraph Brasil
+
+Hashdex wins approval for US spot bitcoin ETF, but it has yet to launch
+
+The good news is that the Rio de Janeiro-based asset manager earned the SEC’s approval to convert its bitcoin futures ETF (DEFI) into a mixed product that includes both spot bitcoin and bitcoin futures.
+
+The bad news is that because Hashdex’s proposal was quite unique and more complex than those submitted by the other 10 bitcoin ETF applicants, the formal conversion hasn’t actually happened yet due to administrative and paperwork backlogs.
+
+This means that Hashdex’s DEFI fund is still trading as a bitcoin futures ETF and waiting on the SEC, while the other spot bitcoin ETF issuers are off to the races in the so-called “Cointucky Derby”.
+
+The company explained in a statement:
+
+"The product currently operates in the United States through the purchase of Bitcoin futures, and Hashdex is working with regulators to convert to the spot model soon."
+
+Recall that the US regulator approved 11 bitcoin ETFs for launch on January 10 (the day after some comical cybersecurity breaches on the SEC’s X/Twitter account). This batch of approvals included Hashdex’s DEFI product (which the firm says will be renamed at a future date). You can see the full press release from Hashdex here regarding the approval.
+
+Does this delay threaten the product’s eventual success? I’m not enough of an ETF expert to opine with much authority here, but I do know that we are still early in what will be a very long game — so it’s too early to jump to any hard conclusions IMO.
+
+🎉 Irrespective - a huge kudos to the Hashdex team is in order as they’ve been playing a critical role in driving the narrative on this topic and helping to put the necessary pressure on the SEC to finally approve these products after 10 years of delays.
+
+Wall Street Journal Portal do Bitcoin
+
+🌙 B3 looks to extend trading hours for bitcoin futures
+
+Brazil’s primary stock exchange plans to extend trading hours for Ibovespa derivatives and eventually bitcoin futures, once the CVM approves the product. The extended trading session would start between 6-7pm and end at 10pm.
+
+CEO Gilson Finkelsztain explained the reasoning:
+
+"There's a significant number of people who wish to trade at the end of the day. We perceive a certain pent-up demand for such an operation…These are two products that could already be tested with investors for extended hours."
+
+Valor Decrypt Folha de S. Paulo
+
+💀 Receita Federal finds 25,000 Brazilians who did not declare bitcoin in their income tax filings
+
+The Receita Federal, Brazil’s tax authority, used artificial intelligence to identify more than 25,000 people who own bitcoin but did not declare it on their income tax filings.
+
+Each of the individuals would have at least 0.05 bitcoin in their wallets; the total value of the undeclared bitcoin is R$1.06 billion (US$200 million).
+
+The authority has been signaling to the public for the last year that they have ways of identifying and tracking individuals who do not declare. Apparently they were not bluffing.
+
+Valor Exame InfoMoney
+
+Coinbase sees Brazil as “priority country”, ramps up local presence
+
+Coinbase is elevating its presence in Brazil after laying low in the market since its official launch last March.
+
+In an interview with Portal do Bitcoin, Fabio Tonetto Plein, Coinbase’s director for the Americas, explained that the company now has 35 employees fully dedicated to supporting its Brazilian operation. Indeed, the market has become a priority in the exchange’s global expansion efforts.
+
+“Coinbase sees Brazil as a promising market due to the constructive stance of regulators, such as the Central Bank and the CVM, who are willing to collaborate in the development of the cryptocurrency industry in the country.”
+
+He explained that Coinbase is formally incorporated in the country as Coinbase Brasil and follows all relevant rules - including reporting customer transaction data to the Receita Federal.
+
+Coinbase also submitted comments to the Central Bank in its recent public consultation. On the flashpoint issue of asset segregation, Plein explained that the exchange is in favor of the concept in principle, but notes that is important to ensure that such a rule isn’t overly restrictive - an approach taken by several other submitters.
+
+Coinbase is also in the process of joining the Brazilian Internet Association (Abranet), which has a mix of other crypto and technology companies in its member ranks.
+
+Plein also explained that Coinbase is open to M&A activity in Brazil should the right opportunity arise. He explained:
+
+“We have an arm that is Coinbase Ventures, an investment fund in crypto and Web 3 around the world and which is super active. […] In fact, also in Brazil, the company is often exploring these investment opportunities.”
+
+👊 BCR will have a podcast interview with Plein coming out later this month so be sure to keep an eye out for that.
+
+Share via Whatsapp
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Brazil had R$2.5 billion (US$500 million) worth of AUM in its crypto ETFs prior to the approvals issued by the US SEC. (InfoMoney)
+Brazilian crypto fund managers reported increased volumes and inflows following the January 10th ETF approvals in the US. US$6.8 million worth of inflows entered during the week ending January 19, and US$10.3 million for the week ending January 26.Hashdex reported R$16 million (US$3.2 million) in inflows for its BITH11 fund on January 11th, its largest daily volume since July 2022Theodoro Fleury, CFA, portfolio manager at QR Asset Management, explained to Valor
+
+“Due to the fact that it is a Bitcoin ETF approved in a strong jurisdiction such as the United States, managed by important managers such as Blackrock and Fidelity, we noticed that the bitcoin theme has been more recurrent in discussions about investments and portfolio composition. Investors are paying more attention to the asset.”
+
+Will the arrival of spot bitcoin ETFs in the US hinder the growth of Brazil’s crypto ETFs? Probably not, say experts interviewed by Portal do Bitcoin
+Itaú’s new crypto brokerage platform, released in December, is using Liqi’s crypto-as-a-service solution as its underlying tech. Liqi closed down its own brokerage product late last year and pivoted to providing the service to other institutions. (Valor)
+Brazilian asset tokenizers Liqi, MB Tokens, AmFi and Vórtx QR Tokenizadora combined to issue R$542 million (US$108 million) in RWA tokens in 2023. (CoinTelegraph Brasil)
+QR Asset is making its QR Blockchain Asset fund (QRBA) open to the general public. Launched in April 2020, it is an actively managed multimarket fund with up to 100% exposure to crypto assets that was originally restricted to qualified investors. (Valor Investe) (Portal do Bitcoin)
+Coinbase has claimed the primary sponsored content section on Bloomberg Linea’s Portuguese language crypto landing page. The slot had previously been claimed by its rival Binance.
+New data from the Central Bank shows that 99 percent of bitcoin purchases made abroad are made by exchanges for resale in Brazil. In total, Brazil imported US$7.5 billion in cryptocurrencies for the year 2022. (Portal do Bitcoin)
+Tokens backed by agricultural production, such as CPRs (Rural Product Certificates), CCBs (Bank Credit Notes) and CRAs (Agribusiness Receivables Certificates) are becoming more available in 2024 to investors and rural producers in need of financing alternatives.- Tokenization platform Liqi claims to have tokenized more than R$100 million (US$20 million) worth of private credit, with more than 9,000 individual investors having purchased at least one token on the platform- Agrotoken aims to tokenize more than 1 million tons of crops in 2024, according to co-founder Ariel Scaliter.- Vortx QR Tokenizadora expects to launch trading of tokenized CRAs in the coming months, albeit for professional and qualified investors. (Valor Investe)
+Mercado Bitcoin is launching a token offering in the career of Emmo Fittipaldi, the 16 year-old son of two-time Formula 1 world champion Emerson Fittipaldi. The token represents 3 percent of image rights, sponsorships, prizes and publicity that the driver earns. MB claims that earnings from the token can reach as high as 42.54 percent per year if the driver has a successful career. (Valor) (Portal do Bitcoin)
+Crypto accelerator Web3Valley invested R$4 million in two Web3 startups - Gem Hunts and Purple Cats at the beginning of this year. (Valor)
+estar.finance (formerly known as SMU) tokenized and listed R$913,000 worth of fixed income tokens from proptech startup Moreco. The project uses the Stellar blockchain. (Valor)
+Digital wallet NG.Cash listed three new tokens - SOL, DOGE, USDC, to its crypto brokerage platform. NG.Cash is popular with young people and has more than 2 million users. (Valor)
+BRLA Digital expanded its funding round with a R$1 million contribution from Dave Wang, former head of Softbank’s crypto asset fund and now the founder of 99 Capital. (Valor) (Exame)
+CoinMarketCap is looking to invest in blockchain startups in Brazil via its CMC Labs arm. (CoinTelegraph Brasil)
+Nucoin, Nubank’s native cryptocurrency, surged 204% and achieved a new valuation record. The jump prompted the bank to announce that it will no longer support Nucoin with liquidity, nor will it maintain any obligation to guarantee the price of coin moving ahead. (CoinTelegraph Brasil)
+
+📲 Adoption
+
+Cryptocurrencies, CBDCs and digital assets were on the agenda at the first of four Brazil-hosted G20 meetings on the topic of digital economy this year. The first meeting was held on February 1 in Brasilia. (CoinTelegraph Brasil)
+Solana Foundation will give R$5 million (US$1 million) to developers through hackathons and R$1 million (US$200,000) to community projects in Brazil. The initiative is part of the Solana ecosystem’s push to accelerate growth and expansion in the region. Diego Dias, head of new markets, explained:
+
+"We have R$5 million in prizes for the winners, which can be investment capital for the company to grow. We want to provide great support here in Brazil, we have already raised more than US$650 million in capital to invest in startups that are developing blockchain solutions and that can use Solana. It will start in March, so get ready, follow our Discord channel to participate.” (CoinTelegraph Brasil)
+
+FitBank and goBlockchain announced a new partnership aimed at tokenizing financial assets with structured projects. (Valor)
+FENASBAC has opened registration for the fourth cohort of its NEXT Accelerator program, which focuses on validating and improving new financial products in the Brazilian ecosystem. The application form can be found here
+Chiliz has hired Bruno Pessoa as its new director general for Brazil. (BlockNews)
+Mercado Bitcoin announced a forthcoming card partnership with Mastercard, with details to come in the first half of 2024. It also aims to issue R$1 billion (US$200 million) in RWA tokens this year and may potentially acquire a securities brokerage. (CoinTelegraph Brasil)
+The state of São Paulo began issuing new National Identity Cards using blockchain technology developed by Serpro. More than 3.5 million such cards have now been issued in 23 Brazilian states. (Portal do Bitcoin) (Exame)
+Drex and other tenets of the Central Bank’s innovation agenda could run into headwinds in 2025 after President Roberto Campos Neto’s term expires. (CoinTelegraph Brasil)
+Hamsa and Matera are partnering a platform for financial institutions to test Drex transactions (CoinTelegraph Brasil) (Web3News)
+Brazilian Web3 gaming studio Osten Games announced a partnership with Layer 2 blockchain Arbitrum to launch the Data2073 game. (CoinTelegraph Brasil)
+Tether CEO Paolo Ardoino spoke with Ricardo Bomfim of Valor about the bitcoin ETF milestone, new transparency initiatives being undertaken by the world’s largest stablecoin, his opposition to central bank digital currencies and how Tether consistently proven naysayers wrong:
+
+‘“All of our competitors were pointing fingers at us. They said they were much better and had solid risk management. In 2023, they had huge problems with the bankruptcy of the Silicon Valley Bank (SBV) and almost went bankrupt.”
+
+Ardoino elaborated further on Tether’s plans to expand in Brazil in 2024 via local partnerships in an interview with CoinTelegraph Brasil, stating:
+
+"There is immense potential in the Brazilian market due to its size, economic dynamics and growing interest in cryptocurrencies. In 2024, we will focus on partnerships, local engagement and ensuring our services are tailored to meet the specific needs of the market. We are excited about the opportunities who perform in Brazil.”
+
+SFCoop, the Drex pilot consortium comprised of leading credit cooperatives (Sicoob, Sicredi, Unicred, Ailos, Cresol), explained to Valor why its group is long on the benefits of tokenization and a programmable digital real currency to facilitate the sharing of risks in a cooperative setting.
+
+“The technology behind Drex, blockchain, is something we have been dealing with for a long time, since 2017…Today, Drex is a pilot, but we can’t just experiment when it becomes a product. The level of demand and demand from our members is enormous”
+
+Thiago de Castro Neves of the Moonbeam Foundation says Moonbeam and the Polkadot ecosystem will be expanding more in Brazil in the coming months. (CoinTelegraph Brasil)
+The worlds of cryptocurrency and online gambling are converging in Brazil. (CoinTelegraph Brasil)
+Arthur Mining began its bitcoin mining operation in Brazil with the installation of a mining unit in the state of Tocantins. The mine uses surplus energy from a local hydroelectric plant that would have been otherwise wasted. Co-founder Rudá Pellini explained:
+
+“In Brazil, 30% of energy is wasted, causing losses of up to R$60 billion per year for the economy. Arthur Inc.’s objective is to solve this problem, taking advantage, mainly, of the energy generated and not used.” (Valor)
+
+A R$2 billion (US$400 million) inheritance dispute will be advanced partly through the tokenization of credit assets by the Jequitibá investment manager. (Valor)
+Nubank has appointed Livia Chanes as the CEO of Nubank Brasil. (BlockNews)
+Brazilian blockchain project Hathor Network is partnering with Cryptogranjas, an Argentine bitcoin miner, to push renewable energy sources in bitcoin mining. Miners who participate in Hathor’s “merged mining” process can earn twice the block reward if they use provable clean energy sources. (Valor)
+
+🏛 Policy, Regulation and Enforcement
+
+A new study by the CVM and Getulio Vargas Foundation says that victims of financial pyramid schemes are more likely to fall for the same scam more than once. (InfoMoney) (Portal do Bitcoin)
+Brazilian Vice President Geraldo Alckmin praised the approval of spot bitcoin ETFs in the US as a “silent revolution” in an X/Twitter post, adding that “Brazil once again came out ahead, as the CVM had already granted this type of authorization.”
+The Central Bank and CVM maintain a standing agreement to exchange information about “real world asset” tokens as the trend advances in the country. (CoinTelegraph Brasil)
+Mirelis Diaz Zerpa, wife of Glaidson Acacio dos Santos (aka “Pharaoh of Bitcoins) and fugitive, was arrested in Chicago by Brazilian Federal Police in cooperation with US Secret Service and US Immigrations and Customs Enforcement. She was a target in Operation Kryptos for her involvement in the GAS Consultoria pyramid scheme. (InfoMoney) (Valor) (Portal do Bitcoin)Glaidson has changed his legal team in Brazil following the arrest of his wife. (Portal do Bitcoin)
+OKX, the second-largest crypto exchange globally by volume, and crypto-fiat gateway and BRZ stablecoin issuer Transfero Group have officially joined ABcripto - Associação Brasileira de Criptoeconomia. (Valor) (Valor) (Exame)
+The Central Bank and CVM have both opened concursos to hire new employees. The openings come at a time when both entities have been running into staffing limitations. The bank opened 100 vacancies, while the CVM opened 60. (BlockNews)
+The CVM issued a R$270,000 fine against FC2 Broker and its representative Fabio dos Santos Carvalho for the irregular offering of securities based on tokens and cryptocurrencies. (Portal do Bitcoin)
+Bitso was ordered by a São Paulo court to return 1.5 bitcoin to a man who was a victim of a kidnapping and forced to transfer the 15 bitcoins he had on a company hardwallet. (Portal do Bitcoin)
+A former (unnamed) director of Braiscompany was extradited from Argentina to Brazil. He arrived on February 1 and was taken to Serrotão prison in Campina Grande. (Portal do Bitcoin)
+Five partners of the crypto pyramid scheme Indeal were sentenced to 19 years in prison on charges of operating a criminal organization, embezzlement, and other crimes. (Portal do Bitcoin)
+Federal Police arrested a man at Guarulhos airport suspected of laundering R$13 billion (US$2.6 billion) using cryptocurrencies via a shell company between 2017 and 2021. (Livecoins)
+
+

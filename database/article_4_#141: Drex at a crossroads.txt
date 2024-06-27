@@ -27,7 +27,7 @@ Thanks for reading and have a great week everyone!
 
 New podcast
 
-This week’s episode is a conversation Web Summit Rio conversation I had with Yat Siu , co-founder and executive chairman of Animoca Brands . Animoca is the premier operator at the intersection of Web3 and culture, and Yat is simply the best in the business at articulating how crypto-native ideas like airdrops, NFTs and memecoins will transform the way brands interact with their customers. There’s a lot of alpha packed into this 20 minute convo so definitely worth a listen!
+This week’s episode is a conversation Web Summit Rio conversation I had with Yat Siu, co-founder and executive chairman of Animoca Brands. Animoca is the premier operator at the intersection of Web3 and culture, and Yat is simply the best in the business at articulating how crypto-native ideas like airdrops, NFTs and memecoins will transform the way brands interact with their customers. There’s a lot of alpha packed into this 20 minute convo so definitely worth a listen!
 
 🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
 
@@ -74,7 +74,7 @@ Why has the privacy problem been such a challenge? Parfin CEO Marcos Viriato exp
 
 “Hyperledger Besu block time is five seconds. If the solution can execute multiple transactions close to this time then it is performing reasonably.”
 
-However, bank officials insist that the privacy roadblock is temporary and a challenge that will be solved. Rafael Bianchini Abreu Paiva , coordinator of financial risk regulation of financial market infrastructure at the Central Bank, explained at an event hosted by Zoop, per Valor:
+However, bank officials insist that the privacy roadblock is temporary and a challenge that will be solved. Rafael Bianchini Abreu Paiva, coordinator of financial risk regulation of financial market infrastructure at the Central Bank, explained at an event hosted by Zoop, per Valor:
 
 "It is public, it has already been reported that what Drex got stuck on the issue of secrecy. Does that mean it is unfeasible? No. It is possible to think of solutions that guarantee bank secrecy — the issue is that they take away scale, speed, increase the cost or they are private solutions, which could create problems down the road."
 
@@ -84,7 +84,7 @@ Bianchini reverted to the “blockchain trilemma” which argues that it is impo
 
 While the tokenization elements are functional and a privacy solution seems likely to be found, the delays mean that trying to estimate an exact launch date at this stage is futile.
 
-Mateus Casanova Pereira , head of products and IT at UNICRED (a participant in one of 16 consortia currently operating in the Drex pilot) told Valor:
+Mateus Casanova Pereira, head of products and IT at UNICRED (a participant in one of 16 consortia currently operating in the Drex pilot) told Valor:
 
 “There is no way to predict when it will be available to the population. It is not possible to say that we will be with Drex in 2025, it could be until 2026”
 
@@ -124,12 +124,12 @@ Nagel Lisânias Paulino , an official in the bank’s financial system regulatio
 
 Valor BlockNews Exame CriptoFacil CoinTelegraph Brasil
 
-💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷 Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷 Brazil Crypto Report  a follow on X/Twitter, Linkedin and Instagram
 
 🗞Brazil Crypto News Rundown
 📈 Markets
 
-Nubank now allows customers to transfer bitcoin, ether and Solana from their digital wallet to their digital bank account and other external wallets — whether they be unhosted or held on an exchange. According to Thomaz Lysakowski Fortes, CGA® , director of Nubank Cripto, the objective is to give customers more control over the assets they hold:
+Nubank now allows customers to transfer bitcoin, ether and Solana from their digital wallet to their digital bank account and other external wallets — whether they be unhosted or held on an exchange. According to Thomaz Lysakowski Fortes, CGA®, director of Nubank Cripto, the objective is to give customers more control over the assets they hold:
 
 “This new transfer functionality offers total freedom for our customers to move their assets whenever and however they wish, and at highly competitive rates.” (Valor) (Portal do Bitcoin) (CoinTelegraph Brasil)
 
@@ -142,7 +142,7 @@ Mercado Bitcoin announced the listing of three new assets on its platform — BV
 
 📲 Adoption
 
-OKX , through its partnership with McLaren, has rolled out a special marketing campaign paying tribute to Brazilian auto racing legend Ayrton Senna. (CoinTelegraph Brasil)
+OKX, through its partnership with McLaren, has rolled out a special marketing campaign paying tribute to Brazilian auto racing legend Ayrton Senna. (CoinTelegraph Brasil)
 FENASBAC announced a new partnership with the Federal University of Rio de Janeiro, Polkadot and Ripple to research interoperability solutions between Drex and other blockchain networks. (CoinTelegraph Brasil)
 Brasil Bitcoin , an exchange, now allows clients to make payments via Pix using any cryptocurrency listed on its platform. (Valor)
 Binance is hosting a roadshow of meetups across Brazil over the coming months, with stops in Fortaleza, Floripa, Curitiba, Belo Horizonte and Rio de Janeiro. (CoinTelegraph Brasil) (Livecoins)
@@ -151,7 +151,7 @@ Sunny Pires, an 18 year-old Brazilian surfer from Buzios, received a sponsorship
 brx finance nance joined the Chainlink BUILD program to accelerate adoption of DeFi and RWAs in Brazil. (CoinTelegraph Brasil)
 Fernando Martines of Portal do Bitcoin interviewed Ethereum Rio organizer Antonio Neto about the vision for the popular event brand moving forward.
 Parfin was selected by Mastercard for its “Start Path Blockchain and Digital Assets” program, which seeks to improve user experiences and expand blockchain business cases. (CoinTelegraph Brasil)
-Foxbit Group announced a partnership with QINV to bring artificial intelligence crypto investing tools to its customers. (CoinTelegraph Brasil)
+Grupo Foxbit announced a partnership with QINV to bring artificial intelligence crypto investing tools to its customers. (CoinTelegraph Brasil)
 Skateboarder Bob Burnquist spoke to Portal do Bitcoin at Ethereum Rio about his efforts to empower artists using Web3
 Brazilian importers are paying Chinese suppliers with crypto, Ripio CEO Sebastian Serrano explained in Bloomberg piece about corporate adoption of crypto in Latin America.
 Daniel Coquieri of Liqi Digital Assets has a good op-ed in CoinTelegraph Brasil discussing how Brazil can overcome challenges associated with tokenization adoption. (CoinTelegraph Brasil)

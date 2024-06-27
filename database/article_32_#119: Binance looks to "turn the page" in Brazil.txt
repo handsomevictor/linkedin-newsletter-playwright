@@ -1,0 +1,179 @@
+#119: Binance looks to "turn the page" in Brazil
+Plus: controversial tax reform legislation advances in Senate; Optimism-based Patex plots US$100 million splash in Brazil
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of November 20-24, 2023.
+
+A couple quick housekeeping items before we dive into the news this week. 
+
+1️⃣ BCR is transitioning to a freemium/paid model in the coming week. I’ll have some more details soon on how this will all work, but please know that this will be last edition of the newsletter where all of the content is in front of a paywall. I hope that you’ll consider supporting me if you find BCR to be a valuable resource.
+
+2️⃣ Please take a minute to fill out the 2023 reader survey to help us better understand how we can create value for readers
+
+3️⃣ Cast your vote for the BCR 2023 Most Influential series if you haven’t yet. Voting will close Tuesday, November 28. 
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin
+
+👊Also, please do give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram if you don’t already. It helps out a ton!
+
+Thanks everyone for reading and have a great week
+
+-AWS
+
+🎙New podcasts
+
+I took a break from our normal Brazil-focused programming to record a couple of episodes focusing on Javier Milei and Argentina. Milei’s unexpected presidential victory has won the hearts and minds of the bitcoin and crypto communities, but there is a lot of nuance and a lot of unanswered questions to consider. What can we realistically expect out of a Milei administration? Who the heck is this guy exactly? Can we expect him to adopt “pro bitcoin” or “pro crypto” policies as president?
+
+For the first episode, I am joined by Ripio CEO Sebastian Serrano; for the second, I talk to Daniel Rybnik, co-founder of ONG Bitcoin Argentina and Julian Colombo , CEO of Bitso Argentina.
+
+We cover a lot of ground in these episodes discussing Milei’s background, worldview and what his presidential administration could look like as it pertains to bitcoin and cryptocurrency.
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+🎯 Binance, Binance, Binance
+
+You all undoubtedly saw the news about Binance's US$4.3 billion settlement with US authorities last week, led by the US Department of Justice. Won’t dive into all the details here, but it’s easily the biggest industry news of the year whichever way you look at it. 
+
+The settlement honed in on Binance’s anti-money laundering and sanctions compliance problems that have, frankly, been priced in by the market for a long time. With these problems addressed and a degree of justice being achieved, the exchange has an opportunity to reset and operate as a more compliant and regulatory-friendly entity with new CEO Richard Teng at the helm. 
+
+On November 22, Binance commissioned a sponsored article in the Brazilian financial publication InfoMoney acknowledging its reckless past and committing to changing its stripes:
+
+“While Binance is not perfect, it has been committed to protecting users since its early days as a small startup and has made huge efforts to invest in security and compliance. However, when Binance launched, it did not have adequate compliance controls for the company it was quickly becoming, which it should have.”
+
+It’s worth noting that the US SEC still has an ongoing enforcement action against Binance, so the exchange isn’t completely out of the weeds just yet. However, the SEC charges aren’t nearly the same existential threat to CZ and Binance as the DOJ action.
+
+The DOJ settlement allowed the industry to breathe a collective sigh of relief, as it did not bring any accusations that Binance co-mingled assets, misappropriated (aka “stole”) customer funds or operated as a financial pyramid scheme. Fears of Binance suffering an FTX-style collapse plagued the industry throughout 2023, as it would have taken years for the industry to recover from such an event. 
+
+Customers withdrew US$1 billion worth of funds in the days following the settlement announcement, and Binance appears to have been able to handle all of that without any solvency issues.
+
+All in all, the settlement appears to confirm that, at least when you look beyond all of the KYC and money laundering problems, Binance has been doing a pretty good job operating a global crypto exchange. 
+
+🤔 What happens next?
+
+Well, there’s a reasonable chance that Binance actually comes out of this stronger than before. 
+
+JPMorgan analyst Nikolaos Panigirtzoglou argued that the broader crypto market “would see significant reduction of a potential systemic risk emanating from a hypothetical Binance collapse”, and that the exchange should be able to recoup market share with DOJ entanglements in the rearview mirror: 
+
+“Its market share loss should be contained going forward and perhaps partly reverse once the implications from the settlement on Binance’s operations and business model become more clear.”
+
+Brokerage and research house Bernstein argued that Binance will remain a dominant player in non-US markets.
+
+“Binance’s reputation with retail non-U.S. customers has remained strong through the crisis.”
+
+Perhaps most importantly, the path to a bitcoin ETF in the US just became more clear… 👇👇👇
+
+Binance looks to “turn the page” in Brazil
+
+The settlement came as encouraging news to Binance competitors in the US and abroad who have been have having a hard time keeping up with CZ’s buccaneering modus operandi. 
+
+I thought Kraken CEO Jesse Powell summed up the sentiment pretty accurately in a tweet. 
+
+Looking at Brazil specifically, the exchange has taken a beating here this year. Its country manager Guilherme Nazar was tarred and feathered by a special congressional committee (CPI) on financial pyramids that ultimately recommended the indictment of Nazar and three other local executives. There is also an ongoing investigation by the CVM (Brazil’s SEC) looking into alleged irregular derivatives offerings by the exchange. 
+
+In spite of all this, Binance still maintains a dominant market share, though it lost a bit of ground to NovaDax after the settlement was announced - according to data from Livecoins.
+
+Toni Sciarretta and Ricardo Bomfim of Valor examined the implications of the DOJ settlement for Binance’s ambitions in the Brazil market. Specifically, they asked the question of whether the admission of guilt in the US creates a criminal record that could be used by the Brazilian Central Bank as a justification to block Binance’s attempted purchase of the Sim;paul brokerage. This pending acquisition is Binance’s main pathway to becoming a regulated entity in Brazil.
+
+In its final report last month, the aforementioned CPI committee urged the bank to deny acquisition. But it’s unclear to what extent the bank would be able to take into account the US settlement in its decision-making process.
+
+Nicole Dyskant, founder of Compliasset and an advisor to several companies in the space, argued that even if Binance is considered to be a participant in financial crimes, Brazil doesn’t have a legal basis for levying a punishment: 
+
+“In fact, the Financial Activities Control Council (Coaf) even changed the rule to cut off the channel for reporting suspicious transactions from cryptocurrency exchanges.”
+
+Binance told Valor in a statement: 
+
+“The exchange has been investing in new talent in several areas in the country: government affairs, compliance, security, communication, business development, among others.”
+
+Still, it’s all a far cry from the promises that CZ made to the Brazil community when he visited during Ethereum Rio 2022, where he received the key to the city and was ushered around with celebrity status. Large offices in Rio and Sao Paulo were imminent; 5,000 new jobs would be created, he said. 
+
+That has not materialized, but the exchange does have roughly 200 employees in the country currently, primarily in customer support roles. Nazar functions as the country manager and reports upward to Min L. - vice president for Latin America. Lin was previously a direct report to new CEO Richard Teng. 
+
+To sum it up, Binance probably isn't going to be living up to CZ's lofty promises anytime soon, but it's going to continue operating as a major player in the Brazil market. 
+
+Patex to open US$100 million crypto platform in Brazil
+
+The Patex crypto ecosystem plans to launch a complete crypto platform in early 2024 in Latin America, commencing in Brazil. 
+
+Patex is a fork of Optimism, which is one of the largest Ethereum Layer 2s. Its platform will include crypto trading and a focus on educating both customers and professionals. The main investor is Acura Capital Gestora de Recursos, a Brazilian asset management company with more than R$7 billion (US$1.43 billion) in AUM. 
+
+The Brazil operation will be led by Ricardo Da Ros, an operative who previously helped Binance, Ripio and Crypto.com launch in Brazil. He told Valor:
+
+“There is this vacuum in the middle and it is this opportunity that we see. We are 98% ready in terms of development, technology and platform.”
+
+Portal do Bitcoin CoinTelegraph Brasil
+
+Overseas crypto tax approved by Senate committee
+
+A controversial capital gains tax reform measure impacting individuals who hold or trade cryptocurrencies on overseas exchanges like Coinbase or Binance was approved by the Senate Economic Affairs Committee. 
+
+Bill 4173/2023 would establish a flat 15 percent tax rate that applies across all income ranges when the crypto assets are exchanged into another currency.
+
+Isac Costa, a partner at Warde Advogados, explained to Valor: 
+
+“To reach this value, the project determines that the moment the investor wants to bring the gains from crypto assets into the real world by transforming them into traditional currency, they will have to pay a tax for the repatriation of the value that was abroad”
+
+Arthur Barreto, Donelli, Abreu Sodré e Nicolai Advogados - DSA, explained that the legislation doesn’t necessarily introduce a new tax, but rather does away with an existing exemption that benefits smaller traders: 
+
+“Taxation in itself is not new because the Federal Revenue Service was already treating cryptoassets as financial investments. What the project changes is the tax collection period and the currently applicable tax bands. If the project is approved with the current wording, the main impact for investors is the loss of the exemption for gains from operations abroad whose total value in the month is less than R$35 thousand.”
+
+For more detail on this proposal, I recommend having a listen to this podcast I did with Daniel de Paiva Gomes, who is one of Brazil’s leading crypto taxation experts.
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Tokenized shares platform BEE4 signed on Genial Investimentos and Itaú Unibanco as digital asset brokers. The brokers will bring tokenized shares issued on the BEE4 platform to their private banking and retail clients, and then integrate into the BEE4 secondary market platform itself. Bruno Kolde Bandiera, head of innovation and digital assets at Genial, said: 
+
+“Our open platform model allows us to introduce BEE4 both to enable companies to go public and to provide another alternative for investors.” (Valor)
+
+Crypto custody giant Metaco released a new white paper exploring Brazil as a hub for digital assets innovation
+Several Brazilian crypto platforms offered tempting Black Friday promotions to attract new customers. (CoinTelegraph Brasil)
+Securitizar, which specializes in raising funds for securitization companies, structured three tokenized bank credit notes using receivables as collateral. (BlockNews)
+Capitual, the crypto friendly bank, is launching an OTC desk. (Livecoins)
+Holders of the Cruzeiro token (CRZO) have received R$1 million in payments related to the transfer of three separate players. Investors who hold the tokens in their Liqi or Bitybank wallets receive the values automatically. Bitybank CEO Ney Pimenta explained: 
+
+"As we surpass the R$1 million mark in payments to the project's investors, it is clear that Cruzeiro Token is making a significant impact in the world of cryptoassets and football. We are excited about the continued success of CRZO and look forward to the future distributions that the project should deliver in the coming years.” (CoinTelegraph Brasil)
+🪙 Drex
+
+Drex/Digital Real will bring a new universe of business models to Brazil’s financial ecosysstem, central bank president Roberto Campos Neto argued while speaking at the Endeavor conference. (Valor)
+Campos Neto said that he has received several requests to change the name Drex. During an interview on the Globo live podcast “E agora, Brasil?” he stated:
+
+“Some people, particularly in the Jewish community, pointed out that there was a Yiddish dialect in which Drex would have a bad meaning. It would be something like “crap”, but actually the word in this case is ‘drek’, not ‘Drex.’”
+
+At the same live event, Campos Neto re-iterated plans to introduce artificial intelligence tools into the Drex stack. He said:
+
+"We are going to insert a last block [in Drex] that I haven't said much about yet, which is artificial intelligence on top of the platform, which is to help people plan their financial plans in a more efficient way" (Exame)
+
+On December 7, the Brazilian Central Bank is hosting an in-person conference focusing on Drex at its headquarters in Brasilia. Programming and registration information can be found here.
+More than 700 transactions have been executed and 1 million blocks created on the Drex testnet on Hyperledger Besu, according to data from the Central Bank’s platform. More than 300 unique wallets for both retail and wholesale usage have been created on the network also. (BeinCrypto)
+82 percent of Brazilians still do not know what Drex is, according to a survey carried out by Datafolha, with Tecban and Exame. (CoinTelegraph Brasil)The study also found that Brazilians are withdrawing money from ATMs more frequently than before
+Brazilians invested R$5.5 million (US$1.1 million) into crypto funds during the week of November 13-19. (CoinTelegraph Brasil)
+CoinTelegraph Brasil’s cassio gusson looks at how Brazil’s 13 cryptocurrency ETFs performed in 2023. 
+viden.vc, a Brazilian Web3-focused VC, announced an investment in Panoptic - a decentralized options protocol. (BeinCrypto)
+
+📱Adoption
+
+Agrotoken and Polkadot are teaming up to launch RWA tokens with an exclusive parachain. Agrotoken will be able to develop its own parachain in the Polkadot ecosystem, and developers will be able to use the Agrotoken API to create new products. Ariel Scaliter, CTO and co-founder of Agrotoken, said in a statement: 
+
+"Agrotoken's motto is to make natural resources accessible to everyone. Our vision is to become a global real asset tokenization infrastructure, developing relationships with companies and startups to help them move their current technology towards a more traceable system , secure and auditable that allows new revenue streams and business opportunities." (CoinTelegraph Brasil) (BeinCrypto)
+
+Binance’s Brazil country manager Guilherme Nazar made the case for bitcoin as a long-term store of value in a column for Estadão’s E-Investidor
+Ticketing and event management company Sympla is partnering with Lumx to turn event tickets into NFTs as a means of providing more security for users and cracking down on counterfeits. Roberto Mameli, CTO of Sympla - which is dominant in the Brazil event space, explained the benefits of the partnership:
+
+“Sympla guarantees, with this crucial step, an additional layer of security for both producers and buyers. […] With tokenized tickets and a new feature-rich app, Sympla is paving the way for the future of entertainment and event experiences.” (Portal do Bitcoin) (Exame) (BeinCrypto) (CoinTelegraph Brasil)
+
+Juliana Schlesinger Felippe of Paxos wrote an op-ed in Portal do Bitcoin exploring the opportunities for tokenized gold. 
+A survey by NG.cash shows that Brazilians born between 1995 and 2010 have little interest in traditional banks, thus opening the door for digital banks and cryptocurrencies. (CoinTelegraph Brasil)
+Swiss company Zeitls announced the launch of a the Tarsila Reimagined NFT collection, made up of 225 NFTs based on works by Tarsila Amaral, one of the precursors of modernism in Brazil. (CoinTelegraph Brasil)
+CoinTelegraph Brasil profiled BlockDeaf, an initiative aimed at bringing Web3 accessibility to the deaf community in Brazil. 
+
+🏛 Policy, Regulation and Enforcement
+
+A bill that establishes a regulatory framework for social currencies, including those issued on blockchain, was approved by a committee in the Chamber of Deputies. (Valor Investe) (CoinTelegraph Brasil)
+Crypto market maker and liquidity provider Murano Investimentos has joined ABcripto - Associação Brasileira de Criptoeconomia as a member. (Portal do Bitcoin)
+Yet another attempted auction of Braiscompany CEO Antonio Neto Ais’ mansion in Paraiba failed to attract any bidders. (Portal do Bitcoin)
+Federal Police and the Receita Federal executed 21 search and seizure warrants in Operation Recidere against a gang accused of using cryptocurrencies for tax evasion. (Portal do Bitcoin)
+Civil Police in Rio de Janeiro executed Operation Pyramis against a criminal organization accused of operating a pyramid scheme involving cryptocurrencies in the city of Niteroi, resulting in three arrests. The scheme promised returns of 15 percent per month on crypto investments. (Portal do Bitcoin) (CriptoFacil)
+Civil Police in Rio are asking for the public’s assistance in tracking down Anderson and Mabia de Almeida, who are wanted for their involvement in operating a cryptocurrency pyramid scheme called Trion Invest. (Portal do Bitcoin) 
+A couple who lost R$146,000 (US$30,000) in the alleged Trust Investing crypto pyramid scheme is suing singer Perlla, her husband Patrick Abrahão and his father to recover the amount. (Portal do Bitcoin)
+A Brazilian is suing the American company BitPay after losing 336 bitcoins in an incident. (Livecoins)

@@ -1,0 +1,160 @@
+"Surrounded by Suspicion": CPI Recommends Indictments for CZ, Binance Execs
+Unpacking the special congressional committee's investigation into Binance
+
+Olá pessoal!
+
+Welcome back to 🇧🇷Brazil Crypto Report. I hope everyone is doing alright. I’m devoting a special edition this week to unpacking the Binance/CPI news from last week.
+
+My personal TLDR of the situation is that 1) the CPI committee investigation has the feel of a political hit job against Binance, and 2) Binance is in big trouble in Brazil.
+
+I will send out the regular news rundown in the next couple of days. Appreciate your patience but I wanted to publish my take on the Binance situation as it’s quite significant. BCR will continue covering this situation as it unfolds.
+
+In the meantime, I’d love to hear your feedback. Is my assessment on point? Am I missing something? Are there other angles I should be taking into account?
+
+I will also be recording 1-2 more podcast interviews this week focusing on these topics, so please do keep an eye out for those.
+
+If you’re interested in reading the full 500 page CPI report, you can find it here.
+
+Have a great week everyone,
+
+-AWS
+
+👊 Friendly reminder that if you enjoy this content, please consider following 🇧🇷Brazil Crypto Report across the web. It’s a free and easy way to support my work! Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🎙For a more thorough discussion of the Binance/CPI situation, I would highly recommend having a listen to this podcast episode I recorded with Portal do Bitcoin reporter Fernando Martines and Mercado Bitcoin executive Daniel Cunha.
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Binance Under Fire
+
+A special Brazilian congressional committee tasked with investigating financial pyramids wrapped up this week, issuing a scathing final report that urges indictments of several Binance executives, including Changpeng Zhao.
+
+The charges recommended by the committee include crimes against the financial system, fraudulent management, offering securities without proper authorization, and operating an unauthorized financial institution in the country.
+
+The committee, known as the CPI (Portuguese language acronym), accused Binance of being the common denominator behind a plague of crypto pyramid schemes in Brazil that are estimated to have fleeced local investors out of at least R$100 billion (US$20 billion) since 2017.
+
+The CPI also claimed that Binance evaded R$300 - R$400 million in corporate taxes since it began offering services in the country, and recommended that federal prosecutors and tax authorities do a deep dive into the tax records of Binance’s local entities.
+
+The developments are extremely significant for several reasons: 1) Brazil has consistently been one of Binance’s top 2-3 global markets in recent years, 2) the exchange has had a stranglehold on the market lately, accounting for as much as 60-70 percent of total trading volume over the last year, and 3) the findings add to Binance’s mounting legal woes around the world.
+
+CPI members unanimously approved a 500+ page report claiming that Binance is “ surrounded by suspicion” in Brazil and called for indictments to be brought against 45 individuals involved in various financial pyramid schemes, including the four Binance executives.
+
+To be clear, the committee does not have the direct authority to officially indict any of the 45 individuals. Rather, it will provide its findings and recommendations to prosecutors and Federal Police who will be tasked with deciding whether to indict and on what charges.
+
+The targets
+
+Changpeng “CZ” Zhao, Binance CEO
+
+CZ obviously needs no introduction here. It is worth remembering, however, that just 18 months ago he paid a visit to Brazil and was greeted with rockstar celebrity status. He met with key local government officials, including São Paulo governor João Doria and Central Bank officials, gave interviews to all of the top-tier local media, made a surprise keynote appearance at Ethereum Rio and promised to create a local headquarters that would create 5,000 jobs.
+
+Guilherme Haddad Nazar, Binance Brasil Director General
+
+Nazar officially joined Binance in December 2022 to be the exchange’s public face in Brazil (though his Linkedin says he joined September 2022). The nephew of current Finance Minister Fernando Haddad, he is well-connected politically and was a critical figure in setting up Uber’s operation in Brazil prior to joining Binance (for context, São Paulo now has more Uber drivers than any other city on the planet).
+
+Nazar’s family and political connections were not enough to save him from the wrath of the CPI, however. He was forced to play the role of sacrificial lamb in front of the committee, and ultimately the committee members who are politically allied with his uncle still voted to approve the final report and recommend his indictment.
+
+Daniel Mangabeira, Vice President of Government Affairs for Latin America
+
+Mangabeira is another Uber veteran who was critical in setting up the rideshare service in Brazil, first joining in 2014 as its head of public policy for Latam. He had a brief stint at Bitso in 2021 before jumping to Binance in November of that year.
+
+He is a respected dark arts political operative type who is highly skilled at shaping stakeholder opinion and public policy behind the scenes.
+
+He was the only crypto professional named to Bloomberg Linea’s 500 Most Influential People of Latin America for 2023.
+
+Thiago Sarandy de Carvalho, Senior Counsel for Latin America
+
+Carvalho joined Binance in February 2022 following stints at Warren Investimentos (a financial advisory fintech) and Genial Investimentos. He appears to have deleted his Linkedin profile following the release of the CPI report, so I don’t know much about him.
+
+The CPI’s findings
+
+The CPI’s main accusation here is that Binance allowed Brazilian crypto pyramid scheme operators to easily launder investor funds out of the country:
+
+“It should be noted that the BINANCE structure was used by several financial pyramids investigated by this Commission for the simple fact of not observing legislation and operating completely without rules and without supervision by the competent authorities.”
+Opaque operating structure
+
+The committee report argued that Zhao and Binance created an “opaque network” of seven legal entities in the country that functioned “without a defined business purpose and with no other purpose than evading compliance with the law”.
+
+“The majority of listed companies have the appearance of shell companies, that is, they have a physical address, but with small assets, some on the order of R$100.”
+
+Nazar explained in his testimony that B Fintech, Binance’s primary local entity that is controlled by CZ, and the other companies are auxiliaries that serve administrative purposes (hiring employees, contracting products and services) but do not engage in intermediating the buying and selling of crypto assets. The local companies provide “more agility and efficiencies” in Binance’s operations, a practice that is “common with global technology companies.”
+
+Hiding income from the Receita Federal
+
+The opaque operating structure allowed Binance to hide taxable income from the Receita Federal, the committee stated.
+
+The report states:
+
+“on the tax front, our perspective is that BINANCE operates in Brazil irregularly…using third-party financial service providers, who also operate irregularly, to attract investments, with strong evidence of crimes against the tax system…and tax evasion.”
+“Approximate estimates of this CPI indicate that Binance should, due to its volume of participation in the Brazilian market, be collecting, in corporate taxes alone, an amount between R$300 and R$400 million”
+Bus accounts that enabled money laundering
+
+The committee also took aim at Binance’s use of a single “bus account” to receive money from customers to disguise the origin of funds and enable money laundering. This setup functioned akin to a mixer service in crypto where funds are deposited into a pool, mixed up and then withdrawn in a manner that obfuscates the funds’ prior history (ie Tornado Cash).
+
+The practice also allowed Binance to use the money deposited by User A to pay User B in violation of local laws, the commission report argues. In his testimony, Nazar insisted that Binance does not engage in this practice.
+
+This bus account structure was at the center of Binance’s conflicts with local payment processors, such as Capitual, Acesso and Meliuz. Brazil’s Central Bank requires payment institutions to create individual accounts for customers, but Binance apparently refused to comply with this rule, according to testimony given by representatives of these payment processors.
+
+A dispute over this is what led to the nasty breakup between Binance and Capitual in June 2022 that resulted in Binance being without a fiat onramp in the country for nearly a month.
+
+Illegal derivatives offerings
+
+The commission also took note of an ongoing CVM action against Binance that accuses the exchange of offering derivative products to Brazilian customers in defiance of a stop order.
+
+The report called this activity “a repeated violation of the securities market rules” and urged the CVM to continue its probe.
+
+Binance recently offered to pay R$2 million to settle the action, but that offer was rejected by the CVM.
+
+Withholding information from the CPI
+
+Binance refused to provide the committee with requested information.
+
+During Nazar’s testimony, he was questioned about data from an analysis, commissioned by Capitual, showing that 95 percent of the exchange’s largest Brazilian customers are likely engaged in money laundering. Nazar appeared to be taken off guard by the question as it was new information to him, and he promised to provide the committee with information on those particular accounts if it submitted a proper request.
+
+The committee submitted the request, but Binance responded by saying that Nazar had not understood the question properly and that the information requested was too broad and could not be provided.
+
+The committee also requested a copy of Binance’s contract with Latam Gateway, its current payment processor in the country, but this was also withheld. “Due to the shortness of the deadline, it was not possible to meet the request made”, Binance responded.
+
+The CPI’s final report comments:
+
+“As it turns out, Binance deliberately chose to withhold information from the Commission. This stance only reinforces the many suspicions surrounding the exchange’s actions.”
+Binance pushes back
+
+Binance continues to insist that it makes every attempt to comply with applicable laws and rules in the country. However, because it is an international brokerage that offers services to Brazilian residents but has no official activities or representation in Brazil, it operates in a regulatory grey area (as do other overseas exchanges operating in Brazil) that differs from what locally domiciled exchanges must comply with.
+
+This has given Binance an unfair competitive advantage, the local exchanges argue, that has resulted in Binance hoovering up massive amounts of local trading volume. The figure currently sits around 50 percent, but was as high as 60-70 percent earlier in the year following the FTX collapse.
+
+These regulatory discrepancies will be addressed when the Brazilian Central Bank rolls out its official VASP regulatory framework in the first half of next year and begins issuing licenses, but that’s still a long way off.
+
+Further, Binance argues that it has cooperated with the CPI committee to the fullest extent possible, but that the committee’s findings are full of “baseless accusations” against Binance users and employees. It said in a statement:
+
+“Binance has remained committed and collaborative with the commission seeking constructive debate on the industry’s challenges in the interest of users and benefit of society overall. We strongly reject…any attempts to make Binance a target or even expose its users and employees with allegations of bad practices without any proof, amid competitive disputes given the company’s leadership position in Brazil and in the world.”
+
+During his testimony before the committee, Nazar claimed that Binance was a “reputational victim” of the fraudulent schemes it was associated with.
+
+Nazar also repeatedly insisted that Binance’s intentions in Brazil are to complete the acquisition of the Sim;Paul fintech brokerage, a process which it first initiated in July 2022, and to become a fully regulated VASP in Brazil once the framework is unveiled.
+
+Putting it all together
+
+So what are we to take away from all of this?
+
+In my view, it is hard to shake the feeling that the CPI committee was largely a political hit job against Binance, pushed by competitors and sympathetic politicians looking for an opportunity to grandstand.
+
+The committee’s strategy, it appears, was to bring in a bunch of these pyramid scheme guys, highlight all the bad things that they did, and then try to tie it all back to Binance as the facilitator. I also found it revealing that the CPI would not allow Nazar to testify remotely, even though they made such exceptions for other summoned witnesses like the “Pharaoh of Bitcoins”. They clearly wanted Nazar in the physical hot seat.
+
+To be fair, the committee’s scope was indeed much broader than just Binance, and it even went after schemes like 123Milhas that had nothing to do with Binance (or even crypto for that matter). However, it seems quite apparent that one of the committee’s core objectives from the outset was to give Binance a black eye.
+
+Irrespective of the committee’s motivations, Binance is clearly in big trouble in Brazil. Even if prosecutors opt to not bring indictments against the four executives, the evidence surfaced by the committee is pretty damning and will almost certainly be used against Binance should it apply for a VASP license next year when the Central Bank opens up the application window.
+
+There is also a compounding effect here as Binance continues to face regulatory headwinds in the US around the world. I don’t have time to go into all of that here, but it’s been well-documented elsewhere and these pressures have prompted a mass exodus of many of the exchange’s executives over the last few months.
+
+Still, Binance has a lot of money, a savvy operating team and a top white shoe law firm in Brazil (Pinheiro Neto) defending them. Plus, CZ always has a Houdini-esque way of slithering out of these types of situations even when it looks like the walls are closing in. Can the master escape artist pull off an encore act? We shall see.
+
+What about Henrique Meirelles?
+
+There is one big outstanding question here: where is Henrique Meirelles? The former Central Bank governor and prominent financial services executive made a big splash when he joined Binance’s global advisory board in September of last year.
+
+Aside from taking some press interviews at an event in São Paulo in June, he has been largely silent on behalf of the global exchange.
+
+I’ve heard rumblings that his “advisory” relationship has consisted of little more than him having a dinner once with CZ and getting paid a bunch of money. If Binance intends to call in some favors with Meirelles and get value out of this relationship, now is the time to do so.
+
+

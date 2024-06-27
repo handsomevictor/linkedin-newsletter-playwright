@@ -1,0 +1,110 @@
+🇧🇷BCR #85: Ethereum Rio recap; Binance's Nazar speaks out
+Plus: CVM reopens investigation into Binance's derivatives offerings
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of March 27-31, 2023! I just got back from a busy week at ETH Rio - it’s always great seeing old friends and meeting new ones at events like this.
+
+Once the festivities had finished I snuck out to do some tourist essentials - a tour of the lagoons in Barra da Tijuca, Copacabana bike tour, a trip up the Corcovado mountain to see the Christ the Redeemer statue. Highly recommended!
+
+As always, thanks everyone for reading and I hope you have a great week!
+
+-AWS
+
+(Friendly reminder that this newsletter is an abridged version of this week's full 🇧🇷Brazil Crypto Report. If you enjoy this content, please consider subscribing to the Substack version for more news, commentary and interviews exploring the Brazil crypto ecosystem)
+
+Ethereum Rio 2023 highlights Brazil’s Web3 momentum
+
+ETH Rio 2023 did not have the same sizzle as the 2022 version, when CZ and his entourage showed up along with Rio mayor Eduardo Paes at the Museu da Amanha.
+
+This year’s scaled back event took place with the price of ETH down 43% from last year, and CZ had more important things to deal with this time around (more on that later).
+
+Located at the smaller but pleasant Museu de Arte across the street from last year’s venue, the event was laser-focused on builders and supporting the local community with a more inclusive vibe. Much more emphasis on technical talks and workshops, more Portuguese language content, more speakers from the local community and fewer ringers from abroad, etc.
+
+In all, it was less craziness than last year but a tremendously important milestone for the Brazil Web3 ecosystem to continue building momentum in the midst of an extremely challenging bear market. The event was followed up by the ETHSamba conference and hackathon to create a full week’s worth of Web3 programming around town.
+
+I had the honor of moderating a panel on blockchain gaming on the first day of ETH Rio with Helo Passos 🎮🌎, Rai Auad and Antônio Fonseca (thanks to Fernando Martines from Portal do Bitcoin for the write up!)
+
+CVM reopens lawsuit against Binance
+
+The Brazilian securities regulator reopened a case against B Fintech, a company that has partnered with Binance in Brazil, for allegedly illegally offering derivatives and acting as an intermediary for securities trading in the country since 2019.
+
+The agency told InfoMoney that the “emergence of new facts led to the reopening of the process.” While the CVM did not divulge specifically what those facts were, Binance’s rivals in the country consistently point out that Brazilian users are able to trade derivatives through the platform’s international website simply by changing the language from Brazilian Portuguese to Portuguese from Portugal.
+
+The CVM targeted Binance for the same reason in 2020, ultimately issuing a stop order, but the case was suspended after the exchange agreed to cease offering the products in question.
+
+The case was re-opened in December of last year after these new facts emerged.
+
+Binance denied wrongdoing in a statement:
+
+“Binance reiterates that it does not offer derivatives in Brazil, that it operates in compliance with the local regulatory scenario and maintains a permanent dialogue with the authorities for the development of the crypto and blockchain segment in Brazil and in the world.”
+
+Isac Costa, a partner at Warde Advogados and professor at @Insper and Ibmec, told Valor that even with an incoming regulatory regime for crypto any derivatives trading in Brazil must occur on an authorized and regulated platform, which is the B3 exchange in Brazil.
+
+“The mere hiring of a legal representative in the country or the purchase of a brokerage firm (in the case of Binance involving Sim;paul) would not be sufficient for the derivatives offer to be regulated, since the environment in which they are traded would also need authorization from the CVM as an organized market.”
+Bigger Picture
+
+The CVM’s action came the same week that US authorities charged Binance and founder Changpeng Zhao with illegally operating a digital asset derivatives exchange. Specifically, the Commodity Futures Trading Commission alleged that Binance deliberately aided American customers in circumventing US compliance requirements, such as by encouraging the use of VPNs to bypass geolocation restrictions.
+
+Given the regulatory actions we’ve seen coming from the US in recent months, it’s difficult to argue that there was not at least some coordination going on here between US and Brazil financial regulators.
+
+Regulators globally appear to be launching a coordinated, full-throttled offensive against Binance and CZ. With Binance consolidating market share around the world after the FTX collapse, its seaworthiness is a critical variable that will determine the fate of this industry over the next 12-18 months.
+
+Binance’s Nazar speaks
+
+It’s worth checking out @Binance Brazil country manager Guilherme Nazar’s recent interview with BlockNews’s Claudia Mancini here. He notes that Brazil is already one of the five largest markets for Binance’s debit card product. Nazar also revealed that Binance will soon launch an NFT for the Brasileirão football tournament.
+
+Nazar also responded to claims that Binance was behind the asset segregation provision being removed from the crypto law that passed last December. He argued that Binance is not necessarily against asset segregation but that it is trying to address the question of how to do it properly.
+
+Nazar also gave an interview to Exame in which he brushed aside concerns that the Digital Real might crowd players like Binance out from the market, noting that CBDCs and cryptos can “coexist”.
+
+"The market is large, the usability is many, will be many, and will multiply more and more. I think it can live together."
+🗞Brazil Crypto News Rundown
+
+Pomelo, an Argentina-based fintech, received its payments institution license from the Central Bank. Pomelo was founded in April 2021 and provides digital identity verification services, digital accounts, payment processing, cards and cryptocurrency purchases. (Valor)
+The Brazilian government signed a commercial agreement with China that could allow for the Digital Yuan to be used in trade between the two countries. (CoinTelegraph Brasil)
+Honey Island Capital co-founder Gean Chu joined the the CoinTelegraph Brasil podcast to discuss his firm’s new Web3 fund.
+Mercado Bitcoin announced its MB Pass, an offering that will give holders exclusive access to special draws, airdrops and research. (Portal do Bitcoin)
+Mercado Bitcoin listed the GYEN, the world’s first regulated stablecoin pegged to the Japanese Yen. The coin is issued on the Stellar blockchain. (Crypto Times)
+Crypto asset manager Hashdex is ready to convert its US bitcoin futures ETF into a spot product once regulatory clarity has been established, Bruno Ramos de Sousa Ramos de Souza told Blockworks.
+Bitso became the first exchange in Latam to implement the zero knowledge proof Proven, which allows for the display of assets and liabilities without disclosing specific client account information. (BlockNews)
+Ventures brought together 80 investors at Angra dos Reis for the launch of its Tropical Web3 Fund, which expects to raise US$10 million in the coming months. (CoinTelegraph Brasil)
+Kodo Assets announced the tokenization of a commercial property on Faria Lima in São Paulo. (CoinTelegraph Brasil)
+SMU Investimentos announced that it had obtained approval from the Brazilian CVM to launch a secondary market for tokenized assets of crowdfunding startups. (CoinTelegraph Brasil) (Exame)
+
+📱Adoption
+
+A pilot version of the Rede Blockchain Brasil should be released later this year, BNDES head of blockchain initiatives Gladstone Arantes Jr, DSc announced. The network will be used by both the government and private sector projects of public interests. (Portal do Bitcoin)
+The state of Rio Grande do Sul partnered with Agrigooders, which has developed its own ethereum-based cryptocurrency to reward farmers for sustainable practicies. The agreement was signed at the South Summit Brazil. (Exame)
+Use of blockchain tech in grain trading in Brazil can increase profit up to 20%, according to experts presenting at the South Summit Brazil 2023. (CoinTelegraph Brasil)
+Fênix DTVM, the financial services company specializing in gold, carried out the first sale of a gold bar in Brazil fully traceable via blockchain technology through a partnership with Minespider. (CoinTelegraph Brasil) (Exame)
+Gino Matos of CoinTelegraph Brasil interviewed several Brazilian “degens” who got rekt during this latest market cycle.
+Brazilian developer @Renan Souza published EIP-684 together with Vitalik Buterin. The EIP would implement a measure that prevents an attacker from manipulating an existing contract to steal user funds.
+The Digital Real system will be adopted and accepted faster than the Pix instant payment system, argues Luiz Fernando Maluf, director of banking, financial services and insurance at dataRain Consulting.
+
+“There are strong indications that the adoption of Real Digital will occur at an even greater speed than that seen when Pix was implemented, and will result in new business models for financial institutions and consumers in various segments of the economy.” (CoinTelegraph Brasil)
+
+Retail investors in Brazil could be able to invest in tokenized government debt by the end of 2023, according to experts heard by CoinTelegraph Brasil.
+Bruno Batavia, a senior specialist at the Banco Central working on the Digital Real, re-articulated the project’s emphasis to serve as an interoperable bridge between Tradfi and DeFi at Ethereum Rio:
+
+"The Central Bank's vision is shared by most of the people who are here: the economy is heading, and with no return, towards a tokenized economy." (Portal do Bitcoin)
+
+The Central Bank will announce the winners of its Digital Real LIFT Lab competition on April 25th at an event in Brasilia. The nine projects in the current cohort include submissions from Aave, Mercado Bitcoin, Capitual, Bitget and Consensys. (CoinTelegraph Brasil)
+Technologies like ChatGPT multiply by ten the productivity of Solidity developers, argued Web3Dev founder Daniel Cukier during a debate at Ethereum Rio. (Portal do Bitcoin)
+Sinapse Social, a pro-cannabis group, has partnered with the Kanna DAO to promote marijuana legalization efforts in Brazil. (CoinTelegraph Brasil)
+Tokenization outfit BLOCKBR - Digital Assets Infrastructure announced that Maurício Magaldi Magaldi will be joining the project as an advisor.
+
+🎮 NFTs, Gaming and Metaverse
+
+Beverage company Campari Group launched a new collection of thematic brand NFTs called Effervescenza. 800 NFTs will be sold for a price of R$200 each.
+Vasco da Gama, the Rio football club, announced a partnership with TeroLabs to launch an official Vasco NFT collection. (Crypto Times)
+UNICEF and Upland will create a Web3 professional training environment in the metaverse for Brazilians. (BlockNews)
+Samsung is offering free courses on metaverse, programming and blockchain in Brazil. (Livecoins)
+
+🏛 Public Policy, Regulation and Enforcement
+
+Senator Marcos do Val of the Podemos party introduced legislation that would require crypto asset platforms to segregate customer assets, a controversial provision that was stripped out of the crypto law that was enacted last December. The bill also aims to establish a minimum prudential capital requirement for digital asset exchanges operating in Brazil. (Valor Investe)
+Can Brazilian investors deduct funds lost in cryptocurrency pyramid schemes on their tax returns? Valor explores the question, but TLDR is it’s complicated.
+Brazilian authorities have seized more than 7,000 cryptocurrencies since 2017, CoinTelegraph Brasil reports.
+Binance was the subject of more complaints in Brazil than any other crypto exchange in 2022, according to the Procon-SP ranking, with 15 substantiated complaints and only one of them being answered. (Portal do Bitcoin)
+A judge in Campina Grande ordered the blocking of Braiscompany accounts to ensure that an impacted worker can receive severance pay and unemployment benefits. (Portal do Bitcoin)

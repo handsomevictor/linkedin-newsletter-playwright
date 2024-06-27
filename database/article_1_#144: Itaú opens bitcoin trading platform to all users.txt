@@ -22,7 +22,7 @@ Thanks for reading and have a great week!
 
 New podcasts!
 
-This week I’m joined by Edward Woodford , who is the CEO of crypto infrastructure giant Zero Hash . We discuss Zero Hash’s origins as an institutional infrastructure play back in 2018-19, and how it now operates crypto custody, trading and liquidity services for blue chip names like Stripe, Interactive Brokers and Securitize (in which Blackrock is an investor.
+This week I’m joined by Edward Woodford, who is the CEO of crypto infrastructure giant Zero Hash. We discuss Zero Hash’s origins as an institutional infrastructure play back in 2018-19, and how it now operates crypto custody, trading and liquidity services for blue chip names like Stripe, Interactive Brokers and Securitize (in which Blackrock is an investor.
 
 We also have a panel from Web Summit Rio with Leandro Pereira (Sciammarella) and Rafael Castaneda discussing the Central Bank’s Drex pilot. The pilot has since hit an impasse due to the issues we discuss in this conversation, but there is a wealth of information in here that is well worth your time if you’re tracking this project.
 
@@ -34,7 +34,7 @@ Latin America’s largest bank began rolling out ion, its crypto investment plat
 
 Now, bitcoin and ether trading is available for all customers who download the platform. Ion users do not need to be customers of the bank to utilize the platform.
 
-José Augusto de Azevedo Antunes F. (Guto Antunes) , head of Itaú Digital Assets, told Valor that the bank carried out weekly surveys with initial users of the ion platform and received positive feedback, hence the decision to open the platform to all users.
+José Augusto de Azevedo Antunes F. (Guto Antunes), head of Itaú Digital Assets, told Valor that the bank carried out weekly surveys with initial users of the ion platform and received positive feedback, hence the decision to open the platform to all users.
 
 Antunes explained that a notable takeaway from the surveys was users’ trust in Itaú’s custody service — which it developed internally without a third-party service provider:
 
@@ -75,7 +75,7 @@ Valor Valor Valor Portal do Bitcoin CriptoFacil CoinTelegraph Brasil
 Photo Credit: Valor
 Solana committed to Brazil, says Austin Federa
 
-Solana Foundation 's head of strategy Austin Federa spoke to InfoMoney about the recent growth of the Solana ecosystem and its commitment to supporting builders in the Brazilian market:
+Solana Foundation's head of strategy Austin Federa spoke to InfoMoney about the recent growth of the Solana ecosystem and its commitment to supporting builders in the Brazilian market:
 
 “We have money, and we can support developers and communities that are being built in Brazil. They know what the market needs. Technology is culturally agnostic, but the application of that technology is almost always culturally dependent. Therefore, the idea is to work with people who are really from the region”
 
@@ -85,7 +85,7 @@ OKX looks to take on Binance’s dominance in Brazil
 
 Binance has for years been the dominant exchange servicing the Brazilian market. However, OKX — a leading competitor to Binance globally — is making a push to capture market share in Brazil after formally launching in November 2023.
 
-Guilherme Sacamone , OKX’s Brazil country manager, says that the exchange has adopted a “highly aggressive” fee schedule in order to attract new users and traders who have used Binance in the past:
+Guilherme Sacamone, OKX’s Brazil country manager, says that the exchange has adopted a “highly aggressive” fee schedule in order to attract new users and traders who have used Binance in the past:
 
 “We have more aggressive fees or even zero fees for those who trade cryptocurrencies at very high frequencies and volumes and end up serving as market makers for us.”
 
@@ -117,12 +117,12 @@ Brazilian DeFi protocol Picnic has integrated 8 blockchains and now offers the p
 “Since we started developing the product, we thought about adding more networks. So, much of the code and systems already had this in mind. But still, it was necessary to make some adjustments to resolve technical issues that we did not initially foresee." (CoinTelegraph Brasil)
 
 Asset tokenizer AmFi is finalizing an agreement with Mercado Bitcoin to distribute its tokens. AmFi uses traditional asset tokens like card receivables and invoices as collateral, and has issued more than R$150 million in tokenized fixed income products. (BlockNews)
-Eric Altafim , director of ANBIMA (Brazil’s capital markets trade group), said that blockchain and asset tokenization will have a transformative impact on Brazilian financial markets. He said, during a Sustainability Week 2024 event in Manaus:
+Eric Altafim, director of ANBIMA (Brazil’s capital markets trade group), said that blockchain and asset tokenization will have a transformative impact on Brazilian financial markets. He said, during a Sustainability Week 2024 event in Manaus:
 
 “Carrying out digital transformation is not about digitizing the process; Leadership needs to be aware of what technologies are capable of offering to match their business and make a true transformation. When I look at the capital market, blockchain will allow for stronger disintermediation, lowering the costs of the process.” (CoinTelegraph Brasil)
 
 Ripio announced a partnership with Dex aggregator 1inch to offer asset swap services to Ripio Portal users in Brazil and elsewhere. (CoinTelegraph Brasil)
-The generational wealth transfer from Baby Boomers to Gen X and millennials will transform the role and importance of cryptocurrencies in the global economy, K33 analyst Vetle Andreas Gusgaard Lunde argued during a webinar promoted by Hashdex . (CoinTelegraph Brasil)
+The generational wealth transfer from Baby Boomers to Gen X and millennials will transform the role and importance of cryptocurrencies in the global economy, K33 analyst Vetle Andreas Gusgaard Lunde argued during a webinar promoted by Hashdex. (CoinTelegraph Brasil)
 brx finance is partnering with a startup called Jobis to create a platform allowing self-employed workers to advance their earnings through blockchain-based credit. (Startups)
 
 📲 Adoption

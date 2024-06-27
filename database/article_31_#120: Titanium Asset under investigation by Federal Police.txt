@@ -1,0 +1,125 @@
+#120: Titanium Asset under investigation by Federal Police
+Plus: OKX launches in Brazil; Senate approves 15% overseas crypto tax 
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of November 27-December 1, 2023.
+
+I hope everyone had a great weekend. If you haven’t yet done so, please take a minute to fill out this brief reader survey. We’re going to be scaling out BCR in 2024 and would greatly value feedback about what we’re doing well and where we could be improving.
+
+Also, as of today we are migrating to a freemium/premium model. There are two primary reasons for this: 
+
+we’ll need additional resources in 2024 as we continue to expand
+it’s impossible to determine the true reach of a platform like this without paid subscribers. Because we are building a microplatform for an audience of professional stakeholders from Brazil and abroad, traditional metrics like clicks and opens don’t provide a full picture of the value that we’re creating.
+
+Free subscribers will continue to receive email notifications about new podcasts and portions of the Brazil and Latam newsletters. Paid members will receive full access to content and some other goodies that we’ll be rolling out in 2024.
+
+If you find our work valuable, I ask you to consider supporting BCR for $150 a year. If that ask is too steep or you’re having difficulty expensing that amount to your employer, etc, shoot me a note and we’ll figure something out. 
+
+👉 You can become a full subscriber on Substack 
+
+👊 Please know that the ultimate goal of this platform has not changed: to be a public good that helps drive adoption and awareness of the digital asset ecosystem in Brazil and Latam. 
+
+
+
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin. Also, please do give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram if you don’t already. It helps out a ton!
+
+📢 Before we dive in, I wanted to flag the first-ever XRP Ledger hackathon in Brazil, which is taking place December 13-17. The XRP Ledger is emerging as an alternative layer on which to build the tokenized Brazilian economy. US$10k in prizes are up for grabs, so definitely worth a look if you’ve got an idea for a financial application and looking for a place to start. 
+
+🎙New podcast
+
+For this week’s episode I am joined by Alexandre Vasarhelyi, CFA, CGA, chief investment officer at B2V Crypto. We discuss the new CVM Resolution 175, which came into effect in October and permits Brazilian investment funds to allocate up to 10% of their AUM in crypto assets. This dramatically reduces the barriers to entry for hedge funds and other large players to enter the market, and comes at an exciting time ETFs in the US on the verge of being approved. 
+
+CVM Resolution 175 is a potential game changer for the Brazil crypto market, so it’s definitely worth your time to listen and understand what’s happening here. 
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Federal Police investigate Titanium Asset 
+
+Titanium Asset is the subject of a Federal Police investigation probing the whether the R$1 billion (US$200 million) crypto fund manager is operating as a pyramid scheme. 
+
+Police obtained a court order to temporarily remove the managers and mandate the closure of three of Titanium’s five crypto funds. The impacted funds are Structure, Cripto Access and Galaxy, which respectively hold R$73 million, R$5.8 million and R$3 million in assets. The funds had all transactions blocked, inclusive of redemptions and liquidations of shares. 
+
+28 search and seizure warrants were carried out in Balneário Camboriú, Palhoça, Porto Alegre, Curitiba and São Paulo against 72 individuals and companies. Operation Ouranós, as it is called, also ordered the blocking of R$400 million (US$80 million) worth of assets, including 473 properties, 10 boats, 40 luxury vehicles and 111 bank accounts. 
+
+Police said that the scheme raised R$1 billion from 7,000 investors in 17 states through the public offering of investment contracts, which supplied fixed and variable remunerations generated through cryptocurrency arbitrage strategies. 
+
+“Based on this billion-dollar fundraising, the resources were transferred to various accounts held by various companies, through asset shielding, with the aim of emptying the assets of the clandestine financial institution. The tracking of illicit resources showed that those investigated were carrying out 'money centrifugation', a system in which various levels are used in passing accounts, with bank transfers being divided".
+
+Titanium confirmed the actions to Valor but argued that the blockages were the result of a “mistaken court order” and that the entities targeted by the PF are part of a different economic entity:
+
+“Titanium Asset clarifies that the company is not involved and does not yet have detailed information on the investigative procedure…The company is most interested in clarifying all points and will spare no effort to collaborate with the authorities in whatever is necessary.”
+
+The asset manager has hired the firm @Siqueira Castro as legal defense. 
+
+Vórtx, which acts as the fund administrator for Titanium’s funds confirmed the blockages:
+
+“Vórtx informs that it is in contact with the then fund manager in search of further information that may have led to the receipt of the aforementioned court order.”
+King of Bitcoin connection?
+
+InfoMoney reports that Titanium Asset partners Claudio Miguel Miksza Filho and Guilherme Bernert Miksza previously did business with the “King of Bitcoin” Claudio Oliveira, who was convicted of embezzlement and crimes against the financial system in 2022 for his role in the R$1.5 billion Grupo Banco Bitcoin pyramid scheme.
+
+The partners reportedly tried to launch a cryptocurrency together with Oliveira called LeaxCoin in 2019, according to a statement provided to Federal Police by a former employee.
+
+Marcos Antonio Carmo, Titanium’s legal director, said that the partners did not create LeaxCoin and were also victims of the Banco Bitcoin pyramid.
+
+InfoMoney Valor Investe Portal do Bitcoin CoinTelegraph Brasil BlockNews
+
+OKX officially launches in Brazil
+
+OKX, the second-largest crypto exchange in the world, formally launched its Brazil operation on November 27. The exchange had previously served the country using the international brokerage model, but now has local management and support team of 15 people, a Pix integration and a local banking partner in BTG Pactual.
+
+The product suite includes a brokerage that spot trading, conversion and fiat to crypto rails, a non-custodial digital wallet that incorporates multi-party computation and account abstraction, a staking service, and integrations with DeFi products and decentralized exchanges. OKX also promises to promise Proof of Reserves attestations routinely. 
+
+The operation is being led by Guilherme Sacamone, who previously worked at Crypto.com, Meta and PicPay, and will aim to provide the same level of customer service and compliance standards as local exchanges, but with the products, pricing and liquidity that only a large international exchange can offer. In that sense, OKX will aim to offer the best of both worlds. Sacamone explained to Portal do Bitcoin:
+
+“Global companies present a one size fits all service. Local exchanges offer a very intuitive service, because at the end of the day they are Brazilians building for Brazilians. But the product portfolio is more limited. We want to position ourselves exactly at the intersection of these two worlds: to have the autonomy in Brazil to build a product for places with global crypto excellence,”
+
+The Seychelles-based company has an official local entity (CNPJ) and plans to establish a strong physical presence in the country, so as to be adequately close to regulators and focused on compliance.
+
+The decision to expand into Brazil was a relatively straightforward one for the company due to the size of the market and the incoming regulatory framework. Sacamone elaborated: 
+
+“This regulatory framework and the clarifications that are already coming today were very positive and made things much easier. We already have some operational clarity, which product we can have, which product we cannot have. It was very positive and easy to sell internally and globally for the company, to prioritize Brazil.” 
+Controversial tax reform passes the Senate
+
+The Senate approved a broad tax reform bill seeking to collect tax revenue from Brazilian citizens with income and investments held in overseas entities. The government expects to raise R$3.2 billion through the reform.
+
+The law imposes a 15 percent capital gains tax on these assets, including cryptocurrencies. It should be noted that this tax is not actually new; what’s new with the legislation is that it does away with the previous exemption of up to R$35,000 worth of operations per month and modifies the tax bracket structure. Arthur Barreto, a lawyer at Donelli, Abreu Sodré e Nicolai Advogados - DSA, told Valor:
+
+“What the project changes is the tax collection period and the currently applicable tax bands.”
+
+Previously, taxation of overseas assets was treated the same as capital gains realized inside the country: a tax rate of zero on income of less than R$6,000 per month, and 15% for gains between R$6,000 and R$50,000.
+
+The package was previously approved by the Chamber of Deputies and now advances to the president for signature. 
+
+Portal do Bitcoin CoinTelegraph Brasil
+
+Brazil’s Bitcoin ETFs Approach US$100m in AUM
+
+CoinDesk had a good article about Brazil’s bitcoin ETFs, which are now approaching US$100 million in assets under management. 
+
+The piece featured an interview with Hashdex CEO Marcelo Sampaio, who argued that the success of these ETFs should be scene as a positive indicator for the market more broadly. 
+
+“There is a growing positive sentiment across the most sophisticated investors and we’ve been seeing increasing interest from some of the largest institutions whether that be either allocating or considering adding crypto soon to their portfolios.”
+
+Gui Silva, CFA, a managing partner at Tagus Capital, argued that the number of crypto asset investors in Brazil will only continue to grow. 
+
+“There are about 4 million investors with accounts at the B3 stock exchange in Brazil and around 700,000 of these invest in ETFs…About one-third of those investors allocated funds to crypto ETFs last year."
+
+Beyond just bitcoin, Hashdex revealed that its entire portfolio of spot crypto ETF in Brazil hold roughly R$1.8 billion (US$365 million) in total AUM. The largest of these is HASH11, which consists of a basket of assets and holds R$1.4 billion total.
+
+Elsewhere on the ETF front, Valor Investe had a good article talking about the impact that a spot bitcoin ETF product in the US will have on crypto markets broadly. Hashdex CIO Samir Kerbage argued that the availability of spot bitcoin ETFs will dramatically simplify and expand access to the asset:
+
+“The absence of an investment vehicle that fully met regulatory requirements and was compatible with the sophisticated management systems of these investors, placed bitcoin - and, by extension, the crypto market - in an allocation limbo.”
+
+Paulo Boghosian of TC Pandhora Investimentos explained that ETF products will open up an estimated US$48 trillion worth of assets under management at banks, investment advisors and brokers in the US:
+
+“Achieving a 0.1% penetration in this market would already mean a substantial flow for an asset that currently has a low market capitalization in relation to other asset classes, and which has a limited supply.”
+
+For those keeping track, bitcoin ETF pundits on Twitter are expecting approval to come in either the first or second week of the new year. 
+
+
+
+
+

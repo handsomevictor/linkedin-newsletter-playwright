@@ -1,0 +1,83 @@
+🇧🇷BCR #55: What Winter? Mercado Coin Kicks Latam Adoption into Overdrive
+BTG, XP unveil crypto platforms; Ripple inks partnership with Travelex Bank
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Fala pessoal!
+
+Greetings and welcome to 🇧🇷Brazil Crypto Report for the week of August 15-19, 2022. Apologies for some of the hiccups involved with getting this out. Linkedin's newsletter platform is complete trash so I highly recommend subscribing to my Substack for more reliable content. 
+
+Quick FYI that I’ll be attending Blockchain Rio September 1-4 and Ethereum São Paul Sept 9-11 representing Filecoin Foundation. If you'l be around and looking to chat storage please feel free to ping me at aaron@brazilcrypto.report or @AaronStanley on Telegram.
+
+As always, I appreciate you reading and hope you enjoy this week’s edition.
+
+-AWS
+
+🤯 Mercado Libre Rolls Out Mercado Coin in Brazil
+
+Mercado Libre (Mercado Livre in Portuguese), the largest e-commerce firm in Latam, is launching its own cryptocurrency. Mercado Coin will serve as a loyalty token that can be earned as cashback on purchases. Users will be able to use the coin to make additional purchases on the platform or exchange it into BR. The marketplace will add a “crypto logo” next to select products in the marketplace indicating that users will earn Mercado Coin rewards when purchasing those items.
+
+The token will initially be available to 500,000 users with plans to expand to Mercado Libre’s 80 million Brazilian users by the end of August. The intent is to expand into other countries in the region “soon”.
+
+Mercado Coin will be tradable on Mercado Pago at an initial price of 10 cents. Crypto exchange Ripio developed the technology behind the coin and will provide custody and trading services for the token on Mercado Pago. At present, no other exchanges will be listing the coin.
+
+The coin itself is a standard ERC-20 Ethereum-based token, though users will not be able to transfer out to external wallets during the first stage of the rollout.
+
+Mercado Libre Chief Technology Officer Daniel Rabinovich said in a statement.
+
+"The blockchain technology supporting Mercado Coin allowed us to deliver a secure and open solution. We continue to follow the evolution of crypto and blockchain as we see significant potential in these technologies to simplify operations and empower our customers financially." 
+
+A Pymnts.com analysis notes that Mercado Coin appears to be more of a private digital currency rather than a cryptocurrency, noting similarities to Facebook Coin (which lasted from 2011-2013), JPM Coin or even Amazon rewards.
+
+Not to be outdone, Nubank is also reported to be developing its own cryptocurrency which would supposedly go live in 2023, according to a report from Estado de Sao Paulo.
+
+🏇 Retail race gets crowded as rivals XP and BTG Pactual hard launch crypto platforms
+
+BTG Pactual, Latam’s largest investment bank, hard launched its Mynt platform this week. A crypto exchange for retail investors with a R$100 minimum investment, it offers Bitcoin, ether, Solana, Polkadot and Cardano for trading, with plans to list a BRL-paired stablecoin in the works.
+
+Initial plans for the product were first unveiled last September and it was available to a select group beginning in early May before officially launching to the public on August 15. Mynt offers 24/7 live support for customers with questions and is available via smartphone app and desktop. The product carries an average trading fee of 0.5% and will also provide financial education and analysis content. Mynt will custody the assets.
+
+BTG Pactual's Head of Digital Assets André Portilho commented:
+
+"Crypto is a new technology with great potential for transformation, which brings risks and opportunities…We are promoting direct access to investments in the main cryptocurrencies on the market, in a simple and secure way, in a very intuitive and complete platform, with content and financial education.”
+
+Meanwhile, XP executives rung the opening bell of the Nasdaq stock exchange in New York to commemorate the launch of its Xtage crypto product - which will make bitcoin and ether purchases available to customers. CEO Marcos Horie commented that the product came in response to “tons of requests” from customers looking to invest in crypto through XP’s platform.
+
+XP’s Lucas Rabechini told Portal do Bitcoin that the platform aims to be “the best tool in terms of experience, scalability, latency and technology” on the market. Xtage uses Nasdaq’s underlying technology base which is fully integrated into the XP application.
+
+The platform offers bitcoin and ether trading currently, with plans to have around 10 currencies available and 200,000 active crypto customers by the end of the year. It will charge a 0.60% transaction fee.
+
+The product will also feature an integration with MetaTrader which will allow the use of proprietary trading algorithms and bots
+
+💡 Does the entry of BTG, XP and other “TradFi” institutions into the market spell trouble for crypto exchanges in Brazil? InfoMoney’s Paulo Alves examines.
+
+🍻Ripple launches “on-demand liquidity” service in Brazil
+
+Ripple is bringing its on-demand liquidity offering (ODL) to Latin America for the first time via a partnership with Brazil’s Travelex Bank. ODL uses the XRP cryptocurrency to facilitate the transfer and exchange of fiat currencies between countries without the need to maintain pre-financed capital.
+
+Travelex will initially use the ODL service for payments between Mexico and Brazil, though plans are in the works to extend the service to the US and Asia. Ripple has operated an office in Sao Paulo since 2019.
+
+Ripple CEO Brad Garlinghouse highlighted the importance of Brazil, which sees US$780bn per year in inflows annually.
+
+“Brazil is a key market for Ripple given its importance as an anchor to business in Latin America, its openness to crypto and country-wide initiatives that promote fintech innovation,”
+
+Garlinghouse also praised Banco Central president Roberto Campos Neto’s forward stance on regulatory questions and Brazil’s posture toward financial innovation
+
+“Recently, the president of the Brazilian BC commented that regulation has to support innovation. I think it's a positive sign of Brazil's position on financial technologies…Brazil is a very friendly market for technology. Customers here expect instant transactions because of the PIX. What we see is that this drives up global demand. If you transfer money instantly here, you'll want to do the same when sending out of the country.”
+
+Travelex Group COO João Manuel Campanelli noted that through the partnership, Travelex will have access to liquidity 24 hours a day, seven days a week:
+
+“The payments market is changing very quickly, in Brazil and abroad, and having a system like Ripple's guarantees us a faster settlement process”
+🎙Be sure to check out the latest episodes of the 🇧🇷Brazil Crypto Report podcast.
+
+This week I spoke with Guilherme Rebane who is head of Brazil and Latam at OSL - one of the largest liquidity providers and digital asset platforms for institutions.
+
+I also chatted with Conor Brady who runs Ethereum Brasil about his upcoming Ethereum São Paulo event.
+
+Also please don’t miss my conversation with Isac Costa, who is a former CVM regulator and a professor at Insper and IBMEC. We chatted for 90 minutes about every aspect of the crypto regulation bill that is being considered by the Brazilian Congress. If you looking to get smart fast on the Brazil crypto regulatory situation, make sure you carve out time to listen to this.
+
+👩 💻Job Spotlight
+
+This week’s featured job opening is for a P2P Merchant Business Development Manager for Latam at OKX.
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report to catch the full version of this newsletter and additional content!

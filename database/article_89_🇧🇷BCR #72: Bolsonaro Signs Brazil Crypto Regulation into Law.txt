@@ -1,0 +1,105 @@
+🇧🇷BCR #72: Bolsonaro Signs Brazil Crypto Regulation into Law
+Plus: Binance hires new Brazil operations chief; CVM relaxes rules on Brazilian crypto funds
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal!
+
+Merry Christmas, Happy Holidays and welcome to 🇧🇷Brazil Crypto Report for the week of December 19-23, 2022.
+
+This was a historic week for the Brazilian crypto world as legislation, seven years in the works, was signed into law by President Jair Bolsonaro on Wednesday, December 21.
+
+Have a great week everyone and thanks for reading!
+
+-AWS
+
+Crypto Regulation is Now Law of the Land in Brazil
+
+Readers of 🇧🇷Brazil Crypto Report will know that the battle for legislation to create a regulatory framework for cryptocurrency businesses in Brazil was the predominant storyline for 2022. So the formal sanctioning of the final bill into law on December 21 was an extremely important ending to the year.
+
+Beyond that, it’s one that’s been in the works for the last seven years as persistent lawmakers like Aureo Ribeiro and industry stakeholders have relentlessly pushed for clarity around the matter. The long journey of the bill veered from being a total ban on cryptocurrencies to a fight between well-funded crypto exchanges over provisions such as registration and asset segregation.
+
+It was a sweet ending for those that worked hard to get this legislation enacted. The law creates a legal definition for crypto assets - enshrining them as the digital representation of an asset that can be traded, transferred and used for payments or investments. It also makes embezzlement and other financial crimes involving cryptocurrencies a unique crime and establishes a licensing regime for crypto companies and trading outfits. Cryptos that meet the definition of a security will be regulated by the CVM - Brazil’s securities regulator, while the Central Bank will likely be appointed to regulate the market more broadly.
+
+Crypto brokers in Brazil will now have 180 days to bring themselves into compliance with the new law.
+
+Eduardo Neger, president of Abranet - Brazil’s internet association, reacted:
+
+“The Cryptocurrency Law is a milestone for the Brazilian financial sector and places Brazil in a select group of countries that have specific legislation to regulate cryptocurrencies. With the entry into force of the law, we expect the regulator to act actively in the preparation of more detailed guidelines on the subject.”
+
+Crypto exchanges including Binance - one of the main lobbying forces involved in the battle over the last year, expressed support for the bill’s passage. It said in a statement:
+
+“Binance believes that regulation is the only way for the crypto and blockchain industry to develop and reach the general public, for society to enjoy the benefits that this technology offers. A regulated environment can support innovation and is critical to establishing industry confidence and long-term growth.”
+
+Those efforts have paid off, and with the law’s passage Brazil can legitimately claim to be a world leader in the area of cryptocurrency regulation. Rodrigo Caldas de Carvalho Borges of Carvalho Borges Araújo Advogados told InfoMoney:
+
+“Brazil is in a prominent position vis-à-vis the major economies of the world in relation to the regulation of the sector….With specific rules and the recognition of this industry, the expectation is that the country can attract new investors and entrepreneurs in the sector”
+
+Karen Duque, head of public policy at Bitso Brasil, commented:
+
+“We celebrate the publication of Law 14,478 that regulates companies providing virtual asset services, in order to increase the protection of users, companies and crypto investors in the country”, she told InfoMoney.
+
+Emilia Malgueiro Campos, partner at MCZ Advocacia, emphasized that the law is not nearly as good as it could have been and now neglected several critical components such as asset segregation. She told CoinTelegraph Brasil:
+
+"What we have left now is to hope for the Central Bank to "correct" these oversights in the regulation process, using the guidelines of international organizations, which are much more advanced on the subject than Brazil. But this must be done in conjunction with the market, or it will be doomed to failure."
+
+CoinTelegraph Brasil gathered some further reaction from 12 experts about the law’s implications.
+
+However, as we’ve emphasized here repeatedly, the devil is always in the details when it comes to public policy matters. This is even more so when it comes to a polemic topic like cryptocurrencies. In the United States, we’re learning the hard way that there will be always be lawmakers like Elizabeth Warren and bureaucrats like Gary Gensler eager to use regulation as a Trojan Horse to crush all of the aspects that make crypto interesting in the first place, if not to destroy the industry altogether.
+
+Proper public policy is all about finding this right balance of promoting innovation and economic development versus throttling crime and protecting consumers.
+
+🗝 Bottom line: if the Banco Central, which is expected to be the named as the regulator of the industry, and the CVM are able to create light touch frameworks that promote the technology without stifling the very aspects that make it interesting and valuable, then this legislation will have been a success. If they fail to do that and crypto in Brazil turns into a Frankenstein that gets hijacked by incumbent power structures, then it will have a failure.
+
+Binance Hires Nephew of Incoming Finance Minister to Lead Brazil Operations
+
+Binance announced on December 23 the hiring of Guilherme Haddad Nazar as general director for its Brazil operations, filling a post that had been vacant since July 2021 when Ricardo da Ros abruptly resigned after six months in the role.
+
+Nazar is the nephew of Fernando Haddad, who was formerly the mayor of São Paulo and will serve as finance minister in the new Lula administration.
+
+He said in a statement:
+
+“Brazil is one of the top ten markets for Binance, and building dedicated teams allows us to provide more and better personalized services for our local users. We will continue to invest and contribute to the development of the blockchain and crypto ecosystem in the country.”
+
+Previously, Nazar was a vice president of real estate technology company Loft and was Uber’s head of operations in Brazil until February 2020.
+
+😎 Trending Coins in Brazil
+
+The top coins this week include Baby Doge Coin, bitcoin and BNB, per crypto data site CoinGecko.
+
+Source: CoinGecko
+CVM Relaxes Rules on Brazilian Funds Investing in Crypto Assets
+
+The CVM, Brazil’s securities regulator, released new guidance on December 23 allowing Brazilian investment funds to invest in crypto assets. Crypto assets can be included in a fund “provided they are traded in entities authorized by the Central Bank of Brazil or the CVM, or, in the case of operations abroad, by a local supervisor”, the CVM stated.
+
+CVM head João Pedro Nascimento commented on his Linkedin profile:
+
+“The new rule for Investment Funds portrays the relevance of a solid and functional regulatory environment for this very important industry in the Brazilian capital market”
+
+Alexandre Ludolf of QR Asset explained to Valor that this will allow Brazilian funds to use domestically-based service providers, regulated by the CVM or Central Bank, to acquire crypto assets instead of having to go through overseas brokers. He said:
+
+“Now, the CVM brings clarity that there is the possibility of purchasing assets directly.”
+
+Specifically, the agency highlighted that it will closely monitor “unregistered offers of security tokens” as well as “digital influencers” and “governance in ESG/ASG actions in the securities market”.
+
+🏆World Cup Fan Token Watch 📈
+
+Congratulations to all the Argentina and Messi fans out there on the exciting victory! I was frankly surprised to see so many Brazilians pulling for Argentina in the championship; it was neat to see the South American solidarity at play.
+
+Unfortunately, the victory was a “sell the news” event as far as Argentina’s ARG fan token was concerned. The coin sold off immediately as the match was ending and continued to free fall. As of press time it is down XX% over the last seven days.
+
+Source: CoinMarketCap
+
+Nevertheless, the World Cup fan token experiment was a fun one to play around with. The jury is still out on whether this will become a mainstream hook to onboard more people into crypto but I reckon it has the potential to do so.
+
+If you’re a true fan token enthusiast like me you can track my World Cup portfolio on CoinMarketCap here. Exame also ran an end-of-year overview of how fan tokens issued by Brazilian clubs, including Flamengo, Corinthians, São Paulo FC, have fared over the last 12 months.
+
+🎙Catch the latest episodes of the 🇧🇷Brazil Crypto Report podcast
+
+1️⃣ Axel Blikstad, co-founder of BLP Crypto - Brazil’s oldest crypto fund manager, talked about his experience escaping the FTX collapse. (Spotify)
+
+2️⃣ Andre Franco, head of research at Mercado Bitcoin, joined to discuss the impacts of the FTX fallout on the Brazil crypto market. (Spotify)
+
+3️⃣ If you need a refresher on the crypto regulatory framework in Brazil and what PL 4401 /2201 means for the industry, I highly recommend having a listen to my episode with Isac Costa from August. (Spotify)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

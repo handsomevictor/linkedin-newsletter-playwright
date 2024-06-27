@@ -1,0 +1,88 @@
+Shots Fired in Mercado Bitcoin vs Binance Turf War in Brazil
+Bom dia amigos -
+
+The rivalry between foreign and domestic exchanges operating in the Brazilian market escalated to a new level last week when MB executive Fabricio Tota penned an op-ed in Estado de São Paulo, one of Brazil’s most important news outlets, calling into question the business practices of overseas exchanges like Binance that currently operating in Brazil without a local presence.
+
+Before I dive into the analysis, I think the TLDR here is that foreign operators have clearly benefited from the lack of legal clarity in Brazil, evidenced by Binance now accounting for nearly half of all bitcoin trading volume in March. However, Binance also has grounds to claim that they’ve complied with the “letter of the law” wherever required, considering that the current legal framework in Brazil for crypto exchanges isn’t nearly as robust as those found in other countries (though that appears set to change soon).
+
+Follow and subscribe to Brazil Crypto Report on Substack for more content on the Brazil crypto market
+
+With that context, it’s understandable that brokers like Mercado Bitcoin who are trying to comply with “spirit of the law” as well as the letter would be salty. Compliance costs, especially in a country like Brazil, are a major expense item and a huge disadvantage if your primary competitor is circumventing them.
+
+I don’t know that either side here necessarily has a winning argument that trumps the other. Rather, we’re seeing a clash of the titans in a battle for marketshare that is now spilling over into the public square. With CZ’s Brazil roadshow in March only serving to reinforce Binance’s pole position in the Brazil exchange race (in terms of trading volume), MB had to come out swinging.
+
+Let’s dive into what the Mercado Bitcoin op-ed asserts:
+
+Referring to these exchanges as “pseudobrokers” and “privateers”, MB’s Tota alleged that these offshore exchanges play fast and loose with local laws and regulations to the detriment of their customers. Furthermore, he argued they are luring Brazilian investors into taking unnecessary risks because overseas exchanges don’t offer the same consumer protections and compliance on matters of anti-money laundering and tax reporting. Tota wrote:
+
+“In both the crypto and the traditional world, illegality exacts a high price, no matter how many advantages the shortest path may offer.”
+
+He drew an analogy comparing the use of foreign exchanges to using unlicensed taxis and buses or illegal cable television converters. Yes, finding shortcuts like these falls squarely into the “jeitinho Brasiliero” mindset, however there are broader consequences at stake as it pertains to crypto investing that consumers and investors need to take into account.
+
+While Tota makes no direct mention of Binance or its charismatic leader Changpeng Zhao (CZ), it’s quite obvious to whom he’s referring:
+
+“Through this half-pirate converter half-clandestine bus policy, some so-called global companies have spread their tentacles across the Brazilian market. They ignore the Federal Revenue, the fundamental rights of the Consumer and even the CVM (Brazil’s securities regulator), irregularly offering derivatives in Brazilian territory, despite (the CVM) having already issued a stop order in July 2020. They mock the regulator: in a quick search, anyone can find out what the "way" is.”
+
+
+
+
+He also took a thinly veiled shot at CZ’s promise to hire 5,000 employees in Brazil. He pointed out that “a leading global company, with shares traded on the stock exchange and headquartered in the United States” has a lower number of total employees worldwide than what CZ is promising to hire in Brazil. Tota is obviously referring here to Coinbase, which went public in the US last year and is reportedly in talks to acquire 2TM, parent company of Mercado Bitcoin.
+
+Tota concludes:
+
+“[T]he lack of a specific regulation for cryptos should not be the reason for “global” pseudo-brokers to operate in Brazil without a local presence, without having to obey the country’s laws, and thus create unfair competition with players that comply with the legislation.”
+What’s Going on Here?
+
+Well, the obvious takeaway is that tensions between foreign and domestic exchanges are heating up to the point where they are spilling over into the public arena. Digging beneath the surface, we find another instance of a theme we’ve seen globally the last few years, which is the clash between crypto exchanges operating with significantly different business and growth models.
+
+At the end of the day there have historically been two models for operating a crypto exchange. For the sake of simplicity let’s call them the Coinbase Method and the Binance Method.
+
+The Coinbase Method revolves around the precautionary principle - essentially playing the long game of engagement with governments and regulators. Strive to be seen as as a “good actor”, comply with the spirit of the law and then (hopefully) have a seat at the table to write laws and regulations when the government finally figures out what the heck cryptocurrency is. This method hasn’t historically been very popular among core constituencies of crypto, particularly the bitcoin community given its libertarian roots, so it requires a lot of reputation management. It’s also harder to make money in the short term given higher compliance and lobbying costs, etc. This is the method that Mercado Bitcoin is pursuing.
+The Binance Method is basically the Uber method: moving opportunistically (or borderline recklessly) and doing whatever it takes to gain customer mindshare and wallet. Ask for forgiveness later once regulators figure what’s going on. This approach involves aggressively playing the regulatory arbitrage game to grab as much market share as possible right out of the starting gate, with the hope that once governments show up with the inevitable crackdown, the backlash from consumers will be so strong that heavy-handed measures beyond a few fines are simply not palatable. Imagine what the outcry would be today if local governments tried to ban Uber because it operated in cities extralegally and put licensed taxis out of business.
+
+While it’s easy to frame this as a “good actor vs bad actor” or “Wild West vs regulated”, the reality is a lot more mixed. Since the true Wild West days of 2017-18, we’ve seen the lines between these two approaches blur substantially.
+
+During those years, Coinbase was the prime example of an actor trying to be the “regulated good guy exchange” (yes they had a lot of issues before then but that’s beyond the scope here). Until mid-2018, Coinbase only listed a handful of coins, as it was hyper diligent about making sure it wasn’t listing anything that could be deemed a “security”, which would then force it to register with the Securities and Exchange Commission as a securities trading platform. A Coinbase executive even testified before Congress, under oath, in 2018 that the exchange “did not list ICOs”. Coinbase did however list Ethereum at the time, which raised via initial coin offering in 2014. 
+
+That changed quickly once Balaji Srinivasan took over as CTO and, realizing that Coinbase was rapidly losing market share to Binance, he began pushing heavily to list new tokens. This was to both keep pace with competitors and generate more revenues, both in the form of listing fees paid by projects and trading fees paid by users (I’d recommend the book Kings of Crypto by Jeff John Roberts if you’re interested in learning more about the Coinbase backstory).
+
+Fast-forward to 2022, and Coinbase lists almost every somewhat reputable altcoin (and then some), though many of these would undoubtedly fail the Howey Test (used by SEC to determine if an instrument is a “security”) if put to serious scrutiny. At this point, unless you’re a hardcore degen, pretty much whatever coin you’d be looking to buy on Binance you can find on Coinbase.
+
+Certainly, one could argue that Coinbase worked the political and lobbying game well enough to give themselves the air cover required to list new shitcoins without fear of reprisal, but CEO Brian Armstrong has also learned the hard way that, when you’re a crypto company, sometimes trying to cudgel up to regulators just simply doesn’t work. At the end of the day, you’re just up against too many entrenched interests that hate you and don’t want you to succeed. If you recall, Armstrong wrote a blistering Twitter thread criticizing the SEC last year after the agency killed Coinbase’s Earn program that would have allowed investors to earn 4% yield on stablecoins.
+
+I won’t dive into my personal views of the SEC here; though you should follow Messari’s Ryan Selkis for some colorful commentary. 
+
+Yeah, Sure but What About Binance?
+
+Binance has also drifted more to the center after launching in mid-2017 and becoming the world’s largest exchange by volume shortly thereafter. It played a game of fast and loose opportunism and regulatory arbitrage at a time when the governmental community was still trying to wrap its head around how a blockchain differed from a permissioned database.
+
+Existing as a buccaneering global company without formal domicile or headquarters allowed it to jump in and out of markets quickly with new products and services with lightning speed and incredible agility.
+
+While regulatory compliance perhaps wasn’t Binance’s overarching priority during these years, I don’t think it’s necessarily fair to say that they simply ignored compliance issues altogether either. Like Uber, they were operating in extralegal grey areas - doing whatever they needed for “check the box” compliance. They took the mindset that “we’ll deal with regulation once politicians and governments figure it out.”
+
+Now that governments and international organizations have largely figured out general principles for how to regulate crypto businesses, Binance has found itself in the hot seat the last couple of years. Last summer in particular, it seemed like every week there was a new jurisdiction on Binance’s case.
+
+In typical CZ fashion, he’s handled the situation adeptly. He’s said all the right things publicly about the need for proper regulation and stressing that Binance now prioritizes these matters, while answering tough questions that normie executives would never be able to. He also employed another popular trick among exchanges, which is poaching top financial regulators to lead compliance efforts. Just last week, Binance snagged a nine year veteran of the UK’s Financial Conduct Authority.
+
+Cynics could legitimately argue here that Binance trying to rebrand itself from a “offshore shitcoin casino” to a “regulated shitcoin casino” is just a window dressing, but in an industry where execution and securing the first mover advantage means everything, CZ has undeniably outperformed - even if he is boxing himself somewhat by trying to work more closely with governments and regulators.
+
+Where Next?
+
+With crypto legislation in Brazil likely on the verge of being passed and implemented later this year, the “extralegal” turf that Binance has occupied will in theory disappear, putting it and other offshore exchanges on a level playing field as Mercado Bitcoin and the other domestic players.
+
+Critics here could rightfully argue that Binance secured a massive advantage for itself by taking advantage of various loopholes before a crypto legal framework in Brazil had a chance to fully codified, but to be fair these loopholes weren’t available to just Binance. Mercado Bitcoin could have taken advantage of those same loopholes had it chosen to do so. That’s probably not what the MB crowd wants to hear, but it is a bit like crying over spilled milk. At the end of the day, everyone has their own risk tolerances associated with their respective business models and approaches. We'll see which one ultimately prevails.
+
+But we’re just at the beginning stages here, and the beauty of crypto is the fervent innovation and competition it unleashes. With the rumored Coinbase acquisition of 2TM and Mercado Bitcoin, MB will have all the firepower it needs to duel with Binance for Brazil market supremacy, so don’t expect an end to the shade war anytime soon.
+
+Anyways, thanks for reading my Friday night rant and be sure to check out my news recap later this weekend. If you want to learn more about Binance vs Mercado Bitcoin/Coinbase dynamics, you can check out my podcast from earlier this week with InfoMoney crypto editor Paulo Alves.
+
+Até mais,
+
+Aaron
+
+Follow and subscribe to Brazil Crypto Report on Substack for more content on the Brazil crypto market
+
+
+
+
+

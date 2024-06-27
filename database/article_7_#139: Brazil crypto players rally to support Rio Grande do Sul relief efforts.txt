@@ -1,0 +1,113 @@
+#139: Brazil crypto players rally to support Rio Grande do Sul relief efforts
+Plus: Nathalia Arcuri teams up with Mercado Bitcoin on content; Ribeiro says Chamber of Deputies will approve asset segregation bill by mid-year 
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+Welcome back to Brazil Crypto Report for the week of May 6-10, 2024 and happy Mothers’ Day/Dia das Mães to everyone! 
+
+I’m in Rio de Janeiro this week for Ethereum Rio 2024 at Porto Maravalley. The main event takes place May 14-15 — I’ll be there doing a couple of talks and moderating a couple of sessions. Feel free to drop me a line if you’ll be around. 
+
+For those of you following the Rio Grande do Sul situation, I promised last week that I’d report back with some good options for those wishing to contribute to the relief efforts. Thankfully Brazil’s crypto community has stepped up to the plate and delivered on some impressive charity campaigns. I highlight these below and encourage everyone to contribute if you are able. 
+
+🔍What’s in this week’s BCR?
+
+Brazil crypto exchanges and operators rally to raise relief funds for Rio Grande do Sul
+Mercado Bitcoin teams up with personal finance influencer Nathalia Arcuri
+Deputy Aureo Ribeiro says he has the support needed to pass a crypto asset segregation in Brazil’s Chamber of Deputies by mid-year
+Bitso launches a new Web3 wallet product
+
+Have a great week everyone!
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+New podcast
+
+This week I’m joined by Brazil crypto media OG Gino Matos. Gino is currently a reporter at Crypto Briefing, but previously had stints covering Brazil for Cointelegraph Brasil and CriptoFacil. We talk about how Brazil’s crypto media environment has evolved over his time in the space, as well as his reporting highlights during those years.
+
+Brazil’s crypto community rallies to assist Rio Grande do Sul relief
+
+Crypto exchanges and operators in Brazil are kicking in to support Rio Grande do Sul — the southernmost state that has been devastated by catastrophic rains and flooding this month.
+
+Binance will donate up to US$1 million worth of BNB token vouchers to customers who live in the impacted area. Binance explained:
+
+“Users living in affected cities in Rio Grande do Sul who have registered their proof of residence by May 6, 2024 will receive US$80 (R$408) in BNB token vouchers in their Rewards Hub.”
+
+Mercado Bitcoin donated 75 Starlink devices to be used by local authorities involved in the rescue efforts. These units provide internet access via a satellite connection.
+
+Grupo Foxbit, OKX, Bitso and Bybit Fintech Limited are running campaigns to match donations to relief efforts made by customers (up to R$150,000), while BRLA Digital has set up wallets to source crypto donations in USDT, USDC and BRLA on a variety of blockchains.
+
+Crypto exchange Bitget also made a US$5,000 donation to Movimento União BR to help distribute meals.
+
+Bitcoin é Aqui, a project to promote bitcoin adoption in the city of Rolante (and now has one of the highest adoption rates in the world) is also running a campaign to support the local hospital, which was completely destroyed in the flooding.
+
+Portal do Bitcoin BlockNews InfoMoney CriptoFacil Valor CoinTelegraph Brasil
+
+Mercado Bitcoin and Nathalia Arcuri team up on blockchain education
+
+Arcuri, a personal finance influencer and founder of the Me Poupe! channel, is diving into the world of crypto education via a new partnership with MB. The effort will focus on distributing crypto content via YouTube and Instagram to a variety of new audiences, including traditional investors not familiar with crypto.
+
+The first collaboration between the two came in December 2023 when Arcuri published material on tokenized fixed income products. She released another piece of content about the partnership in April about the bitcoin halving.
+
+Arcuri, who has 7.6 million followers on YouTube and 3.3 million on Instagram, said in a statement:
+
+“This partnership meets my main objective from the beginning: to bring financial education to as many people as possible and thus help more people achieve their dreams and independence. Knowledge about this world of cryptoassets is still very underexplored and it is great to find an institution that is willing to invest in disseminating safe information about the crypto market.”
+
+Notably, the agreement between the two parties was formalized via a contract on the Polygon blockchain.
+
+Portal do Bitcoin
+
+Ribeiro: Congress will approve crypto asset segregation in 2024
+
+Aureo Ribeiro, author of legislation that would require crypto brokerages to segregate customer funds from operating funds, said this week that the Chamber of Deputies would approve his proposal by the end of 1H 2024 and send along a version to the Senate for consideration.
+
+"The urgency [of the project] was approved, it has this regime and we can vote on the merits in the plenary in the Chamber. I believe that in the next few days, with the understanding of the government and all bodies, Central Bank, Revenue, Finance, the We can define a final report and vote on the project in the plenary so that it can go to the Senate in the first semester.”
+
+The issue was controversially left out of the crypto law signed into law at the end of 2022. The Central Bank sought to find a way to incorporate such a rule into the regulatory framework it is currently drafting, but that has proven difficult. Ribeiro explained:
+
+"We have been in dialogue with the Central Bank, we are working, but the process is more difficult due to the BC having a reduced staff. We are in this dialogue to have the agility to create the infra and put into practice what we approved and became law. It is fundamental for progress, providing the security that we so desire for the Brazilian market.”
+
+Exame
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Crypto asset managers Hashdex and QR Asset are among Brazil’s 10 largest ETF managers, according to a new report from Anbima. Hashdex has a total of R$3.9 billion under management, while QR Asset Management has R$627.4 million. Hashdex CIO Samir Kerbage argued that these figures show the crypto asset thesis has been a success:
+
+“It's an industry that still has a lot of room to grow and we noticed that a large part of ETF investors started through crypto ETFs. It is an interesting vector for the growth of the ETF market itself in Brazil.” (Valor)
+
+Bitso launched a new Web3 wallet designed to connect users with decentralized applications and let them manage cryptos and NFTs. It employs a multi-party computing (MPC) technology to ensure a secure experience for users opting to self-custody assets. The product supports five blockchain networks: Ethereum, Polygon, Arbitrum, Base and Optimism. Bitso CEO Daniel Vogel told Valor:
+
+“Bitso is a peculiar player, as we have one foot in the centralized world and the other in the decentralized one.” (CoinTelegraph Brasil) (BlockNews)
+
+Mercado Bitcoin ranked first among Brazilian exchanges in the biannual Exchange Benchmark report produced by CCData (formerly CryptoCompare), which compares more than 60 different metrics in the areas of security, community, transparency, governance and more. (Portal do Bitcoin)
+MB also announced a new partnership with Bolt Energy, an energy generation and trading company, to tokenize energy receivables. Gustavo Ayala, Bolt Energy CEO, said in a statement:
+
+“I am proud to highlight that we launched a bold product in the Brazilian electricity market, a milestone that defines our path of innovation. Furthermore, we are preparing another pioneering product, which promises not only to benefit the token investor, but also to bring significant advantages to the electricity consumer in Brazil.” (Portal do Bitcoin)
+
+Ribus, a Brazilian RWA platform, announced the launch of a new fintech arm called DexCap focusing on tokenizing receivables and real estate crowdfunding. (CoinTelegraph Brasil)
+Digital bank Banco BS2 announced an investment in Bloxs  Group, a fintech that connects investors and issuers using blockchain. (BlockNews)
+
+📲 Adoption
+
+Brazil has the 6th highest adoption of cryptocurrencies globally and 26 million crypto investors, according to a new study by Triple-A. (Exame) (Livecoins)
+bConnect (not to be confused with BitConnect), the blockchain-based tool developed by Serpro, could soon be used to connect customs systems of all nations across Latin America. (CoinTelegraph Brasil)
+Researchers from Universidade Federal Fluminense and the New Generation Networks Teaching and Research Laboratory developed a blockchain-based cloud solution to manage health data in university hospitals. (CoinTelegraph Brasil)
+DeVolt, a team of five students from the Institute of Technology and Leadership — a college in São Paulo, won US$10,000 in the Solana Renaissance Hackathon for a project that uses blockchain to connect electricity producers and filling stations to electric cars in Brazil. The hackathon saw 8,300 project submissions from around the world. (Portal do Bitcoin) (BlockNews)
+Brazil is the most “crypto degen” country in Latin America, according to a new CoinGecko survey.
+Pix accounts for 30% of transactions in Brazilian e-commerce, according to Worldpay’s Global Payments Report. (Exame)
+DeSci Journal, a Brazilian project launched in May 2023, is becoming a platform for other scientific journals interested in the decentralized publishing model. Co-founder Maria Goreti Freitas told BlockNews:
+
+“We became a library of decentralized science magazines.”
+🏛 Policy, Regulation and Enforcement
+
+Brazil’s federal government introduced a ban on the use of cryptocurrencies for betting and payments at online casinos. (CriptoFacil) (Portal do Bitcoin)
+A new bill introduced in Brazil’s Chamber of Deputies seeks to prohibit the use of cryptocurrencies by individuals accused of drug trafficking and other financial crimes. As written, the bill would give judges the authority to order such assets to be blocked during an investigation. (Portal do Bitcoin) (CoinTelegraph Brasil) (CriptoFacil)
+LAPIN, a research house focused on the social, ethical and legal challenges brought by new technologies, released a new white paper touting best practices for crypto regulation. The paper was released at an event for policymakers in Brasilia hosted by Ripple, ABCripto and others. (Portal do Bitcoin)
+
+“We have to make regulation desirable…If there is no strong action to show what regulation should or should not do, this will only be a vain hope that came to nothing, a frozen market and a dream that did not happen.” (InfoMoney) (Exame) (CoinTelegraph Brasil)
+
+A new Federal Police operation is investigating crimes linked to the “King of Bitcoin” Claudio Oliveira, who was arrested in 2021. Operation Serendiptia is investigating alleged fraud in public contracts involving the brother of the former governor of Paraná. The scheme has alleged connections linked to Grupo Bitcoin Banco, a financial pyramid operated by Oliveira. (Portal do Bitcoin)

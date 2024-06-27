@@ -1,0 +1,133 @@
+🇧🇷BCR #61: Brazil Crypto Bill in Question as Key Sponsor Loses Re-Election Bid
+Also; presidential election assessments for crypto, CVM ramps up probes
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Bom dia pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the weeks of September 26 - October 7. I took last weekend off for some rest and relaxation so have captured last week’s newsworthy items into this week’s edition.
+
+💣 This issue today is my overview and analysis of the key events of the last two weeks, including:
+
+1️⃣ What Netto’s loss means for the fate of crypto legislation in Congress
+
+2️⃣ Lula vs Bolsonaro: who’s better for crypto?
+
+3️⃣ Bitcoin Trading Volumes up 30% Year-Over-Year for September
+
+4️⃣ CVM Probes Mercado Bitcoin, Liqi Over Fixed Income Tokens
+
+5️⃣ US, Brazil authorities target Bitcoin Sheik in US$768 million crackdown
+
+I will send out another issue tomorrow with a more comprehensive news recap from Brazil and elsewhere in Latam.
+
+Thanks to everyone for reading and have a great week!
+
+-AWS
+
+🎙Catch the latest episodes of the 🇧🇷Brazil Crypto Report podcast.
+
+1️⃣ Andres Engler, Latam Editor at CoinDesk, joined for our inaugural Latam News Rundown episode. We discussed a wide array of news across Brazil, Argentina and El Salvador. Listen on Spotify
+
+2️⃣ Bobby Ong of CoinGecko joined the show to talk about meme coins, GameFi and how these types of tokens will drive mass adoption in emerging market economies
+
+3️⃣ I also had the chance to interview Credix CTO Maxim Piessen. Credix is building a decentralized credit marketplace and is one of the most exciting DeFi startups operating in Brazil right now. Definitely worth a listen!
+
+
+
+
+🔦Election Spotlight
+❓Crypto bill in question as Expedito Netto loses re-election bid
+
+Federal Deputy Expedito Neto, who served as rapporteur for the crypto legislation project that worked its way through Congress this year, unexpectedly lost his re-election bid. This puts the fate of the bill in question.
+
+Even prior to his defeat, the timing of a potential post-election vote was a toss up, with many seeing a strong probability that it would be punted to the 2023 legislative session. Netto’s ousting creates a heightened urgency to get the bill over the finish line this year. Rodrigo Monteiro, executive director of ABCripto, told InfoMoney that this shouldn’t be a huge issue:
+
+“We were surprised by the result. [But] the project was already in the process of being approved, the electoral process itself ended up postponing the final vote. We imagine that, now, with the elections closed in the legislature, that the normal voting of the project will continue and that we will have the regulatory framework approved and that we can celebrate until the end of the year.”
+
+💡Several other pro-crypto (but less important) deputies and senators also lost their re-election bids.
+
+👨 🔬Recall that the bill originally passed the Chamber of Deputies last December. The Senate then passed its own version in the spring that added in provisions around CNPJ registration for foreign exchanges and asset segregation. The text was then sent back to the Chamber to sign off on the changes. Netto then controversially removed both provisions and set off a lobbying frenzy that resulted in the vote being delayed until after the elections.
+
+Domestic exchanges, including many of those represented by ABCripto, have pushed for the law to be passed quickly so as to level the playing field with foreign exchanges - whom they allege are operating extralegally in the country with an unfair advantage. Delays in the bill’s passage, Monteiro asserted, serve to benefit these foreign operators:
+
+“For those foreign players who count and work to the limit of what they can exploit as an asymmetric competitive advantage while a regulatory framework is not established, the answer is yes [it helps them]".
+
+However, Netto’s defeat creates a potential window for the Banco Central and the CVM to further inject themselves into the legislative sausage making - which would almost surely delay passage. This scenario seems likely given the new CVM’s leadership’s stated desire to be more proactive on crypto regulation matters. Felipe Duarte of Abrão Camargo Advogados told Valor Investe:
+
+“The election scenario brought several uncertainties and, given the new scenario, no voting destination can be ruled out…There may be intense pressure to intensify the space for collaboration between the CVM [Securities Commission] and the Central Bank, and some deputies even defend the full reconstruction of the regulatory framework.”
+
+BC president Roberto Campos Neto stated before the election that the BC intends to revisit the asset segregation clause that was left out of Netto’s final text, though the entity’s current involvement appears to be quite limited.
+
+Still, the fact that Netto was defeated does not in itself threaten the viability of the bill as long as it remains a priority for broader chamber leadership. Rodrigo Caldas de Carvalho Borges of Carvalho Borges Araújo Advogados commented:
+
+“The fact that the current rapporteur has not been reelected should not prevent the PL from being processed, as the House may appoint another rapporteur."
+
+However, there is also now an opportunity for other deputies to introduce new legislation that may be met with less resistance from the market and regulatory bodies.
+
+💔 Either way, any dreams of a painless approval of this bill during the lame-duck session have been shattered.
+
+Bolsonaro vs Lula: Who’s Better for Crypto?
+
+As many pundits expected, the October 2 general election didn’t produce a clear winner, meaning a runoff election between Bolsonaro and Lula will be held on October 30.
+
+Which candidate will be better for crypto? In all honesty, it probably doesn’t matter. Crypto was not on the ballot with this election. Ahead of the general election, none of the 11 candidates on the ballot had taken a firm position of any sort on cryptocurrency issues, despite efforts by ABCripto and others to get candidates to pay more attention to crypto issues.
+
+Bolsonaro’s only bitcoin-related comments to date have been quite superficial. When asked about it during an interview with Flow Podcast last summer he mentioned that he’s “never messed with bitcoin” and that he’d need to ask his economic minister Paulo Guedes for more details.
+
+Bolsonaro’s government also canceled a strange government contract that was supposedly allocating funding to the creation of a cryptocurrency to be used by indigenous peoples, and he’s used “teaching Indians about bitcoin” as an example of wasteful government expenditures. Simply put, none of his public comments indicate that he knows or cares much about cryptocurrency.
+
+Lula has not mentioned anything specifically about bitcoin or cryptocurrencies, but notably his former finance minister and central bank president Henrique Meirelles is now an advisor to Binance - the world’s largest crypto exchange. Meirelles has pledged that his loyalty is now to Binance and not a potential Lula government, but he will obviously have the ear of Lula’s inner circle.
+
+The non-profit Lula Institute has also offered some courses on blockchain and NFTs, but it we shouldn’t be reading any policy prescriptions in to this.
+
+💡There is some sentiment among market participants that a Bolsonaro win would be better for the industry.
+
+58 percent of investors and market participants surveyed by Warren, an investment brokerage, believe that a Bolsonaro victory would be better for bitcoin and cryptocurrencies. Just 16 percent of respondents said that a Lula victory would be better for the asset class, while 26 percent were indifferent. The survey polled 113 market managers, strategists and economists in the country.
+
+Monteiro of ABCripto stated that a Bolsonaro re-election would be more favorable for crypto companies in the country because of the momentum that’s been built and progress made over the last year under the current administration:
+
+“We are on the right path. But maybe what we don't have control over is speed. With the maintenance of the current government, this pace is faster, because we are already on the right path. With some change, it can take a while. But the fate, with the crypto regulatory framework, is the same.”
+
+This seems to be quite logical and pragmatic “devil you know is better than the one you don’t” calculus.
+
+Still, there are some who believe that a Lula victory would increase the price of bitcoin in BRL terms given the broader macro landscape. Tasso Lago, a crypto fund manager and founder of Finance Move, told Valor Investe:
+
+“Lula winning could generate a scenario where the dollar could increase its price, because there is the issue of neglecting the spending ceiling, with a less bold fiscal policy, which would increase the public debt and increase the Brazil risk…With the dollar rising with Lula’s victory, bitcoin, which is a dollarized asset, tends to rise.”
+Politicians Keeping a Distance
+
+Just 0.2 percent of some 25,000 registered Brazilian political candidates reported any form of cryptocurrency investments in their required asset disclosures, CoinTelegraph Brasil reports. The three candidates who reported more than R$1m in crypto assets did not campaign on crypto topics, and none of them were elected.
+
+Bitcoin Trading Volumes up 30% Year-Over-Year for September
+
+Brazilian traders moved 36,600 bitcoins in September, per data from Cointrader Monitor. The figure is up 16 percent from August and up 30 percent from September 2021. Binance still commands the dominant position in the market with a 44 percent share of the total trading volume. Novadax took second place with 16.5 percent.
+
+CVM Probes Mercado Bitcoin, Liqi Over Fixed Income Token
+
+The CVM, Brazil’s securities authority, subpoenaed Mercado Bitcoin asking for more information about its digital fixed income token products. MB must provide the CVM with details regarding the amounts raised via these issuances since January 2020 and which investors made these purchases. MB has reportedly raised R$200m (US$38m) via these offerings and hopes to increase that number to R$1bn (US$190m).
+
+These are Ethereum based tokens backed by traditional investments such as energy contracts, receivables and commercialization contracts. The ostensible low-risk, high-yield products (which offer up to 18% annual returns) have become popular products due to high interest rates in the country, and they’ve been promoted as a way to gain exposure to digital assets while sidestepping the volatility of cryptocurrencies.
+
+In a response, MB stated that it has taken all steps to ensure the sales were conducted within the existing regulatory framework, notably by making the products available only to accredited investors.
+
+“In relation to the so-called non-security tokens (tokens that do not represent securities), we take due care not to infringe on the scope of action of authorized entities, including consulting the regulator in advance about the structure used for such tokens, at the beginning of our operations in 2020.”
+
+The subpoena comes as the CVM begins to take a more active role in regulating crypto in Brazil under the new leadership of João Pedro Nascimento. It also highlights the legal grey area that these types of offerings must operate in as there is no regulation on the books. Rather, companies must rely on legal opinions from law firms.
+
+BlockNews reports that tokenization firm Liqi also received a similar request from the agency four months back and was required to make adjustments on how to better structure the tokens so as to be less like securities. Liqi founder and CEO Daniel Coquieri said:
+
+“We are talking about credit, credit rights, which are not securities. I have opinions from the Pinheiro Neto and VBSO offices. Even so, I'm in a gray area, I don't have any formal information from the regulator on the subject. What we are going to do next week is to file a formal consultation request on our operations so that the CVM can respond to us.”
+
+CoinTelegraph Brasil reports that the CVM views most tokens currently in circulation as securities that could not have been created without the agency’s approval. The agency is expected to release guidance soon detailing its thinking on these matters.
+
+US, Brazil authorities target Bitcoin Sheik in US$768 million crackdown
+
+Authorities in the US and Brazil coordinated to break up an elaborate international operation that allegedly moved R$4bn (US768m) in laundered investor funds from thousands of victims.
+
+The crime ring was allegedly led by 37 year-old Brazilian national Francisley Valdevino da Silva, aka “Bitcoin Sheik”, who has been involved in numerous other cryptocurrency pyramid schemes such as Rental Coins. This particular scheme, which involved investors across 10 countries, misled buyers about crypto investment products that promised as much as 20% monthly returns.
+
+Brazilian Federal Police fulfilled 20 search warrants against the participants, who allegedly opened more than 100 shell companies to orchestrate the schemes. A press release accused the operators of advertising fraudulent partnerships and licenses to investors.
+
+"The U.S. investigation revealed that the organization allegedly deceived investors in over a dozen countries by falsely claiming that they had developed fully functioning, cutting-edge cryptocurrency-related financial products."
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more content like this

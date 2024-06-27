@@ -1,0 +1,102 @@
+🇧🇷BCR #96: Brazil's crypto law is official - what comes next?
+Plus: B3 postpones its bitcoin futures launch; CPI investigating crypto pyramids is formalized
+
+(NOTE: This Linkedin post is a shortened edition of the full Brazil Crypto Report newsletter. To catch the entire version as well as more content like this please subscribe to the full version on Substack)
+
+🔥 Quick shout out to our partners at the BlockchainSP Festival and Digital Finance Brasil. These events will take place June 20-23 at the University of São Paulo and bring together crypto and TradFi professionals, students, hackers and investors from all walks
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of June 12-16, 2023. It was another important week for crypto in the country as we’ll soon see. Let’s kick this thing off
+
+-AWS
+
+🚨Lula government signs decree formalizing Brazil’s crypto law
+
+The Executive Branch issued a long-awaited decree formalizing Brazil’s crypto law, which was passed last December. The decree names the Banco Central do Brasil Bank and CVM (Brazil’s securities authority) as regulators of the industry.
+
+Notably, the decree gives the Central Bank authority over virtual asset service providers (VASPs) and the CVM authority over cryptos that have characteristics of securities. This clearly defined division of responsibility is a massive leap forward given the roadblocks we are seeing in the US and elsewhere, where crypto regulation is being throttled in part due to agency turf wars.
+
+QR Asset’s Alexandre Ludolf explained:
+
+"This distinction is not just a technicality, but a fundamental step towards the growth of our digital asset industry, giving the Central Bank the power to regulate all assets that are not digital securities (VMDs). This move creates an environment less complex and more conducive to innovation.”
+
+The Central Bank now has 180 days to develop a regulatory framework and rules governing crypto companies in the Brazil market, and it will be tasked with supervising these entities.
+
+The decree was formally published in the Official Gazette and was signed by President Luiz Inácio Lula da Silva, Minster of Finance Fernando Haddad and Central Bank President Roberto Campos Neto.
+
+(CoinTelegraph Brasil) (Portal do Bitcoin) (Valor) (Valor)
+
+Industry reaction is positive
+
+The decree isn’t huge news in the sense that the market has been expecting it for some time. However, for the local industry, in particular members of the ABcripto - Associação Brasileira de Criptoeconomia trade group, the decree represents an important formality, as now the process of creating a regulatory, supervision and licensing regime for VASPs begins.
+
+Nicole Dyskant, a digital assets attorney, told Valor:
+
+"The publication of the Decree prior to the entry into force of the Law certainly demonstrates the Government's commitment to the subject. The industry is celebrating. The BC — which had already been talking to the market — should also soon publish a draft rule for public hearing"
+
+Rodrigo Caldas de Carvalho Borges, a partner at Carvalho Borges Araújo Advogados, added:
+
+"Now with the regulatory discussion concentrated in the BC, my expectation is that we have technical debates and that the BC plays a fundamental role in development via regulation, as it has done in the means of payment sector."
+
+Binance, which despite its troubles in other jurisdictions is still by far the largest exchange by volume in Brazil, also issued a statement saying it was encouraged by the development:
+
+“Binance unequivocally supports the need for industry regulation that provides security for users, while enabling industry innovation and sustainable growth for the benefit of society.”
+What happens next?
+
+Clearly this decree will have more of an immediate impact on the crypto legal community than the crypto end user. However, the law’s amplification of penalties for crimes involving digital assets (4-8 years of imprisonment) should have a dampening effect on crypto pyramid schemes and golpes.
+
+Mirella da Costa Andreola, an attorney with @Ax Associates, told InfoMoney:
+
+“It is expected that not only cases of pyramids, but all fraudulent activities involving cryptos will be less common when a specific rule is created to punish such criminal activity.”
+
+The Central Bank has already been talking to market participants about the forthcoming rulemaking process and is expected to soon set a date for a public hearing and a consultation process to formally commence.
+
+The focus then will be on creating a structure for issuing licenses to operators. The list of requirements and risk controls that operators will likely need to implement includes KYC, transaction reporting, cybersecurity and data protection, procedures to ensure proper price formation and avoid manipulation, and potentially asset segregation. (Valor)
+
+In the meantime, VASPs currently operating in Brazil will have a grey area to navigate, given that the law is now officially implemented but many specific rules are absent. It could take as many as 12 months for these rules to be fully formalized - six months to create the rules and then another likely six month grace period for exchanges to come into compliance and submit license applications.
+
+However, it seems unlikely that companies operating in the space will suffer any form of sanction or reprimand given the late issuance of the decree.
+
+✋Not so fast
+
+Valor reported that all crypto trading platforms, whether foreign or domestic, will need to obtain a second license from the CVM to operate as an over-the-counter broker or a stock exchange. This is a license that only the B3 Exchange, CSD and BBCE (Balcão Brasileiro de Comercialização de Energia) currently hold.
+
+This license will be required to offer secondary market trading of crypto tokens that are considered securities - a question that continues to become murkier for non-bitcoin cryptocurrencies.
+
+Brazil a world leader on crypto?
+
+The devil is always in the details with these types of things, but Brazil clearly has an opportunity to become a global leader on the question of digital assets regulation.
+
+Ripio’s Henrique Teixeira commented:
+
+"This is a step forward that Brazil is making and that has not yet been reached by many other countries. In Brazil we have the advantage of having a regulatory system being built on the basis of dialogue between government agencies and local companies.”
+
+Given the whirlwind of regulatory and enforcement developments elsewhere in the world (more on that below), the decree provides a path forward and a degree of much-needed regulatory stability and clarity. Hashdex head of legal Julia Castelo Branco Rocha said in a statement:
+
+"The expectation now is for the publication of specific rules by BACEN, which should protect investors and the market without impeding innovation and technology development."
+
+Rodrigo Batista, CEO of the exchange Digitra.com, highlighted the contrast between Brazil and other jurisdictions:
+
+“Today the different countries of the world have different approaches. United States, for example, is suing local cryptocurrency companies. Fortunately, Brazil is positioning itself alongside countries with high economic freedom such as Switzerland, Hong Kong and Dubai, creating laws to provide security to the sector and attract companies and investments.”
+🎙New 🇧🇷BCR Podcast Episodes
+🔥Inside the SEC’s War on Crypto with Lewis Cohen and Nik De
+
+My co-host Antonio and I invited two craques to the show to help us interpret the recent regulatory and enforcement events in the US.
+
+Lewis Cohen is an honorary Brazilian (through marriage) and is one of the top lawyers in the US at the intersection of crypto and securities law.
+Nikhilesh De is a former colleague of mine at CoinDesk, where he overseas all coverage of crypto policy and regulation in the US.
+
+Definitely worth a listen to get smart fast on what’s happening in the US right now and how it impacts the global industry. (Spotify | Google)
+
+💣 Onsite at Consensus 2023: Guilherme Santana of Preservaland
+
+I had the chance to chat with Guilherme at Consensus 2023 back in April (took forever to get the audio from the organizers, hence the delay in publishing).
+
+While I’m generally bearish on these “NFTs saving the environment” type projects, what Guilherme and his team are doing is super interesting. They identify land in Brazil that is legally deemed “preservable”, and then pay the landowner to convert the land to a special legal status preventing it from being deforested or developed.
+
+The parcel of land (and relevant metadata) is then represented by an NFT which can be purchased by publicly-traded companies looking to keep carbon credits or biodiversity credits on their balance sheet.
+
+Definitely worth a listen on Spotify, Apple Podcasts or Google
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the Web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts

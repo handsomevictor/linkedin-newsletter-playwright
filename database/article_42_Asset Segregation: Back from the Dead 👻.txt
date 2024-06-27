@@ -1,0 +1,164 @@
+Asset Segregation: Back from the Dead 👻
+🇧🇷BCR #112: Binance dodges CPI requests as commitee winds down; Mercado Bitcoin launches institutional service; privacy testing for Drex begins
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of October 2-6, 2023! I hope everyone is doing alright in light of this weekend’s terrible events in the Middle East.
+
+Turning to the crypto world, I somehow managed to make it through all of last week paying minimal attention to the Sam Bankman-Fried trial, so I have no real opinion on any of it at the moment (in case you’re interested).
+
+A couple interesting Brazil connections though, namely that one of his private jets now being eyed by prosecutors was made by Brazilian manufacturer Embraer. Not really sure why that’s newsy or noteworthy in anyway, but there were a bunch of articles talking about it. 
+
+Also, Michael Lewis’s new deranged book about SBF revealed that Brazilian supermodel Gisele Bundchen received $20 million to work 20 hours for FTX as the exchange's social and environmental ambassador. 
+
+If anyone knows how I can land a gig like that, please let me know. 
+
+👊 Friendly reminder to subscribe to Brazil Crypto Report on Substack if you have not already. It's a much more pleasant reader experience than on Linkedin, and you also get additional content and updates coming your way! 
+
+As always, thanks for reading and have a great week!
+
+-AWS
+
+👊 Friendly reminder that if you enjoy this content, please consider following 🇧🇷Brazil Crypto Report across the web. It’s a free and easy way to support my work! Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🎙For this week’s podcast episodes, we have two interviews recorded onsite at Blockchain Rio last month. The first one is with Jean-Michel Guillot, head of product for blockchain and digital assets at DINAMO Networks. Dinamo provides the cryptography solutions that secure 150 million Pix transactions per day, and it is deploying the same technology in the Drex platform. 
+
+The second is a special crossover episode with Felipe Cabral of the Let's Crypto Podcast. We talked to Dan Yamamura, partner at Fuse Capital about his reasons for optimism in the bear market. This interview was recorded in Portuguese
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Asset segregation rule re-emerges in Congress
+
+The controversial provision to require crypto brokers to segregate customer assets has re-emerged in Brazil’s Congress after it was left out of the final law that was passed and signed in December of last year. 
+
+The provision is a part of a broader text known as PL 3,706/2021, which would criminalize cryptocurrency scams and increase penalties for financial pyramid scheme operators. It was approved by Senate’s Public Security Commission last week, and it will go to the Constitution and Justice Commission (CCJ) for analysis and awaits appointment of a rapporteur to shepherd it through the next steps.
+
+The proposal would add to the current crypto legal framework a rule “that provides for asset segregation of assets between investor-consumer accounts and exchange accounts, in order to safeguard personal data and portfolios investors-consumers.”
+
+Deputy Aureo Ribeiro also hinted that a companion bill in the Chamber of Deputies could be introduced this week. Ribeiro told CoinTelegraph Brasil at Rio Innovation Week:
+
+“When we approved the project [Law 14,478/2022], we understood that it was the best we could do at that time. With the in-depth investigations [by the CPI], we saw that it is necessary to carry out asset segregation. We understand that this segregation is the guarantee to separate the companies' resources and the consumer's resources, to protect their assets.”
+
+Crypto-focused attorney Rodrigo Caldas de Carvalho Borges told Valor: 
+
+“Asset segregation will bring greater security to investors as platforms will not be able to leverage themselves with client resources, avoiding cases such as FTX…However, considering the existence of some exchanges with global operations, it will be important to assess the impacts that such a measure could have on those that intend to operate in different jurisdictions…These may be forced to grant special treatment to the operations of Brazilian investors.”
+
+The Central Bank signaled earlier this year that it would try to include an asset segregation rule in the regulatory framework it is developing, but there are a lot of questions about the entity’s ability to do so constitutionally without a law on the books prescribing that specific authority. 
+
+Marcos Rocha, a partner at Veirano Advogados focused on crypto assets, explained to Blocknews: 
+
+“Without this, the Central Bank’s hands are tied, because, according to the constitutional principle of legality, the regulation cannot exceed the limits of the law, and Law 14,478/21 does not address this asset separation.” (Valor BlockNews Portal do Bitcoin)
+Mercado Bitcoin to launch institutional platform
+
+MB Prime Services will be focused on institutional investors and will allow clients to buy, sell and custody assets on the exchange without needing to use services domiciled outside the country. 
+
+The offering becomes available now that CVM Resolution 175 has come into effect (more on this below). The resolution allows investment funds to invest directly in cryptocurrencies with institutions that are authorized by the Brazilian Central Bank. Previously, funds seeking exposure to crypto had to do so through reference indices using assets held outside the country. 
+
+MB head of sales Thiago Facundes told Valor that the idea is allow buy and sell operations in a manner that is highly similar to traditional markets. The platform offers direct quotations in BRL and integrations with other custody services:
+
+“If the institution wants to keep everything in MB, we have our own custody for that. We can leave everything in one place. But he can also choose to trade on our platform, but with crypto assets held in custody on Coinbase Prime, for example.”
+
+The announcement comes amid MB’s pivot away from retail investors and toward more institutional and B2B clients. 
+
+Brazilian firm executes country’s first transaction with Chinese Digital Yuan
+
+Eldorado Brasil, a cellulose manufacturer, conducted a transaction with Banco da China Brasil using the Digital Yuan. The product was shipped from the port of Santos to Qingdao in August and the financial operation was settled in late September. 
+
+The transaction made headlines in Chinese media and Weibo, as it was the first Digital Yuan payment executed in the Americas. 
+
+The transaction comes as momentum for “de-dollarization” grows among the BRICS countries. Other Brazilian companies like Petrobras and Suzano have announced that they will begin transacting in the Digital Yuan soon because of requirements by Chinese importers. 
+
+CoinTelegraph Brasil
+
+Customers will be able to tokenize and monetize banking data using Drex and Open Finance
+
+Central Bank President Roberto Campos Neto said in an interview that financial transaction data of customers will be able to be tokenized and monetized inside the Drex framework, with retail users being able to be paid in tokens for the data that they share .
+
+“Our financial intermediation system is moving towards having a super application, so it is not an application from a bank A, B or C”, he explained. This app will contain real-time products and information and will allow “instant portability and comparability and everything (the user) does will generate data”
+
+This will be feasible due to Open Investment, the latest phase of Open Finance, in which customers can share data about their investment products and services with others. 
+
+“Is the most democratizing thing there is,” Campos Neto said of the technology:
+
+"So one of the things we are going to do is when we have the Financial Aggregator, develop a function to generate, store and categorize data in a homogeneous way so that you can exchange this data for tokens and these tokens would talk to the digital currency that we is creating, the Real Digital."
+
+Blocknews CoinTelegraph Brasil
+
+Binance dodges CPI information requests as committee winds down operations
+
+The exchange refused to provide the CPI committee on financial pyramids with information on its 700 largest Brazilian clients, arguing that the committee’s request was too broad in nature for the company to respond to. It said in a statement: 
+
+“The listing requested in this item of the Request does not present sufficient delimitation for its fulfillment, considering that Binance is a global company, operating in more than 100 countries around the world, offering a wide range of services”.
+
+Binance also did not provide the committee with a copy of its contract with Latam Gateway, the exchange’s payment processor in the region, citing a lack of time:
+
+“Due to the short deadline, it was not possible to respond to the request made.”
+
+The committee will officially wind down on October 11 after being granted a two week extension. A final report from the committee will be presented for a vote on Monday, October 9, and the aforementioned asset segregation proposal will be one of the recommendations. 
+
+CPI chair Aureo Ribeiro told CoinTelegraph Brasil:
+
+“The CPI will also present an individual account for each person who operates in brokerages, providing greater peace of mind in relation to money laundering. We will also suggest that brokers be obliged to report any suspicious operations to Coaf, and we will make a recommendation to the CVM on digital assets with mileage. There are a lot of things that we will advance in the next few days”
+
+Portal do Bitcoin
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+PeerBR , the tokenization arm of GCB, issued R$18.5 million (US$3.6 million) in tokenized receivables the first day after receiving a crowdfunding from the CVM. R$10 million worth of receivables issued by small and medium-sized companies were issued, as were several judicial receivables and agribusiness receivables. - The CVM issued guidance earlier this year articulating that the sale of tokenized assets is conditional on the use of a crowdfunding platform and a securitization company - GCB brought in Marco Barros to become CEO of GCB Ventures and manage these tokenization operations. - The crowdfunding was obtained with the help of ABcripto - Associação Brasileira de Criptoeconomia and was granted just 15 days after it was formally requested. (Valor)
+
+🪙 Drex (formerly Digital Real)
+
+The ABBC consortium successfully connected its node to the Drex environment, meaning that all 16 consortia are live on the network. (CoinTelegraph Brasil)
+The Banco Central do Brasil announced a new phase in the testing of the Drex pilot focused on privacy solutions. The main challenge to date has been guaranteeing anonymity of movements on the chosen blockchain network while complying with existing rules that govern the Brazilian financial system. Three solutions are currently being considered: Anonymous Zether from Consensys, Starlight from Ernst & Young and Parfin’s Parchain, though the bank may opt to test other solutions as well. Clarissa Souza, systems analyst at the bank, said 
+
+"we are now starting a new phase of the pilot, where we begin to study and test privacy solutions, which is that we proposes to do within the scope of the project." (Exame)
+
+Fabio Araujo answered several outstanding questions about the Drex project in an interview with Valor, including how the platform will impact everyday users. 
+
+“I go to a website to buy a 60-inch television. How am I going to finance this television? With Drex and Open Finance, multiple financing options will be available. If I have the public bond in my portfolio, a fintech can offer credit at a very low interest rate, taking that bond as collateral…“Drex will make Open Finance materialize better in people’s lives. With Pix, we managed to democratize access to the payment service. Drex will democratize access to financial services, investment, credit, insurance.”
+
+Daniel Coquieri of Liqi Digital Assets has an op-ed in CoinTelegraph Brasil explaining the value proposition of delivery-versus-payment
+Banco ABC, a participant in one of the Drex consortia, is using artificial intelligence to develop smart contracts within the Drex environment via its ABC Smart Chain. (CoinTelegraph Brasil)
+
+📱Adoption
+
+Brazil has the most cryptocurrency companies of any country in Latin America, according to a new study by the University of Cambridge and the Inter-American Development Bank. Brazil is responsible for 74% of exchanges in the region, 41% of digital payment companies and 27% of crypto custody services.
+Chicão Bulhões, Secretary of Economic Development and Innovation for Rio de Janeiro, reaffirmed that blockchain is a core focus of the city’s efforts to transform into a technology hub. He told CoinTelegraph Brasil: 
+
+“Whenever we talk about crypto, we comment that blockchain technology interests us a lot. In our opinion, it is this technology that will permeate different sectors of society, including governments, to bring safe solutions and a new moment.”
+
+Amazon BioBank, part of the Amazonia 4.0 project at the University of Sao Paulo, is using blockchain to share and monetize Amazon genome transactions. (CoinTelegraph Brasil)
+Former finance executive and current FinTrender CEO Gustavo Cunha launched a new book called “The Tokenization of Money: How Blockchain, CBDC, Stablecoins and Drex Changed the Future”. 
+Exame profiled a metaverse project called MetAmazonia that seeks to create a “digital twin” of the Amazon rainforest. It will begin selling AmaLands NFTs later this year to those interested in preservation efforts.
+Environmental management company Ambipar's Ambify carbon credit token platform has gained traction as a means of allowing consumers to easily purchase carbon offsets to their day-to-day activity. João Valente, director of digital assets at Ambipar, said
+
+"You can buy either to invest or to compensate, now or in the future. You see what you emit, with your habits, on a daily basis, and it pays off…Through the traceability of the blockchain, you can split the credit that is traditionally traded per ton. In the token, you split it per kilo, allowing you to popularize and offset things like a coffee, a lunch.” (Exame)
+
+Visa’s global head of innovation sees Brazil as a “great laboratory” for innovation. (NeoFeed)
+Holders of the Coritiba token, issued by @Liqi, will receive nearly R$500,000 in payouts related to the transfer of Domilson Cordeiro dos Santos, aka Dodô. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+The CVM intends to launch a second regulatory sandbox, possibly in 2024, commissioner Daniel Walter Maeda Bernardo explained during comments at Rio Innovation Week. The focus of the sandbox would be on tokenization use cases. He told CoinTelegraph Brasil:
+
+“We do not define specific cases, because we want to let innovation reach the CVM, without prior limitations. But some areas for the application of tokenization certainly attract our attention, such as agribusiness and ESG”
+
+Federal Deputy Caio Vianna is behind the creation of a congressional caucus focused on advancing blockchain technology. The group’s priority will be to encourage and standardize the application of blockchain to different parts of the economy. Vianna stated: 
+
+“We believe that the combination of an adequate regulatory environment and due financing are essential for the expansion and consolidation of blockchain technology in our country.” (Valor) (Portal do Bitcoin)
+
+The CVM’s Resolution 175 has come into effect and opens up the possibility for Brazilian funds to invest in cryptocurrencies under certain conditions. Funds can invest up to 10% of their holdings into crypto assets, but can only invest via companies authorized by the Central Bank or an international regulatory body. In practice, there are currently few institutions in Brazil currently that offer these services, and internationally there are only a handful of platforms that have the required level of liquidity, says Caio Sanas, an attorney focused on digital assets. (Valor)
+Legislation that would implement a 22.5% taxation rate for cryptocurrencies held on platforms domiciled outside of Brazil has advanced in the Chamber of Deputies. Deputy Arthur Lira, speaker of the chamber, ordered that the bill be analyzed urgently by the Finance and Taxation and Constitution and Justice Citizenship Committees. (CoinTelegraph Brasil)
+The CVM issued fines of R$48 million (US$9.3 million) to parties involved in Grupo Banco Bitcoin, a pyramid scheme operated by the “King of Bitcoin” Claudio Jose de Oliveira. The scheme is suspected to have defrauded thousands of investors to the tune of R$1.5 billion. João Accioly, the CVM director who served as the case rapporteur, said in a statement: 
+
+“Although it was not possible to determine the number of investors reached by the offer nor the total amount of the offer, nor the amounts actually contributed, the case had a significant negative impact on the image of the securities market and caused enormous losses to investors.” (InfoMoney) (Exame) (Portal do Bitcoin)
+
+ABCripto and the CVM launched a podcast series about crypto asset investing as part of World Investor Week. (Exame)
+Blockchain infrastructure firm Parfin has joined ABCripto. (BlockNews)
+At least 2.7 million Brazilians have lost a total of R$100 billion (US$20 billion) in cryptocurrency pyramid schemes since 2017, according to a report by the Globo television program Fantastico, with GAS Consultoria, Braiscompany and Trust Investing generating the largest losses. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Seven people accused of extorting R$1.2 million in cryptocurrencies from a Brazilian businessman were arrested by Santa Catarina Civil Police. (Portal do Bitcoin)
+Gutemberg dos Santos, the Brazilian founder of the Airbit Club crypto pyramid scheme, was sentenced to 40 months in prison in the United States. (Portal do Bitcoin)
+Civil Police in the state of Goiás received training on cryptocurrencies from Binance’s Intelligence and Investigations team. (Livecoins)
+Federal Police forcefully coerced Grow Up Club owner Gleidson da Costa Gonçalves to testify before the CPI committee. Gleidson had been summoned as a witness but did not appear in the Chamber of Deputies nor provide reasons for his absence. The operation took place in Campos dos Goytacazes in Rio de Janeiro state. (Portal do Bitcoin)- He generally refused to answer questions during his testimony, but deputies on the committee are pushing for Gleidson’s home to be used to reimburse victims (Portal do Bitcoin)
+A man suspected of running a crypto pyramid scene escaped from a luxury hotel in the Ibirapuera neighborhood of Sao Paulo by helicopter before police and a group of alleged victims could find him. 

@@ -1,0 +1,137 @@
+🇧🇷BCR #110: CPI summons records of Binance banking partners
+Plus: Congress explores blockchain for public sector data; fan tokens move on Sao Paulo FC Copa do Brasil victory
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for September 18-22 , 2023!
+
+I had the chance to attend and speak at the CryptoMinds conference in São Paulo this weekend, where I got to learn a ton about trading mechanics and reconnect with some old friends like Tone Vays and Rodrigo D. Ambrissi (aka Rodrix Digital). I delivered my first-ever Portuguese language main stage talk, which was a bit of a challenge but got some great feedback from attendees! 
+
+💡Friendly reminder to please consider subscribing on Substack if you enjoy this type of content! 
+
+🎙Please be sure to take a look at this week’s podcast episode with Lukka CEO Robert M. Materazzi. Lukka started a decade ago as a crypto tax solution for retail investors, but has since built itself into a US$1.3 billion crypto data services company.
+
+I had the chance to catch up with Robert and his team during a recent visit to São Paulo to learn more about the company and how they are approaching Brazil - definitely worth a watch/listen!
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Thanks for reading and have a great week everyone!
+
+-AWS
+
+CPI breaks bank secrecy for Binance fiat partners
+
+The special congressional committee, devoted to examining cryptocurrency pyramid schemes, approved a request to summon the banking, tax and data records of Capitual, LatamGateway , Aceso and Banco BS2. 
+
+All of these entities have had banking or payment processing relationships with Binance in the past. The requests come just a week after Binance Brasil director general Guilherme Haddad Nazar testified in front of the committee about the exchange’s operations in the country and connections to alleged crypto pyramids. 
+
+The committee also approved requests for the Central Bank to provide information on Binance’s proposed acquisition of the @Sim;Paul Investimentos brokerage, and for the CVM to provide details on its ongoing investigations into Binance. 
+
+source: Portal do Bitcoin
+
+Unrelated, the CPI will unseal financial records for Braiscompany and Trust Investing, two high profile pyramid schemes being examined by the committee.
+
+(Portal do Bitcoin) (Valor) (InfoMoney) (Portal do Bitcoin) (CoinTelegraph Brasil) (BlockNews)
+
+Congress explores blockchain for public sector
+
+The Chamber of Deputies held a hearing exploring the use of blockchain technology as a way to combat corruption and improve efficiencies in the public sector. 
+
+Diego Oliveira Farias, external control auditor at the Federal Court of Auditors (TCU), explained that his agency is already looking to implement a version of the tech: 
+
+“A model that allows the manager to see if he needs to use it in his administration, and this prevents him from using it as a fad, so that there is no waste of public money. In the fight against corruption, it allows data traceability and reduces the need for complex processes.” (Portal do Bitcoin)
+
+Chicão Bulhões, secretary of Economic Development, Innovation and Simplification for Rio de Janeiro, said that blockchain can be a critical tool to reduce Brazil’s bloated bureaucracy of notaries:
+
+“The certification function that blockchain brings is revolutionary for a country that is still the country of notary offices. The country needs to understand that this instrument is there, it is here to stay, and it is extremely safe, to the point where we can put a digital currency to work.”
+
+However, there are concerns that there are incompatibilities between using a blockchain solution for public sector data and Brazil’s data protection laws. 
+
+Other witnesses included Aristides Cavalcante Neto, deputy head of the Central Bank’s IT department, and Mercado Bitcoin head of government affairs Julien Machado Dutra. You can see the full video the hearing below.
+
+(Portal do Bitcoin) (CoinTelegraph Brasil) (BeinCrypto)
+
+$SPFC fan tokens up, $MENGO plummets post-Copa do Brasil final
+
+São Paulo Football Clube’s victory over Flamengo in Sunday’s Copa do Brasil match had a significant impact on the price of both clubs’ fan tokens. 
+
+Congratulations to Bitso, which is a main sponsor of SPFC. Flamenguistas like myself are licking our wounds. 
+
+
+
+
+
+
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+QR Asset Management announced the listing of three cryptoasset funds on the BTG Pactual platform. QR Blockchain Assets I, QR Blockchain Assets II and QR Crypto Factors will be made available. Investors can buy shares in the funds with a minimum purchase of R$1. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Mercado Bitcoin listed USD Stablecolb (SCB), a dollar-paired stablecoin created by Brazilian Yulgan Lira (yulgan.eth) in Switzerland. Launched in May of this year, the objective of the coin is to democratize access to the Swiss financial market for Brazilians and protect from exchange rate variations in a regulated context. Lira told Valor: 
+
+“Currently, Colb offers direct entry through international banking transactions, and being on the MB side expands access for a company that has already solved the entry and exit of funds with credibility in Brazil.”
+
+ Fabrício Tota, head of new business at Mercado Bitcoin, said in a statement:
+
+“The stablecoin game is not over. There is still room for a stablecoin that is fully compliant with regulation. This is why MB chose to list SCB. US dollar stablecoins continue to be the smartest way to expose yourself to the price of the US dollar.” (Portal do Bitcoin)
+
+The number of Kanna Coin holders increased 10x after the token was listed on Mercado Bitcoin. Kanna is a community for regenerative cannabis farmers. (Portal do Bitcoin)
+CoinLivre founder and CPO Giorgio Toniolo wants his company to be the “free market” of asset tokenization and he wants to tokenize R$100 million in real world assets by 2024. He told Exame in an interview: 
+
+"Technology unlocks a new market, and Coinlivre's idea is to prevent problems that the crypto market has already faced. We don't do custody, we don't have access to investor money or the asset itself, it's a Free Market. And we can tokenize assets that banks and brokers cannot.”
+
+Mercado Bitcoin unveiled a new “recommended portfolio” feature based on the customer’s risk tolerance. (CoinTelegraph Brasil)
+Eletron Energia S.A. opened its IPO in the BEE4 platform, which supports the tokenization of shares of emerging companies. (BlockNews)
+
+🪙 Drex (aka Digital Real)
+
+The Drex consortium led by TecBan installed its node on the network, leaving just three consortia that have yet to fully join the Hyperledger Besu-based testnet. Other participants in the Tecban consortium include Banco da Amazônia, Parfin, AWS, CPQD, Foxbit, Clear Sale, Ntokens, Banco Arbi, Pinbank Brasil and Dinamo Networks. (Valor)
+MOBIUP won the CODIFI Buildathon at Blockchain.Rio Rio 2023 with its Mercado Barter project that tokenized Rural Product Certificates (CPR) in a simulated digital real environment. The CPRs allow farmers to receive an advance on the proceeds from their crops, and then use those funds to invest in the production process. Rodrigo Caggiano, head of new business, told Valor:
+
+“We thought of a wallet to centralize tokens related to CPRs and a marketplace bringing together all suppliers of agricultural inputs, from cars to fertilizers.” (CoinTelegraph Brasil)
+
+Banco Bradesco executed its first transfer of a tokenized government bond on the Drex testnet. (CoinTelegraph Brasil)
+
+📱Adoption
+
+Nearly 2 million identities documents have been issued across Brazil that adhere to the new national ID standards, which features data confirmation on a Hyperledger-based blockchain via the b-Cadastro system from the Receita Federal. (CoinTelegraph Brasil)
+Valor Investe profiled Brazilian skateboarder Bob Burnquist's interest in cryptocurrencies, including his bitcoin investment thesis, views on real estate tokens and his NFT collection on Tezos. 
+
+“I don’t have a very large portion invested in ‘traditional things’. I like bitcoin, but I don't bet. I'm not a 'day trader' and I don't want to sell as soon as it drops. Doing nothing is sometimes better than doing something you don't know. When I have money and want to invest, I use bitcoin. I operate Ethereum to ‘spin’ resources to other projects. But bitcoin is my long-term financial reserve.”
+
+Parfin took second place in the G20 TechSprint, organized by the Bank for International Settlements and the Central Bank of India, for its interoperability and privacy solutions. (CoinTelegraph Brasil)
+A fake image circulated on Brazilian social media claiming that Banco do Brasil was suing Globo TV personality Luciana Huck. The fake news was published on a website using the Valor logo and the byline of a Bloomberg News reporter. A screen shot of the article was then circulated on social media. (Valor)
+
+photo credit: Valor
+
+Influencer, investor and cryptocurrency promoter Chico Veiga, also known as Chico Moedas, went viral on Brazilian social media after his ex-girlfriend, singer Luisa Sonza, claimed that he had betrayed her on the popular Globo show Mais Voce. (Portal do Bitcoin)
+Agrotoken announced the installation of its headquarters in São Paulo as part of its expansion plan. (CoinTelegraph Brasil)
+'Latin America is where it makes sense to apply blockchain”, argued Ripio executives Facundo Rodriguez and Santiago Juarros at Blockchain Rio. (CoinTelegraph Brasil)
+Vinteum, the Brazilian bitcoin research non-profit, will distribute R$30,000 in prizes for a bitcoin-focused hackathon at the Satsconf conference, November 2-3 in Sao Paulo. (Portal do Bitcoin)
+Grupo Foxbit has joined LaChain, a blockchain built on Polygon by a group of Latin American companies including Ripio, SenseiNode, Num Finance, Cedalio and Buenbit. Foxbit CEO Ricardo Dantas told BlockNews: 
+
+“A network focused on Latin America makes sense. Furthermore, knowing this structure, we know the benefit of being one of the first nodes both on the financial side in relation to network fees, and being part of this project from the beginning.” 
+
+Brazilian crypto community member and computer scientist Edilson Osorio Junior Osorio Jr. earned R$65,000 in bitcoin by breaking the private key of one of his YouTube viewers. (Portal do Bitcoin)
+uisa, a biorefinery in Mato Grosso, is using blockchain tech to track its chain of production, with a focus on transparency and reducing its carbon footprint. (CoinTelegraph Brasil)
+Blockchain tech can help grow Brazil’s logistics sector, according to consultancy Technavio. (Exame) (CoinTelegraph Brasil)
+Brazil received its first “environmental toll” that uses blockchain that converts toll payments into carbon credits and trees that can eventually become “real world asset” tokens. (CoinTelegraph Brasil)
+Portal do Bitcoin interviewed the core team from Trexx, the blockchain gaming startup that won first prize in the Ethereum Singapore hackathon earlier this month. 
+
+🏛 Policy, Regulation and Enforcement
+
+Former GAS Consultoria consultant Thiago Farias de Araujo Souza clashed with deputies on the CPI committee during his testimony. He argued the defense employed by Glaidson Acácio dos Santos, aka the “Pharaoh of Bitcoins”, which is that GAS was not a pyramid and that Glaidson was a victim of Federal Police and the judiciary. He argued:
+
+“GAS did not harm anyone. The company paid customers for nine years and four months and was never late on payments. Today is a day of celebration because GAS customers can speak out.” (Valor) (Portal do Bitcoin)
+
+Fernando Fernandes Gomes, operator of the MSK Invest pyramid, claimed in his testimony that he feared for his life while testifying against his business partners. He also appeared to contradict himself when answering questions about whether he had access to the company’s bank accounts. (Valor)
+InfoMoney published a useful guide on how to identify and avoid cryptocurrency pyramid schemes. 
+Draft legislation that would prohibit the seizure of cryptocurrencies advanced in the Chamber of Deputies. The bill would make cryptos unseizable for purposes of satisfying creditor obligations, for up to 40 minimum salaries (roughly R$50,000). (Portal do Bitcoin)
+The Receita Federal trained a team of customs officials from Bolivia on bConnect, a blockchain network developed by Serpro - the Brazilian state owned company. (CoinTelegraph Brasil)
+A push in the Brazilian Congress to tax cryptocurrencies held in wallets overseas up to 22.5% will likely meet resistance in the Chamber of Deputies. (CoinTelegraph Brasil)
+Civil Police in the Federal District executed arrest warrants and search and seizure warrants against a gang of pastors that promised extraordinary earnings on cryptocurrency investments. (CoinTelegraph Brasil)
+The Brazilian Navy received a training seminar on cryptocurrencies as part of a broader financial education campaign. (Livecoins)
+
+

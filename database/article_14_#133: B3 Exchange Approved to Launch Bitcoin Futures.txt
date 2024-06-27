@@ -1,0 +1,146 @@
+#133: B3 Exchange Approved to Launch Bitcoin Futures
+Plus: Hashdex Bitcoin ETF launches in US; Liqi teams up with Crypto.com on crypto-as-a-service offering
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+Welcome back to 🇧🇷Brazil Crypto Report for the week of March 25-29, 2024.
+
+I’ve just returned from an amazing trip to Lençois Maranhenses in the Brazilian state of Maranhão. It’s an endless coastal desert landscape of sand dunes with small freshwater lagoons sprinkled in between the dunes. If you’ve never been, you need to commit yourself to a visit — you won’t regret it!
+
+🔍What’s in this week’s BC
+
+Brazil’s B3 Exchange receives approval to launch bitcoin futures
+Hashdex’s US spot bitcoin ETF is live
+Liqi teams up with Crypto.com on crypto-as-a-service offering
+
+Have a great week everyone!
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🎙New podcast!
+
+This week’s episode features Fabrício Tota, head of new business at Mercado Bitcoin and 2TM . We discuss how MB weathered the bear market, its plan to tokenize R$1 billion in assets in 2024, and the recent surge in memecoin trading.
+
+🎧 You can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+CVM greenlights bitcoin futures on the B3
+
+The CVM Brazil’s securities regulator, approved the launch of bitcoin futures contracts by B3 , Brazil’s largest stock exchange. Trading is expected to begin April 17.
+
+The futures contract will use the Nasdaq Bitcoin Reference Price (NQBTC) index as its price reference. The value of each contract will be the equivalent of 0.1 bitcoin and will expire monthly.
+
+The B3 explained in a statement:
+
+“In this type of contract, the settlement will be exclusively financial, that is, there is no purchase and sale of cryptocurrencies. The financial results of the negotiations occur based on the price variation of bitcoin.”
+
+Felipe Gonçalves, CFA superintendent of interest and currency products at B3, explained:
+
+“B3 is expanding its operations in the cryptoactive market, offering investors different ways to diversify their strategies. This launch meets the demand for a derivative product that allows protection from bitcoin price fluctuations or directional exposure to the asset, maintaining the security of operating in the Brazilian stock exchange environment.”
+
+The B3 also signaled its intention to offer custody services for bitcoin and other digital assets to banks, brokerages and other companies operating in the sector. In its 2023 annual report, the exchange highlighted its desire to “offer the entire infrastructure for the digital asset process,” which also includes tokenization, smart contract creation, trading, settlement, risk management and proof of reserves attestation.
+
+B3 also indicated that it wants to expand its crypto buying and selling service that was made by B3 Digitas and launched in 2022 via a partnership with Inter Invest - Banco Inter’s investment platform.
+
+To see the full report, click through to this CoinTelegraph Brasil article
+
+Valor Portal do Bitcoin Livecoins Exame
+
+Hashdex’s US Bitcoin ETF Goes Live
+
+Hashdex launched its spot bitcoin ETF in the US after completing the process of converting its existing bitcoin futures product to a spot offering. The launch means that all 11 of the ETFs approved by the SEC in January are now live.
+
+The new product debuted for trading on March 27.
+
+Hashdex said in a statement:
+
+"Hashdex celebrates this major milestone and invites all investors, from veterans to bitcoin newbies, to engage in this movement that aims to simplify and expand access to digital assets. Finally, the manager states that it will continue to bring innovative and accessible to global investors."
+
+Given the delays in launching incurred by the conversion process, the Hashdex product will have to play some catch-up against the like of Blackrock and Fidelity.
+
+Hashdex CIO Samir Kerbage explained that the delay was incurred due to the process of converting from futures to spot — though the new product will maintain some exposure to futures. He told Valor:
+
+“It was approved by the SEC for listing, but then we had to register the fund’s regulations. As it was the conversion of an ETF that already existed, it was a different model from the others”
+
+However, Bloomberg analyst Eric Balchunas argues that he sees a scenario where the product gains market share if it offers a competitive rate.
+
+Exame
+
+Liqi teams up with Crypto.com on crypto-as-a-service offering
+
+Liqi Digital Assets is partnering with Crypto.com to offer crypto-as-a-service to Brazilian companies, thereby allowing them to offer crypto brokerage services to their clients without needing to develop their own technology.
+
+Crypto.com will serve as the international liquidity provider, with Liqi providing the technology and compliance infrastructure.
+
+Liqi CEO Daniel Coquieri told Valor:
+
+“Liqi just connects to Crypto.com's liquidity solution to do transactions and trades. Crypto.com has a service to provide liquidity, as if it were a liquidity pool.”
+
+Liqi also works with other liquidity providers including Kraken and Coinbase, but it is prioritizing Crypto.com’s solution for its liquidity and other features that create a better end price for consumers.
+
+Alain Yacine, president of Crypto.com in Latin America, said in a statement:
+
+“This partnership reinforces Crypto.com's commitment to offering robust, secure and transparent solutions for the Brazilian market, enabling the institutional market to have access to a complete infrastructure for trading crypto assets.”
+
+Valor Portal do Bitcoin CoinTelegraph Brasil
+
+Acura Capital teams up with Patex to launch new digital bank
+
+Acura Capital Gestora de Recursos, one of Brazil’s largest funds with US$1.8 billion in AUM and US$3 billion under custody, is partnering with Patex to launch the Patex Digital Bank in Brazil.
+
+The bank will offer a “comprehensive suite of services, including digital and crypto banking solutions” tailor-made for the Latin American region. It will offer issuance and trading of RWA tokens, passive income opportunities, rapid currency conversion and a digital wallet that supports assets across multiple blockchains.
+
+Fernando Luiz de Senna Figueiredo, managing director at Acura Capital, said in a statement:
+
+“By combining our respective strengths, we are creating a digital banking platform that pushes the boundaries of what is possible with technology. Our teams also deeply understand how to meet the needs of Latin American users. We are confident that our digital bank will provide a secure, intuitive and comprehensive banking experience that will bridge the gap between traditional financial services and the digital economy in such a promising region as Latin America.”
+
+CoinTelegraph Brasil
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Binance offers the lowest trading fees of the major exchanges operating in Brazil, according to a new study by Proteste Brasil. BityPreço, however, has variable rates that can “cover” competitors’ offers, while NovaDAX decreases fees depending on the volume traded. (Valor) (CoinTelegraph Brasil)
+Valor profiled Tanssi, a Polkadot appchain infrastructure project that recently closed a US$6 million funding round. Brazilian Thiago Rüdiger is Tanssi’s VP of Growth.
+iStock's VisualGPS survey shows that Brazilians’ interest in cryptocurrencies has fallen in recent years from 85% in 2022 to 78% in 2023, and that less than 1% of Brazilians would consider investing in crypto if they had money available. (CoinTelegraph Brasil)
+Coinbase will give R$20 (US$4) to new users of its platform in Brazil. (Livecoins)
+Volumes on Brazilian DeFi platform Picnic tripled in March to US$1.66 million, driven by market movements and UX improvements. The platform uses the ERC-4337 account abstraction standard and the BRLA stablecoin for on and off-ramping from fiat to crypto. Co-founder João Ferreira told CoinTelegraph Brasil:
+
+"The Picnic wallet will start to work more intuitively, so any token you transfer to Picnic will automatically be accessible and operable through our interface."
+
+Tokenized equity marketplace BEE4 listed its 4th asset - shares of Eletron Energia, a clean energy company from Parana that raised R$3.3 million in its offering. CEO Patricia Stille told Neofeed
+
+“We saw 2023 as a soft launch, as we needed to show this market working. Now, expectations are much higher…Our projection is to make 11 listings in 2024 - or a smaller number, but with larger operations - and move at least R$500 million in offers.” (BlockNews)
+
+Dynasty Global AG, which operates in tokenization and real estate, invested US$1.5 million in the concession of a hangar at the Dubai international airport. (BlockNews)
+Brazil will continue to be the leader in crypto adoption in Latin America, Ripio CEO Sebastian Serrano argues. (Exame)
+
+📲 Adoption
+
+Hathor, the blockchain being used for several projects in Brazil, announced compatibility with EVM and, by extension, the Drex environment being developed by the Central Bank. The B3 exchange chose Hathor as its native blockchain last year, and the chain is being used by Vortx QR Tokenizadora for its applications inside the CVM Regulatory Sandbox. Hathor chief marketing officer Diego Guareschi explained:
+
+"Until recently, we didn't have alternatives for interoperability between other protocols. This was based on the idea that most use cases happened within a closed platform. However, we now have the ability to interconnect with other protocols, which is a great advantage for diverse use cases, especially those related to real-world assets and applications in traditional businesses and industries.” (CoinTelegraph Brasil)
+
+The Banco do Brasil Cultural Center in São Paulo is featuring an immersive crypto art exhibition called “Decade of the Oceans” that features a panorama of art, innovation and technology. (CoinTelegraph Brasil)
+A new study from Mastercard highlighted the potential that crypto and blockchain tech play in Latin America’s remittance ecosystem, which was estimated to total US$831 billion in 2022. (CoinTelegraph Brasil)
+The ETHSamba Hackathon brought together 450 hackers and nearly 50 registered projects. (BeinCrypto)
+@Edilson Osório Jr, founder of the blockchain startup OriginalMy, is releasing a science fiction book revolving around bitcoin. (CriptoFacil)
+Brazilian fintechs are struggling with a wave of delinquencies. (Bloomberg)
+Former Finance Minister Paulo Guedes said that bitcoin is “far from being a currency” during an appearance on the Voce Mais Rico podcast with Bruno Perini. (Livecoins)
+Bitcoin evangelist Renato Amoedo, better known as Renato Trezoitão, will do a speaking tour around Brazil to talk about bitcoin. (Livecoins)
+Brazil has its first Web3 club, Clube Degenerados, launched in partnership with the Bored Ape Yacht Club. (BeinCrypto)
+Brazil’s organ donation system will rely on Hyperledger Fabric blockchain technology to guarantee integrity of information. Notarchain, as it is called, is being deployed via a partnership between the Brazilian Notary College, National Council of Justice and Ministry of Health. The Notary College said in a statement:
+
+“Notarchain was developed using the Hyperledger Fabric blockchain platform, a permissioned network exclusive to notaries. Each notary office is a validation node in the network, storing blocks received from e-Notary services.” (CoinTelegraph Brasil) (Portal do Bitcoin)
+🏛 Policy, Regulation and Enforcement
+
+The Central Bank, CVM and 27 other entities have created a committee to oversee standards for carbon credits. The Interinstitutional Committee for Brazilian Sustainable Taxonomy will focus, among other tasks, on creating consensus for RWA tokens linked to carbon. CVM President João Pedro Nascimento said in a statement:
+
+"Cryptoeconomics is another path for the country's development. The future is green and digital. The carbon market is a global market, and with tokenization you create the possibility for several companies and countries to invest in Brazilian projects, bringing resources to the country and generating many ESG alternatives for private sectors, benefiting an entire chain of this new economy." (CoinTelegraph Brasil)
+
+Police in Pernambuco launched Operation Ladybug in Recife to dismantle a drug trafficking ring that used cryptocurrencies and shell companies to launder money. (Portal do Bitcoin)
+Brazil’s Ministry of Finance is preparing a broad new bill that would, among other provisions, equate cryptocurrencies to equities for taxation purposes. (Portal do Bitcoin) (InfoMoney)
+
+

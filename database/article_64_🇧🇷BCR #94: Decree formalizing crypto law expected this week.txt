@@ -1,0 +1,86 @@
+🇧🇷BCR #94: Decree formalizing crypto law expected this week
+Plus: Campos Neto talks crypto, Digital Real at Valor Capital event; Netherlands' Queen Maxima visits Brazil to learn about Pix, Digital Real
+
+🔥 Quick shout out to our partners at the BlockchainSP Festival. The festival, comprised of 14 concurrent events, will take place at the University of São Paulo and bring together crypto and TradFi professionals, students, hackers and investors from all walks. Please head over to blockchainfestival.io/sao-paulo to learn more
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of May 29-June 2, 2023!
+
+Friendly heads up that I’ll be attending and speaking at the Criptorama event in Brasilia this week June 6-7. Many thanks to the ABcripto - Associação Brasileira de Criptoeconomia team for the invitation (register here).
+
+Word on the street is that the formal decree from the executive branch to designate the Central Bank as the crypto market regulator in Brazil will be signed around the time of the event. This decree will officially kick off the rulemaking process for a regulatory regime for the cryptoeconomy in Brazil.
+
+Recall that the enabling legislation was passed and signed into law last December, but implementation has been delayed due to the presidential transition. A preliminary draft of the decree was circulated in March, and ABCripto and partner groups have been lobbying for it to be formalized since then. If no decree is issued by the Lula administration, the law will come into force June 20th with limited provisions.
+
+I hope to see some of you there. Have a great week everyone.
+
+-AWS
+
+Campos Neto speaks on crypto and Digital Real at Valor Capital event
+
+Banco Central do Brasil president Roberto Campos Neto spoke again about his vision for cryptocurrencies and the Digital Real at an event hosted by Valor Capital Group. He stressed that the platform will expand well beyond just payments and will serve as the foundation for an open, DLT-based financial system capable of running smart contracts and interoperating with other financial systems around the world. He said:
+
+“Talking to other central banks, the debate around digital currencies is very focused on payments. In our case it goes far beyond payments.”
+"People say [our] payments system works well, but it works well for what we have today. Our job is to design the system today for the financial world of tomorrow. I think there's a movement toward tokenization that's not going to reverse."
+
+He continued to highlight benefits of digital intermediation and a tokenized financial system - including greater risk control and lower costs for banks in such an economy.
+
+A few other highlights from his talk:
+
+He spoke highly of bitcoin, Ethereum and Solana and stressed the need to bring the decentralized finance ecosystem closer to the Digital Real environment rather than pushing it away:
+
+“The more you want to regulate, the more you lose control over what needs to be regulated…We already have the technology to link several distributed systems, such as Hyperledger. Our biggest goal now is to connect all the systems we have available.”
+
+There exists a problem of “misinformation” surrounding crypto assets among global financial elites that is being used to block innovation.
+
+“It was an interesting conversation on the [Bank for International Settlements] board. Some people said '[crypto] is very bad because people are losing money.’”
+"I think there's a lot of misinformation in this and it's very easy to use misinformation to go against innovation. And because people lose money - they lose money on different things, but they lose on this too - there's a bad reputation.”
+
+The Digital Real is not intended to compete with or do away with cryptocurrencies and private stablecoins but rather to complement them. He said:
+
+“When we have this environment, people will be able to enter their digital wallets – with CBDCs and cryptos – and will be able to transfer and buy cryptos with the digital currency, and choose which of these instruments to use in their smart contracts”
+
+Campos Neto said central banks globally must focus on connecting payment systems - citing that a “great advance” has been made in this area over the last 12 months but much work remains. He also reiterated his belief that central banks who are not thinking about an open and programmable financial system will be left behind:
+
+“I find it very hard to believe that someone would invest a lot of money in a system that is not programmable, because it will be left out of the mainstream. DeFi and all technological innovation”.
+
+Both Campos Neto and Fabio Araujo, director of the Digital Real project at the Central Bank, stressed that the critical challenge is providing greater automation and efficiencies while ensuring adequate data protection and privacy:
+
+"We have a challenge: how to do this efficiently and at the same time protect data? It is one of the questions that still needs answers….We can advance in automating things and become more efficient, but in centralized systems you can better protect data. Fábio [Araújo] is working on different models to make sure that we are going to have that"
+
+He spoke out against the idea of common currencies, particularly the one between Brazil and Argentina proposed by Lula earlier this year. “I’ve always been against it”, he said.
+Campos Neto also provided an update on ongoing efforts to internationalize Pix, noting that it is already possible to use Pix in Orlando in Uruguay.
+
+Portal do Bitcoin CNN Brasil Valor Valor
+
+Tether CTO Paolo Ardoino defends USDT against tax evasion allegations
+
+Paolo A. defended USDT, the most popular stablecoin in Brazil and the world, against charges that it enables tax evasion and other crimes, in an exclusive interview with InfoMoney’s Paulo Alves, while conceding that tax evasion does in fact occur using the coin. He said:
+
+“Tax evasion is not a problem that started with Bitcoin, it's not a problem that started with stablecoins. It is a problem that is also ours, people are evading taxes. It is not technology that commits tax evasion. When people decide to engage in illicit activities, it's not technology's fault, it's people's fault."
+
+The use of cryptocurrencies to evade taxes, particularly the conversion of reais to dollars via stablecoins, is currently an area of concern for the Central Bank.
+
+Further, Ardoino argued that using USDT to commit illicit activity is ill-advised due to the visible and immutable nature of the underlying blockchains on which the token lives:
+
+“It is important to remember that Tether is a centralized stablecoin using decentralized transport layers. These transport layers are the blockchains and blockchains are transparent. Everything is recorded on blockchains and recorded for eternity.”
+
+The interview was part of an InfoMoney series examining the use of crypto by Brazilian investors to evade taxes, particularly in light of a new proposed measure regarding taxation on income earned abroad. The piece argues that these rules can be easily circumvented by high-income investors using cryptocurrencies such as US dollar-pegged stablecoins.
+
+One investor with approximately R$8 million invested in crypto overseas, said:
+
+“If I am obliged to pay tax every year, I can simply bring crypto to Brazil…In crypto, everything is possible, there are people who move millions within the country and do not pay a penny of tax. Or pay as little as possible.”
+Mercado Bitcoin receives payments license from BC
+
+The exchange is now able to operate as a payments institution as an electronic money issuer, meaning it can offer new types of payment services such as credit cards and no fee payment accounts through MB Pay - its payments and digital banking product. 2TM CEO Roberto Dagnoni said in a statement:
+
+"The central bank's approval is an important step, as it allows us to continue with our business expansion plans to offer an even more complete experience to our customers."
+
+CoinDesk Exame Reuters Valor (Portal do Bitcoin)
+
+🎙New podcast with TC Cripto’s Jorge Souto and Paulo Boghosian
+
+I sat down with Jorge and Paulo to learn more about Traders Club and TC Cripto. We talked macro, trading strategies and Brazilian investor and trader profiles. Have a listen on YouTube below or on Spotify, Apple Podcasts or Google Podcasts
+
+(NOTE: This Linkedin post is a shortened edition of the full Brazil Crypto Report newsletter. To catch the entire version as well as more content like this please subscribe to the full version on Substack)

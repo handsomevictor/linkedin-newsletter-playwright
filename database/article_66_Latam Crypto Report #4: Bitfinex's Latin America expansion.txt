@@ -1,0 +1,90 @@
+Latam Crypto Report #4: Bitfinex's Latin America expansion
+Also: Lemon expands, Chainalysis examines crypto’s role in fentanyl trade
+
+(NOTE: For more content like this please subscribe to the full version of 🇧🇷Brazil Crypto Report on Substack)
+
+¡Hola a todos! 👋
+
+Welcome to the latest edition of the Latam Crypto Report, your one-stop shop for all the biggest news in the region over the past few weeks. Hopefully you’re all recovering from the Bitcoin Pizza Day festivities and gearing up for a great weekend.
+
+For those of you just joining, I’m Kristin Majcher, a freelance journalist based in Bogotá, Colombia. This is the Latam Crypto Report, a sister newsletter to Aaron Stanley’s Brazil Crypto Report.
+
+Please follow me on Twitter and LinkedIn if you’d like, and feel free to send over any Latin American crypto news we should be covering.
+
+This week, we’ll dig into stories including Bitfinex’s Latin America expansion through a Chilean investment, the role of crypto in the world’s Fentanyl drug trade and our usual roundup of Latin America crypto news.Bitfinex expands in Latin America with Orionx partnership
+
+Bitfinex is looking to expand its presence in Latin America by partnering with Chilean crypto exchange Orionx for an undisclosed investment amount.
+
+Orionx seeks to expand in Peru, Colombia and Mexico and reach more than 1 million users by 2024, Bitfinex stated in a press release.
+Orionx, founded in 2017, offers a crypto exchange, plus additional services including a wallet and instant crypto sales and purchases.
+Bitfinex recently received a digital asset license in El Salvador last month — the first ever to be issued in the country.
+
+Bitfinex CTO Paolo Ardoino said:
+
+“We’re excited to collaborate with Orionx as we look to expand our presence in Chile and across Latin America.” “This represents a major step forward in our efforts to harness the power of Bitcoin and decentralized technology to promote financial freedom and empower businesses that share our values. We look forward to working even more closely with the team at Orionx to support its growth and development going forward.”
+
+(CoinDesk, Bloomberg Línea, CoinTelegraph, Bitfinex)
+
+Latin American users sent estimated $3.6 million in crypto to China-based shops for fentanyl production: Chainalysis
+
+A fascinating new report by Chainalysis reveals crypto’s role in the global fentanyl market, which heavily depends on Latin America for the production and eventual transport of the deadly drug to U.S. buyers.
+
+As the Chainalysis report explains:
+
+According to the Drug Enforcement Administration (DEA)’s report, the most common flow of fentanyl involves the movement of chemicals from China to Latin America, after which Mexican drug cartels package the chemicals into fentanyl products and smuggle them into the United States.
+
+Chainalysis estimates that China-based companies selling precursor chemicals related to fentanyl have received more than $37.8 million in crypto through associated addresses, with Latin America, North America, Europe and Asia having a “high degree of exposure” to these suspected addresses.
+Latin America-based crypto addresses have sent an estimated $3.6 million in crypto to chemical shops in China, according to Chainalysis’ methodology.
+
+(Chainalysis, Reuters, CoinDesk, Wired)
+
+Argentina’s Lemon Cash Expands to Five Latam Countries
+
+Argentina-based crypto broker Lemon Cash is expanding into five new countries: México, Colombia, Ecuador, Uruguay and Perú. The company is known for its mobile app and contactless Visa crypto card offering up to 4% cash back in bitcoin.
+The company reached $44 million in investment last year. However, the company laid off about 100 people — 38% of its staff — last November.
+
+(BeInCrypto, Criptonoticias)
+
+🗞 Latin America Crypto News Rundown
+
+This is where we break down Latin America crypto headlines from the past few weeks, organized by country and region. If you don’t see a country listed, it’s simply due to the flow of news during a particular week.
+
+Regional News
+
+A recent study from Visa that included 14,000 interviews found that 23% of the region’s consumers invest in cryptocurrencies. (BlockNews, Visa)
+DFINITY Foundation, which is investing $220 million in blockchain projects globally, will provide rewards of up to $10,000 for developers taking part in the ICP LATAM Hub educational program. (BeInCrypto, Milenio)
+Following a $1.5 million funding round, DeFi protocol Num Finance will offer new stablecoins in Latin America. It plans to offer stablecoins pegged to the Brazilian real, Colombian peso and Mexican peso in the region. (CoinDesk).
+Mexico-based crypto exchange Bitso now has more than 7 million customers in Latin America. (Latam Fintech, CoinTelegraph*)
+Prosegur Crypto announced a strategic investment in Minos Global, and the companies hope to expand their footprint in Spain and Latin America. (El Mundo)
+
+South America
+🇦🇷Argentina
+
+Argentines can now use Tether (USDT) to purchase food at Buenos Aires’ Central Market, thanks to a partnership with on/off ramp Kripton Market. (El Cronista, CoinTelegraph)
+The Central Bank’s ban on cryptocurrencies for fintechs started to show its teeth. One of the affected companies, Ualá, said it informed its 300,000 crypto users via email that they would have 30 days to withdraw funds. (Portal do Bitcoin, UOL)
+All eyes are on Javier Milei, the pro-bitcoin presidential candidate rising in the polls who recently declared that the Central Bank is “legal, but not legitimate.” (BeInCrypto, Livecoins)
+Authorities are exploring the role of cryptocurrency in a scheme to illicitly open multiple phone lines in the name of Supreme Court of Justice Horacio Rosatti without his consent. The phone chips opened in his name were connected to crypto operations, La Nación reported. (La Nacion, BeInCrypo).
+
+🇨🇱Chile
+
+Chilean regulators will maintain an open and “pragmatic” focus to regulate cryptocurrency operations, according to an exclusive report by digital banking news outlet Iupana. Chile’s fintech law was published in January, and would not prohibit digital assets. However, Iupana reports that the regulator would require crypto exchanges to be domiciled within the country. (Iupana)
+
+🇨🇴Colombia
+
+Residents of Riosucio, Caldas lost COP 25 million ($5,550) in a crypto scam. (BeInCrypto)
+Colombia’s government plans to create its own public, digital payment system. Brazil’s wildly popular instant payment system Pix will serve as a reference for the project, Bloomberg Línea reported. (Bloomberg Línea, CoinTelegraph, BeInCrypto).
+The U.S. Internal Revenue Service (IRS) will send agents to Colombia and four other countries to fight against cryptocurrency-based cybercrime. They will focus on crypto-based tax and financial crimes, mixers and peer-to-peer payments. Stacey Perez will deploy to Bogotá as part of a pilot program launched by IRS Criminal Investigation (IRS-CI). (BeInCrypto, IRS)
+
+Central America & Mexico
+🇸🇻El Salvador
+
+Fold, a company focused on bitcoin rewards, has opened an office in El Salvador. The company is best-known for its partnership with Visa to provide a Bitcoin rewards debit card, which offers 1% cask back in the cryptocurrency. The company’s infrastructure has processed more than $1 billion in volume, Bitcoin Magazine pointed out, citing a press release. (CoinDesk, Bitcoin Magazine, Cripto Noticias)
+Payments app Strike will also open an El Salvador office as plans an international expansion into more than 65 countries. CoinDesk clarified that the company still plans to keep its primary headquarters in Chicago, but will use the El Salvador location as a base for its global operations. (CoinDesk, Fortune, CoinTelegraph)
+CoinDesk interviewed Will Hernandez, president of the Bitcoin Association of El Salvador, to see how high bitcoin transaction fees are affecting Salvadorans using the cryptocurrency for everyday purchases. (CoinDesk)
+Fitch Ratings upgraded El Salvador’s credit rating to CCC+ after a debt swap. (Latin Finance, CriptoFacil, Fitch Ratings)
+
+🇲🇽Mexico
+
+Major internet provider TotalPlay is now allowing customers to pay their bills in bitcoin via the Lightning Network via an agreement with IBEX Mercado. (CriptoFacil, Wired, Milenio)
+
+Thanks for reading Latam Crypto Report! If you enjoy this content, please consider subscribing on Substack

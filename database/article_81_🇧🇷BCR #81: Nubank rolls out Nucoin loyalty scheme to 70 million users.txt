@@ -1,0 +1,79 @@
+🇧🇷BCR #81: Nubank rolls out Nucoin loyalty scheme to 70 million users
+Plus: Receita Federal gets serious about crypto taxes; Digital Real pilot to launch in March
+
+Olá pessoal!
+
+Huge welcome to 🇧🇷Brazil Crypto Report for the weeks of February 27 - March 3, 2023!
+
+TONS of important news in this week’s edition so let's dive right in! 
+
+(This newsletter is an abridged version of this week's full 🇧🇷Brazil Crypto Report. If you enjoy this content, please consider subscribing to the Substack version for more news, commentary and interviews exploring the Brazil crypto ecosystem)
+
+Nubank begins releasing Nucoin loyalty program for customers
+
+Nubank began releasing its Nucoin token, developed on Polygon, to customers in Brazil. The coin will function as a rewards mechanism for Nubank’s 70 million customers.
+
+A new whitepaper released by Nubank states:
+
+Nucoin (NCN) is a utility crypto asset that allows customers to be rewarded for using and engaging with their favorite brands within a loyalty network
+
+Nucoin holders will be able to level up in the Nubank loyalty program to unlock new benefits. They will also receive discounts on cryptocurrency purchases made via the Nubank app.
+
+Customers will be able to earn Nucoin four different ways:
+
+an initial airdrop amount determined by their previous history using the platform
+raffles held during the first six months after issuance
+cashback - customers will receive a fixed amount of Nucoins for every 1 BRL spent with Nubank debit and credit cards.
+being engaged in the Nucoin community - providing feedback and suggestions on the product, etc.
+
+100 billion Nucoins will be issued in total, with 80 percent of these allocated for Nubank customers and future partner companies.
+
+The price of the token will be determined on a supply and demand basis, though the starting value of each Nucoin has yet to be determined.
+
+As of now, Nucoins cannot be withdrawn to digital wallets not hosted by Nubank. However, customers will be able to trade Nucoins for fiat money with other customers. But for the time being, all Nucoin transactions will take place within the Nubank app and not on a secondary market.
+
+Fernando Czapski, general manager of Nucoin, said in a statement.
+
+“Nucoin is a revolution co-created by our customers together with partners that strengthen the ecosystem and make it useful inside and outside Nubank.”
+Source: Nucoin litepaper
+Receita Federal to cross-reference exchange reportages against tax filings
+
+Brazil’s tax authority announced for the first time that it will begin cross-referencing information from tax filings made by individuals against reportages made to the agency by crypto exchanges.
+
+Brazilian crypto exchanges have been required to report all of their customer transactions to the Receita Federal since 2019, pursuant to Normative Instruction 1888. The rule requires international exchanges with Brazilian customers to report transactions that exceed a monthly limit of R$30,000 (US$5,700).
+
+This means that if there are discrepancies between an individual’s tax filing and the reportage provided by the exchange, the individual filer could receive an inquiry from the agency.
+
+In an interview with Portal do Bitcoin, José Carlos Fernandes da Fonseca - supervisor of the income tax program, stated that the intention is to induce declarations of cryptocurrencies by those who have previously never done so.
+
+He also issued a warning to Brazilians who use overseas exchanges for tax avoidance purposes:
+
+“The Receita has the power to inspect a declaration for five years and, in five years, it may have information that it does not have today”
+Digital real pilot to be deployed in March, per Central Bank
+
+Roberto Campos Neto, president of the Banco Central, confirmed that a test version of the Digital Real, Brazil’s CBDC, will be launched in March - marking the first time that Brazil has issued a digital currency.
+
+"Next month (March) we will already have a digital currency pilot, Brazil will be one of the first countries to do this. We will move forward with the pilot as we get security”.
+
+The remarks came at an event organized by the Brazilian Institute of Education, Development and Research. Campos Neto also reportedly stated at the event that he told US Treasury Secretary Janet Yellen that the FTX collapse would not have happened had banks not been prohibited from custodying crypto.
+
+Digital Real project coordinator Fábio Araújo also revealed that the bank will soon choose what blockchain it will use for the project.
+
+A formal announcement on the Digital Real will be made Monday, March 6 at an event hosted by the Central Bank.
+
+CVM President Nascimento says cryptoeconomy can be a “path of development” for Brazil
+
+João Pedro Nascimento, president of the CVM - Brazil’s securities authority, shared his views on crypto’s potential for the country.
+
+“I believe that the cryptoeconomy can be another path for the country's development, especially in terms of the future being green and digital…Imagine creating, through tokenization, the possibility for people from different countries to invest in Brazilian carbon credits, issued by Brazilian companies.”
+
+He also stressed the importance of recognizing the existence of the “good people” operating in the industry, while emphasizing that the agency does not intend to regulate staking services that generate passive crypto income.
+
+He also commented on the crypto law passed by Congress last December, remarking that it was a major breakthrough but that it was weak in several aspects such as asset segregation - a provision that was dropped during the legislative process. The CVM is expected to have authority over crypto tokens that are securities.
+
+He stated:
+
+“The great advantage and the great merit of this law in the eyes of the CVM was to have preserved the competence of the CVM in relation to the securities market. It brought a very comprehensive definition of what a virtual asset service provider is, such as exchanges, for example.
+But it left points open, which are kind of a common sense among people who work with cryptoeconomics, and one of them was the need to regulate the issue of asset segregation, especially there in the intermediary environment, avoiding the confusion of customer resources with exchange resources.”
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report for more news, analysis and interviews focusing on the Brazil crypto ecosystem

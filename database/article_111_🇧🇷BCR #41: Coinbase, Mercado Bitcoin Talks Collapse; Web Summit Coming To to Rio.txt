@@ -1,0 +1,32 @@
+🇧🇷BCR #41: Coinbase, Mercado Bitcoin Talks Collapse; Web Summit Coming To to Rio
+This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter, hosted on Substack. Please subscribe and follow for news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Also be sure to follow the 🇧🇷BCR Podcast on Spotify and Apple Podcasts. This week's interview is with Andres Engler, Latin America editor at CoinDesk. 
+
+👋 boa noite everyone,
+
+This week's big news on the Brazil crypto front is that Coinbase has pulled the plug on reported plans to acquire 2TM Group and, by extension, Mercado Bitcoin (Brazil's largest domestic crypto exchange with more than 3 million uses and a US$2.2bn valuation). Bloomberg News broke the story, citing two anonymous sources familiar with the deal.
+
+A Coinbase spokesperson told Bloomberg that it remains “committed to the Brazilian market and has local technology and business leadership”.
+
+At the same time, Coinbase officially announced Coinbase Brasil and announced its first public recruiting event on May 12 at 7pm (registration required). Coinbase recruiter Priscilla Rossi explained:
+
+“Our objective is to attract new talent and, for that, there is nothing better than being receptive and warm with our potential candidates. Thus, we seek to promote initiatives such as these, which bring us closer to people, to simplify the recruitment process and make interviews increasingly effective. We believe that some of the best engineering talent is in Latin America, a strategic region for our growth, and we are excited to promote this event as part of the expansion in Brazil.”
+
+No formal reason was given for the deal’s collapse; however, the drop in Coinbase’s share price from US$280 in December, 2021 - when the talks began - to just over US$100 currently has been cited as a reason. This matters because part of the deal reportedly involved the exchange of Coinbase shares.
+
+Seu Dinheiro reports that there was a lack of understanding between the two parties on the criteria used for valuing 2TM, particularly given the extent that the market has cooled off since the talks began late last year. 
+
+This deal would have been a big win for both companies had it been able to get to the finish line. With the deal’s collapse and Coinbase opting to set up a greenfield operation in the country and bootstrap (for the time being), the Brazilian market remains much more open. However, Binance continues to make up half of all bitcoin trading volumes in the country, so the state of the market effectively remains CZ versus the field.
+
+🏦 Brazil’s Central Bank raised its baseline Selic interest rate by 100 basis points to 12.75%. It’s the bank’s 10th straight rate hike, bringing the Selic to a five-year high, as it grapples with stubborn 12% inflation. An unflattering Bloomberg headline captured the sentiment: "Brazil’s Inflation is So Bad Even Central Bank Workers Protest”. Workers went on strike demanding that the institution increase their salaries by 26% to compensate for inflation losses.
+
+🎉 In other more exciting and optimistic news: Rio de Janeiro will be hosting Web Summit, one of the world’s largest tech conferences, May 1-4, 2023 at the RioCentro pavilion in Barra da Tijuca and will have a program spread throughout the city.
+
+The conference will surely aid Rio’s quest to reinvent itself as an innovation hub for Latin America, that will attract people, jobs and opportunities. Mayor Eduardo Paes said that the event is expected to generate an estimated economic impact of R$1bn (US$200m) for the city.
+
+Web Summit’s main event in Lisbon each year draws 70,000 entrepreneurs, investors and developers from around the world. Its CEO Paddy Cosgrave explained his rationale at a press conference:
+
+“We looked at several countries in the world, then we funneled to Brazil and fell in love with Rio.”
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report to read the rest of this newsletter

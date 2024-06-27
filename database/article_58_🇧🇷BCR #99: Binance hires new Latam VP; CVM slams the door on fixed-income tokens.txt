@@ -1,0 +1,90 @@
+🇧🇷BCR #99: Binance hires new Latam VP; CVM slams the door on fixed-income tokens
+Plus: Congressional committee on crypto pyramids is inviting everyone to the party
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of July 3-7, 2023. In this edition we dive into Binance’s new Latam VP, the CVM’s new opinion that most fixed-income tokens are indeed securities, and the Brazilian Congress’s ever-expanding probe into cryptocurrency pyramid schemes.
+
+Friendly reminder that this Linkedin edition is an abridged version of the full newsletter which I publish on Substack. Highly recommend subscribing there if you if you enjoy this content and want to stay abreast of the Brazil crypto ecosystem.
+
+Let’s kick this thing off
+
+-AWS
+
+CVM says fixed income-tokens are securities
+
+The Brazilian SEC released an opinion letter saying that it views fixed-income tokens as securities that must abide by the same rules as other assets. This means that these tokens, which yield as much as 1.5 percent per month, can only be traded with regulatory approval.
+
+The opinion is a blow to market participants who have been lobbying for the agency to take a more lax approach toward these assets. But the agency argues that because the assets are intermediated by a tokenization company there is no justification to exempt them from the normally applied rules.
+
+The letter, formally known as Circular Letter 6, complements an earlier opinion released in April and does not constitute official guidance or regulation. The CVM says that it is up to the companies issuing the tokens to determine whether the products are securities. Bruno de Freitas Gomes, superintendent of securitization supervision at the CVM, stated:
+
+“This Circular Letter is the result of an extensive debate between [CVM] and the market after the first disclosure on the subject in April of this year. Our objective with these documents is to provide the necessary clarifications and not to regulate the market"
+
+Tokens that are classified as securities must follow a strict set of specific rules regarding issuer registration, information on intermediation, bookkeeping, custody, centralized support, clearing, settlement and more.
+
+The letter has predictably sparked disagreement among stakeholders in the digital asset space, with token issuers criticizing the designation and other stakeholders arguing that the clarity is an improvement - even if it’s not exactly what tokenizers were hoping for.
+
+At the very minimum, asset tokenizers will be able to make more informed decisions on how to structure these products without triggering a stop order from the CVM.
+
+Critically, the letter draws a distinction between a securitization operation and collective investment agreement, while defining what is needed for a receivable token to not be considered a security. These requirements include not having features like buybacks, co-obligations and monitoring of payments and collections in the case of default.
+
+Lawyer Nicole Dyskant told Valor's Ricardo Bomfim:
+
+“The letter brought clarity on the concept that the issuer's gross revenue can be applied to the separate equity and not to the debtor. With this, uniformity is maintained in relation to the rules in force for funds and other vehicles that invest in securitization assets.”
+
+Still, the market isn’t thrilled with what it sees as an overly restrictive and limiting interpretation of when these tokens are and are not securities. Expect the dialogue to continue. Grupo GCB CEO Gustavo Carvalho Blasco told Valor Econômico:
+
+“There will certainly be new conversations between the sector and the CVM. In these interactions, one of the topics that must be addressed is the possibility that tokenizers ask for specific exemptions for their operations.”
+
+The CVM again recommended that fixed income tokens be issued using a crowdfunding exemption, which allows for issuances up to R$15 million. The industry has previously argued, however, that issuing tokens under this framework is not a feasible alternative.
+
+(Portal do Bitcoin) (InfoMoney) (Valor Investe) (CoinTelegraph Brasil) (Exame)
+
+🎂 Crypto CPI is inviting everyone to the party
+
+If you’re reading this, there’s a good chance you’ve been invited to testify in front of the cryptocurrency CPI as an expert witness.
+
+The special congressional committee originally established to investigate cryptocurrency pyramids in Brazil appears to be going through some major scope creep as it is inviting pretty much everyone in the local industry as a witness - including your gringo Brazil Crypto Report correspondent.
+
+Some of the individuals who made it onto the invitation list this week include: content creators Gustavo Cunha and Maurício Magaldi Magaldi, journalist Claudia Mancini, Lucas Pinsdorf of Mercado Bitcoin, Bankless Brasil DAO co-founder Victor Cioffi, Pinheiro Neto Advogados crypto super-lawyer Bruno Balduccini, Isac Costa of Walde Advogados, investor Alex Nascimento, MBA, Block4’s Thiago Canellas, CREDIX’s Chaim Finizola, Alexandre Ludolf of QR Asset Management Capital and Vortx, just to name a few.
+
+(There are dozens more, which you can officially track here or here in a more readable format compiled by Valor)
+
+New invitations were also proposed this week to individuals actually involved (or suspected of being involved) in actual pyramids like football legend Ronaldinho (who is now being invited as a witness as opposed to being summoned), influencer Diego Aguilar and the former Palmeiras players involved in the Xland scandal.
+
+The invitations still need to be confirmed by the full committee before they are official; however, no such request has been turned down by the CPI.
+
+Of course, it’s the committee’s prerogative to call the witnesses whom it reckons will best assist in its investigation and fact-finding. That said, it does feel like there is some major mission creep and political theater happening here.
+
+What should you do if you are “invited” as a witness? What I’ve been told is that you don’t really have a choice - as it is a bad look to refuse such an invitation, and the committee still has the power to officially summon you.
+
+Raquel Vez of Esenca PR wrote an op-ed for Portal do Bitcoin with some tips for how you should be approaching this from a comms and messaging perspective.
+
+(Portal do Bitcoin) (BlockTrends)
+
+Gisele and Tom lost US$50 million in FTX bankruptcy
+
+Brazilian supermodel Gisele Bündchen and her ex-beau Tom Brady lost nearly $50 million worth of equity when crypto exchange FTX imploded last year, a report from the New York Times revealed.
+
+Gisele accepted US$18 million worth of FTX stock to become a “social and environmental ambassador” for the exchange, while Brady pocketed $30 million. That equity is now worthless as the exchange is in bankruptcy proceedings.
+
+The now-divorced couple, along with other celebrities that endorsed the exchange like Stephen Curry, Larry David and Naomi Osaka, is also facing a lawsuit from former FTX customers seeking compensation.
+
+“None of these defendants performed any due diligence prior to marketing these FTX products to the public,” the lawsuit alleges.
+
+Binance appoints Min Lin as its new vice president for Latin America. 
+
+Before joining Binance, Min L. was executive director of the Global Markets Division at Goldman Sachs in Hong Kong. Lin said in a statement:
+
+“Latin America is a fast-growing region of great importance for Binance. Cryptocurrencies and the technology that supports them, the blockchain, are democratic, inclusive and can generate numerous benefits for people who today do not have access to the traditional financial system. 
+We see a great opportunity to contribute to the development of platforms, products and services for different sectors, both in the physical and virtual world, across the region.”
+
+In an interview with CoinTelegraph Brasil’s cassio gusson, Lin highlighted that the embattled exchange is keeping a close eye on Digital Real and tokenization developments in the country:
+
+"The tokenization and CBDCs sector is growing all over the world. Especially in Brazil there is a very interesting and different model which is a wholesale CBDC that should allow the population to access a tokenization ecosystem… Real Digital, as well as other CBDCs, are part of a great innovation that has been developing and we are observing all of this trying to understand how these innovations fit into our business profile..”
+🎙New 🇧🇷BCR Podcast Episodes
+
+I had the chance to interview Renan Kruger at the CODIFI / Blockchain.Rio event in late June. Renan is a digital asset specialist at Santander Brasil, one of Brazil's largest banks and one that is actively involved in the country's budding digital asset space. Have a listen on YouTube below, or on Spotify or Apple Podcasts.
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts

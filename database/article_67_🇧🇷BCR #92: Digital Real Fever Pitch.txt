@@ -1,0 +1,87 @@
+🇧🇷BCR #92: Digital Real Fever Pitch
+Plus: Vitalik gives Brazil a shout out in cryptic blog post; ex-Braiscompany employee speaks out
+
+(NOTE: This Linkedin post is a shortened edition of the Brazil Crypto Report newsletter. To catch the full version and more content please subscribe to the full version on Substack)
+
+Olá pessoal!
+
+Happy Bitcoin Pizza Day and welcome to 🇧🇷Brazil Crypto Report for the week of May 15-19, 2023!
+
+Big week on the Digital Real front as the Banco Central do Brasil and FENASBAC hosted a workshop in Brasilia featuring presentations from academics, builders and technologists who submitted papers on CBDC design concepts. The workshop came as the bank commences the testing period on its Digital Real pilot and ramps up its engagement with private sector partners.
+
+A total of 34 entities (individual companies and consortia) applied to participate in its Digital Real pilot, according to Valor. There are currently 10 vacancies to the program, though this number is expected to expand to as many as 15 or 20. Many of the country’s largest banks, credit unions, fintechs, card brands and technology providers have either submitted proposals or expressed interest - including large banks like Bradesco, Itaú Unibanco, Banco do Brasil and credit union cooperatives Sicoob and Sicredi.
+
+Even several smaller institutions like CaixaBank, Banco de Brasilia - BRB and Banco da Amazônia expressed interest despite not showing much interest in digital assets previously. The broad mix of applicants has been well-received by the bank. “We want diversity of visions and opinions in the group,” Fabio Araújo, lead of the Digital Real project, told Valor.
+
+Here’s a rundown of some key takeaways from the workshop and pilot submissions:
+
+Microsoft presented a technology that would create a bridge between the Digital Real and external public blockchain networks like Ethereum. The objective is to make the Digital Real “agnostic” so that it can work in any environment - whether the official Central Bank network or external public networks. (InfoMoney)
+Asset tokenizer Liqi also applied to participate in the Digital Real pilot with a proposal to tokenize public bonds. It entered into a consortium with two other companies with the goal of bringing security and reducing the complexity of the tokenization market. CEO Daniel Coquieri argued that a reliable tokenized currency backed by the Central Bank is the missing piece to the crypto universe:
+
+“The digital real, no matter if it is its CBDC [digital currency issued by the central bank] wholesale version or the one that will be distributed by banks backed by tokenized deposits, can scale the current structures offering greater security to the market.”
+
+Mercado Bitcoin applied via a consortium with Mastercard, CERC and Sinqia to test tokenized currency - both retail and wholesale - and treasury bonds. CEO Reinaldo Rabelo said in a statement:
+
+“The consortium addresses the three aspects given the diversity of the partners, with a focus on testing the items prioritized by Bacen for this stage, such as interoperability, privacy and network security.” (Valor)
+
+Yan Martins of Brazilian blockchain project Hathor presented a project that would allow regulators to access tokens held by consumers via a multi-signature architecture. (Valor)
+Valor Capital Group had a helpful write up summarizing key takeaways from the event and its general views on the Digital Real development process.
+
+I’ll be covering these topics in more depth in the coming weeks and months as I continue to believe the Digital Real is the most interesting development in digital finance this year. In the meantime, here a few photos I grabbed at the event.
+
+Have a great week everyone
+
+-AWS
+
+🥳 Vitalik gives Brazil a cryptic shout out in governance blog post
+
+Vitalik Buterin referenced Brazil in a hypothetical sci-fi scenario for a May 21 blog post entitled “Don’t Overload Ethereum’s Consensus”, in which a 2034 political crisis and disputed election in Brazil prompts a fork of Brazil’s CBDC.
+
+Hopefully next time Vitalik talks about Brazil the context will be more flattering 😂
+
+Brazil’s crypto law to take effect June 20
+
+The Marco Cripto, signed into law last December, will officially take effect on June 20. The law automatically takes effect 180 days after passage.
+
+According to Valor, the components of the law that do not require specific regulation from the supervising regulator - expected to be the Central Bank - will come into full force. However, certain criteria that still need to be ironed out by the Central Bank - such as the VASP licensing regime - will not take effect immediately.
+
+Importantly, there are questions about how this impacts foreign exchanges operating in the country without domicile. The law provides exchanges that are already operating in the country with six months to come into compliance. Exchanges that were not previously operating in Brazil will need to wait until the registration rules are published.
+
+@Renata Cardoso, an attorney with Lafosse, told Valor:
+
+"This means that providers of virtual asset services that are not operating in Brazil at the time the law is in force, once the law comes into force, will not be able to provide such services until they obtain authorization from the regulatory authority"
+Former Braiscompany employee speaks out
+
+Ismael Lira, formerly employed by Braiscompany as a security guard and a chaufer, detailed to Portal do Bitcoin how company founders Antonio Neto Eis and Fabricia Campos planned their escape from the country once the company’s operations became unsustainable - selling assets well in advance before disappearing in February. The couple is rumored to be hiding out in Buenos Aires.
+
+Lira, who served as a private driver for both Neto and Campos, said he finally understood the true nature of the pyramid scheme while witnessing the hurried fire sale before the enterprise collapsed and realizing that he would be among the investors who wouldn’t be getting their money back.
+
+Braiscompany is currently being investigated by Brazil’s Federal Public Ministry, with a focus on the whereabouts of the founders and the disappearance of R$2 billion (US$400 million) in investor funds.
+
+Lira also discussed Braiscompany’s reckless pursuit of new clients and the founders’ impressive ability to fool even sophisticated investors. He stated:
+
+“They managed to fool pretty much everybody. They didn't choose social class, nor did they spare those who were terminally ill, starving... they took over the house, they took everything. Campina Grande is currently experiencing a financial collapse”
+
+Lira added that he is personally in great financial distress as a result of the company’s collapse, and says that he has been on the receiving end of threats from his former bosses due his former proximity to them.
+
+“I'm getting a lot of death threats, saying they're going to kill me — that they know where I live.”
+
+🚨The Public Ministry of Paraíba also filed a civil action against Braiscompany last Thursday, May 18. The petition asks for restitution of damages to clients plus a 30% fine and R$20 million (US$4 million) in moral damages. The total damages to investors is estimated at R$258 million (US$51 million). (InfoMoney)
+
+👮 ♂️ Braiscompany was also the target of another operation by Federal Police on May 18, the third of its kind this year. Search and seizure warrants were executed in São Paulo in an operation called Select II.
+
+🤦 ♂️ Flavia Farias Campos, the sister of Fabricia Campos, has filed a lawsuit against her sister and Antonio Neto Eis arguing she was a victim of the company’s collapse and aiming to collect R$232,000.
+
+Brazilian Congress approves a commission to investigate crypto pyramid schemes
+
+Arthur Lira, speaker of Brazil’s Chamber of Deputies, approved a proposal to create a Parliamentary Commission of Inquiry (CPI) to investigate pyramid schemes involving cryptocurrencies.
+
+The CPI will collect information on 11 companies and individuals who have carried out such schemes, including Atlas Quantum, TraderGroup and Zero10 Club, and have had been issued stop orders by the CVM - Brazil’s securities regulator.
+
+The proposal to create the CPI was introduced by Deputy Aureo Ribeiro, the main protagonist behind the crypto legislation that was signed into law last December. Ultimately, the proposal earned the support of 171 deputies in the Chamber.
+
+The CPI will have a term of 120 days, which will be extendable for up to 60 more days. It will be comprised of 32 members and 32 alternates, nominated by political party leaders. The commission will have the powers of investigation similar to judicial authorities - the ability to summon authorities, request documents, etc. An official creation date has not been scheduled.
+
+🎙New podcast with Fortune’s Leo Schwartz
+
+Fortune crypto reporter Leo Schwartz joined the podcast to talk about his experience at Web Summit Rio and his impressions of the Brazil crypto ecosystem and regulatory outlook. Have a look on YouTube below or listen on Spotify or Apple Podcasts 👊

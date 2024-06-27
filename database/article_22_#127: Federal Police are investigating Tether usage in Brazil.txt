@@ -1,0 +1,114 @@
+#127: Federal Police are investigating Tether usage in Brazil
+Plus: Braiscompany CEO sentenced, but still remains at-large; Central Bank employees go on strike this week
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+This week we dive into the news of February 12-16, 2024, though it will be fairly brief as last week was Carnaval (and thus a pretty slow news week as you might imagine). Nevertheless, there are some important developments around USDT usage, a labor dispute at the Central Bank and Binance Pay uptake in the region.
+
+But first - some housekeeping: 
+
+🚨I’ll be heading to ETH Denver later this month, where I’m helping to put on an event for Filecoin which hopefully I’ll see some of you at. You can register here
+
+Feel free to shoot me a note if you’ll be around and want to have a chat. You can respond to this email or hit me on Telegram at @AaronStanley.
+
+🧱I would also like to flag Rio Onchain Week coming up March 19-24. This is a DevConnect-type series of community events being supported by ETHSamba, Bankless Brasil DAO, Modular Crypto, Lumx and others. There will be a hackathon, 10+ community events, 500+ builders. Check out their Notion page to learn more.
+
+📘Also be sure to check out Part 2 of Leandro Pereira (Sciammarella)“Drex for Gringos” guide, which dropped last week.
+
+Thanks for reading and have a great week everyone.
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🎙New podcasts
+
+This week I am joined by Vugar Usi Zade, who is the Chief Operating Officer at Bitget, which is one of the world’s largest crypto exchanges with more than 20 million users across 100 countries. Bitget is perhaps most renowned for its brand partnership with Argentine football superstar Lionel Messi.
+
+Brazil is shaping up to be a major battleground in the global exchange race in 2024. We discuss how the exchange established itself as one of the big players and how it is growing its footprint in Brazil in Latin America this year.
+
+Related, Bitget’s head of growth for Latin America Maximiliano Hinz spoke to Valor’s Ricardo Bomfim about the exchange’s plans to compete with the likes of Binance and Bitso in the region.
+
+🎧 As a reminder, you can find Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Federal Police investigate USDT users, transactions
+
+cassio gusson of CoinTelegraph Brasil reports that Brazilian Federal Police are investigating the growing usage of USDT in the country.
+
+Reportedly, the investigations indicate that the stablecoin has been used for money laundering by money changers and individuals acting as peer-to-peer resellers of cryptocurrencies. These actors are allegedly helping groups send money out of the country without paying taxes.
+
+In particular, USDT has been used to send abroad profits of companies and traders in São Paulo and Rio de Janeiro, authorities assert. The parties pay taxes on a small portion of their operations while sending larger portion out of the country via the stablecoin.
+
+The Receita Federal is also involved in the investigation and has identified inconsistencies in the activities of the parties identified.
+
+Of particular interest are shell companies that allegedly acquire crypto assets for the purpose of money laundering. The primary customers of these companies are dead people, beneficiaries of social welfare programs, elderly people over the age of 90, and traders and money changers from popular shopping districts like Rua 25 de Março in São Paulo.
+
+Apparently, a single accountant is responsible for more than 1,300 of these shell companies.
+
+Binance Pay transaction volume in Latam grows 61 percent in 2023
+
+Further, the total number of transactions increased by 105 percent for the region in 2023, the world’s largest crypto exchange reported.
+
+Binance Pay allows users to to pay for products and services, hotels, clothing, electronic games and more through local partners. It took on a more pronounced role in the region last year following the sunsetting of Binance’s card partnership with Mastercard.
+
+Min L., Binance’s regional vice president for Latin America, said in a statement:
+
+“We continue to work intensely to add new partnerships in the region, with the aim of expanding crypto use cases and continuing to bring closer the benefits that this technology can offer in terms of reduced costs and intermediaries, speed, security and transparency.”
+
+Valor
+
+Central Bank employees to go on 48 hour strike
+
+Banco Central do Brasil employees will officially go on a staggered strike starting February 20 and 21 after 97 percent of the National Union of Central Bank Employees (Sinal) voted in favor of the move.
+
+According to Sinal, the goal is to ““cause an operational and bureaucratic suffocation in the body, as a way of putting pressure on the government to meet the demands of the category”. Essential services such as the purchase and sale of public bonds to regulate the Selic benchmark interest rate, Pix and the Reserve Transfer System will not be impacted
+
+The union and the Brazilian government were unable to agree on a proposed 13 percent salary adjustment for 2025 and 2026. The union argued that the government did not adequately meet the demands of bank employees.
+
+Further, more than 50 employees had officially communicated their resignation as of last Friday.
+
+BlockNews
+
+Braiscompany CEO sentenced to 88 years in prison, but still remains at large
+
+A federal court sentenced Antonio Neto Ais, founder of the Braiscompany pyramid scheme, to 88 years in prison on charges of operating an unauthorized financial institution, money laundering and fraudulent management.
+
+Neto’s wife and co-operator, Fabricia Farias Campos, was sentenced to nearly 62 years on similar charges.
+
+However, the couple was able to flee to Argentina before the R$1.5 billion (US$300 million) investment scheme collapsed last February. When Federal Police raided Braiscompany’s Paraiba headquarters last February 2023, Neto and Campos had disappeared and still remain at large.
+
+Portal do Bitcoin
+
+Trending Coins in Brazil (via CoinGecko )
+
+Share via Whatsapp
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Coritiba Foot Ball Club token holders received the third and final installment tied to the sale of Domilson Cordeiro dos Santos, better known as Dodô. Investors received more than R$1 million (US$200,000) in the payout. The token, issued by Liqi, provides holders with a slice of the revenue remitted to the club via the FIFA Solidarity Mechanism - which compensates the club that originally developed a player when that player is purchased by another team. Liqi Digital Assets CEO Daniel Coquieri explained:
+
+“Seeing the investors who bought the Coritiba token receiving more than R$1 million, and seeing the team managing to take advantage of the benefits of tokenization, just shows how much the tokens have proven their need in the market.” (Portal do Bitcoin) (Livecoins)
+
+A new startup called 0xCarbon n that works with digital asset custody and artificial intelligence officially goes to market this month. The company has two solutions: a digital asset custody wallet for third parties and a generative AI application aimed at automating financial processes. The vision is to link these solutions to the Drex environment being developed by the Central Bank. Founder Fabio C. told Valor:
+
+“This trend should advance in the financial sector through blockchain technology. An example is the Central Bank's Drex project. In this wake, we observe an immense business opportunity.” (CoinTelegraph Brasil)
+📲 Adoption
+
+Microsoft and Hamsa are hosting an event called Drex & Beyond on February 26th in São Paulo. You can register here
+Bitso is integrating with Optimism to facilitate fast and cheap transactions on Ethereum. (CoinTelegraph Brasil)
+Mercado Bitcoin and MIT Technology Review Brasil are teaming up to produce a webinar focused on Drex and Brazil’s digital economy. The virtual event takes place February 20th from 9:15-10:15am, Brazil time. You can register here.
+The Trezor wallet software suite will receive its first official translation into Brazilian Portuguese. The language option will appear in the next Trezor Suite update. (CriptoFacil)
+Educational platform NearX announced a free bootcamp for people interested in learning to build blockchain projects through a partnership with Optimism. At the end of the program, a hackathon will award up to R$15,000 in prizes. (CoinTelegraph Brasil)
+Datawallet published a ranking of the top five crypto exchanges servicing the Brazil market. The winners are Bybit, Gate.io, Uphold, Binance and Mercado Bitcoin
+A Brazilian trader accidentally sold 1.7 BTC for just US$282 when he accidentally sold into a BTC/USDT pair with little liquidity on NovaDax. (Livecoins)
+Controversial podcaster Bruno Aiub, better known as Monark, published a request for bitcoin donations on his X profile. He received roughly US$200 worth of BTC within 24 hours after posting. (Livecoins)
+
+🏛 Policy, Regulation and Enforcement
+
+Federal Police see sufficient evidence to indict Titanium Asset partners Claudio Miguel Miksza Filho and Guilherme Bernert Filho for money laundering, setting up a criminal organization and crimes against the national financial system, Lucas Gabriel Marins of InfoMoney reports.Authorities also claimed there is enough evidence to indict another 21 people in the caseTitanium Asset is a Faria Lima-based asset manager that was the target of a Federal Police operation in November. It is accused of operating a financial pyramid that raised R$1 billion (US$200 million) from 7,000 investors.
+An investor in São Paulo was robbed of R$1 million (US$200,000) worth of crypto assets after his phone was stolen and his Binance account was drained. (Livecoins)
+
+

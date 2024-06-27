@@ -1,0 +1,130 @@
+🌎Latam Crypto Report #9: El Salvador's first bitcoin mining pool launches
+Also: Brazil, Argentina and Mexico crack top 20 on Chainalysis global adoption rankings; Buenos Aires to use ZK proofs for digital identity
+
+¡Hola a todos! 👋
+
+Welcome to this week’s edition of the 🌎Latam Crypto Report, a sister product to 🇧🇷Brazil Crypto Report that focuses on crypto adoption in the Spanish-speaking regions of Latin America.
+
+Huge thanks to Kristin Majcher as always for putting this report together. She is a freelance journalist based in Bogotá, Colombia. 
+
+Feel free to follow her on Twitter and LinkedIn and share any tips about news we should consider.
+
+This week we’ll dive into key announcements about El Salvador’s first bitcoin mining pool, a new crypto adoption report from Chainalysis and Buenos Aires’ move to use zero-knowledge proofs for digital identity.
+
+Then, we’ll review our usual rundown of news items by country.
+
+As always, thanks for reading. If you found this content to be helpful, please tell your friends and be sure to subscribe.
+
+El Salvador’s first bitcoin mining pool launches
+
+Volcano Energy and Luxor Technology have joined forces to create El Salvador’s first bitcoin mining pool.
+
+The mining pool, called Lava Pool, will be powered with geothermal energy.
+Volcano Energy, a public-private partnership, will exclusively mine bitcoin through Lava Pool, The Block reported. It will provide 23% of its net income to the El Salvador government, the news outlet added, citing a statement.
+
+(CriptoFacil, Cointelegraph, Bitcoin Magazine, Forbes, Exame, The Block)
+
+Chainalysis: Brazil, Argentina and Mexico lead Latam crypto adoption
+
+Brazil, Argentina and Mexico placed in the top 20 on Chainalysis' 2023 Global Crypto Adoption Index, with Brazil coming in 9th, Argentina in 15th and Mexico in 16th. The index is part of the blockchain analytics firm’s annual Geography of Cryptocurreny Report, which will be released in full later this year.
+
+While we wait for that, we got an interesting preview looking into crypto usage in Latam, and Argentina and Venezuela in particular.
+
+Some highights:
+
+Latin America has, received 7.3% of the world’s crypto between July 2022 and June 2023.
+Latam users exhibited a high preference for centralized exchanges compared to the global average. For example, these exchanges account for 92.5% of crypto activity in Venezuela. Mexico is a notable exception here as it has higher demand for altcoins that can only be traded on DEXs.
+
+The dominance of stablecoins in the region continues to grow, particularly in the area of remittances. Bitso CEO Daniel Vogel says that his company processed US$3.3 billion in remittances flows into Mexico in 2022, this makes up roughly five percent of the country’s estimated total flow of US$61 billion.
+
+Crypto purchases in Argentina ramped up significantly in the last year due to hyperinflation and the plummeting value of the Argentine Peso. The chart below shows the increase in purchase volume compared to decline value of the peso since November 2022.
+
+Alfonso Martel Seward, head of compliance at Lemon (which has more than 2 million users in Argentina) explained:
+
+“We have really high inflation, and there are lots of restrictions against buying foreign currencies. That makes crypto a valuable option for saving…As crypto adoption has grown, lots of people here will now get their paycheck and immediately put it into USDT or USDC.”
+
+A similar trend has was observed in Venezuela as residents grapple with extreme hyperinflation and political instability.
+
+This Chainalysis report is the gold standard when it comes to quantifying crypto adoption globally, so we’ll revisit this once the full report and datasets are published. We’ll also try to get a podcast interview with the Chainalysis research team to discuss these findings more in depth.
+
+(Chainalysis, BeInCrypto, Cointelegraph)
+
+Buenos Aires to use ZK proofs for digital identity
+
+Buenos Aires is launching a “decentralized digital identity protocol” based on zero-knowledge proofs, CoinDesk and other outlets reported.
+
+The city’s government is using an application based on Matter Labs’ zkSync Era rollup, CoinDesk said.
+Buenos Aires residents will be able to use QuarkID wallets to start accessing digital identity documents such as birth and marriage certificates as soon as this month, zkSync said in a post. The QuarkID protocol is developed by Extrimian.
+
+“This is a monumental step towards a safer and more efficient future for government services in Latin America,” Extrimian CEO Guillermo Villanueva said in statement. “QuarkID creates a closer relationship between a government and its citizens while also bringing digital identity practices and security standards to Latin America.”
+
+(BeInCrypto, CoinDesk, Contxto, Cointelegraph, DiarioBitcoin, The Block)
+
+
+
+
+🗞Latin America Crypto News Rundown
+
+Here’s where we break down Latin America crypto headlines from the past few weeks, organized by country and region. If you don’t see a country listed, it’s simply due to the news flow during a particular week.
+
+Regional News
+
+Bitfinex will offer zero-fee trading in Argentina, Colombia and Venezuela through its peer-to-peer platform until December 31, Crypto News reported. (Crypto News, Bitfinex)
+The Stellar Development Foundation and PricewaterhouseCoopers International (PwC) published a whitepaper outlining a framework to judge how efficiently blockchain projects promote financial inclusion. The paper examines projects in Argentina, Colombia and other emerging markets. (Cointelegraph)
+Nubank CEO David Vélez explains why the neobank is bullish on crypto in an interview with Fortune. (Fortune)
+Lemon partnered with OnRamper to help people in Mexico, Colombia, Ecuador, Peru and Uruguay buy crypto using local currency. (Contxto, Cointelegraph)
+Ripio Select Global VP Matías Dajcz said institutional crypto adoption is “exponential” at the recent Blockchain Summit Latam, while Ripio’s Facundo Rodriguez and Santiago Juarros discussed the Latin America market at Blockchain Rio. (CriptoNoticias, Cointelegraph)
+A new report from the University of Cambridge and Inter-American Development Bank examines trends in the region’s crypto asset ecosystem, featuring input from more than 80 private and public players. This is a massive 100 page report, so we will examine in more depth in a separate piece of content. (Decrypt, Crowdfund Insider)
+HackerNoon examines the regulatory landscape for crypto in Latin America. (HackerNoon)
+
+South America
+🇦🇷 Argentina
+
+Argentine Economy Minister and presidential candidate Sergio Massa proposed launching a central bank digital currency (CBDC) if he wins the presidential election. He will face candidates including Bitcoin enthusiast Javier Milei on October 22. (Cointelegraph, Decrypt, Criptonoticias, Livecoins, BeInCrypto)
+Oil company Tecpetrol reportedly plans to launch a gas-powered crypto mining facility in Patagonia. (Cointelegraph, Livecoins, Oil & Gas)
+At least seven people were arrested in Argentina and Brazil for stealing $230,000 worth of bitcoin, crypto and other items, CriptoNoticias reported. (CriptoNoticias)
+Buenos Aires police carried out an investigation against a bitcoin pyramid scheme accused of stealing $1 million, Livecoins reported. (Livecoins)
+Fintech Tapi partnered with Lemon to allow people to pay for services using crypto. (Cointelegraph, LatamList, Criptotendencias)
+
+🇨🇱Chile
+
+Worldcoin said it has scanned the eyeballs of more than 200,000 Chileans. (Decrypt)
+Chilean police discovered 19 bitcoin mining machines when carrying out a drug trafficking raid, local media outlet El Mostrador reported. (El Mostrador, The Street)
+
+🇨🇴 Colombia
+
+Binance Pay was the official payment method at the recent Cordillera music festival in Bogotá. (Binance, Cointelegraph, BeInCrypto)
+More than 1,500 people attended the seventh edition of Blockchain Summit Latam in Bogotá, local crypto outlet SoyHodler reported. (SoyHodler)
+Daniel Quiñones from Colombian fintech Cobre talked to SoyHodler about the state of the Colombian crypto market. (SoyHodler)
+
+🇺🇾Uruguay
+
+A token linked to cannabis-based medicines launched at a recent cannabis industry event in Brazil. (Valor Econômico)
+
+🇻🇪 Venezuela
+
+Police reportedly found mining machines in a Venezuelan prison after taking back control of the facility from a gang. (Portal do Bitcoin, France 24, Decrypt, Livecoins)
+
+Efforts to reorganize Venezuela’s digital asset regulator Sunacrip will be delayed by another six months. The regulator shut down after its members were accused of being involved in a corruption scandal earlier this year. (Cointelegraph, CoinGeek)
+
+Central America; Mexico
+🇸🇻 El Salvador
+
+The Mi Primer Bitcoin educational course will share its material with Cubans. (Livecoins)
+Bitcoin adoption in El Salvador is still low after it became legal tender just over two years ago. (InfoMoney, El País)
+Bitcoin Magazine sheds light on Volcano Energy, the public-private partnership in El Salvador planning to mine bitcoin using geothermal energy. (Bitcoin Magazine)
+
+🇲🇽 Mexico
+
+U.S. authorities sanctioned a Mexican national whose Ethereum wallet was linked to fentanyl trafficking. (CoinDesk, Cointelegraph, The Block)
+Bitso Business has more than 1,500 institutional clients. (Cointelegraph, Crowdfund Insider)
+
+🇵🇦Panama
+
+TowerBank will allow its Panama-based clients to buy crypto with dollars and plans to launch a new wallet called Ikiggi. (CriptoNoticias, Cointelegraph)
+
+🇨🇷Costa Rica
+
+Canada-based Bull Bitcoin has partnered with payment system SINPE Móvil to allow customers to pay for services and gas with bitcoin. (Cointelegraph, BeInCrypto)
+
+

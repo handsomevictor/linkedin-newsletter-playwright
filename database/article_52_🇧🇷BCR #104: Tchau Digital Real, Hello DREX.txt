@@ -1,0 +1,197 @@
+🇧🇷BCR #104: Tchau Digital Real, Hello DREX
+Plus: Binance layoffs hit Brazil; record 3.2 million Brazilians reported crypto trades in June; Worldcoin suspends iris scanning operation in Brazil
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for August 7-11, 2023. I hope everyone had a great weekend. TONS of news this week so let’s get right to it.
+
+But first, be sure to check out this week’s episode with Leandro Pereira (Sciammarella) who heads growth for Latam at Paysafe. Definitely worth watch/listen, and be sure to smash that subscribe and like button while you’re at it 😜
+
+🎧 Spotify | Apple Podcasts | Amazon | Anchor
+
+Thanks so much for reading and have a great week!
+
+-AWS
+
+🚨 If you enjoy this content, please consider subscribing to 🇧🇷Brazil Crypto Report on Substack for more content like this and/or sharing with a colleague. It helps a bunch! 
+
+Digital Real becomes “DREX”
+
+The Banco Central do Brasil on Monday, August 7 announced the Digital Real will officially be renamed as DREX.
+
+MidJourney prompt: journalists swarm a central bank as it announces the name of its new central bank digital currency, rendered as an old-time politic
+
+Hints of a name change began to emerge back in June, and the formal announcement was made during a live YouTube broadcast by Fabio Araujoújo, coordinator of the project, and Aristides Cavalcante Neto Cavalcante, deputy head of the bank’s information technology department.
+
+The institution published an explainer note on Linkedin with additional details
+
+Why the word DREX? The bank said in a statement that the combination of letters “forms a word with a strong and modern sound”. DREX will function as a “cousin” of Pix.
+
+Araújo gave further reasoning behind the name selection:
+
+“DREX brings together several elements of innovation: the D for digital, R for real, E for electronics and the X for transaction, taking a step further in this PIX family that we created and it was a success.”
+
+DREX the currency will be a wholesale CBDC that serves as a virtual representation of the Real, accessible to only authorized financial institutions. However, Araújo emphasized that it will have a practical and positive impact on the lives of Brazilians by making financial services more available. Practically speaking, the rollout will be similar to that of Pix but broader in scope in terms of the financial services impacted.
+
+“Today, people make payments easily using Pix. What we want is that with Real Digital, people can get a loan more easily or have a more accessible investment option or easier insurance. In other words, we want to bring these financial products to people's hands and increase bank access in Brazil.”
+"Drex is always associated with a financial service. So, this provision of service has its operating cost and the profit of those who offer this service. It is natural that the platform costs are part of this service."
+
+The conversation during the live got a bit heated, as one commenter noted that the project “reeks of state control” and asked how much power the state would gain from such a system. Araújo responded that the bank is testing out security systems to protect user privacy and that such a power grab would be out of the bank’s mandate or relevance as an institution:
+
+“The Central Bank doesn't know about people's lives, the BC wants to know about the economy. We just need the aggregated information.”
+“It does not gain any power, we will reproduce exactly the same relationships that we have today with the financial system within Real Digital.”
+
+You can watch below the full live session (in Portuguese) hosted on the bank’s YouTube channel👇
+
+(Portal do Bitcoin) (Valor) (Brazilian Report) (Valor Investe) (Reuters) (Globo) (Livecoins) (BlockNews) (BlockTrends)
+
+💡Need a brush up on what the Digital Real/DREX is? Check out these explainers from Valor Investe and InfoMoney. I also recommend this live hosted by InfoMoney’s Paulo Alves (in PT).
+
+🤔 Confused about how DREX differs from Pix? Check out this explainer from João Pedro Malar Massa at Exame. He also interviewed several marketing and branding experts to get their thoughts on the name change.
+
+🎉 Some other good DREX resources: this blog from Nord Investimentos; mobile app developer Cheesecake Labs has a good post in English explaining the project
+
+Binance layoffs hit Brazil amid culture challenges
+
+Brazilian and Portuguese language staff were hard hit by Binance’s recent reported round of 1,000 staff cuts, with 150 individuals impacted - primarily in the marketing and customer service divisions, Portal do Bitcoin reported.
+
+An affected former employee explained:
+
+“There were 150 people on the PT line (which included Portuguese BR and Portugal) and they just cut it. In this last cut, they removed half the team from the PT chat line, leaving about 26 agents. Before we were around 40.”
+
+Another employee that was let go told Portal do Bitcoin that the culture had become rife with burnout and anxiety, and said that the laid-off employees discovered they had been cut only after realizing they no longer had access to their computers.
+
+“In the last few months, the pressure was very high and no one was coping. Always, always the pressure was on for new users.
+“I only found out I was kicked out when I got on the computer and couldn't log in to clock in…They simply blocked all access without any prior notice. We were scared thinking it could be a bug or something else, then it dawned on us that we were fired. There was no conversation, no prior explanation, nothing.”
+
+The cuts are notable as Binance CEO Changpeng “CZ” Zhao promised in 2022 during a visit to Rio de Janeiro that he would hire 5,000 employees for its Brazilian operation.
+
+Binance issued a statement in response:
+
+“As we prepare for the next major upswing cycle, it has become clear that we need to focus on talent density across the organization to ensure we remain nimble and dynamic…This is not about reducing the size of the team, but about reassessing whether we have the right talents and expertise in critical positions.”
+USDT dominates trading volumes in 1H 2023; number of crypto investors in Brazil hits new record in June 2023
+
+Brazilians traded R$110 billion (US$22.5 billion) during the first half of 2023, according to new data released by the Receita Federal. This figure is a 30 percent year-over-year increase from the same period of 2022.
+
+R$90 billion of that volume (80 percent) was denominated in USDT. Bitcoin transactions made up six percent of the total, while Ethereum transactions made just one percent of declared trading volume
+
+Meanwhile, Brazilians traded R$18.6 billion (US$ 3.8 billion) of cryptocurrency in June, with a record 3.2 million CPFs (unique individuals) and 89,000 CNPFs (unique businesses) declaring transactions.
+
+Both June the CPF and CNPJ figures are the highest-ever recorded since 2019, when the RF began tracking this information.
+The 3.2 million CPFs is a 66 percent month-over-month increase from May
+
+However, Gino Matos of CoinTelegraph Brasil reports that the growth in users and volumes may be attributable to the increase in crypto platforms reporting this information, as opposed to an actual growth in the number of investors.
+
+(Portal do Bitcoin) (Estadão) (Exame) (CoinTelegraph Brasil)
+
+Fireblocks joins ABCripto; says Brazil is becoming top market in the Americas
+
+The Israeli custody solutions firm, valued at US$8 billion during its last fundraising round in January 2022, has joined ABcripto - Associação Brasileira de Criptoeconomia - the top trade association representing the digital assets industry in Brazil.
+
+Ran (Goldi) Goldshtein, senior vice president of payments, explained to Valor that the move is part of a broader push to make Brazil the lynchpin of its Americas strategy:
+
+“What we've seen in the last 18 months is an acceleration in Latin America, mainly Mexico and Brazil. And Mexico is not a very competitive market, it is mainly controlled by Bitso and other big players.”
+“Brazil is becoming the number one destination in the Americas, because the US is in a state of regression.”
+
+(BlockTrends)
+
+👀 Stay tuned as I have a new podcast episode with Fireblocks advisor Nicole Dyskant coming out in the next couple of days
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Brazilian investment funds with crypto exposure that are available to the general public held more than R$700 million (US$143 million) in assets halfway through 2023. This number is due to a growing number of pension funds seeking exposure to crypto. (Valor Investe)
+Brazilian neobank and DeFi platform Munchies will launch later this month with the goal of connecting Brazilian users to services like Aave, Curve and Lido - giving investors access to products and strategies like ETH staking and liquidity provision. Co-founder Thiago Arnese explained the vision:
+
+“People who are not inside this cryptonative world do not have access to these protocols. We plug in the biggest DeFi strategies, automate them all, so that the person still has custody, but in just one step and integrated with Pix.” (Valor)
+
+Crypto platform TruBit has launched in Brazil, complete with a Pix integration. The platform, which consists of TruBit and TruBit Pro, lists 155 cryptocurrencies and boasts US$130 million in daily spot trading volume. The company has also launched in Mexico, Colombia and Argentina. CEO Maggie Wu said in a statement:
+
+“It is a pleasure to announce our entry into the Brazilian market. As one of the largest countries in Latin America, Brazil is home to a significant community of cryptocurrency users. We recognize the importance of PIX, which corresponds to around 30% of digital transactions, as the main means of payment currently in the country.” (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+Ribus completed the sale of a property in downtown Rio de Janeiro using its native RIB token as payment. Ribus CEO Marcelo Bolelli Magalhães said in a statement:
+
+“Ribus is a pioneer in the real estate utility token model worldwide, digitizing processes and ensuring security and transparency through blockchain technology. The result is what we see now, with more negotiations within the real estate market and opportunities for everyone.” (Portal do Bitcoin)
+
+Fuse Capital and Transfero Group have teamed up to create a blockchain-based collateralized credit platform called Kona Finance. It incorporates the BRZ and USDC stablecoins and provides advances to small and medium-sized companies against future revenues. The platform currently advances R$3-R$4 million monthly and expects to growth that to R$10 million by the end of the year. (Valor)
+Attorney Nicole Dyskant has joined Vórtx QR Tokenizadora as an advisor on regulatory issues related to security tokens and digital assets. (Valor)
+Former Softbank executive Paulo Passoni joined the Valor Capital Group as a partner responsible for “growth equity” - ie high-growth potential startups. (Valor)
+Crypto exchange Ripio launched a new stablecoin called Cryptodollar UXD. (Exame)
+Brazilian fintech PlanetaryX raised US$2 million in an initial funding round. The startup seeks to use blockchain and artificial intelligence to create digital assets that help to preserve natural ecosystems. (CoinTelegraph Brasil)
+Liqi Digital Assets Daniel Coquieri reflects on the entrance of large Brazilian banks into the crypto space in a CoinTelegraph Brasil op-ed.
+BTG Pactual has surpassed Bradesco to become Brazil’s second largest bank, in part due to its proactive approach to Web3 and digital assets. (CoinTelegraph Brasil)
+
+📱Adoption + Digital Real (aka DREX)
+
+Worldcoin suspended its eyeball scanning operations in Brazil, claiming that the launch in the country was a success.
+
+Worldcoin Foundation began registering users two weeks ago at three locations across São Paulo, and said it was “pleased” with the pilot
+
+The controversial project did not report how many users it registered in the country and said “We hope to establish continuous services in Brazil in the future.” (Valor) (InfoMoney) (Exame)
+
+Folha de S. Paulo reports that Brazil’s National Data Protection Agency is evaluating whether Worldcoin’s activities comply with the country’s data privacy regime
+
+The DREX pilot consortium of Cooperativa Central Ailos, Cresol Cooperativa, Sicoob, Sicredi and UNICRED simulated the conversion of a financial institution’s bank reserve balance to a digital real/DREX portfolio, issuing its first tokens which will be backed by the DREX CBDC. (Valor) (CoinTelegraph Brasil)
+Central Bank president Roberto Campos Neto predicted during a Senate hearing that the growing use of digital money tools like Pix and DREX will lead to reduction in paper money in the country:
+
+“Paper money will decline, but it is difficult to predict whether it will cease to exist.” (InfoMoney) (Exame)
+
+Banco do Brasil has installed its node on the Hyperledger Besu-based DREX pilot network. (Valor)
+Football club Gremio recently released its $IMORTAL token, which it calls a “fan pass” that promises to be the “evolution of fan tokens”, in partnership with BTG Pactual and Win the Game. (Exame)
+Speculation continues to mount whether popular podcaster and influencer Monark used bitcoin order to circumvent a fine imposed by Supremo Tribunal Federal Alexandre de Moraes. Monark was penalized for R$300,000, but when authorities went to his freeze his bank accounts they found them empty. Monark had made numerous previous statements about bitcoin’s non-seizable nature. (Exame) (Livecoins)
+Maranhão became the first state to join the Brazil Blockchain Network, which was launched by BNDES and the TCU (Federal Audit Court) to bring efficiencies and transparency to public services. (CoinTelegraph Brasil) (BeinCrypto)
+Satsconf, a 100% bitcoin-focused conference to be held November 2-5 in São Paulo, will feature Lightning Network creator Tadge Dryja.
+CoinTelegraph Brasil’s Walter Barros Jr has a guide on how you can earn Nucoin using the Nubank platform
+Visa has developed a tool in partnership with BWS for selling and reselling event tickets in Brazil. The product was birthed in the Visa for Startups program. The company said in a statement:
+
+"One of the biggest challenges in the entertainment and events sector today is the proliferation and resale of fake tickets, generating losses both for ticket platforms and, mainly, for consumers who believe they are purchasing a legitimate ticket." (Exame)
+
+Speaker and author Bruno Diniz writes about how innovations like Pix and DREX will transform payments systems around the world. (Exame)
+Binance Brasil will put additional focus on partnerships with gaming companies, Guilherme Nazar told Livecoins in a statement, citing data showing a 33 percent uptick in NFT sales on the platform during the first half of 2023. (Livecoins)
+Grupo Foxbit Tokens is expanding its services offering in conjunction with goBlockchain. It will offer a white label platform that customers can use to create Web3 loyalty programs, represent tickets as tokens, and mint digital collectibles. Foxbit product director Rodrigo Ikegaya explained:
+
+“Utility tokens, better known as non-fungible tokens, are an extremely valuable technology with great potential to reach the general public. Therefore, Foxbit Tokens now offers a platform to support companies that want to participate in this market and take a step into Web3". (CoinTelegraph Brasil)
+
+The Museum of Archeology and Ethnology at University of São Paulo is using blockchain to map and register the archeological heritage of the city. (CoinTelegraph Brasil)
+ClearSale, the Confi app and CPQD are in the final stages of developing a blockchain-based digital identity solution for online purchases that is based on blockchain. The product is expected to go live in October. (BlockNews)
+Blocknews and Cantarino Brasileiro are hosting a free online event called Blockchain Finance Brasil on August 16 that examines cryptocurrencies and financial services.
+TMX Energy, a social power manufacturer in Minas Gerais, is raising R$2 million through bank credit bills tokens on the Polygon network in partnership with Infratoken, co-founded by Caroline Nunes. (BlockNews)
+Rio de Janeiro is accepting applications for its innovation sandbox until August 25. (Panorama Crypto)
+
+🏛 Policy, Regulation and Enforcement
+
+Trust Investing, an alleged R$4 billion crypto pyramid that involved pop singer Perlla, used a sophisticated scheme to manipulate the price of its Truster Coin, per new evidence revealed in a court hearing. The token was used to make payouts to customers before the company collapsed in 2022. Diego Chaves and Fabiano Lorite, the leaders of the project, argued that the company was not a pyramid and claimed that the reason they stopped paying customers was due to a hack perpetrated by Cuban programmers. (Portal do Bitcoin)
+Trust Investing leaders Patrick Abrahão, Ivonélio Abrahão and Diorge Chaves will be released from prison after a judge revoked their preventative arrests. Patrick Abrahão is an influencer and husband of the pop singer Perlla. (Portal do Bitcoin)
+13 individuals affiliated with Braiscompany, including founders Antonio Neto Eis and his wife Fabrícia Campos, are now formally defendants after a Paraíba court accepted a complaint brought by the Federal Public Ministry against the operators of the alleged cryptocurrency pyramid scheme. (Portal do Bitcoin) (InfoMoney)
+
+The complaint reveals how Neto Eis and Campos used borrowed passports to orchestrate their escape to Argentina before police raided the Braiscompany headquarters in Campina Grande earlier this year. (Portal do Bitcoin) (Livecoins)
+
+Braiscompany had 18,570 clients and a portfolio of R$1.1 billion (US$224 million), per records discovered by Federal Police during the raid. The documentation also shows how the company devoted its efforts to attracting new customers rather than trading. It had 459 brokers and consultants who sold investment contracts against just 21 traders. (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+The CPI committee on financial pyramids on August 9th heard from executives of three major exchanges: Reinaldo Rabelo of Mercado Bitcoin, Grupo Foxbit’s João Canhada and Bitso Brasil’s Thales Freitas. The three witnesses tried to distance the crypto industry from the negative connotation of pyramids while highlighting practices such as asset segregation to better protect consumers. (Portal do Bitcoin)
+A separate hearing of the committee on the 8th heard testimony from Courtnay 考特内 "CognoChain" Guimarães of Avanade, Erik Navarro Wolkart, compliance and digital law attorney Matheus Puppe Magalhães and ABCripto executive director Bernardo Srur (CoinTelegraph Brasil) (BeinCrypto)
+Federal Deputy Paulo Bilynskyj is attempting to summon representatives from Canis Majoris and GR Bank to testify at the Financial Pyramids CPI over supposed connections to fraudulent companies. (Portal do Bitcoin)
+The CPI is not satisfied with the responses delivered by Brazilian football clubs that have issued their own fan tokens and has asked the teams to submit more details, Livecoins reports.
+Pedro Torres argues in a Portal do Bitcoin op-ed that the CPI committee and the media are using the term “financial pyramid” too liberally.
+In what is being billed as a push to crack down on tax evasion, a Brazilian congressional commission approved a provisional measure that will require gains cryptocurrency trading abroad to be taxed as income from financial investments.
+
+The tax would fall into three tiers, starting from 0% up to R$6,000 per year, 15% for R$6,000 - R$50,000 per year, and 22.5% for income greater than R$50,000 per year.
+
+This would impact Brazilians who trade on overseas exchanges such as Binance, Bitget, Bybit, Bitfinex and Gate.io
+
+The text was included into a broader provisional measure focused on the minimum wage
+
+To become law, the provisional measure will need to be passed by both the House and Senate, and then signed into law by the president by August 28.
+
+Leonardo Freitas de Moraes e Castro, a partner at VBD Advogados, told InfoMoney:
+
+“The government's idea is to close this previously existing alternative, in line with other investments abroad made by individuals via offshore companies, as well as to clarify that income generated from operations with crypto assets will be subject to taxation in Brazil 'as if were financial investments'.” (Portal do Bitcoin) (InfoMoney) (InfoMoney) (Valor) (Exame) (CoinTelegraph Brasil)
+
+Ana Paula Rabello lays out some of the implications for this taxation rules change in a Portal do Bitcoin op-ed
+The US Secret Service carried out a training session on bitcoin for civil authorities in Belo Horizonte. (Livecoins)
+A Rio de Janeiro court denied an injunction requested by actress Tatá Werneck against Atlas Quantum, a R$7 billion (US$1.43 billion) bitcoin pyramid that collapsed in 2019. She requested that the business stop using her likeness in photos and videos, arguing that the contract between the two never expired, even though Atlas collapsed five years ago. . (InfoMoney) (Portal do Bitcoin) (Livecoins)
+Werneck and fellow actor Caua Reymond are expected to testify in front of the CPI committee in Brasilia on August 15. (Livecoins)
+
+

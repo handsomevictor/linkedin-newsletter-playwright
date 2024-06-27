@@ -26,7 +26,7 @@ Thanks for reading and have a great week!
 
 New podcast!
 
-This week’s episode is another panel session from Web Summit Rio, where Transfero Group CEO Márlyson Silva and Koyamaki Ventures partner Daniel M. and I explore cryptocurrency adoption around the region from Brazil to Argentina to Colombia.
+This week’s episode is another panel session from Web Summit Rio, where Transfero Group CEO Márlyson Silva and Koyamaki Ventures partner Daniel Marquez and I explore cryptocurrency adoption around the region from Brazil to Argentina to Colombia.
 
 Big thanks to the Transfero Group team for hosting this session on their stage!
 
@@ -34,7 +34,7 @@ Big thanks to the Transfero Group team for hosting this session on their stage!
 
 Crypto regulations ready in early 2025: BC’s Damaso
 
-The Central Bank of Brazil should unveil formal regulations to regulate the country’s cryptocurrency market in early 2025, director of regulation Otávio Damaso said during remarks at the Brazilian Internet Congress, hosted by ABRANET
+The Central Bank of Brazil should unveil formal regulations to regulate the country’s cryptocurrency market in early 2025, director of regulation Otávio Damaso said during remarks at the Brazilian Internet Congress, hosted by ABRANET 
 
 “We are in a very advanced process,” Damaso explained, adding that the second consultation seeking input from the public will be live in September.
 
@@ -62,7 +62,7 @@ The National Association of Brokers and Dealers (Ancord) unveiled Brazil’s fir
 
 The course was developed in partnership with BlockTrends and includes a mix of courses, tests and a certification exam by Fundação Getulio Vargas. Advisors who participate in the program can earn up to 120 points in ANCORD ’s continuing education program.
 
-Orlando Junior , head of certifications at Ancord, explained that such a program is necessary now given the rising interest in the area from clients:
+Orlando Junior, head of certifications at Ancord, explained that such a program is necessary now given the rising interest in the area from clients:
 
 “Investors are increasingly demanding and seek to be served by specialized, qualified and qualified professionals.”
 
@@ -76,13 +76,6 @@ Valor Exame CoinTelegraph Brasil
 
 Share via Whatsapp
 
-Recommended by LinkedIn
-Weekly Crypto Market Review
-Venomex Limited  2 years ago
-How do the Tortoise and the Hare apply to Bitcoin?
-Zachary Amzallag  7 months ago
-Top 4 Crypto news you have to know NOW!
-ABZER  1 year ago
 🗞Brazil Crypto News Rundown
 📈 Markets
 
@@ -90,7 +83,7 @@ Paxos launched a new product called the Lift Dollar (USDL) which allows holders 
 
 Early distribution of USDL will be focused on Argentina via partnerships with Ripio, Buenbit and TiendaCrypto
 
-Paxos CEO Charles Cascarilla explained the vision behind the product to CoinDesk’s Ian Allison :
+Paxos CEO Charles Cascarilla explained the vision behind the product to CoinDesk’s Ian Allison:
 
 “We’ve added programmatic daily yield so this looks a little bit more like a savings product than a checking account product, which is maybe the way to think about traditional stablecoins…“USDL] is going one step further from democratizing access to dollars, to also democratizing the risk-free rate, in the safest manner possible.” (Valor)
 
@@ -113,11 +106,11 @@ Dog Go To The Moon, a bitcoin-based memecoin, has become popular among Brazilian
 
 📲 Adoption
 
-Nicole Dyskant has taken on an additional role as an advisor to TaxBit , which is a crypto tax compliance company valued at US$1.3 billion. Her role is to help the company explore the Brazilian market. (Globo)
-Ripple Labs donated US$25,000 to Rio Grande do Sul relief efforts, mediated by BRLA Digital . (CoinTelegraph Brasil)
+Nicole Dyskant has taken on an additional role as an advisor to TaxBit, which is a crypto tax compliance company valued at US$1.3 billion. Her role is to help the company explore the Brazilian market. (Globo)
+Ripple Labs donated US$25,000 to Rio Grande do Sul relief efforts, mediated by BRLA Digital. (CoinTelegraph Brasil)
 WhatsApp will enable Pix payments via its payments platform. Guilherme Horn, PhD the app’s head of strategic markets made the announcement. (CoinTelegraph Brasil)
-brx finance , the joint venture between Transfero and Fuse Capital , has joined the Chainlink Build program. (BlockNews)
-Mocaverse, the metaverse project launched by Animoca Brands , sees Brazil as a critical growth market for reaching its goal of 700 million users globally. (CoinTelegraph Brasil)
+brx finance, the joint venture between Transfero and Fuse Capital, has joined the Chainlink Build program. (BlockNews)
+Mocaverse, the metaverse project launched by Animoca Brands, sees Brazil as a critical growth market for reaching its goal of 700 million users globally. (CoinTelegraph Brasil)
 The Paraguayan government announced that it plans to sell off its surplus electricity to clients such as bitcoin miners rather than to Brazil — which pays three times less than the market rate under the Itaipu agreement. (CoinTelegraph Brasil)
 
 🏛 Policy, Regulation and Enforcement

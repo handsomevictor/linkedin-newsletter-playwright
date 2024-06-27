@@ -1,0 +1,90 @@
+Breaking Down Brazil's Bitcoin Law
+For more news, commentary and interviews exploring the Brazil crypto ecosystem, subscribe to 🇧🇷Brazil Crypto Report on Substack and the 🇧🇷BCR Podcast on Spotify
+
+E aí galera, tudo bem?
+
+Big news this week as a comprehensive crypto regulation bill was approved by Brazil’s Federal Senate on Tuesday after several false starts. The legislation now moves to the Chamber of Deputies, the lower house, where it will receive a full plenary vote - though timing of this is uncertain. 
+
+The lower chamber approved a version of this bill back in December, so it should be too much of a lift to pass this amended text. If approved, the bill advances to President Jair Bolsonaro’s desk for signature (or veto).
+
+What all does this mean for crypto in Brazil? Well, not too much for crypto users and investors. They will still be subject to the same income tax and monthly capital gains tax reporting requirements to the Receita Federal.
+
+The law itself is fairly basic, which most see as a good thing (boring is better in this case). For example, it doesn’t touch on emergent issues such as DeFi, NFTs, etc.
+
+The TLDR is that the legislation will:
+
+Establish an operating framework for crypto businesses and exchanges (who will be known as “virtual asset service providers”. They will be subject to same responsibilities as other financial entities as it relates to AML compliance, etc. This will bring the country in-line with recommendations issued by the Financial Action Task Force.
+VASPs will be required to report suspicious transactions to the Financial Activities Control Council (COAF)
+Limit the CVM’s (Brazilian securities regulator) jurisdiction to solely crypto assets that are classified as securities, such as token sales
+Task the executive branch with appointing a regulatory body to oversee crypto businesses (most likely the Banco Central). Companies operating in the sector will require prior authorization from this authority; any company operating without such a license will be considered illegal.
+Impose a penalty of 2-6 years imprisonment for crimes carried out using virtual assets (the original proposed penalty was 4-8 years but was since lowered). This is a direct response to the concerning number of bitcoin pyramid schemes that have proliferated in Cabo Frio and elsewhere. These have caused R$6.5bn (US$1.3bn) worth of harm to investors, according to proponents.
+Implement a tax exemption until 2029 on the import of machinery and software for processing, preserving and mining cryptos (such as ASIC mining devices). The exemption will be available to companies that neutralize 100% or their emissions. The aspiration here is that will help transform the country into a “green mining mecca”.
+
+Positive Reception from Industry
+
+Generally speaking, regulation isn’t a topic that crypto people get excited about. However, in this case industry reception has been generally positive as there is an understanding that clarifying the rules of the game and identifying the proper guardrails at this moment time is a breakthrough.
+
+Many are arguing that this law, if it is ultimately approved, doesn’t just create a working framework for crypto exchanges in the country, it makes Brazil a global leader in this regard.
+
+“This initiative not only puts Brazil at the forefront of the global cryptocurrency ecosystem, but will also mark a before and after for users,” Julián Colombo, head of public policy at Bitso, told Valor Investe.
+
+Julien Detra, director of government relations at Mercado Bitcoin, said in an interview with Valor Economico that the legislation puts Brazil at the “vanguard” of nations who are regulating to stimulate and not restrict the market.
+
+Rodrigo Monteiro, executive director of ABCripto, a trade group representing crypto companies in Brazil, expressed optimism that the bill provides the necessary framework to help the crypto ecosystem develop in Brazil. He told CoinTelegraph Brasil:
+
+“We understand that the debates around the Regulatory Framework are on the right path, as they reconcile all aspects relevant to society, from consumer protection to the prevention and fight against money laundering.”
+
+Alexandre Ludolf, investment director at QR Capital, argued to CriptoFacil that the bill checks all the boxes by addressing financial crime and establishing a singular regulatory overseer:
+
+“ I]t is in the right direction…Brazil is advanced in the cryptocurrency regulatory field. In addition, it consolidates the country as a high potential market for the global crypto industry”
+
+The legislation also gives more confidence to foreign exchanges, brokers and service providers looking to enter the market, argued Daniel Cawrey, director of strategy at Passfolio, adding: “Passfolio supports regulation in the cryptocurrency market as there are often no punitive measures to ward off fraudsters.”
+
+Still, there are lots of questions
+
+Things get a bit complicated when we shift to the question of Brazilian customers using foreign exchanges, some of which may be deemed “illegal” if they aren’t fully compliant with the new law, Isac Costa, a lawyer and professor at Insper and Ibmec, explained to InfoMoney.
+
+This means that users of these exchanges will have problems “cashing out” from crypto to fiat, should they choose to do so. They will need to move their coins to an exchange considered to be legal and regulated by Brazilian authorities. However, doing this could lead to reporting problems with the Receita Federal given the lack of clarity around the origins of the assets.
+
+These headaches could extend even to investors on foreign exchanges that intend to comply with the new law (presumably Binance). Costa explained:
+
+“Investors who already have an account with these service providers, if they join the regulation, may have a problem with the information omitted from the tax authorities…It's not that these exchanges will make a retroactive declaration, but before you were in a more comfortable position, you didn't need to control your operations, you didn't need to declare in the Income Tax, and now you will have this work.”
+
+Ana Carolina Monguilod of i2a Advogados also pointed out that critical questions around taxation of crypto assets vis-a-vis other types of financial assets were left unaddressed:
+
+“From a tax point of view, the legal framework does not answer questions about the taxation of crypto assets. The gaps existing before approval remain the same.”
+
+Daniel Coquieri, CEO of Liqi, argued that penalties for crimes involving digital assets should have been made higher:
+
+“One point that caught my attention was the very low penalty for crimes with cryptocurrencies. I think, given Brazil’s track record, Congress could have given a greater sentence.”
+
+Another concern that’s come up frequently is that the establishment of the Banco Central as the singular crypto regulator for the country is akin to a fox guarding the henhouse.
+
+While the institution and its president Roberto Campos Neto have been very forward thinking when it comes to crypto and public blockchains, Pix and the Digital Real are direct competitors to crypto as it relates to the payments use case. We could be looking at a major misalignment of incentives as the Banco Central would have the authority to approve, cancel, penalize and create new barriers to entry for firms looking to compete with these existing solutions.
+
+As with any scenario where new regulation comes into play, there is a risk that the “friends of the king” are rewarded and protected while political enemies are denied the opportunity to compete.
+
+Federal Deputy Paulo Ganime warned of these risks in an earlier speech, according to Coin Times:
+
+“The project tries to regulate in several ways, but one of them is authorization by the Executive Power, which can create market reserve, can unfairly block companies that already operate in this market”
+
+Case in point, smaller companies in the space and traders operating peer-to-peer aren’t as excited however, as they see it as primarily benefitting large brokers. One of them, interviewed by CriptoFacil, explained:
+
+“I'm even going to stop working in the area, because the excess of regulation makes the activity unfeasible for small companies in the area. For example, what criteria will be used? What capital will be required? For me, it's the type of regulation that will favor the big brokers and that makes the business unfeasible. I am already prepared to close the company, as soon as the law is passed.”
+
+Another operator in the p2p space wasn’t just critical of the end result, but the motives behind the proposal:
+
+“The proposed regulation is not intended to harm p2p, but to break it. It aims to eliminate the little ones and keep the cooperative system keeping only the big ones in business…I will most likely declare bankruptcy in the company and return to informality. And that's what will happen naturally with most p2p. Some who have already achieved financial freedom may even stop altogether. Governments have not understood what bitcoin is, and they think they will be able to control it. But in the end, it will backfire.”
+Long Road Ahead Still?
+
+While the bill has a fairly clear path to passage in the Chamber of Deputies and President Jair Bolsonaro, there will be a lot of sausage-making to be done before this framework is able to be implemented in a meaningful fashion.
+
+The first item on the to-do list is for the Executive Branch to assign a regulator for the industry. As discussed above, this will most likely be the Banco Central. This regulator will then need to get to work building out a licensing regime and supervisory apparatus that companies can begin applying for and complying with.
+
+This will all take a lot of time to do, and there is a pretty broad scope for what this regulator needs to do and how it can go about doing it. This broad scope is double-sided: on the one hand, the entity will have a broad enough mandate to put in place the best structure possible. On the other, there will be a lots of opportunity for lobbying, “political entrepreneurship” and bureaucratic jockeying before we land anywhere near a fully-baked regulatory regime here.
+
+🎙Be sure to check out the most recent BCR podcast with Kim Grauer, director of research at Chainalysis. We chat about some recent analyses she has done looking at cryptocurrency usage and gains across Brazil and the Latam region. The episode can be found on Spotify.
+
+tchau tchau!
+
+-AWS

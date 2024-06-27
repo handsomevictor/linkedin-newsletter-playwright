@@ -1,0 +1,120 @@
+🇧🇷BCR #75: Braiscompany on the Brink as Another Crypto Pyramid Borders on Collapse
+Plus: Bradesco issues first tokenized security offering; report back from Davos/WEF
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Ola pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the weeks of January 9-13 and January 16-20, 2023.
+
+Apologies for being missing in action the last couple of weeks. I just wrapped up a wild couple of weeks in Davos for the World Economic Forum annual meeting and finally made my way back to Brazil.
+
+Huge thanks to everyone who stopped by the Filecoin Sanctuary in Davos, which was produced by Filecoin Foundation in conjunction with CNBC. It was an incredible opportunity to showcase our work in decentralized data storage and open data services, which I reckon to be a critically important Web2 to Web3 transitional use case
+
+Before you label me a Davos Man or WEF shill or whatever, please know that I’m fully aware that the WEF is a very controversial organization at this point in history, and I find many of these criticisms to be quite valid for many reasons. Given the state of humanity right now, the optics surrounding a secret cabal of billionaires and world leaders flying in on private jets to a remote town in the Swiss Alps to take orders from a James Bond villain-type character are pretty bad.
+
+What the WEF does do better than anyone else is convene a super high-level community across geopolitics, business, tech, culture, media and philanthropy. These are people who are generally interested in sharing new ideas, understanding trends and getting ahead of the next big thing. Most of the people that descend upon the town aren’t even WEF members - of the estimated 12,000 - 15,000 people that show up, only about 3,000 are actual WEF attendees. The rest participate in side events, dinners, parties, other networking activities throughout the week, giving the town almost a Burning Man festival type vibe - especially now that there is an abundance of blockchain companies and crypto entrepreneurs plotted in venues across the city.
+
+Simply put, there is no other event in the world that attracts the spectrum of high-level people in the same manner as Davos. The mix of people, events and energy around town is the insanely high quality year after year, which is why I make it a point to attend every year even though I am not a huge proponent of the WEF as an organization itself.
+
+The Filecoin Foundation activation was a huge hit - we hosted an incredible fireside chat between Sir Tim Berners-Lee, inventor of the world wide web, and Filecoin founder Juan Benet. It was a moment that brought together two generations of internet pioneers on one of the world’s biggest stages. Truly incredible to witness.
+
+Greta Thunberg also made a surprise appearance at our venue to bash Davos elites for not caring enough about climate change.
+
+I also had the chance to host a Latin America crypto adoption panel discussion at another venue with Taynaah Reis of Moeda Seeds, Andre Portilho of BTG Pactual and Justus Schreiner of Casper Labs.
+
+In between all of the madness, I was able to sneak in a couple of ski outings in frigid temperatures. Unfortunately, I had to quit early as my goggles kept fogging up and then freezing - rendering them unusable.
+
+I realize I’ve fallen a bit behind on keeping up my weekly cadence and delivering on some other projects, so please bear with me as I try to make up for lost time here.
+
+Anyways, with this WEF project behind me I plan to invest more time and resources into growing the Brazil Crypto Report footprint over the rest of 2023.
+
+As always, I appreciate you reading and I hope you have a great week.
+
+-AWS
+
+Braiscompany delays payouts to investors again as another crypto pyramid scheme borders on collapse
+
+The case of Paraíba-based Braiscompany, which offers “crypto-asset rental” services to clients with the promise of enticing yields, grows more gloomy by the day. The firm, which claims to be the largest blockchain holding company in Latin America, delayed payments to investors for the third consecutive month, raising alarms about its solvency and prompting a flurry of complaints on social media and elsewhere.
+
+Braiscompany offers a fairly straight-forward scheme whereby clients lock up a certain amount of bitcoin for a fixed period and then receive payouts each month (anywhere from 7% - 15%) tied to the gains created by the company’s traders.
+
+The firm began delaying payouts to its ~10,000 investors in late December, prompting a myriad of complaints from clients on Reclame Aqui and Instagram (where the firm had to deactivate comments on its posts) and elsewhere demanding their money back. Many have gone so far as to camp out outside Braiscompany’s headquarters in Campina Grande until they are paid what they reckon they are owed.
+
+Some are suggesting that a Braiscompany collapse will have the same injurious impact on Brazilian investors in the same manner as other infamous crypto pyramid schemes like GAS Consultoria, Atlas Quantum and Rental Coins.
+
+Braiscompany owner Antonio Ais Neto emphasized that his company has one million customers and only small portion - just one percent - are having issues withdrawing funds.
+
+Other reports have emerged asserting that the firm’s R$40,000 office rent has not been paid since last September.
+
+In response to complaints, the Neto Ais pointed the finger at FTX and Binance in order to deflect criticism, specifically accusing Binance of arbitrarily locking Braiscompany’s withdrawals. Roughly 80% of the company’s trades are done through Binance and 80% of the firm’s capital is held on the exchange.
+
+Braiscompany then required that customers submit a declaration of wealth, detailing how much money they have and how they acquired it - in addition to income tax returns, in order for their funds to be returned. Braiscompany stated in an email to clients informing them of these requirements:
+
+“Exchanges are entitled to demand certain proofs of legitimacy from their customers. We received a request to clarify reports from some customers selected by the exchange to demonstrate some information. These are routine data, as soon as these reports are satisfactory, all resources will be released”
+
+A complaint was registered with the CVM, Brazil’s securities authority, on January 12 accusing Braiscompany of undertaking an irregular securities offering and requesting an investigation. Both the CVM and Paraiba’s Public Ministry have been investigating the firm since at least July 2022.
+
+Anbima, a capital markets trade group, emphasized that it has not endorsed or approved Braiscompany and that the company has been misusing the Anbima brand in promoting itself.
+
+YouTuber and Suno Research founder Tiago Reis has also been warning of the company’s insolvency for several weeks and urging investors to get out while they can. He wrote in a complaint on his Instagram profile:
+
+“In the beginning, Braiscompany offered more returns, and now it is decreasing. A sign that the pyramid is losing strength. If you have money or have a friend there, withdraw your money and let them know.”
+
+Record News’ Batalha dos Startups reality television program has also expelled Braiscompany from its show until the case is clarified.
+
+Portal do Bitcoin has been doing some excellent reporting on this so I’d encourage you to check it out.
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+BTG Pactual’s boostLAB announced enrollment for its 2023 cohort. The venture studio and accelerator will invest R$500,000 to R$1.5 million in select tech companies, including those focusing on blockchain, crypto and fintech. (CoinTelegraph Brasil)
+A new report from QR Capital highlighted exchange tokens such as LEO and OKB were highlights of an otherwise brutal 2022. (CoinTelegraph Brasil)
+Transfero launched its Transfero Prime service, offering white glove custody and trading services to clients with a minimum investment of R$100,000. Transfero CEO Thiago Cesar commented:
+
+“We intend to help Brazilian investors to enter the crypto market. We noticed that people have been looking for a safer way, at the same time personalized and transparent in their solutions, agile and with liquidity. It is a latent demand mainly from the high-income public, who often do not have much knowledge about the financial market.” (CoinTelegraph Brasil)
+
+Mercado Bitcoin listed the Ambify token (ABFY), issued by Ambipar, that allows for offsetting carbon emissions. (Portal do Bitcoin)
+Binance appears to have become the new home for Brazilian traders who previously used FTX prior to its collapse in November, according to data from the Receita Federal. (CoinTelegraph Brasil)
+Banco Bradesco executed a pilot project to tokenize a bank credit note security worth R$10 million (US$1.9 million). The asset will now be listed on the Bolsa OTC Brasil, a CVM-approved platform for trading security tokens linked to publicly-traded companies. According to the bank, it marks Brazil’s first tokenized transaction regulated by the Central Bank, as it took place in Bacen’s regulatory sandbox. Bradesco’s executive director Edson Moreto commented:
+
+“We continue to work and test the benefits of blockchain technology using its innovation ecosystem, Inovabra, so that new operations are available to our customers.” (CoinTelegraph Brasil) (Portal do Bitcoin) (InfoMoney)
+📱Adoption
+
+Brazil’s Digital Real will function as a wholesale CBDC used for large transactions by banks and financial institutions. Digital Real-backed stablecoins, essentially tokenized versions of the Digital Real issued by banks, will be used by the retail population, Fabio Araujo explained this week to Valor.
+The key difference between this approach and that taken by countries like China, which is developing its own digital yuan, is that instead of simply tokenizing cash Brazil is turning bank deposits into Digital Real tokens. The advantage of this approach, according to Araujo, is that it creates a focus on building a tokenized economy and leaves retail distribution to existing intermediaries. Araujo stated:
+
+“We thought it better to eliminate this risk from the system and reproduce what already existed. The intention was to bring technology, provide new services, reduce costs and democratize access, but without changing the current operational and regulatory structure”
+
+Araujo also revealed that the Banco Central is developing its own Ethereum-inspired blockchain for the Digital Real, with the goal of migrating the current Brazilian payments system to the digital economy. Araujo told Valor:
+
+“We need to make the Digital Payment System, which will be the platform for the digital real, and which will operate in an integrated way with what already exists.” (CoinTelegraph Brasil)
+
+Gisele Bündchen and her ex-husband Tom Brady are among the creditors of the collapsed FTX exchange. Bündchen reportedly owns 686,761 shares of the failed company, while Tom Brady holds 1.1 million shares. The value of the holdings is difficult to determine but is presumed to be zero. (Crypto Times) (Portal do Bitcoin)
+Flamengo renewed its contract with fan token provider Socios.com, though at a significantly lower annual value than originally planned (R$6.3 million rather than R34 million). The platform informed the club that it would not be able to fulfill the terms of the original contract due to the slowdown of the crypto market. (CoinTelegraph Brasil) (CriptoFacil)
+Brazil’s Credit Data Alliance is partnering with Brazilian farmers to provide credit analyses and loans powered by blockchain tech. (CoinTelegraph Brasil)
+New attorneys at the Fazenda Nacional, Brazil’s Treasury ministry, will be required to have knowledge of blockchain and bitcoin, per a new posting in the Official Gazette. The agency is looking to hire ~100 attorneys at a starting salary of R$21,000 per month. (CoinTelegraph Brasil) (Portal do Bitcoin)
+73 percent of fintechs see the Latin American crypto market favorably, according to a new survey by LatAm Intersect PR and Fintech Nexus. (CoinTelegraph Brasil)
+Industry experts surveyed by CoinTelegraph Brasil see the country as well positioned to capitalize on Web3 trends in 2023.
+Cruzeiro token holders will receive a payout of R$256,000 for the sale of the player Ederson, who was transferred from Corinthians to Salernitana, under FIFA’s Solidarity Mechanism. Roughly R$0.33 will be paid out per token. Liqi’s Daniel Coqueiri stated:
+
+"The mechanism has proven to be a great alternative to finance clubs and, at the same time, a way for fans to become investors, 'entrepreneurs' of a pool of players from the base of the teams.” (CoinTelegraph Brasil)
+🎮 NFTs, Gaming and Metaverse
+
+Upland, the metaverse, and tokenization project Ribus are sponsoring the restoration of Escadaria Selarón - one of Rio de Janeiro’s most popular tourist destinations. The sponsorship will include NFT sales and seek to raise between R$1.5 million and R$4 million to improve the monumental staircase designed by Chilean Jorge Selaron. (CoinTelegraph Brasil)
+Supermarket chain Carrefour Group will enter The Sandbox metaverse with a series of activations including NFTs and interactive games that can be accessed on its virtual land. It will launch an IRL experience at its Paseo Alto das Nações store in São Paulo, where customers can access the experience directly. (Crypto Times)
+Funk singer Mc Daniel announced a partnership with PubGame, a Brazilian metaverse project built on Polygon. (Crypto Times)
+
+🏛 Public Policy, Regulation and Enforcement
+
+Crypto infrastructure as a service company Zero Hash joined ABCripto, the industry lobby group. The move comes just months after the firm formally launched in Brazil. (Portal do Bitcoin)
+Blockchain-friendly economist Francisco Gaetani assumed the post of Extraordinary Secretariat for the Transformation of the State of the Ministry of Management and Innovation in Public Services in the new Lula government. (CoinTelegraph Brasil)
+Two accomplices of Francisley Valdevino da Silva, aka “Bitcoin Sheik”, were arrested for promoting Forcount - an alleged Ponzi scheme based out of Brazil that defrauded Spanish-speaking investors out of US$8.4 million. (CoinDesk) (Portal do Bitcoin)
+The possibility of a single, shared currency between Brazil and Argentina is a bad idea, argues prominent bitcoiner and economist Fernando Ulrich. Discussions about the concept have been taking place under new Finance Minister Fernando Haddad and his Argentine counterparts. (Livecoins)
+São Paulo mayor Ricardo Nunes signed a new law that provides for the use of blockchain in public administration for the purpose of providing transparency around municipal government activities. (CoinTelegraph Brasil)
+Civil Police in the Federal District arrested three suspects accused of carrying out a ransomware attack on a bank and asking for a payment of 50 bitcoins. (Portal do Bitcoin)
+
+
+
+
+.

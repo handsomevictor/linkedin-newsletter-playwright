@@ -1,0 +1,89 @@
+🇧🇷BCR #90: Revolut launches in Brazil with splash announcement at Web Summit Rio
+Plus: the mysterious fate of the Brazilian national football club's fan token
+
+(NOTE: This is an abridged version of this newsletter. I'd encourage readers to subscribe to Brazil Crypto Report on Substack - which is my primary distribution channel - to ensure you're receiving everything!)
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of May 1-5, 2023.
+
+I wasn’t able to catch much of Web Summit Rio as I had some personal stuff to attend to this week in the US, but it looked like a really incredible event that elevated Brazil’s tech scene to the global stage. I look forward to hearing more about this from readers who were in attendance. It sounds like there will be many more editions of this to come, so I’m quite excited to see how this grows in the years to come.
+
+Have a great week everyone, and let’s dive in!
+
+-AWS
+
+Revolut goes live in Brazil
+
+One of the world’s top digital banks, or “challenger banks”, launched in Brazil last week with a splash announcement at Web Summit Rio.
+
+Per CoinDesk, CEO Nik Stronsky said in a statement:
+
+"Our mission is to unlock a borderless economy with financial products that are accessible and easy to use and that allow our customers to use their money efficiently. We will start with the global account and crypto investments, but this is just the beginning."
+
+The bank has 29 million customers worldwide across Europe, Australia, Singapore, Japan and soon the US. Given the size of Brazil, the market could easily become one of Revolut’s largest.
+
+The firm hired BTG Pactual’s Glauber Mota roughly a year ago to guide its Brazil launch and now has a team of 50 people inside the country. Its initial product rollout includes a multicurrency account and crypto investing platform, as well as educational courses that reward users in the form of the Polkadot token.
+
+Mota told Valor:
+
+“Brazilians are still relatively underserved in cross-border transactions and we want to make this faster, easier and cheaper.”
+
+How will Revolut fit into Brazil’s crowded digital banking scene? Mota argued that the combination of Revolut’s mature product offering and the Brazilian population’s growing digital savviness creates a unique entrance opportunity:
+
+“If we had gotten here three, five years ago, there would have been a lot of entry barriers. Technology has advanced a lot and we have an indisputably superior product.”
+
+The multicurrency account will offer immediate transfers to other Revolut customers in 150 countries, conversions into 27 fiat currencies 24 hours per day, and 90 cryptocurrencies. Crypto withdrawals will not be initially available to Brazilian customers, nor will stablecoins, staking services and Revolut products like credit cards.
+
+The crypto portion of the app offers automatic purchase orders, stop-loss functionality, recurring contributions and educational content. Mora explained:
+
+“Brazil has more than 10 million CPFs that invest in crypto and financial education is very important, we want to expand this process”.
+
+Revolut’s Brazil user acquisition strategy will revolve around member referrals and social media ads, as opposed to large mass media buys.
+The fintech has also applied for a direct credit society (SCD) license from the Central Bank that will enable it to offer credit products and more payment and transfer options. It has not ruled out applying for a DTVM license.
+While it waits for its license application, Revolut is working through alliances and partners. It is using Bexs’ banking as a service infrastructure and offering its prepaid cards through Visa, though an agreement with Mastercard is also in the works
+Users will be able to make purchases through their debit card, Google Pay, Apple Pay and Pix. Mota told Brazilian Report in an interview:
+
+“These functionalities are particularly interesting for people that travel a lot, work abroad, and receive payments in other currencies or even want to save money and have a small part of it in stronger currencies.”
+
+Buying dollars through the Revolut app will be 3-10 percent cheaper for Brazilians than by using an international debit or credit card because Revolut can offer a lower spread and use the commercial - rather than tourism - dollar to real conversion rate
+
+Web Summit Rio Roundup
+
+Transfero Group announced a new partnership to bring a Pix on and off-ramp service to Wirex’s crypto platform. Wirex also plans to bring a crypto-enabled debit card in Brazil later this year. Wirex CEO and co-founder @Pavel Matveev said in a statement:
+
+“As demand for seamless access to crypto grows, we’ve been rapidly expanding our products and reach to new countries. Transfero already have a impressive reputation within South America, so it’s great to collaborate with them to enable users to add funds with the ultimate convenience, flexibility and best-in-class experience utilising Wirex’s crypto platform in Brazil.” 
+
+Other representatives from the Brazil crypto industry who spoke at the conference include Mercado Bitcoin CEO Reinaldo Rabelo, Bitso CEO Daniel Vogel, Dux CEO Luiz Octavio Gonçalves Neto, CriptoFácil founder Paulo Aragâo, several of the Portal do Bitcoin journalists and more.
+
+The strange mystery of the Seleção Brasileiro Fan Token
+
+InfoMoney’s Lucas Gabriel Marins published a fascinating look into the bizarre fate of the Brazilian Football Confederation (CBF in Portuguese) official fan token - known as BFT - which was issued by Bitci, a largely unknown Turkish crypto exchange.
+
+The token was launched in 2021 during the peak of the bull market - selling 30 million units within 20 minutes and raising US$90 million.
+
+Billed as the largest ever token sale by a national football club at launch, the token price has since collapsed, the CBF’s contract with Bitci was terminated and fascinating questions abound as to what actually happened to the money raised during the sale.
+
+The price plummeted from a high of US$1.53 during World Cup season to just $0.06 currently. Meanwhile, the CBF has said nothing publicly about the publicity stunt since the token sale.
+
+But the mystery expands further. Unlike other fan tokens which at least try to offer some type of utility to holders via exclusive experiences or voting rights on trivial things like uniform colors, BFT didn’t offer any such thing.
+
+There is also a realistic possibility that the token is not even owned by any Brazilians. The coin is also not traded on any foreign or national exchange operating in Brazil, and Bitci does not appear to have any integrations with local financial institutions to enable purchases via Pix or bank transfers.
+
+It’s a wild chronicle that’s definitely worth a read. It’s also quite interesting that this story, given its significance and ties to the Brazilian national football confederation is one that has generated fairly minimal news coverage and reporting up until this point. I did cover it briefly in this newsletter back in November when the CBF terminated its relationship with Bitci.
+
+Valor also ran a long yet less spicy exposé exploring the rise of the fan token market in Brazil. The trend kicked into high gear in 2021 with numerous clubs launching these tokens as a way of creating heightened engagement between fans and clubs, but the lack of financial value and lackluster non-financial benefits offered to holders has led many to question the value proposition of these tokens.
+CoinTelegraph Brasil also published a piece assessing the question of whether fan tokens could be deemed securities by the CVM. The TLDR is that the short answer is probably not unless there are specific financial returns promised by the issuing clubs to token holders.
+
+🎙Recent 🇧🇷BCR Podcast episodes
+
+If you are a service provider/operator/investor looking to enter Brazil, a Brazilian company looking to expand your presence internationally, or an exchange operating in the Brazil market - I want to interview you!
+
+1️⃣ Bruno Ramos de Sousa, Hashdex’s head of US and Europe, joined to discuss the history of crypto ETFs and the road ahead for one of the Brazil crypto market’s crown jewels. (Spotify, Apple Podcasts)
+
+
+
+
+2️⃣ Cláudio Rabin, editor-in-chief at Portal do Bitcoin, joined to help us better understand what’s happening with the ongoing probes into Binance’s derivatives offerings. Apologies the audio isn’t great on this (Spotify, Apple Podcasts)
+
+3️⃣ Jorge Borges, head of Latam sales at Fireblocks, joined to talk about the unicorn crypto infrastructure provider’s expansion efforts in the region. (Spotify, Apple Podcasts)

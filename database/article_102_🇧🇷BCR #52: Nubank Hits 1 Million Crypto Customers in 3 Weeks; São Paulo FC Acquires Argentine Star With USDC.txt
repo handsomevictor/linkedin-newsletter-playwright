@@ -1,0 +1,58 @@
+🇧🇷BCR #52: Nubank Hits 1 Million Crypto Customers in 3 Weeks; São Paulo FC Acquires Argentine Star With USDC
+Also: BTG Pactual launches its Mynt crypto exchange while Santander Brasil announces forthcoming crypto product
+
+NOTE: This is an excerpt from this week's full 🇧🇷Brazil Crypto Report newsletter hosted on Substack. Please subscribe and follow the Substack edition for more news, commentary and interviews exploring the Brazil crypto ecosystem.
+
+Fala pessoal!
+
+Greetings and welcome to 🇧🇷Brazil Crypto Report for the week of July 25-29. Hope everyone had a good weekend - the highlight of mine was attending a rib eating competition where I witnessed a guy down 2.8 kgs of rib meat in 12 minutes. Lots going on this week as always! I appreciate you reading and hope you enjoy this week’s edition.
+
+-AWS
+
+São Paulo FC Acquires Argentine Footballer with Crypto
+
+In the most expensive deal in club history, SPFC acquired Argentine midfielder Giuliano Gallopo from Club Atlético Banfield for US$6m, and signed the 23 year old to a five year contract. The transaction was paid in USDC stablecoins and facilitated by Bitso. Bitso Brasil CEO Thales Freitas stated:
+
+“This is a historic moment for Bitso, São Paulo and South American football. Our main mission with SPFC is to contribute to greater modernization, digitalization and inclusion in Brazilian sport, and this is another important step in this direction. We are very proud to work with both clubs to make hiring possible with all the security, transparency and flexibility that the cryptoeconomy offers.”
+🎉Nubank Reaches 1 million crypto customers
+
+Nubank has eclipsed 1 million crypto customers just three weeks after making trading available to customers, making it the second-largest crypto trading platform in Brazil. Crypto purchases can be made within the Nubank app, via a partnership with Paxos, without restriction during the day and throughout the week, with a minimum purchase of R$1.
+
+CEO David Velez commented that he’s “super impressed with the speed” at which the number was reached (one million was the goal for the first year!). Nubank had 46.5 million total active users at the end of the first quarter 2022.
+
+NuCripto currently offers just bitcoin and ether and is hoping to add new assets soon and expand into other areas like tokenization. Vélez told NeoFeed:
+
+“It's an easy investment experience, but we want to avoid speculation“That's why we've been creating educational content…It is proof of our great cross selling potential for our customer base.”
+
+Nubank’s crypto lead Thomas Fortes said in a statement:
+
+“This extraordinary achievement of 1 million customers in the crypto world in such a short time shows that we are on the right track, well positioned and in line with our purpose of democratizing cryptocurrencies and providing customer access to new financial opportunities.”
+“The disruptive potential of the technology behind cryptocurrencies is enormous. We will continue to evolve this experience, always listening to our customers to seek to evolve our products and digital currency offering, taking advantage of this transformative power of blockchain.”
+BTG Pactual, Santander Move Ahead with Crypto Products
+
+Two of Brazil’s largest banks took big steps this week in rolling out crypto products for customers. BTG Pactual, the largest investment bank in Latin America, went live with its crypto trading platform - Mynt. Looking to keep pace with rival XP, it now officially throws itself into the scramble to reach the Brazilian retail investor, after opening the waitlist last fall. Andre Portilho, head of digital assets at BTG Pactual, commented:
+
+“Our goal is to offer access to investments in crypto assets in a simple, direct and secure way. In addition, we will have content for people to know how to invest in new financial market scenarios."
+
+Spanish multinational bank Santander plans to soon offer crypto trading to its clients in Brazil. Santander Brasil CEO Mario Leao stated:
+
+“We recognize that it is a market that is here to stay, and it is not necessarily a reaction to competitors positioning themselves. It is simply a vision that our client has demand for this type of asset, so we have to find the most correct and most educational way to do it.”
+
+🎙Be sure to check out the latest episodes of the 🇧🇷Brazil Crypto Report podcast. This week I was joined by Blockchain Rio CMO Tatiana Sampaio to get a sneak preview of next month’s Blockchain Rio festival, which takes place September 1-4.
+
+Previously, I had the pleasure of interviewing Brazilian UFC fighters Matheus Nicolau and Luana Pinheiro about their decision to accept part of their salary in bitcoin.
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+XP Investimentos provided more detail about the roadmap for its Xtage product. Xtage will commence with just bitcoin and ether offerings in August, but hopes to expand to 10 assets by the end of the year. Of its 3.6 million clients, those “with an adequate investment profile for such operations” will be eligible to use the product, Lucas Rabechini, XP’s director of financial products, told Reuters. XP also won the award for most innovative financial services company in Brazil in the Valor Inovação Brasil contest. Users will be able to use proprietary trading robots and algorithms via an integration with trading platform MetaTrader 5
+Binance is now charging a fixed fee for withdrawals from corporate accounts (known as PJs) after the service was unavailable for more than a month. PJ account withdrawals are also only available via Pix. Ted and bank transfer services for corporate accounts have been listed as under “maintenance” since mid-June. It is also requiring customers to fill out a “declaration of wealth” with personal financial information before being permitted to withdraw. (Portal do Bitcoin)
+A study commissioned by crypto derivatives platform Bitget, Boston Consulting Group and Foresight Ventures identified Latam and the APAC region as the most attractive regions for global exchanges looking to expand their business. The study also pointed out that foreign exchanges were able to grab significant market share due to the regulatory chasms and arbitrage. (BlockNews) (InfoMoney)
+KPTL is launching an investment fund focusing on companies and assets in the NFTs, DAOs and metaverse space. The fund, which has been approved by the CVM, will be called Lupa Web3 Fund. Lars Janér, who will run the fund, commented:
+
+“We try to analyze the 'tokenomics' of each project. How is the allocation of tokens? What is the team, the business model, the level of community engagement? web3 gives enormous power to the community. The project can be wonderful and the team can be incredible, but if you can't engage, you won't be successful.” (CoinTelegraph Brasil) (Valor Investe)
+
+Banco24Horas, the largest independent ATM operator in Brazil, has processed R$3.2m in cryptocurrency withdrawals through the TecBan platform since November 2020. (Valor)
+Eight out of 10 Brazilians in socioeconomic class A, B and C (essentially everyone with internet connection) are familiar with cryptocurrency, according to a new survey by C6 Bank/Ipec. 9% of respondents said they are already invested in crypto and will continue to do so, while 30% did not have an opinion either way about the asset class. (Valor) (CoinTelegraph Brasil)
+
+Please head over to this week's edition of 🇧🇷Brazil Crypto Report to catch the full version of this newsletter and additional content! 

@@ -1,0 +1,158 @@
+#114: Magalu launches crypto platform as XP and PicPay wind theirs down
+Plus: With CPI concluded, what happens next? Itaú and Liqi team up on tokenized receivables fund
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of October 16-20, 2023! 
+
+Bear markets in crypto are frequently full of one step forward, two steps back dynamics. This week was one of those for the Brazil market. We started off with some big news that Magalu had enabled crypto on its platform via a partnership with Mercado Bitcoin, only to learn that XP and PicPay (two other fintech giants) are winding down their crypto platforms just over a year after launching in response to low demand and regulatory uncertainty. 
+
+If you’re still active in this ecosystem, you know well that crypto bear markets can feel like non-stop punches to the face. This past week was one of those weeks, but at least on the Brazil front things continue to trend in the right direction. 
+
+As always, thanks for reading and have a great week!
+
+-AWS
+
+👊 Friendly reminder that if you enjoy this content, please consider following 🇧🇷Brazil Crypto Report across the web. It’s a free and easy way to support my work! Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🎙New podcast episodes
+
+If you’re looking to better understand the Drex ecosystem and trajectory, you absolutely need have a listen to this banger I recorded with PhD. João Paulo Aragão Pereira, senior technology specialist at Microsoft. He’s been heavily involved in the Drex project on the technology and architecture side, and was kind enough to give us a deep dive into Drex tech stack and how the Microsoft Regulated Liability Network framework fits in.
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+Magalu launches crypto platform as XP and PicPay wind down
+
+Magalu, the fintech arm of Magazine Luiza, has enabled crypto trading on its platform through a partnership with Mercado Bitcoin, which provides the underlying “crypto-as-a-service” technology for buying, selling and custody. Available coins include bitcoin, ether and USDC, with a minimum purchase of just R$1. 
+
+The fintech is also exploring the creation of its own “Lucoin” loyalty token, which will be offered to the 10 million+ users of its MagaluPay product. Fabio Murakami, product director at MagaluPay, explained: 
+
+“For many of these clients, this will be their first contact with cryptoassets and the opportunity to start investing in digital currencies, starting at one real. We are going to show that transactions with cryptocurrencies are not a seven-headed beast.” 
+
+Meanwhile, XP Investimentos, one of Brazil’s largest investment brokerages, is shutting down its Xtage crypto platform after the product failed to gain traction with XP’s existing customer base. 
+
+Launched in August 2022, customers were able to trade bitcoin, ether, solana and a few other altcoins on the platform. Users will have until December 15 to sell or withdraw their assets without fee. 
+
+It’s the second time XP has launched and then shuttered a crypto platform. In 2018 it opened a platform called XDEX, only to close that down in 2020. XP will continue to offer crypto ETF and other crypto fund products to its customers. It is unclear what will happen to the ~40 XP staff who have been working on Xtage. 
+
+Fintech PicPay has also shuttered its crypto offering. Customers are no longer able to purchase cryptos on the platform, and will have until December 11 to liquidate their accounts without fees, or port them over to an account on Foxbit. 
+
+The company cited uncertain regulations as the motivation for its decision to implement a “strategic pause” on the product, indicating that it will consider re-launching when more clarity exists:
+
+“[After] the company tested the market under current regulations, it decided to resume operations when there is more clarity on the topic.”
+
+PicPay first launched its crypto product in August 2022, roughly the same time as XP, and claimed that the platform had been used by one million customers after just five months of operation.
+
+Anderson Chamon, PicPay’s VP of products and tech, said in a statement:
+
+“Nothing changes in relation to our belief in technology as infrastructure, and we remain available to work, together with the Central Bank, to boost and popularize this market in Brazil.”
+
+Valor Exame InfoMoney Portal do Bitcoin CriptoFacil CoinTelegraph Brasil
+
+CPI was “beginning of a new path” for Brazil’s crypto economy, says Ribeiro
+
+Deputy Aureo Ribeiro, president of the CPI on financial pyramids, defended the committee’s work and recommendations in an interview with Portal do Bitcoin. He called it a critical step in cleaning up the local industry and stopping foreign companies from treating Brazil as an “amusement park”:
+
+“We were able to produce a robust report, delivered to the Federal Police, Federal Public Ministry and the competent bodies to continue the investigations. So I'm sure that the CPI was the beginning of a new path to be adopted with the cryptoeconomy in our country.”
+
+Ribeiro added that the biggest difficulties were related to the lack of specific legislation dealing with pyramids, thus allowing them to operate with minimal consequence. 
+
+He also brushed off criticisms that the CPI had been unfairly persecuting Binance:
+
+“We are not worried about the opinion of A, B or C. Binance has problems, but it is not just in Brazil, it has problems in the world. Binance has explanations to give to the Brazilian authorities, it has to collect taxes in our country so that it can generate jobs, income, opportunities for people and fulfill its role for which it was designated here.”
+
+Additionally, deputy and former public prosecutor Alfredo Gaspar told the Portal he was “impressed by the convincing power of the creators of financial pyramids” the committee interviewed over the course of three months. He was also quick to pile on Binance’s questionable mode of operating in Brazil, particular its use of so-called “bus” accounts that combine all customer deposits into the same account without distinction: 
+
+“We have some companies that have repeatedly shown non-compliance with Brazilian legislation. And they use some tricks to do so. Binance is one of them.”
+What happens with the CPI recommendations?
+
+Flávio Dino, Minister of Justice and Public Security, received the report issued by the CPI on financial pyramids and indicated that he will follow the committee’s recommendations.
+
+These recommendations include indictments against 45 individuals and the creation of four new laws. Dino stated:
+
+“We saw here a very adequate and extensive list of crimes, one of them embezzlement, crimes against the national financial system, criminal association and money laundering.”
+
+He explained that he will send the information to multiple authorities, including Federal Police, the National Consumer Secretariat (Senacon), the Administrative Council for Economic Defense (Cade) and the National Data Protection Authority (ANPD).
+
+Meanwhile, Valor wrote in more detail about the four pieces of legislation proposed by the recently concluded CPI committee on financial pyramids. 
+
+These bills seek to increase penalties on individuals who operate and promote cryptocurrency pyramid schemes, regulate airline frequent flyer programs, and create new rules for cryptocurrency brokers (mainly an asset segregation requirement and a prohibition on using “bus” accounts to bundle customer transactions.
+
+Daniel Mangabeira Dantas, Binance’s head of government relations for Latam, told Valor that the exchange supports asset segregation and the use of individual accounts rather than bus accounts, provided that these rules sufficiently protect individual customers. He also highlighted alternatives not suggested by the CPI, such as proof-of-reserves requirements, adding:
+
+“It is necessary to look at this industry with the appropriate lens, and not as an extension of the traditional financial industry, at the risk of adopting ineffective mechanisms for the digital industry or strangling an entire ecosystem.”
+
+(Portal do Bitcoin) (CriptoFacil)
+
+Itaú BBA Digital Assets, Liqi and Oliveira Trust launch tokenized receivables fund
+
+Itaú, Liqi and Oliveira Trust have teamed up to create a tokenized receivables fund. The product, known as a Credit Rights Investments Fund (or TIDC, was developed with a fully tokenized architecture and represents the first publicly-revealed initiative of Itaú Digital Assets since joining the Drex project. 
+
+The TIDC was designed to be compatible with Drex CBDC ecosystem once it’s officially live. Its order of operations is as follows:
+
+SB Crédito originates the receivables and sends them to Oliveira Trust, which records and verifies ownership of the assets 
+Liqi registers the assets as NFTs on the Gnosis blockchain and transfers to the SB Créditos portfolio
+SB Créditos transfers the assets to the TIDC structured by Itaú. 
+The acquisition of receivables for the fund is made using a stablecoin
+
+Daniel Coquieri, CEO of Liqi Digital Assets, explained: 
+
+“Everything is on-chain. The TIDC changes the infrastructure of the capital market, because it is not like contracting with the same rules and procedures as a traditional FIDC and then tokenizing the share. It creates a new, more efficient and cheaper infrastructure, which connects with Drex as a tokenization chamber.”
+
+Under current regulations, the product can only be offered to professional investors who have more than R$10 million in assets. Coqueiri hopes that a successful debut of this type of fund can help to make these investments more readily available to smaller investors. 
+
+Valor Exame
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Bitcoin and cryptocurrency ETFs have generated the highest returns for Brazilian investors in 2023 compared to ETFs representing other asset classes, according to data from Monitor do Mercado. Specifically, the Hashdex bitcoin fund leads a ranking of 30 multimarket funds with a 51% return from January to September. Marcos de Vasconcellos, founder of Monitor do Mercado, wrote in a Folha de São Paulo column: 
+
+“The eyes don't see, but, interestingly, the pocket feels. The multimarket funds that gave the most returns in the first nine months of this year were precisely those that invest in cryptocurrencies. Those that left their shareholders feeling worse are also, for the most part, concentrated in a few types of assets, such as gold, silver and cannabis.” (Portal do Bitcoin)
+
+BEE4, the blockchain-based secondary marketplace, expects to integrate its first two brokers by the end of the year and thereby giving the public access to tokenized equity of SME companies with revenues of between R$10 million and R$300 million. (InfoMoney) 
+Issuances of real world asset (RWA) tokens in Brazil reached R$48.1 million (US$10 million) for the month of September, largely due to a R$30 million emission of the FAGB11 token by Vórtx QR Tokenizadora. (CoinTelegraph Brasil)
+Crypto exchange Bitget projects that the number of crypto holders in Brazil will surpass the number of account holders on the B3 exchange by the end of 2023. In July 4.1 million Brazilians reported crypto trades with the Receita Federal, while the B3 exchange said that it has reached 5.3 million individual accounts. Bitget Latam content manager Fernando Pereira said:
+
+"Maintaining the pace of growth on both sides, it is possible to say that crypto investors will reach around 6 million by the end of the year, while B3 variable income investors will represent 5.5 million Brazilian.” (Valor)
+
+Mercado Bitcoin listed HBAR, the native coin of the Hedera network. (Portal do Bitcoin)
+Brazilian crypto funds saw R$2 million in inflows during the week of October 9-13, according to data from CoinShares. (Portal do Bitcoin) (CoinTelegraph Brasil)
+Kryp.Tools, a wealthtech looking to become a “Bloomberg for crypto assets” aiming to raise US$500,000 in a new funding round. (BlockNews)
+
+🪙 Drex (formerly Digital Real)
+
+Valor Capital Group has hired former Banco Central do Brasil official Bruno Batavia as its new director of emerging tech. Batavia previously worked as a specialist at the bank focusing on central bank digital currencies. (Reuters)
+Crypto wallet BWS, a portfolio company of Banco do Brasil, has rebranded as BWS (Blockchain Web Services) to reflect its focus on B2B use cases. Its new solutions include interfaces between 14 different blockchains, API integrations and Drex simulations on Hyperledger Besu. (BlockNews)
+Crowdfunding platform Bloxs  is expanding its operations to focus on a wider set of small and medium-sized businesses. Using new technologies like smart contracts and asset tokenization, it will focus on providing fundraising services for companies looking to raise R$1 million to R$150 million. CEO Felipe Souto told Valor:
+
+“We are living in a magical moment for the development of our capital market, where the intersection between the various technological innovations such as the Drex network, programmable contracts and tokenization and the new regulatory framework introduced by the CVM over the last year, create fertile ground for the emergence of a 'new capital market', more collaborative, accessible and digital.” (Neofeed)
+
+The Central Bank announced that Pix will have an integration with Drex, as well as other new features, in 2024. (CoinTelegraph Brasil)
+
+📱Adoption
+
+The Ruas Institute opened a venue that provides free access to computers and internet in a partnership with Binance. The venue, which is supported by Father Júlio Lancellotti, is located in the Mooca neighborhood of São Paulo. (Valor)
+
+Binance is giving away Cristiano Ronaldo NFTs for free to Brazilian customers between October 11-24. (CriptoFacil)
+Digital gaming platform Nuuvem has incorporated Binance Pay as a payment method. 1.5 million users in Brazil are now able to pay and earn a 15 percent discount by using Binance Pay. (CoinTelegraph Brasil)
+The Winds of Yawanawa NFT collection, made in partnership with indigenous Brazilian groups in the state of Acre, generated R$19.6 million in trading volume on OpenSea. The figure is considered impressive in light of the collapsed NFT market. (Portal do Bitcoin)
+
+Esports group Made in Brazil (MIBR) is launching an NFT collection to celebrate its 20 years in the business. In partnership with Bybit, the collection will involve 12 models of virtual jerseys. (Exame)
+Web3 education non-profit @Educar+ announced its Women of the Future program in conjunction with the One Million Opportunities initiative and the Upland metaverse. The objective of the program is to provide education and training to underserved areas in Rio de Janeiro. (CoinTelegraph Brasil) 
+The National Education and Research Network will allocate R$350,000 to blockchain and metaverse projects. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+Financial infrastructure and payments technology firm Núclea has joined ABCripto as it broadens its reach into tokenization and digital assets. Cesar Kobayashi, manager for tokenization at Núclea said:
+
+"It was a natural path for us to join ABCripto, especially considering the evolution of the digital economy in the country and the strategic direction we are following in the coming years.” (Valor)
+
+ABcripto - Associação Brasileira de Criptoeconomia is reassessing the status of one of its members, OWS Brasil, after the CPI recommended an indictment against OWS partner Adriano Froes. The committee accused Froes of committing management fraud and conducting exchange operations without authorization. (BlockNews)
+Representatives from crypto exchange Coinbase met with the Brazilian Central Bank on October 20. Representing Bacen at the meeting was Renato Dias de Brito Gomes, Director of Financial System Organization and Resolution. On the Coinbase side was Faryar Shirzad and John Medel el from the institutional relations team, and Fabio Tonetto Plein - regional managing director for the Americas. (Portal do Bitcoin)
+BitGo s Juliana Walenkamp argues in an op-ed that asset segregation is the missing link in the crypto regulatory legislation passed last year 
+The CVM issued a stop order against the exchange 4XC for irregular offerings of securities in Brazil, including cryptocurrencies. (Portal do Bitcoin)
+97 percent of Brazilians are against changes in cryptocurrency taxation rules, according to a poll commissioned by the Chamber of Deputies. The poll is in regards to Bill 4173/2023, which would tax Brazilians’ capital gains from cryptocurrency investments held overseas. (Portal do Bitcoin)
+The CVM rejected a settlement proposal from Wemake, a crypto company that has been under investigation since 2019 for illegally offering securities through its platform. Wemake operated with investments linked to mining operations, arbitration, initial coin offerings and crypto custody before closing down in November 2019 and defaulting on customers. (Portal do Bitcoin)
+Ex-footballer Ronaldinho Gaucho moved more than R$100 million in an atypical way between 2015 and 2021, according to Brazil’s Financial Activities Control Council (COAF). The CPI on financial pyramids flagged that these transactions have “indications of fraud” and are “above the presumed financial capacity” of the athlete. (InfoMoney)
+The Chamber of Deputies’ Special Commission on Digital Law debated using blockchain to digitize public records. (CoinTelegraph Brasil) 

@@ -1,0 +1,156 @@
+#140: Ripple launches Brazil-targeted grants program
+Plus: Ethereum Rio highlights; BitcoinToYou disables customer withdrawals
+
+Olá pessoal 👋 and welcome to 🇧🇷Brazil Crypto Report, where we explore Brazil's burgeoning digital asset ecosystem! Be sure to smash that subscribe button below if you want to be in the know about the world's 9th largest crypto market💡
+
+Subscribe Now
+
+Welcome back to Brazil Crypto Report for the week of May 13-17, 2024!
+
+It was great catching up with folks at Ethereum Rio this past week. I appreciate the efforts of everyone who helped make this a great event. 
+
+The highlight of the week was the Ethereum Rio hackathon, which was run in partnership with Lumx. 
+
+The winning project was Freedom Chains, which developed a blockchain solution to bring more transparency and efficiency to Brazil’s prison system
+Other finalist projects were PULSE — a tool that promotes engagement in online communities and startup cities, and Bee Layer — which targets credit card scams and chargebacks in Brazil.
+The hackathon featured Polygon, Scroll, Chiliz and Tanssi as sponsors and attracted 163 registrants. The participants were split into 24 teams, who in turn submitted 20 finished projects.
+
+Freedom Chains received a US$5,000 prize, while the other two projects split US$4,500. There was a also a distribution of US$10,000 in grants via the Lumx protocol.
+
+Antonio Neto , organizer of Ethereum Brasil, commented on the Lumx Hack partnership: 
+
+"The hackathon was very much in line with our objective, which was to show successful cases and opportunities, the community movement, how everything is happening, in addition to the importance of unity, because it is not simple to educate, take the right path and build solutions that actually solve problems.”
+
+If you want more coverage of Ethereum Rio, you can check out Leonardo Rubinstein Cavalcanti's interviews with Cami Ramos of Berachain and @Sofia Duesberg of Fireblocks.
+
+If you missed the event, videos of the sessions will be released later this month.
+
+🔍What’s in this week’s BCR?
+
+Ripple launches a Brazil-focused grants program
+BitcoinToYou disables withdrawals, shutters Brazilian entities
+CVM creates fictitious crypto brokerage site to demonstrate how easy Brazilian consumers fall victim to scams
+Nubank CEO Velez: “We believe a lot in bitcoin” 
+
+Have a great week everyone!
+
+-AWS
+
+New podcast
+
+This week I’m celebrating the 100th episode of the 🇧🇷Brazil Crypto Report podcast 🎉 with a special conversation with Hathor Network co-founder Yan Martins.
+
+We recorded this onsite at Web Summit Rio last month, and we dive into the origins of the project, Hathor’s unique design that affords scalability without compromising security, and use cases it currently has in deployment with the B3 exchange and inside the CVM regulatory sandbox with Vórtx QR Tokenizadora.
+
+Ripple Unveils Brazil-Focused Grant Program at Ethereum Rio
+
+The company behind the XRP Ledger is rolling out a new grants program focused on the Brazil market, with the goal of encouraging builders in Brazil’s tokenization ecosystem to spin up projects on XRPL.
+
+In an interview with Portal do Bitcoin, Silvio Pegado — Ripple’s head of Latin America — explained that the program is a critical part of the company’s go-to-market strategy for the region:
+
+“We have to create an ecosystem of developers, partners, companies, thinkers, who can experiment with this universe — create a culture.”
+
+Pegado went on to explain that there are more or less three model profiles of prospective grant recipients:
+
+“The first is young people, students, who are in the hackathon phase. Then, an already professional level, of acceleration. A company like BRLA for example. And finally, having a portfolio of solutions so that when a partner, say a bank, asks us for a solution, we already have a partner with a project ready to be integrated”.
+
+Pegado and Julia Heitner, Ripple’s grant program manager, announced token-as-a-service company goBlockchain as Ripple’s first grantee under the new initiative. GoBlockchain COO Fernando Velicka was on-site to discuss the partnership.
+
+Ripple says it has already distributed US$200,000 (R$1 million) worth of grants in Brazil.
+
+BitcoinToYou disables withdrawals, shutters its Brazilian entities
+
+Customers began reporting problems withdrawing funds from BitcoinToYou, Brazil’s self-proclaimed longest-running crypto exchange, several weeks ago on Reclame Aqui and on social media.
+
+The situation escalated this past week as exchange moved to block withdrawals completely. BitcoinToYou’s website remains online, but it has deactivated all forms of contact and its executives have not responded to multiple requests from mainstream and crypto media outlets.
+
+An InfoMoney investigation uncovered that the three CNPJs (company identifiers) the exchange used to register as a business in Brazil have been shuttered. The only remaining BitcoinToYou company is registered in the Seychelles.
+
+Raphael Souza, a crypto attorney, explained to InfoMoney:
+
+“Those responsible for the BitcointoYou platform registered three companies in Brazil and, after facing legal problems, they were all downloaded, with the intention of avoiding being cited in the actions that were condemned.”
+
+Valor CoinTelegraph Brasil
+
+Bacen’s Bianchini: Pix is better than blockchain for remittances
+
+Rafael Bianchini Abreu Paiva, a coordinator at the Central Bank of Brazil and a professor at Fundação Getulio Vargas, argued that an internationalized version of Pix would work better for small international remittance transfers than blockchain.
+
+His comments, which came as a personal opinion and not the official position of the Central Bank, were made during a panel event hosted by FAS | Sociedade de Advogados .
+
+He said that Pix’s messaging system is simple, easily scalable and allows cheaper transactions than those carried out with blockchain — thus making it better for retail use:
+
+“Shipments tend to be of low value, and Pix works on the ISO 20.022 messaging standard, which is interoperable with all ISO 20.022 systems, which is what everyone is doing today.”
+
+Valor CoinTelegraph Brasil
+
+CVM creates fictitious crypto brokerage site; 50% of visitors take the bait
+
+The CVM, Brazil’s securities regulator, and Anbima created a fictitious cryptocurrency brokerage that pretended to offer unrealistically high returns — without warning that it was only a simulation.
+
+The page was live for four months and had more than 170,000 inbound visits from online advertisements and social media.
+
+The CVM stated in a final report that roughly half of the visitors clicked on buttons on the homepage indicating that they were interested in investing in the products:
+
+“Almost half of the people who accessed a fake brokerage website would fall for a financial scam.”
+
+Nathalie Vidual, a superintendent at the CVM, said in a statement:
+
+“The phishing site's educational initiative has regularly shown that there is still a long way to go to educate and instruct Brazilians in general on how to avoid financial fraud.”
+
+Portal do Bitcoin CriptoFacil CoinTelegraph Brasil
+
+Nubank’s Velez: “We believe a lot in bitcoin”
+
+In an interview with CoinTelegraph Brasil, Nubank CEO David Vélez reiterated his company’s bitcoin-friendly position and that he intends to continue expanding Nubank’s crypto offerings in the coming years.
+
+"Recently, we emerged as one of the most bitcoin-friendly banks in the world. I'm super proud of this window. We believe a lot in bitcoin. There are some cryptoassets, I wouldn't say all of them, as there is a wide variety of assets, but there are a lot of things that we would never offer to our customers. That's why when we look at crypto, we very much choose the assets that will be incorporated into Nubank.”
+"We see digital assets, crypto, CBDC, Drex, as new technologies that open up great products for us, an opportunity to innovate for our clients. So, there is a lot of technology that we have been working on and I think we will have great news in 2024, in the next news regarding how we use these new technologies."
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+The CVM deemed the DYN token issued by real estate management company Dynasty Global  to not be a security after two years of examining the matter. With the ruling — Dynasty, a Swiss company founded by Brazilian entrepreneur Eduardo Carvalho — now intends to operate in Brazil.
+Historically high interest rates in Brazil have helped consolidate demand around digital fixed-income tokens, though liquidity and investor education remain challenges.
+
+The issuance of tokenized fixed income tokens in Brazil is expected to surpass R$1 billion (US$200 million) in 2024. 
+
+While guidance from the CVM about token issuance in 2023 was met with resistance from the market, those concerns have been “significantly overcome”, according to CVM superintendent Bruno Gomes
+
+The development of this market figures to pave way the way for other types of security tokens such as variable income products. 
+
+Fabio Kupfermann Rodarte, an attorney with Levy & Salomão Advogados, told Valor: 
+
+“The capital market will undergo important changes in the near future. It is almost inevitable to have more tokenized operations. It may be that, initially, the capital market authority prefers more restricted offers. The tendency is for it to move towards IPOs [initial public offerings of shares] of medium and small and also larger companies.”
+
+brx finance, a joint venture between Fuse Capital and Transfero Group, has partnered with V360 to manage tokenized invoices for companies wanting to advance receivables to suppliers. The product will run on the kona finance platform, which is built by BRX and runs on the Polygon blockchain. (Valor)
+The potential of tokenization in Brazilian capital markets, and the question of whether the B3 exchange or smaller SME-focused marketplaces are the ideal venues for SME capital formation and token markets, was the subject of a debate at a panel hosted at University of São Paulo Law School. (Portal do Bitcoin)
+Mercado Bitcoin's Fabrício Tota gave a keynote address on the state of Brazil’s tokenization market at Ethereum Rio
+Brazil has experienced a 30% growth in crypto trading in 2024 compared to the prior year period, according to data provider Kaiko, which found that the trading volume denominated in reais for the first quarter of the year was R$6 billion (US$1.2 billion). (CriptoFacil)
+Banco do Brasil lowered the minimum investment to its BB Multimercado Criptoativos LP FIC FI Fund from R$1,000 to just R$0.01. (CoinTelegraph Brasil)
+Neela, a Brazilian wealth management company, announced a partnership with tokenizer SV Standard aimed at creating digital identity on blockchain. (CoinTelegraph Brasil) (CriptoFacil)
+
+📲 Adoption
+
+BNDES, Brazil’s national development bank, plans to launch its Brazil Blockchain Network pilot in August of this year. The announcement was made by BNDES blockchain specialist Gladstone Arantes Jr, DSc at Ethereum Rio:
+
+“I hope that by August, in addition to the infrastructure, we will already be running some applications. But it's worth noting: the person who will build the applications is not the BNDES. The Network is an infrastructure that will be there, so that interested parties can make applications on top of it.” (Portal do Bitcoin) (CriptoFacil)
+
+Neymar made a list of X celebrities with crypto fortunes compiled by Arkham Intelligence. He’s estimated to have US$56,000 worth of crypto assets. Recall that he bought two Bored Ape NFTs in 2022, but prices have declined roughly 90% since then. (InfoMoney)
+Rafaela Romano tells the story of a cryptocurrency investor in Rio Grande do Sul who was forced to leave all of his possessions behind aside from his hardware wallet and seed phrase. (CoinTelegraph Brasil)
+Grupo Foxbit announced a partnership with Blokko.io to enable Foxbit Pay at physical points of sale around the country. (CoinTelegraph Brasil)
+Portal do Bitcoin and Breno Brito teamed up to produce a new book called “101 Questions About Bitcoin” that discusses technical principles of the cryptocurrency and its socioeconomic implications.
+Polkadot entered into a partnership with Código Brazuca focusing on blockchain education. (CoinTelegraph Brasil)
+Integration of Drex to Telegram via the TON blockchain is a possibility, says J. Victor Mendes, head of global business development for Telegram’s wallet product. (BlockTrends)
+Bitget will give away a free Domino’s pizza to each client in Brazil to commemorate Bitcoin Pizza Day. (CoinTelegraph Brasil)
+
+🏛 Policy, Regulation and Enforcement
+
+Eduardo Requião, the brother of the former governor of Paraná, received R$3 million in bribes when he was the superintendent of the port of Paranaguá. Much of this total was invested into the Grupo Bitcoin Banco pyramid scheme run by “King of Bitcoin” Claudio Oliveira, a Federal Police investigation has uncovered. (Portal do Bitcoin)
+The TSE, Brazil’s electoral court, has maintained a ban on bitcoin and cryptocurrency donations for 2024 municipal elections. (Livecoins) (Exame) (CoinTelegraph Brasil)
+Binance teamed up with the Ministry of Justice to provide cryptocurrency training to 80 law enforcement investigators in Brasilia. The training was led by Jarek Jakubcek — head of law enforcement training at Binance (Livecoins) (CoinTelegraph Brasil)
+The CVM issued a stop order against Xpoken Limited, a company based in St. Vincent and the Grenadines that has been offering forex and cryptocurrency trading services to Brazilians without authorization. (Portal do Bitcoin) (CriptoFacil)
+The São Paulo Court of Justice ordered telephone operator TIM to reimburse R$15,300 worth of cryptocurrencies to a customer who had her cell phone stolen in 2022 and cloned. (Portal do Bitcoin)
+The Association of Brazilian Banks (ABBC) announced the creation of the ABBC Institute for Academic Studies of the Financial System to discuss blockchain and innovation-related topics. (CoinTelegraph Brasil)

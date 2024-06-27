@@ -1,0 +1,146 @@
+#118: Pix turns 3 years old with 155 million users, US$300 billion in transaction volume
+Plus: Milei's incredible upset victory in Argentina; Lemon Cash scales back Brazil operation as OKX ramps up
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for the week of November 13-17, 2023.
+
+I’m taking a quick detour here to highlight libertarian and bitcoin proponent Javier Milei’s incredible victory in the Argentina presidential election runoff yesterday.
+
+Because he’s hardly the polished political type, I had given him a 40 percent chance of winning going into Sunday. Last night, I was shocked to see that not only did Milei defeat his opponent Sergio Massa, but he completely steamrolled him and won by 10 points. This is one of the most surprising election results of our time.
+
+Source: Bloomberg
+
+There will be a lot of ripple effects in the region from this election. I admit that I need to do a lot more research on what it all means, but I will have some content out later this week (newsletter and hopefully a podcast episode) exploring Milei’s win and trying to make sense of it all.
+
+🗞 Before we continue diving in this week, please take a minute to fill out the 2023 reader survey to help us better understand how we can create value for our audience
+
+🏆 Also please make sure to cast your votes for the 2023 Most Influential series - We need your help identifying the 10 individuals who had the biggest impact on Brazil’s crypto and digital asset ecosystem this year. Results will be published in mid-December.
+
+👊 Friendly reminder to consider subscribing to 🇧🇷Brazil Crypto Report on Substack if you aren't already for more insights, interviews and analysis exploring the Brazil market. Also, please do give us a follow on X/Twitter, Linkedin and Instagram - it helps a lot! 
+
+Have a great week and feel free to ping me with comments/suggestions/questions.
+
+-AWS
+
+🎙New podcasts
+
+This week I spoke with Thomas Bohner, CEO of Credix, which is one of the most exciting startups in the asset tokenization space right now. Credix is a decentralized credit marketplace built on Solana that unites institutional capital in developed markets with fintechs and non-bank lenders in emerging market economies. We discuss how Thomas is doubling down his efforts on the Brazil as the company’s key growth market for 2024.
+
+The Credix team also had a big announcement last week, securing a US$60 million credit line that will be used to expand the platform’s loan portfolio in Latin America.
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+SEC Delays Decision on Hashdex Bitcoin ETF Proposal
+
+The agency was supposed to have a decision on Hashdex’s proposal to convert its bitcoin futures ETF into a mixed product consisting of spot bitcoin and bitcoin futures contracts by November 17.
+
+The next decision deadline is January 1, 2024
+
+Hashdex’s novel proposal has made it a popular “sleeper pick” among many ETF pundits and analysts, who reckon it has an outside shot to be the first to bring a bitcoin ETF to market in the US.
+
+The SEC also delayed a decision on a similar request by Hashdex to convert its Ethereum futures ETF to a spot product
+
+Valor CoinDesk The Block
+
+Argentine Lemon Cash downsizes Brazil operation
+
+The Argentine crypto and fintech startup has laid off much of its Brazil staff amid difficulties in the bear market. Lemon Cash founder Marcelo Cavazzoli explained to Valor’s Toni Sciarretta at LaBitConf:
+
+“Brazil has a trading market, a more financial public with a speculator profile. Argentina was like that a few years ago. In the context of Argentina, with the peso falling 97% in the last five years, the Argentine public has become more advanced in adopting cryptocurrencies due to the need for everyday use.”
+
+Cavazzoli explained that Brazil brought many active users during the bull market, but that interest has dwindled as prices and volatility have decreased. This is a markedly different dynamic than in Argentina, where the company has found significant product market fit with 2.2 million active users in the country.
+
+“We have a product that does not depend on market volatility. We saw that our product is a little ahead of what Brazil is today. We could trade, but that doesn't really fit our mission. It's a casino. But it is a matter of time for Brazil to also enter this type of adoption.”
+
+To be clear, Lemon Cash is not abandoning the Brazil market, but is rather recalibrating its approach. For example, it will launch a Visa card in Brazil at the beginning of 2024. Cavazzoli explained:
+
+“How can we make a product in Brazil that adds value to the user now, but is not a casino. Are we here to make a better world or a casino? That’s the question.”
+Receita Federal suspends crypto data reporting
+
+The Brazilian tax authority announced that it is temporarily suspending its cryptocurrency reporting data portal. The portal is considered the only “official” source on crypto transaction data in the country.
+
+The agency said in a statement on its website:
+
+“the technological process of making cryptoasset data available is undergoing review. Once completed, data from August 2023 will be released.”
+
+The most recent release was for July 2023, when 4.1 million unique individuals reported crypto transactions.
+
+This is a bummer as the Receita Federal data is an incredible resource for measuring the growth of Brazil’s crypto economy. Hopefully this product returns in a new and improved fashion.
+
+Valor Investe CoinTelegraph Brasil
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Cryptocurrency imports as tracked by the Brazilian Central Bank have reached an average monthly volume of US$850 million, per a report presented to the International Monetary Fund. In the report, the bank reveals that it treats crypto imports as imports of goods because digital currencies are primarily produced outside the country through mining and other processes. In the future, the entity will classify crypto purchases in the non-produced, non-financial assets component of its capital account. (Valor) (CoinTelegraph Brasil)
+Holders of the Vasco token (MBVASC001) received R$625,000 (US$129,000) in dividends (roughly R$1.24 (US$0.26) per token) pursuant to the transfer of midfielder Philippe Coutinho from Aston Villa to Al-Duhail in Qatar.With this latest distribution round, R$3.6 million (US$743,000) will have been paid out to Vasco token holders since 2020The transfer are carried out in-line with FIFA’s Solidarity Mechanism, which compensates clubs that train up players who then go on to play for other teams. (Valor)
+Nubank will make five new cryptocurrencies available for trading on its platform, bringing the total number to 14. The new cryptos, which will be phased in, include Polkadot (DOT), Avalanche (AVAX), Stella Lumens (XLM), Arbitrum (ARB) and Optimism (OP). Nubank Crypto leader Thomas Fortes said in a statement:
+
+“Nubank will follow the process of listing new cryptoassets to expand the portfolio of options curated by projects that are gaining traction and increasing demand from our customers.” (Portal do Bitcoin)
+
+Tokenized grain startup Agrotoken seeks to capture 20-30 percent of the agricultural barter market within the next five years. A type of financing by which a farmer purchases inputs under the condition of paying for them at the end of the harvest season, barter currently accounts for 40 percent of agribusiness transactions. (Valor)
+Bitso is launching a new international payment services solution for companies operating in Brazil, as part of a shift to focus on more corporate rather than retail customers in the country.The tool will transform reals received in Brazil into stablecoins.Bitso has a similar solution in its home country of Mexico, which processed US$3.3 billion in transactions last year.The tool will particularly help international companies that want to receive reals in Brazil but do not have a legal entity in the country. Bitso Brasil CEO ⚡️Thales Freitas explained:
+
+“Resources arrive faster, the cost is lower and they usually have bills to pay abroad, as suppliers and employees. In stablecoins it is much easier,” he argues. “What we have noticed is that newer companies, in the digital economy, are already paying their influencers and their marketing actions in stablecoins.” (Valor) (CoinTelegraph Brasil)
+
+OKX is preparing its “official” entry into Brazil in the coming months, according to CEO Hong Fang. The exchange will offer Brazil users a crypto trading experience that adheres to all regulatory requirements and domestic practices while offering the benefits of a global, liquid exchange. Fang told Valor at LaBitConf:
+
+“Brazil and Latin America as a whole are very strategic for the crypto industry. People here see value in crypto assets for different reasons. In Argentina, due to the economic crisis, as a way of preserving value and protecting itself from inflation. But also as an investment option, movement of resources and access to new financial products.”
+
+Even with Tether comprising 82 percent of Brazil’s total crypto volumes, several competitors have issued their own stablecoins recently with a focus on the Brazil and Latam markets. Gino Matos of CoinTelegraph Brasil examines how new coins from BRLA Digital , Loopi, Colb, Ripio and BTG Pactual fit into this market.
+
+🪙 Drex
+
+Brazil proposal to tokenize bank deposits as part of its CBDC design should be copied by other countries, Central Bank president Roberto Campos Neto said during a webinar. This design, Campos Neto explained, resolves several concerns voiced by tradfi stakeholders in relation to disintermediation and a drop in bank funding. He said that the bank toyed with the idea of instituting a negative interest rate for the asset to preserve the integrity of the banking system:
+
+"But then it clicked: why don't we make the banks the issuers? The banks will not be disintermediated and will be able to exchange analogue assets and records for digital ones, gaining efficiency.” (Valor)
+
+A new project called netspaces is setting up a sandbox for real estate RWA tokens ahead of the Drex rollout. CEO Andreas Blazoudakis explained:
+
+“Due to the launch of DREX, blockchain technology will once again be in the spotlight in 2024. We want to contribute to ensuring that the market is ready to transact properties online when this happens.” (CoinTelegraph Brasil)
+
+PagBank and Agibank carried out their first interbank transfer using the Drex platform. PagBank CTO Cesar Leite explained
+
+"Even in the pilot structure, the transaction met the established parameters, taking milliseconds to complete. We understand that the test has evolved very well and is of utmost importance to validate the technological and security requirements for the effective adoption of Drex.” (Latam Fintech Hub)
+
+Brazil’s government announced that more than 300,000 transactions of cars have been conducted since early 2022, when a new ‘digital sale’ tool came into play that eliminates the need for a notary or paper contract. The tool is viewed as a prerequisite to using car-backed RWA tokens on the Drex network. (CoinTelegraph Brasil)
+Núclea, the financial and tech infrastructure provider, announced its own blockchain focused on tokenization, in conjunction with Parfin and MOBIUP. Leandro Pereira (Sciammarella), manager for tokenization and digital assets at Nuclea, explained:
+
+“As a reference in technology for the financial segment, we are responsible for supporting Financial Institutions in this moment of digital evolution. We are looking for the right partners to develop an infrastructure with the capacity to serve all our customers and potential customers efficiently.” (CoinTelegraph Brasil)
+📱Adoption
+
+Lumx has added Rodrigo Terron as its chief growth officer. (Valor) (CoinTelegraph Brasil) (Exame)
+Ripio announced a Latin America-focused accelerator program for Web3 startups. Its first cohort features nine projects, headlined by Trexx, the Brazilian gaming startup. (CoinTelegraph Brasil)
+The Web3Valley accelerator initiative aims to bring global VC capital to Brazilian Web3 startups. (CoinTelegraph Brasil)
+Pix celebrated its third birthday on November 16. Since launch, it has attracted 155 million users and has processed R$1.5 trillion (US$305 billion) in transactions. (Exame)
+
+
+
+
+Staffing limitations at Brazil’s Central Bank will likely limit continued development of Pix in 2024, the bank revealed. (CoinTelegraph Brasil)
+Unicamp is studying how to develop a digital battery “passport” based on blockchain. It would map the complete life cycle of batteries, from the extraction of the ore used in production, to the reuse, recycling and eventual disposal. (CoinTelegraph Brasil)
+Strike enabled bitcoin purchases via debit card for users in 65 countries outside the US, including Brazil. (CriptoFacil)
+Light DeFi announced the construction of a electrical power plant that will pay dividends to its hybrid RWA and utility token. 30% of the profits generated by the plant will go to Light DeFi token holders. (CoinTelegraph Brasil)
+The Court of Auditors of the Municipality of São Paulo signed an agreement with the National Institute of Studies on Cryptoassets to assess how crypto and blockchain tech can be used in the city’s public administration. (CoinTelegraph Brasil) (Exame)
+Ribus announced the first tokenized condominium with multiproperty registrations in Brazil. Units in the Viverde condominium in Rio de Janeiro will be available for one per month per year to Ribus token holders. (Exame)
+Payments infrastructure provider Mercuryo has integrated with Pix, Brazil’s instant payments platform. Bakhrom Saydulloev, product manager at Mercuryo, explained:
+
+Our new integration with PIX enables us to further receive more users in the fascinating world of web3, marking a fundamental step in the simplification and democratization of access to digital assets in Brazil" (CoinTelegraph Brasil)
+🏛 Policy, Regulation and Enforcement
+
+In an interview with Exame, CVM official Bruno de Freitas Gomes argued that traditional assets will be natively born as tokens and will not need to be “tokenized” in the way we think of the term today. This process will be advanced by the maturation of the Drex platform
+
+“When you have Drex, it will be the channel that will feed that token, that value, security, token used at origin. It will not need to go to the physical market and trade. You will be able to directly trade the digital real through the Drex platform. So I think things will become interconnected.”
+
+The Federal Court of Paraiba began interviewing witnesses in the Braiscompany case, including an undisclosed victim who lost more than R$20 million in the pyramid scheme. (Portal do Bitcoin)
+Hackers claim to have stolen personal information on 300,000 users of crypto ATM company Coin Cloud across the US and Brazil. (CoinTelegraph Brasil)
+Ana Paula Rabello and Daniel de Paiva Gomes explained to Portal do Bitcoin the practical impacts of the Crypto-Asset Reporting Framework on Brazilian traders. Brazil and 46 other countries entered the arrangement earlier this month.As brokers in Brazil are already required to report customer trades and balances to the Receita Federal under Normative Instruction 1888, it is unlikely that there will be any major impacts in Brazil from the proposalHowever, the information sharing agreement means that the Receita Federal will have a new mechanism to cross-reference information on traders using foreign exchanges, particularly once these exchanges set up formal entities in Brazil (BeinCrypto) (CoinTelegraph Brasil)
+The São Paulo Court of Justice ordered Atlas Quantum to pay R$1.6 million (US$326,000) to a customer who was unable to withdraw funds from the platform. (Portal do Bitcoin)
+The Receita Federal seized four bitcoin mining machines from a passenger at Foz du Iguaçu airport. (Portal do Bitcoin)
+The Central Bank is having difficulty figuring out how to classify companies that offer “crypto-as-a-service” products. (BlockNews)
+New legislation that would change the way overseas cryptocurrencies are treated for tax purposes will likely be considered this week in the Senate after being approved by the Chamber of Deputies. While the bill has been described by some as constituting a new 15% tax, the primary impact would be the removal of a de minimis capital gains tax exemption. Arthur Barreto, partner at Donelli, Abreu Sodré e Nicolai Advogados - DSA, told CoinTelegraph Brasil:
+
+"Taxation in itself is not new, because the Receita Federal had already been treating cryptoactives as financial investments; what the project changes is the tax collection time and the currently applicable tax bands. If the project is approved with the current wording, the main impact for investors is the loss of exemption for gains from operations abroad whose total value in the month is less than R$35 thousand (US$7,000).”
+
+

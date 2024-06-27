@@ -1,0 +1,128 @@
+🌎 Latam Crypto Report #6: Binance bails on Argentine Football Association
+Also: Bitfinex launches P2P platform; Latin America gets its own blockchain
+
+¡Hola a todos! 👋
+
+Welcome to the latest edition of the 🌎 Latam Crypto Report!
+
+May thanks to Kristin Majcher for putting together this roundup, a freelance journalist based in Bogotá, Colombia and the author of LCR, which is a sister newsletter to Brazil Crypto Report .
+
+You can connect with her on Twitter or LinkedIn, and as always feel free to pass along send over any relevant tips or stories we should be covering
+
+This week, we’ll dive into Binance terminating its sponsorship with the Argentina Football Association, a Latin America blockchain project, Bitfinex’s new regional P2P platform and Argentina’s first bitcoin futures contract going live.
+
+(Friendly reminder to subscribe on Substack if you want more content like this👊)
+
+Binance axes Argentine Football Association sponsorship
+
+Binance has ended a five-year partnership with the Argentine Football Association (AFA) early, claiming that the organization behind Argentina’s FIFA World Cup-winning soccer team breached its contractual obligations.
+
+The exchange is terminating its contract with the AFA after just one year, CoinDesk reported, noting that Binance became the soccer association’s main sponsor in January 2022. Argentina then went on to win the FIFA World Cup in December 2022. CoinDesk also reported that fan token site Socios, whose previous sponsorship contract with the AFA was canceled, sued the organization shortly after it signed the deal with Binance.
+
+As Binance said in a Spanish-language tweet:
+
+“We regularly evaluate the results of our partnerships around the world and unfortunately, despite being offered time and opportunity, AFA has not fully met its contractual obligations, which goes against our business values and our association principles.”
+
+In separate news, Binance recently made headlines for cutting employee benefits due to a fall in profits.
+
+(CoinDesk, Crypto Daily, Crypto Briefing)
+
+New LATAM blockchain LaChain launches
+
+Argentina-based crypto platform Ripio announced the launch of a new, Latin America-focused blockchain at its recent Modular Summit in Buenos Aires.
+
+Ripio will develop the new blockchain, dubbed LaChain, with other regional companies including Num Finance, SenseiNode, Buenbit and Cedalio (YC S23). LaChain is based on the Polygon Supernets service.
+
+According to Ripio, the blockchain will be the first to totally focus on creating solutions for Latin America.
+
+As the LaChain whitepaper explains:
+
+“LaChain is a blockchain that was designed to tackle the urgent economic problems that are common in Latin America. The platform is built to host use cases that are specially crafted to meet the particular difficulties that local businesses and individuals face.”
+
+(BeInCrypto, Portal do Bitcoin, Exame, Blocknews, CoinTelegraph, Ámbito)
+
+Bitfinex launches regional P2P crypto platform
+
+Bitfinex has launched a new peer-to-peer (P2P) trading platform in Argentina, Colombia and Venezuela. This P2P platform enables users to buy and sell Bitcoin (BTC), Tether (USDt and EURt), Tether Gold (XAUt) and Ether (ETH). The company plans to launch a mobile version later this year.
+
+Bitfinex CTO Paolo A. stated:
+
+“We are delighted to announce the launch of Bitfinex P2P in Venezuela, Argentina, and Colombia. By offering a reliable and efficient platform for P2P token trading, we are empowering our customers to engage with the marketplace in a way that affords maximum convenience based on their needs and preferences.
+
+The new platform comes after LocalBitcoins closed in February. LocalBitcoins counted Venezuela and Colombia as two of its biggest markets.
+
+(Bitfinex, CriptoFacil, CoinTelegraph, CoinDesk, The Block)
+
+Argentina’s first bitcoin futures contract launches
+
+Argentina’s first bitcoin futures contract has officially started trading, the Grupo Matba Rofex exchange announced in a July 13 circular.
+
+Argentina’s National Securities Commission (CNV for its name in Spanish) approved the futures contract in April. The CNV said the futures contract will be based on Matba Rofex’s bitcoin index, which uses pricing information from different providers.
+Only qualified investors will have access to the contract at this stage, the Matba Rofex circular stated.
+CoinTelegraph reported that this is the first bitcoin futures contract available in Latin America. Brazilian regulators told CoinDesk in May 2022 that it had planned to launch bitcoin futures within six months on the country’s B3 stock exchange, but it appears that initiative is still on hold.
+
+(CoinTelegraph, CoinDesk, Cryptopolitan, CriptoFacil)
+
+🗞 Latin America Crypto News Rundown
+
+Here’s where we break down Latin America crypto headlines from the past few weeks, organized by country and region. If you don’t see a country listed, it’s simply due to the flow of news during a particular week.
+
+Regional News
+
+Crypto platform Reserve’s mobile app, Rpay, will indefinitely pause withdrawals and deposits in local fiat currency for six Latin American countries starting August 3. Users in Argentina, Colombia, Peru, Venezuela, Ecuador, and Panama will be affected. The decision stemmed from “sustainability issues associated with crypto banking challenges” and “Rpay’s global vision,” Rpay CEO Gabriel Jimenez said in a company announcement. (Fortune, Rpay, Axios, Bitcoin.com)
+Several Latin American and Caribbean countries have made “significant strides” in introducing Central Bank Digital Currencies (CBDCs) while the use of crypto varies by country, an International Monetary Fund (IMF) report shows. (IMF, CoinDesk, Blockchain News)
+Binance appointed Min Lin to lead Latin America. Lin joined Binance in 2021 as its head of business development and previously served as an executive director at Goldman Sachs’ Hong Kong office.
+Crypto executives called for regulation during Ripio’s recent Modular Summit in Buenos Aires. (Bloomberg Línea)
+Credicorp Group launched an accelerator program that will provide about $50,000 in pre-seed funding for selected blockchain projects in Colombia, Chile and Perú. (BeInCrypto).
+Crypto exchange Bitso is partnering with data intelligence firm Mobile Streams to expand its sports NFT offerings in the region. (The Block)
+
+South America
+Argentina
+
+Portal do Bitcoin reported that Argentina-based crypto firm Ripio cut about 18% of its payroll, with the majority of layoffs occurring in Brazil and Argentina. (Portal do Bitcoin)
+Bitcoin reached an all-time high of 15 million Argentine pesos in late June. (Livecoins)
+For the first time, Argentine authorities were able to seize crypto from criminals after scammers emptied a company’s bank account. Authorities were able to transfer $11,000 in crypto from a decentralized virtual wallet to their own. (La Nación, Livecoins)
+Ripio has been approved to operate as an exchange in Spain. The company, which just celebrated its 10th anniversary, also noted that its Ripio Select product for institutional investors is its fastest-growing business, Blocknews reported. (CoinDesk, Blockworks, Portal do Bitcoin, Blocknews, Exame)
+Some crypto companies and organizations are concerned about a proposed regulation that would put the National Securities Commission (CNV) in charge of enforcing a national registry of virtual asset service providers. (iProUp)
+Argentina’s Federal Revenue service fined a bitcoin mining company 300 million pesos (US$1.1 million) for failing to pay taxes. (Livecoins)
+
+Chile
+
+New Chilean startup Koywe is looking to disrupt payments using Web3 technology. (Contexto)
+
+Colombia
+
+Police arrested two women accused of stealing 43 million pesos (US$10,500) from three tourists from the Dominican Republic. The women are part of a larger criminal operation that recruits tourists to Medellin via dating apps and then exploits them.
+
+“They reached out to their victims through social dating networks, profiling them based on their economic capabilities and their business in the cryptocurrency market.” (Portal do Bitcoin)
+
+Colombia’s finance minister is concerned about the lack of market regulations for cryptocurrencies, Livecoins reported. (Livecoins)
+
+Peru
+
+Peru’s blockchain association says the company’s new crypto law needs a further technical debate. (CoinTelegraph)
+The so-called Firulaix Project is using a utility token called FIRU to register pets and wild animals. (CoinTelegraph)
+
+Venezuela
+
+The RPay stablecoin wallet received a license from the U.S. Office of Foreign Asset Control (OFAC) to continue operating in Venezuela without breaking sanctions. (CoinDesk)
+A temporary ban on crypto mining is “effectively killing” the industry in Venezuela. (Bloomberg Línea)
+
+Central America & Mexico
+El Salvador
+
+El Salvador and Panama charge the lowest amount of taxes on crypto in Latin America, according to a Coincub analysis. (BeInCrypto)
+
+Mexico
+
+Mercado Libre is now offering the Pax Dollar (USDP) to Mexican customers via a new partnership with Paxos. The stablecoin will be accessible through the Mercado Pago payment platform, which has more than 40 million users in Mexico. Arnoldo J. Reyes Reyes, head of Latam at Paxos, said in a statement:
+
+“The launch of USDP within Mercado Pago represents another way that Mercado Libre continues to democratize access to commerce and financial services through innovative digital asset solutions throughout Latin America.” (Decrypt, The Block)
+
+The International Tax Review examines how Mexico approaches the taxation of cryptocurrencies. (ITR)
+Mexico is among the Latin American countries with the highest increase in digital payments, according to The Real-Time Payments World Map study. (BeInCrypto, PYMNTS)
+
+
+
+
+

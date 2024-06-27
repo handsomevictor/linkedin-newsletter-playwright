@@ -1,0 +1,90 @@
+#123: Crypto ETFs in Brazil are top performers for 2023
+Plus: All eyes on Hashdex as possible US bitcoin ETF approvals loom in January
+
+Olá pessoal!
+
+Welcome to what is most likely the final edition of 🇧🇷Brazil Crypto Report for 2023, where we cover December 18-22.
+
+This has been an incredible year for the digital asset ecosystem in Brazil and for BCR specifically, so big thanks to everyone who has supported this project in some capacity.
+
+2024 figures to kick off a bang as we’ve got probable ETF approvals in the US coming the first or second week of January. Everything up to this point has all been just the pre-game warmups - the real action is about to start so I hope everyone is ready to rock next year.
+
+I hope everyone has a safe and happy Christmas and holiday season, and we’ll talk again in 2024. 
+
+-AWS
+
+💡Questions? Comments? Feedback? Feel free to respond to this email or ping me on Linkedin, and please remember to give 🇧🇷Brazil Crypto Report a follow on X/Twitter, Linkedin and Instagram
+
+🎙Most Influential 2023
+
+Thanks to everyone who voted in our Top 10 Most Influential series, and a huge congratulations to those selected. Antonio Neto and I reveal the selections in the podcast below, and if you missed it you can check out the post I published earlier in the week with an analysis of each individual. 
+
+Remember to be on the lookout for podcast interviews dropping with many of the winners. 
+
+🎧 As a reminder, you can find all of Brazil Crypto Report content wherever you listen to podcasts: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Hashdex named BitGo as its bitcoin ETF custodian in an amended filing with the US SEC, also changing the name of its Bitcoin Futures ETF to the Hashdex Bitcoin ETF. Most other ETF applicants in the US have agreed to custody with Coinbase, Gemini or self-custody. (CoinDesk) (Portal do Bitcoin)If you’re not already aware, the various crypto ETF pundits are predicting something like a 90-95 percent chance of a bitcoin ETF approval in the US coming between January 5-10. 
+Nine of the 10 best-performing ETFs trading on Brazil’s B3 exchange in 2023 were crypto-related. These were led by Hashdex’s WEB311 fund, which includes assets like Cardano and Solana that have pumped in the fourth quarter. (Valor)
+
+Safra launched its first crypto investment fund SAF Cripto Selection. It is available to qualified investors who have more than R$1 million in financial investments. Launched on November 27, the fund recorded a 7.5 percent return in its first month. (Portal do Bitcoin) (Exame)
+Cryptocurrencies are the primary investment of 28 percent of Binance’s customers in Brazil, according to a user survey commissioned by the exchange. Further, 40 percent of respondents indicated they entered the crypto market less than a year ago. The survey also found that 90 percent of its Brazilian users intend to invest more money into crypt assets in 2024. (BlockNews) (InfoMoney)
+Is Binance a "national” or a “foreign” brokerage? We don’t really know for sure, concludes a Livecoins analysis. 
+Mercado Bitcoin listed eEUR, a euro-pegged stablecoin issued by Aryze Digital Cash and USDT on Tron. (Portal do Bitcoin)
+Brazilian crypto funds saw R$17 million in inflows during the week of December 11-15, according to data from CoinShares. (Portal do Bitcoin) (CoinTelegraph Brasil)
+A new Brazilian crypto fund called Token Fund I will launch in January on the Genezys platform. The product is a partnership between Nousi Finance, run by Andrey Nousi, CFA, Genezys as the tokenizer, Banco Topázio S/A and BitGo as the custodian. The fund is being pitched as a “Fund 3.0” that “has a structure similar to that of a traditional fund, but with ease of distributing dividends and unlocking liquidity for investors , regulated along the lines of CVM 88”.Nousi explained:
+
+“In this Fund 3.0 format, investors will have access to a subsequent market to trade their shares directly with other active investors on the platform immediately, which will bring more liquidity.” (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+The Banco Central do Brasil is studying the creation of a credit guarantee fund, similar to the FDIC in the United States, for the crypto market as a potential solution to the question of how it will solve for the lingering problem asset segregation. (Portal do Bitcoin)
+Bitso reported that it had surpassed 8 million users on its platform, with a considerable amount of recent growth coming in Brazil. Bitso Brasil CEO ⚡️Thales Freitas said in a statement: 
+
+“We are very optimistic about the opportunities for next year. In 2023, which was a year marked by the downturn in the crypto industry, Bitso stood out and had an overall performance 30% above the market average. In Brazil, we consolidated growth, doubling the volume traded and tripling the number of active institutional clients.” (CoinTelegraph Brasil)
+
+Exchange Bitget reported 123 percent growth in its user base and 195 percent growth in its volume traded in Latin America during 2023 compared to 2022. (CoinTelegraph Brasil)
+
+📲 Adoption
+
+Petrobras, Brazil’s state-backed oil company, has partnered with Cardano Academy, an initiative of the Cardano Foundation, to provide blockchain education for its employees. A statement from Cardano explained: 
+
+“In partnership with Petrobras, the Cardano Foundation will conduct blockchain education workshops for employees, with content from the Cardano Academy taught by Petrobras University.” (Portal do Bitcoin) (CoinTelegraph Brasil)
+
+Fabiola Greve, a blockchain professor and director of the Computing Institute at the Federal University of Bahia, passed away at 57 years of age due to complications from a surgery. (BlockNews)
+Brazil has the second-most interest in bitcoin, according to Google Trends data. El Salvador remains in first place, while Brazil supplanted Nigeria for the second spot. (Exame)
+Mariana Maria S. of Exame wrote about the digitization efforts of Brazil’s largest banks - Itaú, BTG Pactual, Nubank, etc, particularly with regards to digital assets and blockchain development. 
+Worldcoin officially halted its iris scanning efforts in Brazil, France and India. (CoinTelegraph Brasil) (CriptoFacil) (BeinCrypto)
+Two Brazilians, Barba and Raffaela Loffredo, were winners in the Chainlink Constellation hackathon, which focused on on-chain consortiums. 
+Chainlink also announced a free course for Brazilians about blockchain generally and Chainlink ecosystem tools, commencing in January 2024. Jeff Beltrão, Chainlink Labs community manager for Brazil, said in a statement: 
+
+“Chainlink Bootcamp 2024 aims to train and update the Brazilian community with the latest in Chainlink and smart contracts, including the Blockchain Interoperability Protocol (CCIP).” (CoinTelegraph Brasil)
+
+A Brazilian woman was unable to pass KYC to open an account on Binance because her identical twin sister was already registered on the platform. (Portal do Bitcoin)
+Paradigma Education released a book called Cafe com Satoshi that features a collection of essays about bitcoin. 50 copies will be printed, each with a unique cover and a lifetime access to Paradigma’s subscription programs, and sold for a price of R$6,969.69. (Portal do Bitcoin) (Livecoins)
+A report by the compliance and analytics firm Vaas outlines five ways by which Brazilian exchanges can improve their compliance practices. (CoinTelegraph Brasil)
+Detran, Brazil’s version of the DMV, is testing out vehicle registrations on the blockchain in the Federal District in conjunction with Brasilia-based Cconsensus - a company specializing in Hyperledger Fabric solutions. (BlockNews)
+The TecBan Drex consortium carried out its first transactions using the Zether privacy solution. (Exame) (Veja)
+Visa and XP announced that their Drex consortium has fully integrated into the Drex testnet, and that the initial tests have proved positive. Catalina Tobar, head of digital currencies at Visa Latin America and the Caribbean, said in a statement:
+
+“Our ability to tokenize transactions in such a short time after integration into the node is a source of great satisfaction and brings us one step closer to making Drex a reality in Brazil.” (CoinTelegraph Brasil) (BeinCrypto) (BlockNews)
+🏛 Policy, Regulation and Enforcement
+
+Lucas Gabriel Marins of InfoMoney reported new information about Titanium Asset, which was targeted by Federal Police earlier this month for allegedly operating a financial pyramid. He spoke to several clients of the asset manager that have been unable to process withdrawals, and at least 30 people have reported similar situations on Reclame Aqui. A Curitiba-based company called Sbaraini Capital has also entered the picture as part of the web of companies associated with Titanium Asset. 
+The Receita Federal, Brazil’s tax authority, implemented a series of changes to the platform where investors declare their cryptocurrency trades. (Portal do Bitcoin) (CoinTelegraph Brasil)
+An alleged home of Atlas Quantum CEO and founder Rodrigo Marques was located and filmed in the Spanish city of Calella by a victim of the collapsed pyramid scheme. (BeinCrypto)
+The CVM fined InDeal, a Rio Grande do Sul based crypto broker, R$240.5 million on charges of conducting fraudulent operations and acting without proper registration over a scheme that caused losses of R$1 billion to 55,000 investors. InDeal was one of the companies investigated by the CPI congressional committee earlier this year. CVM director João Accioly explained: 
+
+“The fraud was, therefore, due to the diversion of resources raised directly to the personal assets of the partners, largely without even carrying out the activities they proposed to carry out.” (InfoMoney)
+
+Federal Police carried out an operation against the wife of a former leader of GAS Consultoria who allegedly forged passports. (Portal do Bitcoin)
+Market maker and liquidity provider 1A1 Cripto joined ABCripto as a member. (CoinTelegraph Brasil)
+Caroline Nunes wrote an in-depth analysis of the newly revealed details surrounding the Central Bank’s crypto regulation process for Web3News
+The Brazilian government is considering restricting pension funds from investing in cryptocurrencies. (CoinTelegraph Brasil)
+Financial Action Task Force president Raja Kumar said he is ready to work with Brazil on cryptocurrency financial integrity issues as it assumes the G20 role in 2024. He said during a recent visit to the country:
+
+“The FATF has worked actively in support of previous G20 presidencies and we look forward to also working with the Brazil team at the Group now, in close collaboration over the next year, to move forward and achieve our common goals.” (Exame)
+
+The CVM issued an alert about irregular actions by the Seychelles-based broker Zeal Capital Market Limited, known as ZFX. The broker offers trading in crypto, stocks and other assets, but has apparently been offering these services to Brazilian customers without proper authorization. The CVM said in a statement: 
+
+“The company Zeal Capital Market (Seychelles) Limited does not have authorization from the CVM to intermediate securities or raise funds from investors for investment in securities.” (CriptoFacil)

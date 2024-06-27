@@ -1,0 +1,125 @@
+🇧🇷BCR #108: Bitget to double its Brazil presence in 2024
+Plus: Bradesco, Caixa, Banco do Brasil execute first Drex transfers; Mercado Bitcoin launches its Drex node
+
+Olá pessoal!
+
+Welcome to 🇧🇷Brazil Crypto Report for September 4-8, 2023! 
+
+Last week was relatively slow on the news front due to the holiday (September 7 is Brazil’s Independence Day). We did, however, have a few important developments with Drex, the wholesale CBDC being developed by the Central Bank. 
+
+I’ll be at Blockchain Rio this week doing some speaking, recording and hanging out/meeting people. If you’ll be on the ground and want to meet up, feel free to shoot me a note - @AaronStanley on Telegram or aaron@brazilcrypto.report 
+
+Thanks for reading and have a great week everyone!
+
+-AWS
+
+🎧 For this week’s podcast interview, Antonio Neto and I were joined by Maria Gabriela Damiani, technical advisor at the CVM. 
+
+🎧 You can find all of our podcast content on the Brazil Crypto Report feed: Spotify | Apple Podcasts | Amazon | Anchor | YouTube
+
+🚨If you’re not already subscribed, please go ahead and do so below👇
+
+Bradesco, Caixa and and Banco Inter execute Drex test transfer
+
+Banco Bradesco executed a successful interbank transfer with CAIXA omica and Banco Inter using Drex/Digital Real testnet tokens. 
+
+The transaction involved tokenized bank reserves, similar to the ones executed last month by BTG Pactual and Itaú Unibanco, and Banco do Brasil and Caixa. Next, Inter intends to simulate a transfer of tokenized reais from an Inter client to a Caixa client as soon as it obtains necessary approval from the Banco Central do Brasil.
+
+Bruno Grossi, MSc, technology manager at Banco Inter, said that the Hyperledger Besu network chosen for the pilot has been largely functioning well. 
+
+““Transactions are taking place within 3 to 5 seconds without any delay…communication has been transparent and open with everyone. We are talking a lot with Caixa because of Microsoft, which is in both our consortium and Caixa's.”
+
+(Valor) (CoinTelegraph Brasil)
+
+image via MidJourney
+Mercado Bitcoin consortium launches Drex node
+
+The Drex pilot consortium led by Mercado Bitcoin successfully launched its node on the platform after resolving bandwidth limitations (addressed in last week’s newsletter) that have been making it difficult or participants to connect to the Central Bank’s network. 
+
+The consortium includes 万事达卡, CERC and Sinqia - a fintech that uses Banco Genial’s infrastructure to integrate with the Central Bank
+
+The group also opted to create its own Hyperledger Besu network to test out new features that can eventually be deployed on mainnet. Genial explained in a blog post: 
+
+"To optimize development, the group chose to create its own Hyperledger Besu network, enabling the development of features that will be applied to the Central Bank pilot." 
+
+(Valor) (Portal do Bitcoin) (BlockNews) (CoinTelegraph Brasil)
+
+Bitget looks to double its presence in Brazil over next 12 months
+
+Seychelles-based crypto exchange Bitget is making gains in the Brazil and Latam markets following the demise of FTX. The exchange currently operates in 100 countries with 20 million users, and is 11th largest broker globally and the fifth largest platform for crypto derivatives. 
+
+In an interview with Valor, managing director Gracy Chen said that Bitget arrived in the region in early 2022 and now has 200 employees in Brazil, Argentina and Mexico. 
+
+“Brazil is one of the most prominent markets for Bitget. The country showed growth of 160% in the number of active users and 180% in business volume in the first half of the year. Bitget plans to double the numbers for Brazil and Latin America by the first half of 2024.”
+
+In a separate interview with Exame’s João Pedro Malar Massa, Thomson Ma, Bitget’s director of operations in Latin America, explained that Brazil has emerged as “one of the most prominent markets for Bitget” and that the exchange is aiming to double its numbers and presence in the country over the next 12 months. He said: 
+
+“The Latin American region has been gaining successive prominence in our business, and Brazil is strategic for us, one of our fastest growing markets in the world. The first half of 2023 was very strong, especially if we consider the effects that FTX's bankruptcy brought to our sector. The number of active users jumped 110% and trading volume increased 60% in the country compared to December 2022.”
+Brazil is ideally-positioned to be a crypto hub, says Hashdex CIO 
+
+In a series of interviews this week, Hashdex CIO Samir Kerbage argued that Brazil is well-setup to be a hub for crypto innovation given the advancements the market has seen in the last 12 months and the uncertainty in the US.
+
+““We passed the first barrier in Brazil, which was regulatory clarity…We had the legal framework for cryptoassets and the new CVM [Brazilian SEC] regulation, which placed cryptoassets as a financial asset. Now we are in the phase of the Central Bank making its regulations.”
+
+This clarity in a see of uncertainty in the US and elsewhere has prompted an influx of capital into the country, he argued:
+
+“We see capital coming here because of this. We see venture capital coming to invest in Brazilian companies, and foreign companies coming to Brazil to offer this service here, because this is where the market is developing.”
+
+Kerbage also gave some market commentary in a separate interview with InfoMoney, arguing that the fundamentals for bitcoin price appreciation in the coming year appear strong:
+
+“We are very optimistic about 2024 and 2025, due to the combination of secular and cyclical technology factors”
+
+(Valor) (InfoMoney)
+
+👊If you enjoy this content, please consider sharing and following 🇧🇷Brazil Crypto Report across the web: Twitter | Linkedin | YouTube | Instagram | Spotify | Apple Podcasts
+
+🗞Brazil Crypto News Rundown
+📈 Markets
+
+Bitcoin trading volume in Brazil for August was just R$1 billion (US$200 million), the lowest figure in the last 12 months. (Livecoins)
+
+bitcoin trading volumes during August. Source: Livecoins
+monthly bitcoin trading volumes, 12 months trailing. Source: Livecoins
+
+Mercado Pago, the payments arm of e-commerce giant Mercado Livre, has enabled crypto withdrawals and deposits to and from is platform. 
+
+"Now you can bring your cryptos to Mercado Pago knowing that, whenever you want, you can withdraw them. You can sell, buy, receive and transfer anywhere. All this safely and in just a few steps through the app.”
+
+Fear and surprise dominated Brazilians views of cryptocurrency markets last week, per a market sentiment analysis carried out by Latam Intersect PR. The surprise may be linked to Gustavo de Macedo Diniz, aka the “Engomadinho of Bitcoin”, who disappeared with R$70 million in investor funds. (CoinTelegraph Brasil)
+Banco Itaú’s digital asset arm is looking for more cryptocurrency clients and use cases. (BeinCrypto)
+SmartPay introduced Virtual (VRL), a real-indexed stablecoin on the Polygon blockchain for its Truther customers. CEO Rocelo Lopes es said:
+
+“Indexed directly to the Real, they offer a bridge between the world of cryptocurrencies and the traditional economy, providing users with an attractive alternative to conventional fiat currencies.” (CoinTelegraph Brasil)
+
+NovaDAX announced that it had reached 300 listed cryptocurrencies on its platform. (CoinTelegraph Brasil)
+
+🪙 Drex (formerly Digital Real)
+
+Banco do Brasil and Caixa Economica executed the first successful Drex transfer between public banks. The consortium said in a statement: 
+
+“By carrying out the Drex interbank transfer, we further strengthen the role of financial cooperatives in the financial market, contributing, above all, to the efficiency in offering innovative financial products and services that boost the digital economy.” (CoinTelegraph Brasil)
+
+Liqi Digital Assets' Daniel Coquieri helps to explain some of the differences between Pix and Drex, a subject which has become a point of confusion across the population and the industry. (Portal do Bitcoin)
+Stephany Colantonio, product superintendent at Banco BS2, discussed the SME-focused digital bank’s participation in the Drex pilot. (Exame)
+
+📱Adoption
+
+Banco Bradesco announced a metaverse experience in which players collect coins that can be invested into Fortnite equipment and items. (CoinTelegraph Brasil)
+Football legend Cristiano Ronaldo revealed plans to launch a new NFT collection while taking a lie detector test. (CoinTelegraph Brasil)
+ANEEL, the national electric utility, is exploring the impacts of blockchain electricity consumption. (Livecoins)
+
+🏛 Policy, Regulation and Enforcement
+
+CVM president João Pedro Nascimento will be the rapporteur in the agency’s proceeding against Binance after commissioner Otto Eduardo Fonseca Lobo declared himself unable to fulfill the role. (Portal do Bitcoin)
+The Lula government introduced a proposal to increase taxes on Brazilians’ overseas cryptocurrency gains after an initial proposal was defeated. Now known as Bill 4173/2023, the proposal was originally inserted into a debate on increasing the national minimum wage. (Portal do Bitcoin) (Livecoins)
+123Milhas CEO Ramiro Júlio Soares Madureira apologized for rug pulling customers in their testimony before the congressional committee on cryptocurrency pyramids (known as the CPI). However, he appeared to have difficulty explaining the travel agency’s business model in the process, Portal do Bitcoin reported. His testimony came as he was under threat of coercion by Federal Police as he skipped his first two scheduled appearances. 
+
+“We cannot help but apologize again to all those who were harmed by a line of business that proved to be wrong. What we are doing now and with all our dedication and commitment at our disposal is to look for solutions.” (Valor) (InfoMoney)
+
+The CPI has requested the Financial Activities Control Council (COAF) to release financial data on 38 individuals summoned by the committee, including footballer Ronaldinho and celebrities Tata Werneck and Cauã Reymond. (Livecoins)
+The CPI filed a request to summon Gleidson Costa, the president of Grow Up Club. The Rio de Janeiro scheme, supposedly inspired by Braiscompany, raised money from investors promising above-average returns from cryptocurrency trading. Grow Up failed to make payouts to its 300 investors starting in January of this year. (Portal do Bitcoin) (Livecoins)
+A new bill introduced in the Chamber of Deputies would require crypto brokers, banks and stock brokers to more rigorously identify their customers. (Livecoins)
+Federal Police shut down Pietra Verdi, a R$500 million (US$100m) pyramid that promised 1.2% daily returns on investors’ bitcoin deposits. Operation Green Lantern targeted the criminal operation, which pretended to be an emerald extraction company based in Balneário Camboriú in Santa Catarina, that had reached 25,000 investors worldwide. (Portal do Bitcoin) (InfoMoney) (Valor Investe) (CoinTelegraph Brasil)
+A Rondônia court ordered the cryptocurrency pyramid Bemoney to return R$200,000 to investors. The company and its creator, João Felipe Augusto Tavares, promised investors 2% daily returns. Notably, the court cited prominent bitcoin critic @Jorge Stofli in its decision:
+
+“According to Jorge Stolfi, professor at UNICAMP and Ph.D from Stanford, as far as we know, cryptocurrencies have no backing, they do not generate value and their trade only benefits those at the top of the system, just like other ‘Ponzi Schemes.” (Portal do Bitcoin)
