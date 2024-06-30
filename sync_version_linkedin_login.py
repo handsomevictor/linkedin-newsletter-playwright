@@ -1,3 +1,7 @@
+"""
+When more than 5 recent articles are needed, login is required.
+"""
+
 import os
 import re
 import time
