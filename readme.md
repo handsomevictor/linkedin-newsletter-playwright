@@ -8,7 +8,7 @@
 
 ## How to run
 
-- Try run: [sync_version_from_profile.py]([deprecated]sync_version_from_profile.py) or [sync_version_linkedin_login.py](sync_version_linkedin_login.py)
+- Try run: [sync_version_linkedin_login.py](sync_version_linkedin_login.py)
 (second one only if you have an account: remember to update in environment variables: LINKEDIN_USERNAME, LINKEDIN_PWD).
 
 @author: Victor Zhenning Li
